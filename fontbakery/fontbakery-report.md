@@ -50,7 +50,7 @@ differ only in weight or style [...]&#x27;</pre>
 <br>
 </details>
 <details>
-<summary><b>[10] Rubik-Italic.ttf</b></summary>
+<summary><b>[9] Rubik-Italic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -191,27 +191,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Do any segments have colinear vectors?</summary>
 
 * [com.google.fonts/check/outline_colinear_vectors](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors)
@@ -242,7 +221,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-Medium.ttf</b></summary>
+<summary><b>[10] Rubik-Medium.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -385,27 +364,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -474,7 +432,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-Light.ttf</b></summary>
+<summary><b>[10] Rubik-Light.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -617,27 +575,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -702,7 +639,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[10] Rubik-ExtraBold.ttf</b></summary>
+<summary><b>[9] Rubik-ExtraBold.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -845,27 +782,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -920,7 +836,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-Bold.ttf</b></summary>
+<summary><b>[10] Rubik-Bold.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -1063,27 +979,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -1154,7 +1049,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-BoldItalic.ttf</b></summary>
+<summary><b>[10] Rubik-BoldItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -1295,27 +1190,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -1376,7 +1250,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-LightItalic.ttf</b></summary>
+<summary><b>[10] Rubik-LightItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -1517,27 +1391,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -1596,7 +1449,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-MediumItalic.ttf</b></summary>
+<summary><b>[10] Rubik-MediumItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -1737,27 +1590,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -1817,7 +1649,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-Black.ttf</b></summary>
+<summary><b>[10] Rubik-Black.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -1960,27 +1792,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -2051,7 +1862,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-SemiBold.ttf</b></summary>
+<summary><b>[10] Rubik-SemiBold.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -2194,27 +2005,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -2283,7 +2073,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-SemiBoldItalic.ttf</b></summary>
+<summary><b>[10] Rubik-SemiBoldItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -2424,27 +2214,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -2506,7 +2275,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[11] Rubik-BlackItalic.ttf</b></summary>
+<summary><b>[10] Rubik-BlackItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -2647,27 +2416,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -2728,7 +2476,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[10] Rubik-Regular.ttf</b></summary>
+<summary><b>[9] Rubik-Regular.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -2871,27 +2619,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Do any segments have colinear vectors?</summary>
 
 * [com.google.fonts/check/outline_colinear_vectors](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors)
@@ -2926,7 +2653,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[10] Rubik-ExtraBoldItalic.ttf</b></summary>
+<summary><b>[9] Rubik-ExtraBoldItalic.ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3067,27 +2794,6 @@ data. This makes the solution much more portable and universal.</pre>
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points?</summary>
 
 * [com.google.fonts/check/outline_alignment_miss](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss)
@@ -3132,7 +2838,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[8] Rubik-ExtraBoldItalic.otf</b></summary>
+<summary><b>[7] Rubik-ExtraBoldItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3235,27 +2941,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -3303,7 +2988,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-Italic.otf</b></summary>
+<summary><b>[8] Rubik-Italic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3406,27 +3091,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -3488,7 +3152,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-ExtraBold.otf</b></summary>
+<summary><b>[8] Rubik-ExtraBold.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3591,27 +3255,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -3685,7 +3328,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-Black.otf</b></summary>
+<summary><b>[8] Rubik-Black.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3788,27 +3431,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -3879,7 +3501,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-LightItalic.otf</b></summary>
+<summary><b>[8] Rubik-LightItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -3982,27 +3604,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4064,7 +3665,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[8] Rubik-SemiBoldItalic.otf</b></summary>
+<summary><b>[7] Rubik-SemiBoldItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -4167,27 +3768,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4235,7 +3815,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-SemiBold.otf</b></summary>
+<summary><b>[8] Rubik-SemiBold.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -4338,27 +3918,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4430,7 +3989,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-BlackItalic.otf</b></summary>
+<summary><b>[8] Rubik-BlackItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -4533,27 +4092,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4617,7 +4155,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[8] Rubik-BoldItalic.otf</b></summary>
+<summary><b>[7] Rubik-BoldItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -4720,27 +4258,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4788,7 +4305,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-Light.otf</b></summary>
+<summary><b>[8] Rubik-Light.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -4891,27 +4408,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -4974,7 +4470,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[8] Rubik-Bold.otf</b></summary>
+<summary><b>[7] Rubik-Bold.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5077,27 +4573,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -5155,7 +4630,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-Medium.otf</b></summary>
+<summary><b>[8] Rubik-Medium.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5258,27 +4733,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -5350,7 +4804,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-MediumItalic.otf</b></summary>
+<summary><b>[8] Rubik-MediumItalic.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5453,27 +4907,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -5536,7 +4969,7 @@ by manual inspection.</pre>
 <br>
 </details>
 <details>
-<summary><b>[9] Rubik-Regular.otf</b></summary>
+<summary><b>[8] Rubik-Regular.otf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5639,27 +5072,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -5723,7 +5135,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[6] Rubik[wght].ttf</b></summary>
+<summary><b>[5] Rubik[wght].ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5818,27 +5230,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -5872,7 +5263,7 @@ than 100 reported misalignments.</pre>
 <br>
 </details>
 <details>
-<summary><b>[6] Rubik-Italic[wght].ttf</b></summary>
+<summary><b>[5] Rubik-Italic[wght].ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check license file has good copyright string.</summary>
 
@@ -5967,27 +5358,6 @@ font file, so some tools may add the data, and unrelated tools may read this
 data. This makes the solution much more portable and universal.</pre>
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary>
-
-* [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
-<pre>--- Rationale ---
-Microsoft Office 2013 and below products expect fonts to have a digital
-signature declared in a DSIG table in order to implement OpenType features. The
-EOL date for Microsoft Office 2013 products is 4/11/2023. This issue does not
-impact Microsoft Office 2016 and above products.
-As we approach the EOL date, it is now considered better to completely remove
-the table.
-But if you still want your font to support OpenType features on Office 2013,
-then you may find it handy to add a fake signature on a dummy DSIG table by
-running one of the helper scripts provided at
-https://github.com/googlefonts/gftools
-Reference: https://github.com/googlefonts/fontbakery/issues/1845</pre>
-
-* ⚠ **WARN** This font has a digital signature (DSIG table) which is only required - even if only a dummy placeholder - on old programs like MS Office 2013 in order to work properly.
-The current recommendation is to completely remove the DSIG table. [code: found-DSIG]
 
 </details>
 <details>
@@ -6025,7 +5395,7 @@ than 100 reported misalignments.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 33 | 254 | 3135 | 185 | 2469 | 0 |
+| 0 | 33 | 224 | 3135 | 185 | 2499 | 0 |
 | 0% | 1% | 4% | 52% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
