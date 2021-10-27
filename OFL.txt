@@ -1,4 +1,4 @@
-Copyright 20** The My Font Project Authors (https://github.com/googlefonts/My-Font-Repository)
+Copyright 2021-2022 The Foldit Project Authors (https://github.com/SophiaDesign/GF-Foldit)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
