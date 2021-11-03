@@ -1,0 +1,45 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+
+feature xxxx {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+
+} xxxx;
+
+feature xxxx {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+
+} xxxx;
+
+feature xxxx {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+
+} xxxx;
+
+feature xxxx {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} xxxx;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    , # Base
+    , # Liga
+    [caroncomb.alt], # Mark
+    ;
+} GDEF;

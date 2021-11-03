@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="400" default="400">
+      <map input="400" output="100"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Foldit-Thin-Condensed.ufo" name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Foldit-ExtraBold-Expanded.ufo" name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Foldit variable" familyname="Foldit" stylename="variable" filename="instance_ufo/Foldit-variable.ufo" stylemapfamilyname="Foldit variable" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed" filename="instance_ufo/Foldit-Thin-Condensed.ufo" stylemapfamilyname="Foldit Thin-Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Foldit Regular" familyname="Foldit" stylename="Regular" filename="instance_ufo/Foldit-Regular.ufo" stylemapfamilyname="Foldit" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded" filename="instance_ufo/Foldit-ExtraBold-Expanded.ufo" stylemapfamilyname="Foldit ExtraBold-Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
