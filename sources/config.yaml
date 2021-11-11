@@ -1,3 +1,30 @@
 sources:
   - GF-Foldit.glyphs
+  outputDir: "../../fonts"
+    ttDir: "../../fonts/ttf"
+    # buildOTF: False
 familyName: Foldit
+axisOrder:
+      - wght
+      # - wdth
+      # - colr
+stat:
+ - name: Weight
+        tag: wght
+        values:
+        - name: Thin
+          value: 100
+        - name: ExtraBold
+          value: 800
+# instances:
+#   Foldit[wght, width].ttf:
+#   - familyName: "Foldit"
+#     styleName: "Thin Condensed"
+#     coordinates:
+#       wght: 100
+#       wdth: 75
+#   - familyName: "Foldit"
+#     styleName: "ExtraBold Expanded"
+#     coordinates:
+#       wght: 800
+#       wdth: 125
