@@ -1,21 +1,24 @@
 sources:
   - GF-Foldit.glyphs
   outputDir: "../../fonts"
-    ttDir: "../../fonts/ttf"
+    ttfDir: "../../fonts/ttf"
+    # otfDir: "../../fonts/otf"
+    # woffDir: "../../fonts/woff"
+    # varDir: "../../fonts/var"
     # buildOTF: False
 familyName: Foldit
 axisOrder:
       - wght
-      # - wdth
+      - wdth
       # - colr
 stat:
- - name: Weight
-        tag: wght
+ - name: Weight and width masters
+        tag: wght, wdth
         values:
         - name: Thin
-          value: 100
+          value: 100, 75
         - name: ExtraBold
-          value: 800
+          value: 800, 125
 # instances:
 #   Foldit[wght, width].ttf:
 #   - familyName: "Foldit"
