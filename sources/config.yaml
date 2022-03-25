@@ -1,6 +1,6 @@
 sources:
   - GF-Foldit.glyphs
-  outputDir: "../../fonts"
+  outputDir: "../fonts"
     ttfDir: "../fonts/ttf"
     # otfDir: "../../fonts/otf"
     # woffDir: "../../fonts/woff"
