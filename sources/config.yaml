@@ -5,10 +5,10 @@ axisOrder:
       - wdth
       - colr
 outputDir: "../../fonts"
-     ttDir: "../../fonts/ttf"
-     otDir: "../../fonts/otf"
-     woffDir: "../../fonts/woff"
-     vfDir: "../../fonts/var"
+ ttDir: "../../fonts/ttf"
+ otDir: "../../fonts/otf"
+ woffDir: "../../fonts/woff"
+ vfDir: "../../fonts/var"
     # buildOTF: False
 familyName: Foldit
 stat:
