@@ -1,7 +1,7 @@
 sources:
   - GF-Foldit.glyphs
   outputDir: "../../fonts"
-    ttfDir: "../../fonts/ttf"
+    ttfDir: "../fonts/ttf"
     # otfDir: "../../fonts/otf"
     # woffDir: "../../fonts/woff"
     # varDir: "../../fonts/var"
