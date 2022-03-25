@@ -14,7 +14,7 @@ familyName: Foldit
 stat:
  - name: Weight
         tag: wght
-        values:
+        #values:
         - name: Thin
           value: 100
         - name: ExtraBold
@@ -30,7 +30,7 @@ stat:
         tag: colr
         values:
         - name: COLRv1
-          value: 1
+          value: 0
 instances:
     Foldit[wght, width].ttf:
    - familyName: "Foldit"
