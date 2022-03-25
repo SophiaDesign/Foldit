@@ -1,5 +1,5 @@
 sources:
-  - GF-Foldit.glyphs
+  - Glyphs-decomposed-for-export/GF-Foldit.glyphs
   outputDir: "../fonts"
     ttfDir: "../fonts/ttf"
     # otfDir: "../../fonts/otf"
