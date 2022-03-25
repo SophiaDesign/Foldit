@@ -4,11 +4,11 @@ axisOrder:
       - wght
       - wdth
       - colr
-outputDir: "../../fonts"
-     ttDir: "../../fonts/ttf"
-     otDir: "../../fonts/otf"
-     woffDir: "../../fonts/woff"
-     vfDir: "../../fonts/var"
+#outputDir: "../../fonts"
+ ttDir: "../../fonts/ttf"
+ otDir: "../../fonts/otf"
+ woffDir: "../../fonts/woff"
+ vfDir: "../../fonts/var"
     # buildOTF: False
 familyName: Foldit
 stat:
