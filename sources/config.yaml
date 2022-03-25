@@ -5,7 +5,7 @@ axisOrder:
       - wdth
       - colr
 outputDir: "../../fonts"
- ttDir: "../../fonts/ttf"
+ttDir: "../../fonts/ttf"
  otDir: "../../fonts/otf"
  woffDir: "../../fonts/woff"
  vfDir: "../../fonts/var"
