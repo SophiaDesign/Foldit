@@ -33,15 +33,15 @@ stat:
           value: 0
 instances:
     Foldit[wght, width].ttf:
-   - familyName: "Foldit"
-     styleName: "Thin Condensed"
-     coordinates:
-       wght: 100
-       wdth: 75
-       colr: 1
-   - familyName: "Foldit"
-     styleName: "ExtraBold Expanded"
-     coordinates:
-       wght: 800
-       wdth: 125
-       colr: 1
+      - familyName: "Foldit"
+        styleName: "Thin Condensed"
+        coordinates:
+          wght: 100
+          wdth: 75
+          colr: 1
+      - familyName: "Foldit"
+        styleName: "ExtraBold Expanded"
+        coordinates:
+          wght: 800
+          wdth: 125
+          colr: 1
