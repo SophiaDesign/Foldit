@@ -13,8 +13,8 @@ outputDir:
 familyName: Foldit
 stat:
  - name: Weight
-     tag: wght
-     values:
+    tag: wght 
+    values:
         - name: Thin
           value: 100
         - name: ExtraBold
