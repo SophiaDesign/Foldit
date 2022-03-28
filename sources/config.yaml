@@ -26,7 +26,7 @@ stat:
           value: 75
         - name: Expanded
           value: 125
- - name: Color
+      - name: Color
         tag: colr
         values:
         - name: COLRv1
