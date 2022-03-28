@@ -32,7 +32,7 @@ stat:
         - name: COLRv1
           value: 0
 instances:
-  Foldit[wght,width].ttf:
+  Foldit[wght,wdth].ttf:
       - familyName: "Foldit"
         styleName: "Thin Condensed"
         coordinates:
