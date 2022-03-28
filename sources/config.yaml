@@ -12,9 +12,9 @@ outputDir:
     # buildOTF: False
 familyName: Foldit
 stat:
- - name: Weight
-   tag: wght 
-   values:
+      - name: Width
+        tag: wdth
+        values:
         - name: Thin
           value: 100
         - name: ExtraBold
