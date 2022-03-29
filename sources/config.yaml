@@ -9,7 +9,6 @@ outputDir:
  otDir: "../../fonts/otf"
  woffDir: "../../fonts/woff"
  vfDir: "../../fonts/var"
-    # buildOTF: False
 familyName: Foldit
 stat:
       - name: Weight
