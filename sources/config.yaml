@@ -1,14 +1,14 @@
 sources:
   - Gyphs-decomposed/GF-Foldit.glyphs
 axisOrder:
-      - wght
-      - wdth
-      - colr
+  - wght
+  - wdth
+  - colr
 outputDir:
- ttDir: "../../fonts/ttf"
- otDir: "../../fonts/otf"
- woffDir: "../../fonts/woff"
- vfDir: "../../fonts/var"
+  ttDir: "../../fonts/ttf"
+  otDir: "../../fonts/otf"
+  woffDir: "../../fonts/woff"
+  vfDir: "../../fonts/var"
 familyName: Foldit
 stat:
       - name: Weight
@@ -31,7 +31,7 @@ stat:
      #  - name: COLRv1
      #    value: 0
 instances:
- Foldit[wght,wdth].ttf:
+  Foldit[wght,wdth].ttf:
         - familyName: "Foldit"
           styleName: "Thin Condensed"
           coordinates:
