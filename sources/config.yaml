@@ -8,7 +8,7 @@ outputDir:
   ttDir: "../../fonts/ttf"
   otDir: "../../fonts/otf"
   woffDir: "../../fonts/woff"
-# vfDir: "../../fonts/vf"
+#  vfDir: "../../fonts/vf"
 familyName: Foldit
 stat:
   - name: Weight
