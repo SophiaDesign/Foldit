@@ -18,14 +18,14 @@ stat:
       value: 100
     - name: ExtraBold
       value: 800
-    - name: Width
+  - name: Width
     tag: wdth
     values:
     - name: Condensed
       value: 75
     - name: Expanded
       value: 125
-    - name: Color
+  - name: Color
     tag: colr
     values:
     - name: COLRv1
