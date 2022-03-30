@@ -4,11 +4,10 @@ axisOrder:
   - wght
   - wdth
   - colr
-outputDir:
-  ttDir: "../../fonts/ttf"
-  otDir: "../../fonts/otf"
-  woffDir: "../../fonts/woff"
-
+ttDir: "../../fonts/ttf"
+otDir: "../../fonts/otf"
+woffDir: "../../fonts/woff"
+vfDir: "../../fonts/vf"
 familyName: Foldit
 stat:
   - name: Weight
