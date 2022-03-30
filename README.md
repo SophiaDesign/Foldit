@@ -1,4 +1,4 @@
-# Foldit
+# Foldit Font Project
 
 [![][Fontbakery]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
 [![][Universal]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)

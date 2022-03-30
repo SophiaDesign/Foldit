@@ -15,32 +15,32 @@ stat:
     tag: wght
     values:
     - name: Thin
-        value: 100
+      value: 100
     - name: ExtraBold
-        value: 800
+      value: 800
     - name: Width
     tag: wdth
-        values:
+    values:
     - name: Condensed
-        value: 75
+      value: 75
     - name: Expanded
-        value: 125
+      value: 125
     - name: Color
     tag: colr
     values:
     - name: COLRv1
-        value: 0
+      value: 0
 instances:
-  Foldit[wght,wdth,colr].ttf:
+    Foldit[wght,wdth,colr].ttf:
     - familyName: "Foldit"
-        styleName: "Thin Condensed"
-        coordinates:
+      styleName: "Thin Condensed"
+      coordinates:
             wght: 100
             wdth: 75
             colr: 0
     - familyName: "Foldit"
-        styleName: "ExtraBold Expanded"
-        coordinates:
+      styleName: "ExtraBold Expanded"
+      coordinates:
             wght: 800
             wdth: 125
             colr: 0
