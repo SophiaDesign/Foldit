@@ -80,6 +80,7 @@ code = "lookup locl_latn_0 {
 	sub L periodcentered' L by periodcentered.loclCAT;
 } locl_latn_0;
 ";
+disabled = 1;
 tag = locl;
 },
 {
@@ -89,6 +90,7 @@ sub two by twosuperior;
 sub three by threesuperior;
 sub four by foursuperior;
 ";
+disabled = 1;
 tag = sups;
 },
 {
@@ -97,6 +99,7 @@ code = "sub one slash four by onequarter;
 sub one slash two by onehalf;
 sub three slash four by threequarters;
 ";
+disabled = 1;
 tag = frac;
 },
 {
@@ -104,6 +107,7 @@ automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
+disabled = 1;
 tag = ordn;
 },
 {
@@ -119,6 +123,7 @@ sub seven by seven.lf;
 sub eight by eight.lf;
 sub nine by nine.lf;
 ";
+disabled = 1;
 tag = pnum;
 },
 {
@@ -134,6 +139,7 @@ sub seven.lf by seven;
 sub eight.lf by eight;
 sub nine.lf by nine;
 ";
+disabled = 1;
 tag = tnum;
 }
 );
@@ -222,6 +228,7 @@ pos = -300;
 }
 );
 name = "Thin-Condensed";
+visible = 1;
 },
 {
 axesValues = (
@@ -309,6 +316,7 @@ pos = -300;
 }
 );
 name = "ExtraBold-Expanded";
+visible = 1;
 }
 );
 glyphs = (
@@ -850,7 +858,6 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
@@ -865,6 +872,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Color Layers to SVG";
 value = 1;
 },
@@ -879,11 +887,11 @@ name = "Color Palette for CPAL";
 value = 0;
 },
 {
-disabled = 1;
 name = "Export COLR Table";
 value = 1;
 },
 {
+disabled = 1;
 name = "Export SVG Table";
 value = 1;
 }
@@ -942,6 +950,7 @@ name = "Color Layers to SVG";
 value = 1;
 },
 {
+disabled = 1;
 name = "Color Palette for SVG";
 value = 0;
 },
@@ -951,11 +960,11 @@ name = "Color Palette for CPAL";
 value = 0;
 },
 {
-disabled = 1;
 name = "Export COLR Table";
 value = 1;
 },
 {
+disabled = 1;
 name = "Export SVG Table";
 value = 1;
 }
