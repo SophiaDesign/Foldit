@@ -1,5 +1,5 @@
 sources:
-  - GF-Foldit-decomposed.glyphs
+  - GF-Foldit.glyphs
 # - GF-Foldit-Khaled-modified.glyphs
 axisOrder:
   - wght
@@ -32,17 +32,17 @@ stat:
     values:
     - name: COLRv1
       value: 0
-instances:
-  Foldit[wght,wdth,colr].ttf:
-  - familyName: "Foldit"
-    styleName: "Thin Condensed"
-    coordinates:
-      wght: 100
-      wdth: 75
-      colr: 0
-  - familyName: "Foldit"
-    styleName: "ExtraBold Expanded"
-    coordinates:
-      wght: 800
-      wdth: 125
-      colr: 0
+# instances:
+#  Foldit[wght,wdth,colr].ttf:
+#  - familyName: "Foldit"
+#    styleName: "Thin Condensed"
+#    coordinates:
+#      wght: 100
+#      wdth: 75
+#      colr: 0
+#  - familyName: "Foldit"
+#   styleName: "ExtraBold Expanded"
+#    coordinates:
+#      wght: 800
+#      wdth: 125
+#      colr: 0
