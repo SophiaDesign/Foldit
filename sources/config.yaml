@@ -5,12 +5,12 @@ axisOrder:
   - wght
   - wdth
   - colr
+buildVariable: False
 outputDir: "../fonts"
 ttDir: "../fonts/ttf"
 otDir: "../fonts/otf"
 woffDir: "../fonts/woff"
 # vfDir: "../fonts/vf"
-buildVariable: False
 familyName: Foldit
 stat:
   - name: Weight
