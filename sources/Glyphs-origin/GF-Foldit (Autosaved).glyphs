@@ -69850,7 +69850,7 @@ value = 1;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
-name = "[ExtraBold]";
+name = ExtraBold;
 weightClass = 800;
 widthClass = 7;
 },
