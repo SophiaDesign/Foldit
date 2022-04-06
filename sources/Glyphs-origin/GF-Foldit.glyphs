@@ -69850,7 +69850,7 @@ value = 1;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
-name = "[ExtraBold]";
+name = ExtraBold;
 weightClass = 800;
 widthClass = 7;
 },
@@ -69869,7 +69869,7 @@ value = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
-name = "Fallback[Condensed,Thin]";
+name = "Thin Fallback";
 weightClass = 100;
 widthClass = 3;
 },
@@ -69888,7 +69888,7 @@ value = 0;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
-name = "Fallback[Expanded,ExtraBold]";
+name = "Extrabold Fallback";
 weightClass = 800;
 widthClass = 7;
 }
