@@ -1,5 +1,6 @@
 sources:
-  - GF-Foldit.glyphs
+# - GF-Foldit.glyphs
+  - GF-Foldit-decomposed.glyphs
 # - GF-Foldit-Khaled-modified.glyphs
 axisOrder:
   - wght
