@@ -39567,6 +39567,21 @@ width = 200;
 unicode = 32;
 },
 {
+glyphname = nbspace;
+lastChange = "2022-04-06 15:53:20 +0000";
+layers = (
+{
+layerId = "E87239EE-82B8-404C-B23A-53843E270889";
+width = 600;
+},
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+}
+);
+unicode = 160;
+},
+{
 glyphname = "leftanglebracket-math";
 lastChange = "2022-02-15 18:22:28 +0000";
 layers = (
@@ -69763,7 +69778,7 @@ value = 1;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
-name = "[Condensed,Thin]";
+name = Thin;
 weightClass = 100;
 widthClass = 3;
 },
@@ -69835,7 +69850,7 @@ value = 1;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
-name = "[Expanded,ExtraBold]";
+name = ExtraBold;
 weightClass = 800;
 widthClass = 7;
 },
@@ -69854,7 +69869,7 @@ value = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
-name = "Fallback[Condensed,Thin]";
+name = "Thin Fallback";
 weightClass = 100;
 widthClass = 3;
 },
@@ -69873,7 +69888,7 @@ value = 0;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
-name = "Fallback[Expanded,ExtraBold]";
+name = "Extrabold Fallback";
 weightClass = 800;
 widthClass = 7;
 }
@@ -69947,7 +69962,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license...";
+value = "";
 }
 );
 },
