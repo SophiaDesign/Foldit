@@ -16,7 +16,7 @@ Foldit is a COLRv1 variable font which uses gradients to play with dimension and
 
 ![Sample Image](documentation/image1.png)
 
-## About
+## About Author
 
 Sophia Tai ([@SophiaTypeLove](http://instagram.com/sophiatypelove)) is an independent typeface designer. She is a recipient of the 2021 Women of Typographic Excellence title and alumna of the MA Typeface Design course at University of Reading. 
 

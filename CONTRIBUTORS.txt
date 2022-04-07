@@ -8,3 +8,5 @@
 #
 # Names should be added to this file as:
 # Sophia Tai <sophiataidesign@gmail.com>
+# Khaled Hosny <dr.khaled.hosny@gmail.com>
+# Viviana Monsalve <viviana.monsalve.a@gmail.com>

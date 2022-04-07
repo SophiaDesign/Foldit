@@ -110,7 +110,7 @@ tag = wdth;
 },
 {
 name = Color;
-tag = COLR;
+tag = colr;
 }
 );
 classes = (
@@ -69725,48 +69725,11 @@ name = "Color Palette for SVG";
 value = 0;
 },
 {
-name = "Color Palette for CPAL";
-value = 0;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-}
-);
-exports = 0;
-instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
-};
-name = variable;
-type = variable;
-},
-{
-axesValues = (
-100,
-75,
-0
-);
-customParameters = (
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-disabled = 1;
-name = "Color Palette for SVG";
-value = 0;
-},
-{
 disabled = 1;
 name = "Color Palette for CPAL";
 value = 0;
 },
 {
-disabled = 1;
 name = "Export COLR Table";
 value = 1;
 },
@@ -69779,6 +69742,26 @@ instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
 name = Thin;
+weightClass = 100;
+widthClass = 3;
+},
+{
+axesValues = (
+100,
+75,
+0
+);
+customParameters = (
+{
+name = "Export COLR Table";
+value = 0;
+}
+);
+exports = 0;
+instanceInterpolations = {
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
+};
+name = "Thin Fallback";
 weightClass = 100;
 widthClass = 3;
 },
@@ -69838,7 +69821,6 @@ name = "Color Palette for CPAL";
 value = 0;
 },
 {
-disabled = 1;
 name = "Export COLR Table";
 value = 1;
 },
@@ -69853,26 +69835,6 @@ instanceInterpolations = {
 name = ExtraBold;
 weightClass = 800;
 widthClass = 7;
-},
-{
-axesValues = (
-100,
-75,
-0
-);
-customParameters = (
-{
-name = "Export COLR Table";
-value = 0;
-}
-);
-exports = 0;
-instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
-};
-name = "Thin Fallback";
-weightClass = 100;
-widthClass = 3;
 },
 {
 axesValues = (
@@ -69893,6 +69855,41 @@ instanceInterpolations = {
 name = "Extrabold Fallback";
 weightClass = 800;
 widthClass = 7;
+},
+{
+axesValues = (
+100,
+75,
+0
+);
+customParameters = (
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+name = "Color Palette for SVG";
+value = 0;
+},
+{
+name = "Color Palette for CPAL";
+value = 0;
+},
+{
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Export SVG Table";
+value = 1;
+}
+);
+exports = 0;
+instanceInterpolations = {
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
+};
+name = variable;
+type = variable;
 }
 );
 kerningLTR = {
@@ -69964,7 +69961,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
@@ -69973,7 +69970,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2021-2022 The Foldit Project Authors (https://www.github.com/sophiadesign/Foldit)";
+value = "Copyright 2021-2022 The Foldit Font Project Authors (https://www.github.com/sophiadesign/GF-Foldit)";
 }
 );
 },
