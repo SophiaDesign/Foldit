@@ -69866,6 +69866,7 @@ name = "Export COLR Table";
 value = 0;
 }
 );
+exports = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
@@ -69885,6 +69886,7 @@ name = "Export COLR Table";
 value = 0;
 }
 );
+exports = 0;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
 };
