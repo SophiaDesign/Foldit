@@ -964,7 +964,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[14] Foldit-Thin.otf</b></summary>
+<summary><b>[13] Foldit-Thin.otf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -1036,24 +1036,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass.</summary>
-
-* [com.google.fonts/check/usweightclass](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass)
-<pre>--- Rationale ---
-Google Fonts expects variable fonts, static ttfs and static otfs to have
-differing OS/2 usWeightClass values.
-For Variable Fonts, Thin-Black must be 100-900
-For static ttfs, Thin-Black can be 100-900 or 250-900
-For static otfs, Thin-Black must be 250-900
-If static otfs are set lower than 250, text may appear blurry in legacy Windows
-applications.
-Glyphsapp users can change the usWeightClass value of an instance by adding a
-&#x27;weightClass&#x27; customParameter.</pre>
-
-* 🔥 **FAIL** OS/2 usWeightClass is '100' when it should be '250'. [code: bad-value]
 
 </details>
 <details>
@@ -1231,7 +1213,7 @@ lines.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 24 | 2 | 30 | 408 | 21 | 339 | 0 |
+| 24 | 1 | 30 | 408 | 21 | 340 | 0 |
 | 3% | 0% | 4% | 50% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
