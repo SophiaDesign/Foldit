@@ -97,7 +97,8 @@ Uppercase
 lľňřš
 ťž",
 "kKĸaªoº°̤̮̱̈̆̄̑",
-"(hamgfdj){hamfurg}[hamgd]"
+"(hamgfdj){hamfurg}[hamgd]",
+"  "
 );
 axes = (
 {
@@ -384,11 +385,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 1029;
 },
 {
 name = winDescent;
-value = -200;
+value = -28;
 },
 {
 name = hheaAscender;
@@ -472,11 +473,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 1029;
 },
 {
 name = winDescent;
-value = -200;
+value = -268;
 },
 {
 name = hheaAscender;
@@ -39568,15 +39569,15 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-04-06 15:53:20 +0000";
+lastChange = "2022-04-07 10:35:33 +0000";
 layers = (
 {
 layerId = "E87239EE-82B8-404C-B23A-53843E270889";
-width = 600;
+width = 200;
 },
 {
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
-width = 600;
+width = 100;
 }
 );
 unicode = 160;
@@ -69989,7 +69990,7 @@ value = www.sophiatai.com;
 },
 {
 key = licenseURL;
-value = "https://scripts.cil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 }
 );
 unitsPerEm = 1000;
