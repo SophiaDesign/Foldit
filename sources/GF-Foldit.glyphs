@@ -366,7 +366,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-250,
+100,
 75,
 0
 );
@@ -69712,7 +69712,7 @@ unicode = 697;
 instances = (
 {
 axesValues = (
-250,
+100,
 75,
 0
 );
