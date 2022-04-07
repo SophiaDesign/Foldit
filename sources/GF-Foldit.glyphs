@@ -69743,7 +69743,7 @@ instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
 name = Thin;
-weightClass = 100;
+weightClass = 250;
 widthClass = 3;
 },
 {
