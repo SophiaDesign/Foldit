@@ -3,7 +3,7 @@
 Fontbakery version: 0.8.2
 
 <details>
-<summary><b>[1] Family checks</b></summary>
+<summary><b>[2] Family checks</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Checking all files are in the same directory.</summary>
 
@@ -17,10 +17,23 @@ the files from a single family spreaded in several separate directories).</pre>
 * 🔥 **FAIL** Not all fonts passed in the command line are in the same directory. This may lead to bad results as the tool will interpret all font files as belonging to a single font family. The detected directories are: ['fonts/ttf', 'fonts/otf'] [code: single-directory]
 
 </details>
+<details>
+<summary>🔥 <b>FAIL:</b> Each font in a family must have the same set of vertical metrics values.</summary>
+
+* [com.google.fonts/check/family/vertical_metrics](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/vertical_metrics)
+<pre>--- Rationale ---
+We want all fonts within a family to have the same vertical metrics so their
+line spacing is consistent across the family.</pre>
+
+* 🔥 **FAIL** usWinDescent is not the same across the family:
+Foldit ExtraBold: 268
+Foldit Thin: 28 [code: usWinDescent-mismatch]
+
+</details>
 <br>
 </details>
 <details>
-<summary><b>[17] Foldit-ExtraBold.ttf</b></summary>
+<summary><b>[14] Foldit-ExtraBold.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -92,61 +105,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
-
-* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
-<pre>--- Rationale ---
-A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
-of the name table.
-The source of truth for this check is the licensing text found on the NameID 13
-entry (LICENSE DESCRIPTION).
-The string snippets used for detecting licensing terms are:
-- &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
-- &quot;Licensed under the Apache License, Version 2.0&quot;
-- &quot;Licensed under the Ubuntu Font Licence 1.0.&quot;
-Currently accepted licenses are Apache or Open Font License.
-For a small set of legacy families the Ubuntu Font License may be acceptable as
-well.
-When in doubt, please choose OFL for new font projects.</pre>
-
-* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
-
-* [com.google.fonts/check/family/win_ascent_and_descent](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent)
-<pre>--- Rationale ---
-A font&#x27;s winAscent and winDescent values should be greater than the head table&#x27;s
-yMax, abs(yMin) values. If they are less than these values, clipping can occur
-on Windows platforms (https://github.com/RedHatBrand/Overpass/issues/33).
-If the font includes tall/deep writing systems such as Arabic or Devanagari, the
-winAscent and winDescent can be greater than the yMax and abs(yMin) to
-accommodate vowel marks.
-When the win Metrics are significantly greater than the upm, the linespacing can
-appear too loose. To counteract this, enabling the OS/2 fsSelection bit 7
-(Use_Typo_Metrics), will force Windows to use the OS/2 typo values instead. This
-means the font developer can control the linespacing with the typo values,
-whilst avoiding clipping by setting the win values to values greater than the
-yMax and abs(yMin).</pre>
-
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1029, but got 800 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 200 instead. [code: descent]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width?</summary>
-
-* [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 200 font units wide, non-breaking space named (uni00A0) is 600 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
 
 </details>
 <details>
@@ -453,7 +411,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[18] Foldit-Thin.ttf</b></summary>
+<summary><b>[16] Foldit-Thin.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -528,31 +486,6 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
-
-* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
-<pre>--- Rationale ---
-A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
-of the name table.
-The source of truth for this check is the licensing text found on the NameID 13
-entry (LICENSE DESCRIPTION).
-The string snippets used for detecting licensing terms are:
-- &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
-- &quot;Licensed under the Apache License, Version 2.0&quot;
-- &quot;Licensed under the Ubuntu Font Licence 1.0.&quot;
-Currently accepted licenses are Apache or Open Font License.
-For a small set of legacy families the Ubuntu Font License may be acceptable as
-well.
-When in doubt, please choose OFL for new font projects.</pre>
-
-* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-
-</details>
-<details>
 <summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
 
 * [com.google.fonts/check/family/win_ascent_and_descent](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent)
@@ -570,16 +503,7 @@ means the font developer can control the linespacing with the typo values,
 whilst avoiding clipping by setting the win values to values greater than the
 yMax and abs(yMin).</pre>
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1029, but got 800 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 200 instead. [code: descent]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width?</summary>
-
-* [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 100 font units wide, non-breaking space named (uni00A0) is 600 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 28 instead. [code: descent]
 
 </details>
 <details>
@@ -850,7 +774,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[15] Foldit-ExtraBold.otf</b></summary>
+<summary><b>[12] Foldit-ExtraBold.otf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -922,61 +846,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
-
-* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
-<pre>--- Rationale ---
-A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
-of the name table.
-The source of truth for this check is the licensing text found on the NameID 13
-entry (LICENSE DESCRIPTION).
-The string snippets used for detecting licensing terms are:
-- &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
-- &quot;Licensed under the Apache License, Version 2.0&quot;
-- &quot;Licensed under the Ubuntu Font Licence 1.0.&quot;
-Currently accepted licenses are Apache or Open Font License.
-For a small set of legacy families the Ubuntu Font License may be acceptable as
-well.
-When in doubt, please choose OFL for new font projects.</pre>
-
-* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
-
-* [com.google.fonts/check/family/win_ascent_and_descent](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent)
-<pre>--- Rationale ---
-A font&#x27;s winAscent and winDescent values should be greater than the head table&#x27;s
-yMax, abs(yMin) values. If they are less than these values, clipping can occur
-on Windows platforms (https://github.com/RedHatBrand/Overpass/issues/33).
-If the font includes tall/deep writing systems such as Arabic or Devanagari, the
-winAscent and winDescent can be greater than the yMax and abs(yMin) to
-accommodate vowel marks.
-When the win Metrics are significantly greater than the upm, the linespacing can
-appear too loose. To counteract this, enabling the OS/2 fsSelection bit 7
-(Use_Typo_Metrics), will force Windows to use the OS/2 typo values instead. This
-means the font developer can control the linespacing with the typo values,
-whilst avoiding clipping by setting the win values to values greater than the
-yMax and abs(yMin).</pre>
-
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1029, but got 800 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 200 instead. [code: descent]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width?</summary>
-
-* [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 200 font units wide, non-breaking space named (uni00A0) is 600 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
 
 </details>
 <details>
@@ -1129,7 +998,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[17] Foldit-Thin.otf</b></summary>
+<summary><b>[15] Foldit-Thin.otf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -1222,31 +1091,6 @@ Glyphsapp users can change the usWeightClass value of an instance by adding a
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
-
-* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
-<pre>--- Rationale ---
-A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
-of the name table.
-The source of truth for this check is the licensing text found on the NameID 13
-entry (LICENSE DESCRIPTION).
-The string snippets used for detecting licensing terms are:
-- &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
-- &quot;Licensed under the Apache License, Version 2.0&quot;
-- &quot;Licensed under the Ubuntu Font Licence 1.0.&quot;
-Currently accepted licenses are Apache or Open Font License.
-For a small set of legacy families the Ubuntu Font License may be acceptable as
-well.
-When in doubt, please choose OFL for new font projects.</pre>
-
-* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-
-</details>
-<details>
 <summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
 
 * [com.google.fonts/check/family/win_ascent_and_descent](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent)
@@ -1264,16 +1108,7 @@ means the font developer can control the linespacing with the typo values,
 whilst avoiding clipping by setting the win values to values greater than the
 yMax and abs(yMin).</pre>
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1029, but got 800 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 200 instead. [code: descent]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width?</summary>
-
-* [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 100 font units wide, non-breaking space named (uni00A0) is 600 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 268, but got 28 instead. [code: descent]
 
 </details>
 <details>
@@ -1451,8 +1286,8 @@ lines.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 24 | 14 | 30 | 408 | 21 | 327 | 0 |
-| 3% | 2% | 4% | 50% | 3% | 40% | 0% |
+| 24 | 5 | 30 | 408 | 21 | 336 | 0 |
+| 3% | 1% | 4% | 50% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
