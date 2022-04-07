@@ -366,7 +366,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-100,
+250,
 75,
 0
 );
@@ -389,7 +389,7 @@ value = 1029;
 },
 {
 name = winDescent;
-value = -28;
+value = -268;
 },
 {
 name = hheaAscender;
@@ -69712,7 +69712,7 @@ unicode = 697;
 instances = (
 {
 axesValues = (
-100,
+250,
 75,
 0
 );

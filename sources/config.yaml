@@ -8,9 +8,9 @@ axisOrder:
   - colr
 buildVariable: False
 outputDir: "../fonts"
-ttDir: "../fonts/ttf"
-otDir: "../fonts/otf"
-woffDir: "../fonts/woff"
+# ttDir: "../fonts/ttf"
+# otDir: "../fonts/otf"
+# woffDir: "../fonts/woff"
 # vfDir: "../fonts/vf"
 familyName: Foldit
 stat:
