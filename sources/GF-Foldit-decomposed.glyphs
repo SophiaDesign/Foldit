@@ -142798,6 +142798,21 @@ width = 200;
 unicode = 32;
 },
 {
+glyphname = nbspace;
+lastChange = "2022-04-06 15:53:04 +0000";
+layers = (
+{
+layerId = "E87239EE-82B8-404C-B23A-53843E270889";
+width = 600;
+},
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+}
+);
+unicode = 160;
+},
+{
 glyphname = "leftanglebracket-math";
 lastChange = "2022-04-06 11:27:52 +0000";
 layers = (
