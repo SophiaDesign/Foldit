@@ -95,17 +95,15 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file.</summary>
+<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
 
-* [com.google.fonts/check/name/license](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license)
+* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
 <pre>--- Rationale ---
-A known licensing description must be provided in the NameID 14 (LICENSE
-DESCRIPTION) entries of the name table.
-The source of truth for this check (to determine which license is in use) is a
-file placed side-by-side to your font project including the licensing terms.
-Depending on the chosen license, one of the following string snippets is
-expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the name
-table:
+A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
+of the name table.
+The source of truth for this check is the licensing text found on the NameID 13
+entry (LICENSE DESCRIPTION).
+The string snippets used for detecting licensing terms are:
 - &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
 - &quot;Licensed under the Apache License, Version 2.0&quot;
@@ -115,7 +113,10 @@ For a small set of legacy families the Ubuntu Font License may be acceptable as
 well.
 When in doubt, please choose OFL for new font projects.</pre>
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
+* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
+For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
+When in doubt, please choose OFL for new font projects. [code: no-license-found]
 
 </details>
 <details>
@@ -527,17 +528,15 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file.</summary>
+<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
 
-* [com.google.fonts/check/name/license](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license)
+* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
 <pre>--- Rationale ---
-A known licensing description must be provided in the NameID 14 (LICENSE
-DESCRIPTION) entries of the name table.
-The source of truth for this check (to determine which license is in use) is a
-file placed side-by-side to your font project including the licensing terms.
-Depending on the chosen license, one of the following string snippets is
-expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the name
-table:
+A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
+of the name table.
+The source of truth for this check is the licensing text found on the NameID 13
+entry (LICENSE DESCRIPTION).
+The string snippets used for detecting licensing terms are:
 - &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
 - &quot;Licensed under the Apache License, Version 2.0&quot;
@@ -547,7 +546,10 @@ For a small set of legacy families the Ubuntu Font License may be acceptable as
 well.
 When in doubt, please choose OFL for new font projects.</pre>
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
+* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
+For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
+When in doubt, please choose OFL for new font projects. [code: no-license-found]
 
 </details>
 <details>
@@ -923,17 +925,15 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file.</summary>
+<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
 
-* [com.google.fonts/check/name/license](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license)
+* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
 <pre>--- Rationale ---
-A known licensing description must be provided in the NameID 14 (LICENSE
-DESCRIPTION) entries of the name table.
-The source of truth for this check (to determine which license is in use) is a
-file placed side-by-side to your font project including the licensing terms.
-Depending on the chosen license, one of the following string snippets is
-expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the name
-table:
+A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
+of the name table.
+The source of truth for this check is the licensing text found on the NameID 13
+entry (LICENSE DESCRIPTION).
+The string snippets used for detecting licensing terms are:
 - &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
 - &quot;Licensed under the Apache License, Version 2.0&quot;
@@ -943,7 +943,10 @@ For a small set of legacy families the Ubuntu Font License may be acceptable as
 well.
 When in doubt, please choose OFL for new font projects.</pre>
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
+* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
+For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
+When in doubt, please choose OFL for new font projects. [code: no-license-found]
 
 </details>
 <details>
@@ -1219,17 +1222,15 @@ Glyphsapp users can change the usWeightClass value of an instance by adding a
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file.</summary>
+<summary>🔥 <b>FAIL:</b> License URL matches License text on name table?</summary>
 
-* [com.google.fonts/check/name/license](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license)
+* [com.google.fonts/check/name/license_url](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url)
 <pre>--- Rationale ---
-A known licensing description must be provided in the NameID 14 (LICENSE
-DESCRIPTION) entries of the name table.
-The source of truth for this check (to determine which license is in use) is a
-file placed side-by-side to your font project including the licensing terms.
-Depending on the chosen license, one of the following string snippets is
-expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the name
-table:
+A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry
+of the name table.
+The source of truth for this check is the licensing text found on the NameID 13
+entry (LICENSE DESCRIPTION).
+The string snippets used for detecting licensing terms are:
 - &quot;This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;
 - &quot;Licensed under the Apache License, Version 2.0&quot;
@@ -1239,7 +1240,10 @@ For a small set of legacy families the Ubuntu Font License may be acceptable as
 well.
 When in doubt, please choose OFL for new font projects.</pre>
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** Licensing inconsistency in name table entries! NameID=13 (LICENSE DESCRIPTION) indicates Open Font licensing, but NameID=14 (LICENSE URL) has 'https://scripts.cil.org/OFL'. Expected: 'https://scripts.sil.org/OFL' [code: licensing-inconsistency]
+* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
+For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
+When in doubt, please choose OFL for new font projects. [code: no-license-found]
 
 </details>
 <details>
@@ -1447,8 +1451,8 @@ lines.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 24 | 14 | 30 | 412 | 21 | 323 | 0 |
-| 3% | 2% | 4% | 50% | 3% | 39% | 0% |
+| 24 | 14 | 30 | 408 | 21 | 327 | 0 |
+| 3% | 2% | 4% | 50% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
