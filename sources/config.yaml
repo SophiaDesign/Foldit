@@ -7,7 +7,7 @@ axisOrder:
   - wdth
   - colr
 buildOTF: False
-buildVariable: False
+# buildVariable: False
 outputDir: "../fonts"
 # ttDir: "../fonts/ttf"
 # otDir: "../fonts/otf"
@@ -34,17 +34,17 @@ stat:
     values:
     - name: COLRv1
       value: 0
-# instances:
-#  Foldit[wght,wdth,colr].ttf:
-#  - familyName: "Foldit"
-#    styleName: "Thin Condensed"
-#    coordinates:
-#      wght: 100
-#      wdth: 75
-#      colr: 0
-#  - familyName: "Foldit"
-#   styleName: "ExtraBold Expanded"
-#    coordinates:
-#      wght: 800
-#      wdth: 125
-#      colr: 0
+instances:
+ Foldit[wght,wdth,colr].ttf:
+ - familyName: "Foldit"
+   styleName: "Thin Condensed"
+   coordinates:
+     wght: 100
+     wdth: 75
+     colr: 0
+ - familyName: "Foldit"
+  styleName: "ExtraBold Expanded"
+   coordinates:
+     wght: 800
+     wdth: 125
+     colr: 0
