@@ -136059,7 +136059,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2021-2022 The Foldit Project Authors (https://www.github.com/sophiadesign/Foldit)";
+value = "Copyright 2021-2022 The Foldit Font Project Authors (https://www.github.com/sophiadesign/Foldit)";
 }
 );
 },
@@ -136078,7 +136078,7 @@ value = www.sophiatai.com;
 },
 {
 key = licenseURL;
-value = "https://scripts.cil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 }
 );
 unitsPerEm = 1000;
