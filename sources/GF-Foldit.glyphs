@@ -135490,9 +135490,12 @@ value = 1;
 {
 name = "Export SVG Table";
 value = 1;
+},
+{
+name = "Propagate Anchors";
+value = 0;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "528BACCA-43E3-4761-9BFE-5EEE72288D68" = 1;
 };
