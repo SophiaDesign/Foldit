@@ -3,6 +3,750 @@
 Fontbakery version: 0.8.2
 
 <details>
+<summary><b>[2] Family checks</b></summary>
+<details>
+<summary>🔥 <b>FAIL:</b> Checking all files are in the same directory.</summary>
+
+* [com.google.fonts/check/family/single_directory](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/single_directory)
+<pre>--- Rationale ---
+If the set of font files passed in the command line is not all in the same
+directory, then we warn the user since the tool will interpret the set of files
+as belonging to a single family (and it is unlikely that the user would store
+the files from a single family spreaded in several separate directories).</pre>
+
+* 🔥 **FAIL** Not all fonts passed in the command line are in the same directory. This may lead to bad results as the tool will interpret all font files as belonging to a single font family. The detected directories are: ['fonts/otf', 'fonts/ttf'] [code: single-directory]
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> Check that OS/2.fsSelection bold & italic settings are unique for each NameID1</summary>
+
+* [com.adobe.fonts/check/family/bold_italic_unique_for_nameid1](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.adobe.fonts/check/family/bold_italic_unique_for_nameid1)
+<pre>--- Rationale ---
+Per the OpenType spec: name ID 1 &#x27;is used in combination with Font Subfamily
+name (name ID 2), and should be shared among at most four fonts that differ only
+in weight or style...
+This four-way distinction should also be reflected in the OS/2.fsSelection
+field, using bits 0 and 5.</pre>
+
+* 🔥 **FAIL** Family 'Foldit' has 2 fonts (should be no more than 1) with the same OS/2.fsSelection bold & italic settings: Bold=False, Italic=False [code: unique-fsselection]
+
+</details>
+<br>
+</details>
+<details>
+<summary><b>[15] Foldit-ExtraBold.otf</b></summary>
+<details>
+<summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
+
+* [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
+<pre>--- Rationale ---
+Check METADATA.pb file includes the same subsets as the family in production.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Version number has increased since previous release on Google Fonts?</summary>
+
+* [com.google.fonts/check/version_bump](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Glyphs are similiar to Google Fonts version?</summary>
+
+* [com.google.fonts/check/production_glyphs_similarity](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions)
+<pre>--- Rationale ---
+If the family already exists on Google Fonts, we need to ensure that the checked
+family&#x27;s vertical metrics are similar. This check will test the following schema
+which was outlined in Fontbakery issue #1162 [1]:
+- The family should visually have the same vertical metrics as the Regular style
+hosted on Google Fonts.
+- If the family on Google Fonts has differing hhea and typo metrics, the family
+being checked should use the typo metrics for both the hhea and typo entries.
+- If the family on Google Fonts has use typo metrics not enabled and the family
+being checked has it enabled, the hhea and typo metrics should use the family on
+Google Fonts winAscent and winDescent values.
+- If the upms differ, the values must be scaled so the visual appearance is the
+same.
+[1] https://github.com/googlefonts/fontbakery/issues/1162</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check font follows the Google Fonts CJK vertical metric schema</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics)
+<pre>--- Rationale ---
+CJK fonts have different vertical metrics when compared to Latin fonts. We
+follow the schema developed by dr Ken Lunde for Source Han Sans and the Noto CJK
+fonts.
+Our documentation includes further information:
+https://github.com/googlefonts/gf-docs/tree/main/Spec#cjk-vertical-metrics</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a CJK family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics_regressions)
+<pre>--- Rationale ---
+Check CJK family has the same vertical metrics as the same family hosted on
+Google Fonts.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value.</summary>
+
+* [com.google.fonts/check/fsselection](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fsselection)
+
+* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be set. [code: bad-REGULAR]
+* 🔥 **FAIL** OS/2 fsSelection BOLD bit should be unset. [code: bad-BOLD]
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> Checking head.macStyle value.</summary>
+
+* [com.google.fonts/check/mac_style](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/mac_style)
+<pre>--- Rationale ---
+The values of the flags on the macStyle entry on the &#x27;head&#x27; OpenType table that
+describe whether a font is bold and/or italic must be coherent with the actual
+style of the font as inferred by its filename.</pre>
+
+* 🔥 **FAIL** head macStyle BOLD bit should be unset. [code: bad-BOLD]
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> Check name table: FONT_SUBFAMILY_NAME entries.</summary>
+
+* [com.google.fonts/check/name/subfamilyname](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/subfamilyname)
+
+* 🔥 **FAIL** SUBFAMILY_NAME for Win "Bold" must be "Regular" [code: bad-familyname]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
+
+* [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
+<pre>--- Rationale ---
+Microsoft keeps a list of font vendors and their respective contact info. This
+list is updated regularly and is indexed by a 4-char &quot;Vendor ID&quot; which is stored
+in the achVendID field of the OS/2 table.
+Registering your ID is not mandatory, but it is a good practice since some
+applications may display the type designer / type foundry contact info on some
+dialog and also because that info will be visible on Microsoft&#x27;s website:
+https://docs.microsoft.com/en-us/typography/vendors/
+This check verifies whether or not a given font&#x27;s vendor ID is registered in
+that list or if it has some of the default values used by the most common font
+editors.
+Each new FontBakery release includes a cached copy of that list of vendor IDs.
+If you registered recently, you&#x27;re safe to ignore warnings emitted by this
+check, since your ID will soon be included in one of our upcoming releases.</pre>
+
+* ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+ [code: unknown]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature?</summary>
+
+* [com.google.fonts/check/ligature_carets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets)
+<pre>--- Rationale ---
+All ligatures in a font must have corresponding caret (text cursor) positions
+defined in the GDEF table, otherwhise, users may experience issues with caret
+rendering.
+If using GlyphsApp or UFOs, ligature carets can be defined as anchors with names
+starting with &#x27;caret_&#x27;. These can be compiled with fontmake as of version
+v2.4.0.</pre>
+
+* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences?</summary>
+
+* [com.google.fonts/check/kerning_for_non_ligated_sequences](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences)
+<pre>--- Rationale ---
+Fonts with ligatures should have kerning on the corresponding non-ligated
+sequences for text where ligatures aren&#x27;t used (eg
+https://github.com/impallari/Raleway/issues/14).</pre>
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table.</summary>
+
+* [com.google.fonts/check/meta/script_lang_tags](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags)
+<pre>--- Rationale ---
+The OpenType &#x27;meta&#x27; table originated at Apple. Microsoft added it to OT with
+just two DataMap records:
+- dlng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font is designed for
+- slng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font supports
+The slng structure is intended to describe which languages and scripts the font
+overall supports. For example, a Traditional Chinese font that also contains
+Latin characters, can indicate Hant,Latn, showing that it supports Hant, the
+Traditional Chinese variant of the Hani script, and it also supports the Latn
+script
+The dlng structure is far more interesting. A font may contain various glyphs,
+but only a particular subset of the glyphs may be truly &quot;leading&quot; in the design,
+while other glyphs may have been included for technical reasons. Such a
+Traditional Chinese font could only list Hant there, showing that it’s designed
+for Traditional Chinese, but the font would omit Latn, because the developers
+don’t think the font is really recommended for purely Latin-script use.
+The tags used in the structures can comprise just script, or also language and
+script. For example, if a font has Bulgarian Cyrillic alternates in the locl
+feature for the cyrl BGR OT languagesystem, it could also indicate in dlng
+explicitly that it supports bul-Cyrl. (Note that the scripts and languages in
+meta use the ISO language and script codes, not the OpenType ones).
+This check ensures that the font has the meta table containing the slng and dlng
+structures.
+All families in the Google Fonts collection should contain the &#x27;meta&#x27; table.
+Windows 10 already uses it when deciding on which fonts to fall back to. The
+Google Fonts API and also other environments could use the data for smarter
+filtering. Most importantly, those entries should be added to the Noto fonts.
+In the font making process, some environments store this data in external files
+already. But the meta table provides a convenient way to store this inside the
+font file, so some tools may add the data, and unrelated tools may read this
+data. This makes the solution much more portable and universal.</pre>
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments?</summary>
+
+* [com.google.fonts/check/outline_jaggy_segments](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments)
+<pre>--- Rationale ---
+This check heuristically detects outline segments which form a particularly
+small angle, indicative of an outline error. This may cause false positives in
+cases such as extreme ink traps, so should be regarded as advisory and backed up
+by manual inspection.</pre>
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+	* asterisk (U+002A): L<<311.0,730.0>--<251.0,351.0>>/L<<251.0,351.0>--<265.0,442.0>> = 0.24975216281029114
+	* d (U+0064): L<<783.0,327.0>--<780.0,331.0>>/L<<780.0,331.0>--<782.0,329.0>> = 8.13010235415596
+	* dcaron (U+010F): L<<783.0,327.0>--<780.0,331.0>>/L<<780.0,331.0>--<782.0,329.0>> = 8.13010235415596
+	* dcroat (U+0111): L<<783.0,327.0>--<780.0,331.0>>/L<<780.0,331.0>--<782.0,329.0>> = 8.13010235415596
+	* dong (U+20AB): L<<783.0,375.0>--<780.0,379.0>>/L<<780.0,379.0>--<782.0,377.0>> = 8.13010235415596
+	* eth (U+00F0): L<<783.0,327.0>--<781.0,330.0>>/L<<781.0,330.0>--<782.0,329.0>> = 11.309932474020227
+	* kgreenlandic (U+0138): L<<249.0,437.0>--<249.0,400.0>>/L<<249.0,400.0>--<248.0,794.0>> = 0.1454204479278869
+	* p (U+0070): L<<35.0,203.0>--<38.0,199.0>>/L<<38.0,199.0>--<36.0,201.0>> = 8.13010235415596
+	* thorn (U+00FE): L<<35.0,203.0>--<38.0,199.0>>/L<<38.0,199.0>--<36.0,201.0>> = 8.13010235415596
+	* uni01C6 (U+01C6): L<<783.0,327.0>--<780.0,331.0>>/L<<780.0,331.0>--<782.0,329.0>> = 8.13010235415596
+	* uni20BA (U+20BA): L<<-112.0,576.0>--<-112.0,425.0>>/L<<-112.0,425.0>--<-109.0,455.0>> = 5.710593137499633 and uni20BA (U+20BA): L<<592.0,565.0>--<593.0,496.0>>/L<<593.0,496.0>--<593.0,565.0>> = 0.8303154862578446 [code: found-jaggy-segments]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines?</summary>
+
+* [com.google.fonts/check/outline_semi_vertical](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical)
+<pre>--- Rationale ---
+This check detects line segments which are nearly, but not quite, exactly
+horizontal or vertical. Sometimes such lines are created by design, but often
+they are indicative of a design error.
+This check is disabled for italic styles, which often contain nearly-upright
+lines.</pre>
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+ * Euro (U+20AC): L<<344.0,309.0>--<847.0,310.0>>
+ * Euro (U+20AC): L<<344.0,398.0>--<847.0,399.0>>
+ * Euro (U+20AC): L<<824.0,334.0>--<344.0,333.0>>
+ * Euro (U+20AC): L<<824.0,423.0>--<344.0,422.0>>
+ * I (U+0049): L<<246.0,486.0>--<245.0,0.0>>
+ * I (U+0049): L<<25.0,1.0>--<245.0,0.0>>
+ * Iacute (U+00CD): L<<246.0,486.0>--<245.0,0.0>>
+ * Iacute (U+00CD): L<<25.0,1.0>--<245.0,0.0>>
+ * Ibreve (U+012C): L<<246.0,486.0>--<245.0,0.0>>
+ * Ibreve (U+012C): L<<25.0,1.0>--<245.0,0.0>> and 91 more. [code: found-semi-vertical]
+
+</details>
+<br>
+</details>
+<details>
+<summary><b>[12] Foldit-Regular.otf</b></summary>
+<details>
+<summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
+
+* [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
+<pre>--- Rationale ---
+Check METADATA.pb file includes the same subsets as the family in production.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Version number has increased since previous release on Google Fonts?</summary>
+
+* [com.google.fonts/check/version_bump](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Glyphs are similiar to Google Fonts version?</summary>
+
+* [com.google.fonts/check/production_glyphs_similarity](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions)
+<pre>--- Rationale ---
+If the family already exists on Google Fonts, we need to ensure that the checked
+family&#x27;s vertical metrics are similar. This check will test the following schema
+which was outlined in Fontbakery issue #1162 [1]:
+- The family should visually have the same vertical metrics as the Regular style
+hosted on Google Fonts.
+- If the family on Google Fonts has differing hhea and typo metrics, the family
+being checked should use the typo metrics for both the hhea and typo entries.
+- If the family on Google Fonts has use typo metrics not enabled and the family
+being checked has it enabled, the hhea and typo metrics should use the family on
+Google Fonts winAscent and winDescent values.
+- If the upms differ, the values must be scaled so the visual appearance is the
+same.
+[1] https://github.com/googlefonts/fontbakery/issues/1162</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check font follows the Google Fonts CJK vertical metric schema</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics)
+<pre>--- Rationale ---
+CJK fonts have different vertical metrics when compared to Latin fonts. We
+follow the schema developed by dr Ken Lunde for Source Han Sans and the Noto CJK
+fonts.
+Our documentation includes further information:
+https://github.com/googlefonts/gf-docs/tree/main/Spec#cjk-vertical-metrics</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a CJK family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics_regressions)
+<pre>--- Rationale ---
+Check CJK family has the same vertical metrics as the same family hosted on
+Google Fonts.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
+
+* [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
+<pre>--- Rationale ---
+Microsoft keeps a list of font vendors and their respective contact info. This
+list is updated regularly and is indexed by a 4-char &quot;Vendor ID&quot; which is stored
+in the achVendID field of the OS/2 table.
+Registering your ID is not mandatory, but it is a good practice since some
+applications may display the type designer / type foundry contact info on some
+dialog and also because that info will be visible on Microsoft&#x27;s website:
+https://docs.microsoft.com/en-us/typography/vendors/
+This check verifies whether or not a given font&#x27;s vendor ID is registered in
+that list or if it has some of the default values used by the most common font
+editors.
+Each new FontBakery release includes a cached copy of that list of vendor IDs.
+If you registered recently, you&#x27;re safe to ignore warnings emitted by this
+check, since your ID will soon be included in one of our upcoming releases.</pre>
+
+* ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+ [code: unknown]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature?</summary>
+
+* [com.google.fonts/check/ligature_carets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets)
+<pre>--- Rationale ---
+All ligatures in a font must have corresponding caret (text cursor) positions
+defined in the GDEF table, otherwhise, users may experience issues with caret
+rendering.
+If using GlyphsApp or UFOs, ligature carets can be defined as anchors with names
+starting with &#x27;caret_&#x27;. These can be compiled with fontmake as of version
+v2.4.0.</pre>
+
+* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences?</summary>
+
+* [com.google.fonts/check/kerning_for_non_ligated_sequences](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences)
+<pre>--- Rationale ---
+Fonts with ligatures should have kerning on the corresponding non-ligated
+sequences for text where ligatures aren&#x27;t used (eg
+https://github.com/impallari/Raleway/issues/14).</pre>
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table.</summary>
+
+* [com.google.fonts/check/meta/script_lang_tags](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags)
+<pre>--- Rationale ---
+The OpenType &#x27;meta&#x27; table originated at Apple. Microsoft added it to OT with
+just two DataMap records:
+- dlng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font is designed for
+- slng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font supports
+The slng structure is intended to describe which languages and scripts the font
+overall supports. For example, a Traditional Chinese font that also contains
+Latin characters, can indicate Hant,Latn, showing that it supports Hant, the
+Traditional Chinese variant of the Hani script, and it also supports the Latn
+script
+The dlng structure is far more interesting. A font may contain various glyphs,
+but only a particular subset of the glyphs may be truly &quot;leading&quot; in the design,
+while other glyphs may have been included for technical reasons. Such a
+Traditional Chinese font could only list Hant there, showing that it’s designed
+for Traditional Chinese, but the font would omit Latn, because the developers
+don’t think the font is really recommended for purely Latin-script use.
+The tags used in the structures can comprise just script, or also language and
+script. For example, if a font has Bulgarian Cyrillic alternates in the locl
+feature for the cyrl BGR OT languagesystem, it could also indicate in dlng
+explicitly that it supports bul-Cyrl. (Note that the scripts and languages in
+meta use the ISO language and script codes, not the OpenType ones).
+This check ensures that the font has the meta table containing the slng and dlng
+structures.
+All families in the Google Fonts collection should contain the &#x27;meta&#x27; table.
+Windows 10 already uses it when deciding on which fonts to fall back to. The
+Google Fonts API and also other environments could use the data for smarter
+filtering. Most importantly, those entries should be added to the Noto fonts.
+In the font making process, some environments store this data in external files
+already. But the meta table provides a convenient way to store this inside the
+font file, so some tools may add the data, and unrelated tools may read this
+data. This makes the solution much more portable and universal.</pre>
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments?</summary>
+
+* [com.google.fonts/check/outline_jaggy_segments](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments)
+<pre>--- Rationale ---
+This check heuristically detects outline segments which form a particularly
+small angle, indicative of an outline error. This may cause false positives in
+cases such as extreme ink traps, so should be regarded as advisory and backed up
+by manual inspection.</pre>
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+	* ampersand (U+0026): L<<374.0,577.0>--<373.0,389.0>>/L<<373.0,389.0>--<373.0,415.0>> = 0.30476191042032247
+	* colonmonetary (U+20A1): L<<224.0,595.0>--<164.0,220.0>>/L<<164.0,220.0>--<164.0,595.0>> = 9.090276920822312 and uni20BA (U+20BA): L<<363.0,559.0>--<364.0,530.0>>/L<<364.0,530.0>--<364.0,559.0>> = 1.9749340108819595 [code: found-jaggy-segments]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines?</summary>
+
+* [com.google.fonts/check/outline_semi_vertical](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical)
+<pre>--- Rationale ---
+This check detects line segments which are nearly, but not quite, exactly
+horizontal or vertical. Sometimes such lines are created by design, but often
+they are indicative of a design error.
+This check is disabled for italic styles, which often contain nearly-upright
+lines.</pre>
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+ * A (U+0041): L<<381.0,208.0>--<382.0,0.0>>
+ * A (U+0041): L<<382.0,595.0>--<381.0,208.0>>
+ * Aacute (U+00C1): L<<381.0,208.0>--<382.0,0.0>>
+ * Aacute (U+00C1): L<<382.0,595.0>--<381.0,208.0>>
+ * Abreve (U+0102): L<<381.0,208.0>--<382.0,0.0>>
+ * Abreve (U+0102): L<<382.0,595.0>--<381.0,208.0>>
+ * Acircumflex (U+00C2): L<<381.0,208.0>--<382.0,0.0>>
+ * Acircumflex (U+00C2): L<<382.0,595.0>--<381.0,208.0>>
+ * Adieresis (U+00C4): L<<381.0,208.0>--<382.0,0.0>>
+ * Adieresis (U+00C4): L<<382.0,595.0>--<381.0,208.0>> and 159 more. [code: found-semi-vertical]
+
+</details>
+<br>
+</details>
+<details>
+<summary><b>[13] Foldit-Thin.otf</b></summary>
+<details>
+<summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
+
+* [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
+<pre>--- Rationale ---
+Check METADATA.pb file includes the same subsets as the family in production.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Version number has increased since previous release on Google Fonts?</summary>
+
+* [com.google.fonts/check/version_bump](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Glyphs are similiar to Google Fonts version?</summary>
+
+* [com.google.fonts/check/production_glyphs_similarity](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity)
+
+* 💔 **ERROR** The condition <FontBakeryCondition:api_gfonts_ttFont> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions)
+<pre>--- Rationale ---
+If the family already exists on Google Fonts, we need to ensure that the checked
+family&#x27;s vertical metrics are similar. This check will test the following schema
+which was outlined in Fontbakery issue #1162 [1]:
+- The family should visually have the same vertical metrics as the Regular style
+hosted on Google Fonts.
+- If the family on Google Fonts has differing hhea and typo metrics, the family
+being checked should use the typo metrics for both the hhea and typo entries.
+- If the family on Google Fonts has use typo metrics not enabled and the family
+being checked has it enabled, the hhea and typo metrics should use the family on
+Google Fonts winAscent and winDescent values.
+- If the upms differ, the values must be scaled so the visual appearance is the
+same.
+[1] https://github.com/googlefonts/fontbakery/issues/1162</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check font follows the Google Fonts CJK vertical metric schema</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics)
+<pre>--- Rationale ---
+CJK fonts have different vertical metrics when compared to Latin fonts. We
+follow the schema developed by dr Ken Lunde for Source Han Sans and the Noto CJK
+fonts.
+Our documentation includes further information:
+https://github.com/googlefonts/gf-docs/tree/main/Spec#cjk-vertical-metrics</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>💔 <b>ERROR:</b> Check if the vertical metrics of a CJK family are similar to the same family hosted on Google Fonts.</summary>
+
+* [com.google.fonts/check/cjk_vertical_metrics_regressions](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/cjk_vertical_metrics_regressions)
+<pre>--- Rationale ---
+Check CJK family has the same vertical metrics as the same family hosted on
+Google Fonts.</pre>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
+
+* [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
+<pre>--- Rationale ---
+Microsoft keeps a list of font vendors and their respective contact info. This
+list is updated regularly and is indexed by a 4-char &quot;Vendor ID&quot; which is stored
+in the achVendID field of the OS/2 table.
+Registering your ID is not mandatory, but it is a good practice since some
+applications may display the type designer / type foundry contact info on some
+dialog and also because that info will be visible on Microsoft&#x27;s website:
+https://docs.microsoft.com/en-us/typography/vendors/
+This check verifies whether or not a given font&#x27;s vendor ID is registered in
+that list or if it has some of the default values used by the most common font
+editors.
+Each new FontBakery release includes a cached copy of that list of vendor IDs.
+If you registered recently, you&#x27;re safe to ignore warnings emitted by this
+check, since your ID will soon be included in one of our upcoming releases.</pre>
+
+* ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+ [code: unknown]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature?</summary>
+
+* [com.google.fonts/check/ligature_carets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets)
+<pre>--- Rationale ---
+All ligatures in a font must have corresponding caret (text cursor) positions
+defined in the GDEF table, otherwhise, users may experience issues with caret
+rendering.
+If using GlyphsApp or UFOs, ligature carets can be defined as anchors with names
+starting with &#x27;caret_&#x27;. These can be compiled with fontmake as of version
+v2.4.0.</pre>
+
+* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences?</summary>
+
+* [com.google.fonts/check/kerning_for_non_ligated_sequences](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences)
+<pre>--- Rationale ---
+Fonts with ligatures should have kerning on the corresponding non-ligated
+sequences for text where ligatures aren&#x27;t used (eg
+https://github.com/impallari/Raleway/issues/14).</pre>
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table.</summary>
+
+* [com.google.fonts/check/meta/script_lang_tags](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags)
+<pre>--- Rationale ---
+The OpenType &#x27;meta&#x27; table originated at Apple. Microsoft added it to OT with
+just two DataMap records:
+- dlng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font is designed for
+- slng: comma-separated ScriptLangTags that indicate which scripts, or languages
+and scripts, with possible variants, the font supports
+The slng structure is intended to describe which languages and scripts the font
+overall supports. For example, a Traditional Chinese font that also contains
+Latin characters, can indicate Hant,Latn, showing that it supports Hant, the
+Traditional Chinese variant of the Hani script, and it also supports the Latn
+script
+The dlng structure is far more interesting. A font may contain various glyphs,
+but only a particular subset of the glyphs may be truly &quot;leading&quot; in the design,
+while other glyphs may have been included for technical reasons. Such a
+Traditional Chinese font could only list Hant there, showing that it’s designed
+for Traditional Chinese, but the font would omit Latn, because the developers
+don’t think the font is really recommended for purely Latin-script use.
+The tags used in the structures can comprise just script, or also language and
+script. For example, if a font has Bulgarian Cyrillic alternates in the locl
+feature for the cyrl BGR OT languagesystem, it could also indicate in dlng
+explicitly that it supports bul-Cyrl. (Note that the scripts and languages in
+meta use the ISO language and script codes, not the OpenType ones).
+This check ensures that the font has the meta table containing the slng and dlng
+structures.
+All families in the Google Fonts collection should contain the &#x27;meta&#x27; table.
+Windows 10 already uses it when deciding on which fonts to fall back to. The
+Google Fonts API and also other environments could use the data for smarter
+filtering. Most importantly, those entries should be added to the Noto fonts.
+In the font making process, some environments store this data in external files
+already. But the meta table provides a convenient way to store this inside the
+font file, so some tools may add the data, and unrelated tools may read this
+data. This makes the solution much more portable and universal.</pre>
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do any segments have colinear vectors?</summary>
+
+* [com.google.fonts/check/outline_colinear_vectors](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors)
+<pre>--- Rationale ---
+This check looks for consecutive line segments which have the same angle. This
+normally happens if an outline point has been added by accident.
+This check is not run for variable fonts, as they may legitimately have colinear
+vectors.</pre>
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+	* Abreve (U+0102): L<<166.0,781.0>--<185.0,803.0>> -> L<<185.0,803.0>--<216.0,839.0>>
+	* Abreve (U+0102): L<<60.0,839.0>--<91.0,803.0>> -> L<<91.0,803.0>--<110.0,781.0>>
+	* Ebreve (U+0114): L<<166.0,781.0>--<185.0,803.0>> -> L<<185.0,803.0>--<216.0,839.0>>
+	* Ebreve (U+0114): L<<60.0,839.0>--<91.0,803.0>> -> L<<91.0,803.0>--<110.0,781.0>>
+	* Gbreve (U+011E): L<<166.0,781.0>--<185.0,803.0>> -> L<<185.0,803.0>--<216.0,839.0>>
+	* Gbreve (U+011E): L<<60.0,839.0>--<91.0,803.0>> -> L<<91.0,803.0>--<110.0,781.0>>
+	* Ibreve (U+012C): L<<166.0,781.0>--<185.0,803.0>> -> L<<185.0,803.0>--<216.0,839.0>>
+	* Ibreve (U+012C): L<<60.0,839.0>--<91.0,803.0>> -> L<<91.0,803.0>--<110.0,781.0>>
+	* Lcaron (U+013D): L<<123.0,700.0>--<123.0,699.0>> -> L<<123.0,699.0>--<125.0,570.0>>
+	* Obreve (U+014E): L<<166.0,781.0>--<185.0,803.0>> -> L<<185.0,803.0>--<216.0,839.0>> and 75 more. [code: found-colinear-vectors]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments?</summary>
+
+* [com.google.fonts/check/outline_jaggy_segments](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments)
+<pre>--- Rationale ---
+This check heuristically detects outline segments which form a particularly
+small angle, indicative of an outline error. This may cause false positives in
+cases such as extreme ink traps, so should be regarded as advisory and backed up
+by manual inspection.</pre>
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+	* M (U+004D): L<<222.0,-3.0>--<342.0,570.0>>/L<<342.0,570.0>--<342.0,0.0>> = 11.828171622918383
+	* M (U+004D): L<<77.0,0.0>--<77.0,565.0>>/L<<77.0,565.0>--<196.0,-3.0>> = 11.83272501030298
+	* V (U+0056): L<<213.0,700.0>--<149.0,103.0>>/L<<149.0,103.0>--<77.0,700.0>> = 12.995722982421416
+	* colonmonetary (U+20A1): L<<115.0,676.0>--<77.0,263.0>>/L<<77.0,263.0>--<77.0,676.0>> = 5.25696520631704
+	* oslash (U+00F8): L<<127.0,412.0>--<77.0,194.0>>/L<<77.0,194.0>--<77.0,476.0>> = 12.917812843933946
+	* oslash (U+00F8): L<<77.0,92.0>--<127.0,311.0>>/L<<127.0,311.0>--<127.0,24.0>> = 12.860793059094537
+	* oslashacute (U+01FF): L<<127.0,412.0>--<77.0,194.0>>/L<<77.0,194.0>--<77.0,476.0>> = 12.917812843933946
+	* oslashacute (U+01FF): L<<77.0,92.0>--<127.0,311.0>>/L<<127.0,311.0>--<127.0,24.0>> = 12.860793059094537
+	* zero (U+0030): L<<213.0,646.0>--<213.0,73.0>>/L<<213.0,73.0>--<94.0,646.0>> = 11.732346787462378 and zero (U+0030): L<<77.0,24.0>--<77.0,618.0>>/L<<77.0,618.0>--<200.0,24.0>> = 11.698937608802657 [code: found-jaggy-segments]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines?</summary>
+
+* [com.google.fonts/check/outline_semi_vertical](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical)
+<pre>--- Rationale ---
+This check detects line segments which are nearly, but not quite, exactly
+horizontal or vertical. Sometimes such lines are created by design, but often
+they are indicative of a design error.
+This check is disabled for italic styles, which often contain nearly-upright
+lines.</pre>
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+ * Euro (U+20AC): L<<132.0,329.0>--<275.0,330.0>>
+ * Euro (U+20AC): L<<132.0,418.0>--<275.0,419.0>>
+ * Euro (U+20AC): L<<252.0,354.0>--<132.0,353.0>>
+ * Euro (U+20AC): L<<252.0,443.0>--<132.0,442.0>>
+ * dollar (U+0024): L<<113.0,353.0>--<114.0,24.0>>
+ * g (U+0067): L<<149.0,-177.0>--<150.0,476.0>>
+ * gbreve (U+011F): L<<149.0,-177.0>--<150.0,476.0>>
+ * gcaron (U+01E7): L<<149.0,-177.0>--<150.0,476.0>>
+ * gcircumflex (U+011D): L<<149.0,-177.0>--<150.0,476.0>>
+ * gdotaccent (U+0121): L<<149.0,-177.0>--<150.0,476.0>> and 18 more. [code: found-semi-vertical]
+
+</details>
+<br>
+</details>
+<details>
 <summary><b>[15] Foldit-Thin.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
@@ -1130,8 +1874,8 @@ lines.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 18 | 3 | 25 | 285 | 19 | 272 | 0 |
-| 3% | 0% | 4% | 46% | 3% | 44% | 0% |
+| 36 | 8 | 44 | 607 | 31 | 502 | 0 |
+| 3% | 1% | 4% | 49% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
