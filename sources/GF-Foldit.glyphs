@@ -106,10 +106,7 @@ name = Weight;
 tag = wght;
 },
 {
-name = Width;
-tag = wdth;
-},
-{
+hidden = 1;
 name = Color;
 tag = colr;
 }
@@ -117,7 +114,7 @@ tag = colr;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash N NJ Nacute Ncaron Ncommaaccent Nj Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent";
 name = Uppercase;
 }
 );
@@ -367,7 +364,6 @@ fontMaster = (
 {
 axesValues = (
 100,
-75,
 0
 );
 customParameters = (
@@ -455,7 +451,6 @@ visible = 1;
 {
 axesValues = (
 800,
-125,
 0
 );
 customParameters = (
@@ -7836,245 +7831,6 @@ width = 783;
 unicode = 321;
 },
 {
-color = 0;
-glyphname = M;
-lastChange = "2022-03-12 12:48:02 +0000";
-layers = (
-{
-attr = {
-color = 1;
-};
-layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
-shapes = (
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.2296,0.0026);
-start = (0.9852,0.6189);
-};
-identifier = ID0x6000032b3f00;
-};
-closed = 1;
-nodes = (
-(53,679,l),
-(77,655,l),
-(77,0,l),
-(53,0,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-1
-)
-);
-end = (0.4877,0.9217);
-start = (0.4155,-0.0037);
-};
-identifier = ID0x6000032b3f00;
-};
-closed = 1;
-nodes = (
-(222,-3,l),
-(196,-3,l),
-(342,703,l),
-(365,680,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.4877,0.9217);
-start = (0.4155,-0.0037);
-};
-identifier = ID0x6000032b3f00;
-};
-closed = 1;
-nodes = (
-(53,679,l),
-(53,680,l),
-(76,703,l),
-(77,703,l),
-(222,-2,l),
-(222,-3,l),
-(196,-3,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-1
-)
-);
-end = (0.2296,0.0026);
-start = (0.9852,0.6189);
-};
-identifier = ID0x6000032b3f00;
-};
-closed = 1;
-nodes = (
-(342,703,l),
-(343,703,l),
-(366,679,l),
-(366,0,l),
-(342,0,l)
-);
-}
-);
-width = 419;
-},
-{
-attr = {
-color = 1;
-};
-layerId = "E87239EE-82B8-404C-B23A-53843E270889";
-shapes = (
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-1
-)
-);
-end = (0.2887,0.9217);
-start = (0.4155,-0.0037);
-};
-};
-closed = 1;
-nodes = (
-(25,736,l),
-(279,326,l),
-(279,0,l),
-(25,0,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(194,255),
-1
-)
-);
-end = (0.3182,0.0469);
-start = (0.501,0.7225);
-};
-};
-closed = 1;
-nodes = (
-(722,-6,l),
-(562,160,l),
-(907,736,l),
-(1007,465,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.3404,0.9774);
-start = (0.4155,-0.0037);
-};
-};
-closed = 1;
-nodes = (
-(25,736,l),
-(26,736,l),
-(248,736,l),
-(249,736,l),
-(722,-5,l),
-(722,-6,l),
-(463,-6,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.4877,0.9217);
-start = (0.4155,-0.0037);
-};
-};
-closed = 1;
-nodes = (
-(906,736,l),
-(907,736,l),
-(1170,736,l),
-(1160,0,l),
-(906,0,l)
-);
-}
-);
-width = 1195;
-}
-);
-metricRight = "=|";
-unicode = 77;
-},
-{
 glyphname = N;
 lastChange = "2022-03-22 12:06:44 +0000";
 layers = (
@@ -8517,245 +8273,6 @@ width = 877;
 }
 );
 unicode = 209;
-},
-{
-glyphname = Eng;
-lastChange = "2022-03-12 12:48:49 +0000";
-layers = (
-{
-attr = {
-color = 1;
-};
-layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
-shapes = (
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.9529,0.8922);
-start = (-0.0035,0.3197);
-};
-};
-closed = 1;
-nodes = (
-(260,-176,l),
-(260,-177,l),
-(236,-200,l),
-(196,-200,l),
-(196,-176,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.2296,0.0026);
-start = (0.9852,0.6189);
-};
-};
-closed = 1;
-nodes = (
-(53,679,l),
-(77,655,l),
-(77,0,l),
-(53,0,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.8068,0.953);
-start = (0.1553,0.418);
-};
-};
-closed = 1;
-nodes = (
-(260,-176,l),
-(236,-176,l),
-(236,700,l),
-(260,700,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-0.50053
-),
-(
-(191,255),
-1
-)
-);
-end = (0.4877,0.9217);
-start = (0.4155,-0.0037);
-};
-};
-closed = 1;
-nodes = (
-(53,680,l),
-(76,703,l),
-(77,703,l),
-(260,22,l),
-(260,21,l),
-(237,-3,l),
-(236,-3,l),
-(53,679,l)
-);
-}
-);
-width = 313;
-},
-{
-attr = {
-color = 1;
-};
-layerId = "E87239EE-82B8-404C-B23A-53843E270889";
-shapes = (
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.7658,0.909);
-start = (0.1245,0.1818);
-};
-};
-closed = 1;
-nodes = (
-(852,-24,l),
-(852,-25,l),
-(650,-268,l),
-(469,-268,l),
-(469,-24,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.2296,0.0026);
-start = (0.9852,0.6189);
-};
-};
-closed = 1;
-nodes = (
-(25,571,l),
-(279,345,l),
-(279,0,l),
-(25,0,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.8068,0.953);
-start = (0.1553,0.418);
-};
-};
-closed = 1;
-nodes = (
-(852,-24,l),
-(598,-24,l),
-(598,730,l),
-(852,730,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(64,255),
-0
-),
-(
-(191,255),
-1
-)
-);
-end = (0.4877,0.9217);
-start = (0.4155,-0.0037);
-};
-};
-closed = 1;
-nodes = (
-(25,572,l),
-(217,736,l),
-(218,736,l),
-(852,172,l),
-(852,171,l),
-(673,-6,l),
-(672,-6,l),
-(25,571,l)
-);
-}
-);
-width = 877;
-}
-);
-unicode = 330;
 },
 {
 color = 6;
@@ -16278,6 +15795,486 @@ width = 805;
 }
 );
 unicode = 379;
+},
+{
+color = 0;
+export = 0;
+glyphname = M;
+lastChange = "2022-04-08 16:55:40 +0000";
+layers = (
+{
+attr = {
+color = 1;
+};
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+shapes = (
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.2296,0.0026);
+start = (0.9852,0.6189);
+};
+identifier = ID0x6000032b3f00;
+};
+closed = 1;
+nodes = (
+(53,679,l),
+(77,655,l),
+(77,0,l),
+(53,0,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+1
+)
+);
+end = (0.4877,0.9217);
+start = (0.4155,-0.0037);
+};
+identifier = ID0x6000032b3f00;
+};
+closed = 1;
+nodes = (
+(222,-3,l),
+(196,-3,l),
+(342,703,l),
+(365,680,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.4877,0.9217);
+start = (0.4155,-0.0037);
+};
+identifier = ID0x6000032b3f00;
+};
+closed = 1;
+nodes = (
+(53,679,l),
+(53,680,l),
+(76,703,l),
+(77,703,l),
+(222,-2,l),
+(222,-3,l),
+(196,-3,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+1
+)
+);
+end = (0.2296,0.0026);
+start = (0.9852,0.6189);
+};
+identifier = ID0x6000032b3f00;
+};
+closed = 1;
+nodes = (
+(342,703,l),
+(343,703,l),
+(366,679,l),
+(366,0,l),
+(342,0,l)
+);
+}
+);
+width = 419;
+},
+{
+attr = {
+color = 1;
+};
+layerId = "E87239EE-82B8-404C-B23A-53843E270889";
+shapes = (
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+1
+)
+);
+end = (0.2887,0.9217);
+start = (0.4155,-0.0037);
+};
+};
+closed = 1;
+nodes = (
+(25,736,l),
+(279,326,l),
+(279,0,l),
+(25,0,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(194,255),
+1
+)
+);
+end = (0.3182,0.0469);
+start = (0.501,0.7225);
+};
+};
+closed = 1;
+nodes = (
+(722,-6,l),
+(562,160,l),
+(907,736,l),
+(1007,465,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.3404,0.9774);
+start = (0.4155,-0.0037);
+};
+};
+closed = 1;
+nodes = (
+(25,736,l),
+(26,736,l),
+(248,736,l),
+(249,736,l),
+(722,-5,l),
+(722,-6,l),
+(463,-6,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.4877,0.9217);
+start = (0.4155,-0.0037);
+};
+};
+closed = 1;
+nodes = (
+(906,736,l),
+(907,736,l),
+(1170,736,l),
+(1160,0,l),
+(906,0,l)
+);
+}
+);
+width = 1195;
+}
+);
+metricRight = "=|";
+unicode = 77;
+},
+{
+export = 0;
+glyphname = Eng;
+lastChange = "2022-04-08 16:55:53 +0000";
+layers = (
+{
+attr = {
+color = 1;
+};
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+shapes = (
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.9529,0.8922);
+start = (-0.0035,0.3197);
+};
+};
+closed = 1;
+nodes = (
+(260,-176,l),
+(260,-177,l),
+(236,-200,l),
+(196,-200,l),
+(196,-176,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.2296,0.0026);
+start = (0.9852,0.6189);
+};
+};
+closed = 1;
+nodes = (
+(53,679,l),
+(77,655,l),
+(77,0,l),
+(53,0,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.8068,0.953);
+start = (0.1553,0.418);
+};
+};
+closed = 1;
+nodes = (
+(260,-176,l),
+(236,-176,l),
+(236,700,l),
+(260,700,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+0.50053
+),
+(
+(191,255),
+1
+)
+);
+end = (0.4877,0.9217);
+start = (0.4155,-0.0037);
+};
+};
+closed = 1;
+nodes = (
+(53,680,l),
+(76,703,l),
+(77,703,l),
+(260,22,l),
+(260,21,l),
+(237,-3,l),
+(236,-3,l),
+(53,679,l)
+);
+}
+);
+width = 313;
+},
+{
+attr = {
+color = 1;
+};
+layerId = "E87239EE-82B8-404C-B23A-53843E270889";
+shapes = (
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.7658,0.909);
+start = (0.1245,0.1818);
+};
+};
+closed = 1;
+nodes = (
+(852,-24,l),
+(852,-25,l),
+(650,-268,l),
+(469,-268,l),
+(469,-24,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.2296,0.0026);
+start = (0.9852,0.6189);
+};
+};
+closed = 1;
+nodes = (
+(25,571,l),
+(279,345,l),
+(279,0,l),
+(25,0,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.8068,0.953);
+start = (0.1553,0.418);
+};
+};
+closed = 1;
+nodes = (
+(852,-24,l),
+(598,-24,l),
+(598,730,l),
+(852,730,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(64,255),
+0
+),
+(
+(191,255),
+1
+)
+);
+end = (0.4877,0.9217);
+start = (0.4155,-0.0037);
+};
+};
+closed = 1;
+nodes = (
+(25,572,l),
+(217,736,l),
+(218,736,l),
+(852,172,l),
+(852,171,l),
+(673,-6,l),
+(672,-6,l),
+(25,571,l)
+);
+}
+);
+width = 877;
+}
+);
+unicode = 330;
 },
 {
 glyphname = a;
@@ -69713,7 +69710,6 @@ instances = (
 {
 axesValues = (
 100,
-75,
 0
 );
 customParameters = (
@@ -69749,7 +69745,6 @@ widthClass = 3;
 {
 axesValues = (
 100,
-75,
 0
 );
 customParameters = (
@@ -69769,7 +69764,6 @@ widthClass = 3;
 {
 axesValues = (
 400,
-100,
 0
 );
 customParameters = (
@@ -69805,7 +69799,6 @@ name = Regular;
 {
 axesValues = (
 800,
-125,
 0
 );
 customParameters = (
@@ -69841,7 +69834,6 @@ widthClass = 7;
 {
 axesValues = (
 800,
-125,
 0
 );
 customParameters = (
@@ -69861,11 +69853,11 @@ widthClass = 7;
 {
 axesValues = (
 100,
-75,
 0
 );
 customParameters = (
 {
+disabled = 1;
 name = "Color Layers to SVG";
 value = 1;
 },
@@ -69884,11 +69876,11 @@ name = "Export COLR Table";
 value = 1;
 },
 {
+disabled = 1;
 name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };
