@@ -69870,10 +69870,12 @@ name = "Color Layers to SVG";
 value = 1;
 },
 {
+disabled = 1;
 name = "Color Palette for SVG";
 value = 0;
 },
 {
+disabled = 1;
 name = "Color Palette for CPAL";
 value = 0;
 },
@@ -69886,7 +69888,6 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
 };

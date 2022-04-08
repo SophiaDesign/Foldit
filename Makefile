@@ -1,5 +1,5 @@
-SOURCES=$(shell python3 scripts/read-config.yaml --sources )
-FAMILY=$(shell python3 scripts/read-GF-Foldit.glyphs --family )
+SOURCES=$(shell python3 scripts/read-config.py --sources )
+FAMILY=$(shell python3 scripts/read-config.py --family )
 DRAWBOT_SCRIPTS=$(shell ls documentation/*.py)
 DRAWBOT_OUTPUT=$(shell ls documentation/*.py | sed 's/\.py/.png/g')
 
