@@ -4,7 +4,7 @@ sources:
 # - GF-Foldit-Khaled-modified.glyphs
 axisOrder:
   - wght
-  - wdth
+#  - wdth
   - colr
 buildOTF: False
 # buildVariable: False
@@ -22,13 +22,13 @@ stat:
       value: 100
     - name: ExtraBold
       value: 800
-  - name: Width
-    tag: wdth
-    values:
-    - name: Condensed
-      value: 75
-    - name: Expanded
-      value: 125
+#  - name: Width
+#    tag: wdth
+#    values:
+#    - name: Condensed
+#      value: 75
+#    - name: Expanded
+#      value: 125
   - name: Color
     tag: colr
     values:
@@ -37,14 +37,14 @@ stat:
 instances:
  Foldit[wght,wdth,colr].ttf:
  - familyName: "Foldit"
-   styleName: "Thin Condensed"
+   styleName: "Thin"
    coordinates:
      wght: 100
-     wdth: 75
+#     wdth: 75
      colr: 0
  - familyName: "Foldit"
-  styleName: "ExtraBold Expanded"
+  styleName: "ExtraBold"
    coordinates:
      wght: 800
-     wdth: 125
+#     wdth: 125
      colr: 0
