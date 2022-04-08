@@ -6,7 +6,6 @@ axisOrder:
   - wght
 #  - wdth
   - colr
-buildOTF: False
 buildVariable: False
 outputDir: "../fonts"
 # ttDir: "../fonts/ttf"
