@@ -20,6 +20,8 @@ stat:
     values:
     - name: Thin
       value: 100
+    - name: Regular
+      value: 400
     - name: ExtraBold
       value: 800
 #  - name: Width
