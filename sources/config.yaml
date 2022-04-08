@@ -43,7 +43,7 @@ instances:
 #      wdth: 75
       colr: 0
   - familyName: "Foldit"
-   styleName: "ExtraBold"
+    styleName: "ExtraBold"
     coordinates:
       wght: 800
 #      wdth: 125
