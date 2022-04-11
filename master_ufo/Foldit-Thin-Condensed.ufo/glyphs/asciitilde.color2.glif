@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde.color2" format="2">
+  <advance width="294"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="53" y="282" type="line"/>
+      <point x="53" y="333" type="line"/>
+      <point x="77" y="353" type="line"/>
+      <point x="77" y="282" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

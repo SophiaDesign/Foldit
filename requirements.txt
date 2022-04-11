@@ -9,6 +9,7 @@ Brotli==1.0.9
 browserstack-local==1.2.2
 bump2version==1.0.1
 bumpfontversion==0.2.0
+cached-property==1.5.2
 cattrs==1.8.0
 certifi==2021.10.8
 cffi==1.15.0
@@ -45,6 +46,7 @@ GitPython==3.1.24
 glyphsLib==6.0.0b4
 glyphtools==0.7.4
 idna==3.3
+importlib-metadata==4.11.3
 itsdangerous==2.0.1
 Jinja2==3.0.2
 lxml==4.6.3
@@ -104,3 +106,4 @@ vttLib==0.11.0
 Werkzeug==2.0.2
 wrapt==1.13.2
 xlrd==2.0.1
+zipp==3.8.0

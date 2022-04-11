@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="997"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="859" y="423" type="line"/>
+      <point x="882" y="400" type="line"/>
+      <point x="882" y="399" type="line"/>
+      <point x="83" y="398" type="line"/>
+      <point x="83" y="399" type="line"/>
+      <point x="60" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="859" y="334" type="line"/>
+      <point x="882" y="311" type="line"/>
+      <point x="882" y="310" type="line"/>
+      <point x="83" y="309" type="line"/>
+      <point x="83" y="310" type="line"/>
+      <point x="60" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="523" type="line"/>
+      <point x="378" y="730" type="line"/>
+      <point x="379" y="730" type="line"/>
+      <point x="379" y="466" type="line"/>
+      <point x="378" y="244" type="line"/>
+      <point x="125" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="730" type="line"/>
+      <point x="972" y="487" type="line"/>
+      <point x="972" y="486" type="line"/>
+      <point x="379" y="486" type="line"/>
+      <point x="379" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="972" y="244" type="line"/>
+      <point x="972" y="243" type="line"/>
+      <point x="972" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

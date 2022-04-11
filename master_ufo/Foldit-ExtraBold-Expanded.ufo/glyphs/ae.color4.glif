@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.color4" format="2">
+  <advance width="1370"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="1345" y="328" type="line"/>
+      <point x="1132" y="221" type="line"/>
+      <point x="1131" y="221" type="line"/>
+      <point x="1131" y="351" type="line"/>
+      <point x="1345" y="351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

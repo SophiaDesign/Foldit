@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case.color2" format="2">
+  <outline>
+    <contour>
+      <point x="119" y="955" type="line"/>
+      <point x="199" y="984" type="line"/>
+      <point x="200" y="984" type="line"/>
+      <point x="488" y="917" type="line"/>
+      <point x="488" y="896" type="line"/>
+      <point x="426" y="871" type="line"/>
+      <point x="425" y="871" type="line"/>
+      <point x="119" y="944" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

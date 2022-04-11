@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE.color3" format="2">
+  <advance width="1391"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1202" y="263" type="line"/>
+      <point x="842" y="263" type="line"/>
+      <point x="842" y="467" type="line"/>
+      <point x="1202" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

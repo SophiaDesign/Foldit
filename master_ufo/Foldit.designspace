@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="100"/>
+    <axis tag="COLR" name="Color" minimum="0" maximum="0" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Foldit-Thin-Condensed.ufo" name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Foldit-ExtraBold-Expanded.ufo" name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed" filename="../instance_ufo/Foldit-Thin-Condensed.ufo" stylemapfamilyname="Foldit Thin-Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded" filename="../instance_ufo/Foldit-ExtraBold-Expanded.ufo" stylemapfamilyname="Foldit ExtraBold-Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>33AE93C6-B8B3-427A-A53B-F24970E840CE</key>
+        <dict>
+          <key>HV</key>
+          <string>24</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE.color6" format="2">
+  <advance width="423"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="220" y="24" type="line"/>
+      <point x="196" y="24" type="line"/>
+      <point x="196" y="676" type="line"/>
+      <point x="220" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark.color5" format="2">
+  <advance width="900"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="623" y="471" type="line"/>
+      <point x="413" y="738" type="line"/>
+      <point x="413" y="739" type="line"/>
+      <point x="510" y="796" type="line"/>
+      <point x="511" y="796" type="line"/>
+      <point x="767" y="472" type="line"/>
+      <point x="767" y="471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

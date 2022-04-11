@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="309" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="242" y="650" type="line"/>
+      <point x="146" y="650" type="line"/>
+      <point x="109" y="698" type="line"/>
+      <point x="109" y="700" type="line"/>
+      <point x="205" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="650" type="line"/>
+      <point x="414" y="700" type="line"/>
+      <point x="510" y="700" type="line"/>
+      <point x="510" y="699" type="line"/>
+      <point x="473" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="568" type="line"/>
+      <point x="207" y="568" type="line"/>
+      <point x="146" y="650" type="line"/>
+      <point x="473" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="816" type="line"/>
+      <point x="159" y="816" type="line"/>
+      <point x="159" y="900" type="line"/>
+      <point x="430" y="900" type="line"/>
+      <point x="467" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="716" type="line"/>
+      <point x="259" y="716" type="line"/>
+      <point x="258" y="716" type="line"/>
+      <point x="430" y="900" type="line"/>
+      <point x="467" y="817" type="line"/>
+      <point x="467" y="816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

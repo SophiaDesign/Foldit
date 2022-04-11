@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde.color2" format="2">
+  <advance width="334"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="8" y="762" type="line"/>
+      <point x="8" y="763" type="line"/>
+      <point x="107" y="802" type="line"/>
+      <point x="108" y="802" type="line"/>
+      <point x="326" y="670" type="line"/>
+      <point x="326" y="669" type="line"/>
+      <point x="228" y="630" type="line"/>
+      <point x="227" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

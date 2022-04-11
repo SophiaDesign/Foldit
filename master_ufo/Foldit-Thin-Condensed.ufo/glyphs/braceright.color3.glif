@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright.color3" format="2">
+  <advance width="212"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="159" y="284" type="line"/>
+      <point x="114" y="284" type="line"/>
+      <point x="114" y="308" type="line"/>
+      <point x="159" y="308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

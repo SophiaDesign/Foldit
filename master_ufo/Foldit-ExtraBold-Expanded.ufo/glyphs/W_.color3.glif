@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.color3" format="2">
+  <advance width="1358"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="1343" y="730" type="line"/>
+      <point x="1075" y="0" type="line"/>
+      <point x="791" y="0" type="line"/>
+      <point x="1059" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

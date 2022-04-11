@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihookabove" format="2">
+  <advance width="130"/>
+  <unicode hex="1EC9"/>
+  <outline>
+    <contour>
+      <point x="105" y="654" type="line"/>
+      <point x="28" y="654" type="line"/>
+      <point x="28" y="678" type="line"/>
+      <point x="87" y="678" type="line"/>
+      <point x="105" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="583" type="line"/>
+      <point x="49" y="583" type="line"/>
+      <point x="49" y="584" type="line"/>
+      <point x="87" y="678" type="line"/>
+      <point x="105" y="655" type="line"/>
+      <point x="105" y="654" type="line"/>
+    </contour>
+    <component base="idotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
