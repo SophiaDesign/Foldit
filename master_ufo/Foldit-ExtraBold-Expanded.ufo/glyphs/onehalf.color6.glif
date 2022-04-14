@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf.color6" format="2">
+  <advance width="979"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="650" y="29" type="line"/>
+      <point x="570" y="134" type="line"/>
+      <point x="570" y="135" type="line"/>
+      <point x="858" y="320" type="line"/>
+      <point x="938" y="215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring.color6" format="2">
+  <advance width="273"/>
+  <unicode hex="016E"/>
+  <outline>
+    <contour>
+      <point x="118" y="754" type="line"/>
+      <point x="100" y="775" type="line"/>
+      <point x="100" y="776" type="line"/>
+      <point x="155" y="776" type="line"/>
+      <point x="155" y="754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

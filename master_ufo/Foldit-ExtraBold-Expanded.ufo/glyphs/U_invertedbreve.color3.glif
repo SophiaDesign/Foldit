@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uinvertedbreve.color3" format="2">
+  <advance width="897"/>
+  <unicode hex="0216"/>
+  <outline>
+    <contour>
+      <point x="429" y="820" type="line"/>
+      <point x="372" y="760" type="line"/>
+      <point x="216" y="760" type="line"/>
+      <point x="216" y="762" type="line"/>
+      <point x="270" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

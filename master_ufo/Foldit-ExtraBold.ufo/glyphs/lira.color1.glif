@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira.color1" format="2">
+  <advance width="997"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="859" y="334" type="line"/>
+      <point x="882" y="311" type="line"/>
+      <point x="882" y="310" type="line"/>
+      <point x="83" y="309" type="line"/>
+      <point x="83" y="310" type="line"/>
+      <point x="60" y="333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

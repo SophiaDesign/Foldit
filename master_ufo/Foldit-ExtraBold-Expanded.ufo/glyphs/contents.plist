@@ -32,50 +32,374 @@
     <string>A_E_.color6.glif</string>
     <key>AEacute</key>
     <string>A_E_acute.glif</string>
+    <key>AEacute.color0</key>
+    <string>A_E_acute.color0.glif</string>
+    <key>AEacute.color1</key>
+    <string>A_E_acute.color1.glif</string>
+    <key>AEacute.color2</key>
+    <string>A_E_acute.color2.glif</string>
+    <key>AEacute.color3</key>
+    <string>A_E_acute.color3.glif</string>
+    <key>AEacute.color4</key>
+    <string>A_E_acute.color4.glif</string>
+    <key>AEacute.color5</key>
+    <string>A_E_acute.color5.glif</string>
+    <key>AEacute.color6</key>
+    <string>A_E_acute.color6.glif</string>
+    <key>AEacute.color7</key>
+    <string>A_E_acute.color7.glif</string>
     <key>Aacute</key>
     <string>A_acute.glif</string>
+    <key>Aacute.color0</key>
+    <string>A_acute.color0.glif</string>
+    <key>Aacute.color1</key>
+    <string>A_acute.color1.glif</string>
+    <key>Aacute.color2</key>
+    <string>A_acute.color2.glif</string>
+    <key>Aacute.color3</key>
+    <string>A_acute.color3.glif</string>
+    <key>Aacute.color4</key>
+    <string>A_acute.color4.glif</string>
     <key>Abreve</key>
     <string>A_breve.glif</string>
+    <key>Abreve.color0</key>
+    <string>A_breve.color0.glif</string>
+    <key>Abreve.color1</key>
+    <string>A_breve.color1.glif</string>
+    <key>Abreve.color2</key>
+    <string>A_breve.color2.glif</string>
+    <key>Abreve.color3</key>
+    <string>A_breve.color3.glif</string>
+    <key>Abreve.color4</key>
+    <string>A_breve.color4.glif</string>
+    <key>Abreve.color5</key>
+    <string>A_breve.color5.glif</string>
+    <key>Abreve.color6</key>
+    <string>A_breve.color6.glif</string>
     <key>Abreveacute</key>
     <string>A_breveacute.glif</string>
+    <key>Abreveacute.color0</key>
+    <string>A_breveacute.color0.glif</string>
+    <key>Abreveacute.color1</key>
+    <string>A_breveacute.color1.glif</string>
+    <key>Abreveacute.color2</key>
+    <string>A_breveacute.color2.glif</string>
+    <key>Abreveacute.color3</key>
+    <string>A_breveacute.color3.glif</string>
+    <key>Abreveacute.color4</key>
+    <string>A_breveacute.color4.glif</string>
+    <key>Abreveacute.color5</key>
+    <string>A_breveacute.color5.glif</string>
+    <key>Abreveacute.color6</key>
+    <string>A_breveacute.color6.glif</string>
+    <key>Abreveacute.color7</key>
+    <string>A_breveacute.color7.glif</string>
     <key>Abrevedotbelow</key>
     <string>A_brevedotbelow.glif</string>
+    <key>Abrevedotbelow.color0</key>
+    <string>A_brevedotbelow.color0.glif</string>
+    <key>Abrevedotbelow.color1</key>
+    <string>A_brevedotbelow.color1.glif</string>
+    <key>Abrevedotbelow.color2</key>
+    <string>A_brevedotbelow.color2.glif</string>
+    <key>Abrevedotbelow.color3</key>
+    <string>A_brevedotbelow.color3.glif</string>
+    <key>Abrevedotbelow.color4</key>
+    <string>A_brevedotbelow.color4.glif</string>
+    <key>Abrevedotbelow.color5</key>
+    <string>A_brevedotbelow.color5.glif</string>
+    <key>Abrevedotbelow.color6</key>
+    <string>A_brevedotbelow.color6.glif</string>
+    <key>Abrevedotbelow.color7</key>
+    <string>A_brevedotbelow.color7.glif</string>
     <key>Abrevegrave</key>
     <string>A_brevegrave.glif</string>
+    <key>Abrevegrave.color0</key>
+    <string>A_brevegrave.color0.glif</string>
+    <key>Abrevegrave.color1</key>
+    <string>A_brevegrave.color1.glif</string>
+    <key>Abrevegrave.color2</key>
+    <string>A_brevegrave.color2.glif</string>
+    <key>Abrevegrave.color3</key>
+    <string>A_brevegrave.color3.glif</string>
+    <key>Abrevegrave.color4</key>
+    <string>A_brevegrave.color4.glif</string>
+    <key>Abrevegrave.color5</key>
+    <string>A_brevegrave.color5.glif</string>
+    <key>Abrevegrave.color6</key>
+    <string>A_brevegrave.color6.glif</string>
+    <key>Abrevegrave.color7</key>
+    <string>A_brevegrave.color7.glif</string>
     <key>Abrevehookabove</key>
     <string>A_brevehookabove.glif</string>
+    <key>Abrevehookabove.color0</key>
+    <string>A_brevehookabove.color0.glif</string>
+    <key>Abrevehookabove.color1</key>
+    <string>A_brevehookabove.color1.glif</string>
+    <key>Abrevehookabove.color2</key>
+    <string>A_brevehookabove.color2.glif</string>
+    <key>Abrevehookabove.color3</key>
+    <string>A_brevehookabove.color3.glif</string>
+    <key>Abrevehookabove.color4</key>
+    <string>A_brevehookabove.color4.glif</string>
+    <key>Abrevehookabove.color5</key>
+    <string>A_brevehookabove.color5.glif</string>
+    <key>Abrevehookabove.color6</key>
+    <string>A_brevehookabove.color6.glif</string>
+    <key>Abrevehookabove.color7</key>
+    <string>A_brevehookabove.color7.glif</string>
+    <key>Abrevehookabove.color8</key>
+    <string>A_brevehookabove.color8.glif</string>
     <key>Abrevetilde</key>
     <string>A_brevetilde.glif</string>
+    <key>Abrevetilde.color0</key>
+    <string>A_brevetilde.color0.glif</string>
+    <key>Abrevetilde.color1</key>
+    <string>A_brevetilde.color1.glif</string>
+    <key>Abrevetilde.color2</key>
+    <string>A_brevetilde.color2.glif</string>
+    <key>Abrevetilde.color3</key>
+    <string>A_brevetilde.color3.glif</string>
+    <key>Abrevetilde.color4</key>
+    <string>A_brevetilde.color4.glif</string>
+    <key>Abrevetilde.color5</key>
+    <string>A_brevetilde.color5.glif</string>
+    <key>Abrevetilde.color6</key>
+    <string>A_brevetilde.color6.glif</string>
+    <key>Abrevetilde.color7</key>
+    <string>A_brevetilde.color7.glif</string>
+    <key>Abrevetilde.color8</key>
+    <string>A_brevetilde.color8.glif</string>
+    <key>Abrevetilde.color9</key>
+    <string>A_brevetilde.color9.glif</string>
     <key>Acircumflex</key>
     <string>A_circumflex.glif</string>
+    <key>Acircumflex.color0</key>
+    <string>A_circumflex.color0.glif</string>
+    <key>Acircumflex.color1</key>
+    <string>A_circumflex.color1.glif</string>
+    <key>Acircumflex.color2</key>
+    <string>A_circumflex.color2.glif</string>
+    <key>Acircumflex.color3</key>
+    <string>A_circumflex.color3.glif</string>
+    <key>Acircumflex.color4</key>
+    <string>A_circumflex.color4.glif</string>
+    <key>Acircumflex.color5</key>
+    <string>A_circumflex.color5.glif</string>
     <key>Acircumflexacute</key>
     <string>A_circumflexacute.glif</string>
+    <key>Acircumflexacute.color0</key>
+    <string>A_circumflexacute.color0.glif</string>
+    <key>Acircumflexacute.color1</key>
+    <string>A_circumflexacute.color1.glif</string>
+    <key>Acircumflexacute.color2</key>
+    <string>A_circumflexacute.color2.glif</string>
+    <key>Acircumflexacute.color3</key>
+    <string>A_circumflexacute.color3.glif</string>
+    <key>Acircumflexacute.color4</key>
+    <string>A_circumflexacute.color4.glif</string>
+    <key>Acircumflexacute.color5</key>
+    <string>A_circumflexacute.color5.glif</string>
+    <key>Acircumflexacute.color6</key>
+    <string>A_circumflexacute.color6.glif</string>
     <key>Acircumflexdotbelow</key>
     <string>A_circumflexdotbelow.glif</string>
+    <key>Acircumflexdotbelow.color0</key>
+    <string>A_circumflexdotbelow.color0.glif</string>
+    <key>Acircumflexdotbelow.color1</key>
+    <string>A_circumflexdotbelow.color1.glif</string>
+    <key>Acircumflexdotbelow.color2</key>
+    <string>A_circumflexdotbelow.color2.glif</string>
+    <key>Acircumflexdotbelow.color3</key>
+    <string>A_circumflexdotbelow.color3.glif</string>
+    <key>Acircumflexdotbelow.color4</key>
+    <string>A_circumflexdotbelow.color4.glif</string>
+    <key>Acircumflexdotbelow.color5</key>
+    <string>A_circumflexdotbelow.color5.glif</string>
+    <key>Acircumflexdotbelow.color6</key>
+    <string>A_circumflexdotbelow.color6.glif</string>
     <key>Acircumflexgrave</key>
     <string>A_circumflexgrave.glif</string>
+    <key>Acircumflexgrave.color0</key>
+    <string>A_circumflexgrave.color0.glif</string>
+    <key>Acircumflexgrave.color1</key>
+    <string>A_circumflexgrave.color1.glif</string>
+    <key>Acircumflexgrave.color2</key>
+    <string>A_circumflexgrave.color2.glif</string>
+    <key>Acircumflexgrave.color3</key>
+    <string>A_circumflexgrave.color3.glif</string>
+    <key>Acircumflexgrave.color4</key>
+    <string>A_circumflexgrave.color4.glif</string>
+    <key>Acircumflexgrave.color5</key>
+    <string>A_circumflexgrave.color5.glif</string>
+    <key>Acircumflexgrave.color6</key>
+    <string>A_circumflexgrave.color6.glif</string>
     <key>Acircumflexhookabove</key>
     <string>A_circumflexhookabove.glif</string>
+    <key>Acircumflexhookabove.color0</key>
+    <string>A_circumflexhookabove.color0.glif</string>
+    <key>Acircumflexhookabove.color1</key>
+    <string>A_circumflexhookabove.color1.glif</string>
+    <key>Acircumflexhookabove.color2</key>
+    <string>A_circumflexhookabove.color2.glif</string>
+    <key>Acircumflexhookabove.color3</key>
+    <string>A_circumflexhookabove.color3.glif</string>
+    <key>Acircumflexhookabove.color4</key>
+    <string>A_circumflexhookabove.color4.glif</string>
+    <key>Acircumflexhookabove.color5</key>
+    <string>A_circumflexhookabove.color5.glif</string>
+    <key>Acircumflexhookabove.color6</key>
+    <string>A_circumflexhookabove.color6.glif</string>
+    <key>Acircumflexhookabove.color7</key>
+    <string>A_circumflexhookabove.color7.glif</string>
     <key>Acircumflextilde</key>
     <string>A_circumflextilde.glif</string>
+    <key>Acircumflextilde.color0</key>
+    <string>A_circumflextilde.color0.glif</string>
+    <key>Acircumflextilde.color1</key>
+    <string>A_circumflextilde.color1.glif</string>
+    <key>Acircumflextilde.color2</key>
+    <string>A_circumflextilde.color2.glif</string>
+    <key>Acircumflextilde.color3</key>
+    <string>A_circumflextilde.color3.glif</string>
+    <key>Acircumflextilde.color4</key>
+    <string>A_circumflextilde.color4.glif</string>
+    <key>Acircumflextilde.color5</key>
+    <string>A_circumflextilde.color5.glif</string>
+    <key>Acircumflextilde.color6</key>
+    <string>A_circumflextilde.color6.glif</string>
+    <key>Acircumflextilde.color7</key>
+    <string>A_circumflextilde.color7.glif</string>
+    <key>Acircumflextilde.color8</key>
+    <string>A_circumflextilde.color8.glif</string>
     <key>Adblgrave</key>
     <string>A_dblgrave.glif</string>
+    <key>Adblgrave.color0</key>
+    <string>A_dblgrave.color0.glif</string>
+    <key>Adblgrave.color1</key>
+    <string>A_dblgrave.color1.glif</string>
+    <key>Adblgrave.color2</key>
+    <string>A_dblgrave.color2.glif</string>
+    <key>Adblgrave.color3</key>
+    <string>A_dblgrave.color3.glif</string>
+    <key>Adblgrave.color4</key>
+    <string>A_dblgrave.color4.glif</string>
+    <key>Adblgrave.color5</key>
+    <string>A_dblgrave.color5.glif</string>
     <key>Adieresis</key>
     <string>A_dieresis.glif</string>
+    <key>Adieresis.color0</key>
+    <string>A_dieresis.color0.glif</string>
+    <key>Adieresis.color1</key>
+    <string>A_dieresis.color1.glif</string>
+    <key>Adieresis.color2</key>
+    <string>A_dieresis.color2.glif</string>
+    <key>Adieresis.color3</key>
+    <string>A_dieresis.color3.glif</string>
+    <key>Adieresis.color4</key>
+    <string>A_dieresis.color4.glif</string>
+    <key>Adieresis.color5</key>
+    <string>A_dieresis.color5.glif</string>
     <key>Adotbelow</key>
     <string>A_dotbelow.glif</string>
+    <key>Adotbelow.color0</key>
+    <string>A_dotbelow.color0.glif</string>
+    <key>Adotbelow.color1</key>
+    <string>A_dotbelow.color1.glif</string>
+    <key>Adotbelow.color2</key>
+    <string>A_dotbelow.color2.glif</string>
+    <key>Adotbelow.color3</key>
+    <string>A_dotbelow.color3.glif</string>
+    <key>Adotbelow.color4</key>
+    <string>A_dotbelow.color4.glif</string>
     <key>Agrave</key>
     <string>A_grave.glif</string>
+    <key>Agrave.color0</key>
+    <string>A_grave.color0.glif</string>
+    <key>Agrave.color1</key>
+    <string>A_grave.color1.glif</string>
+    <key>Agrave.color2</key>
+    <string>A_grave.color2.glif</string>
+    <key>Agrave.color3</key>
+    <string>A_grave.color3.glif</string>
+    <key>Agrave.color4</key>
+    <string>A_grave.color4.glif</string>
     <key>Ahookabove</key>
     <string>A_hookabove.glif</string>
+    <key>Ahookabove.color0</key>
+    <string>A_hookabove.color0.glif</string>
+    <key>Ahookabove.color1</key>
+    <string>A_hookabove.color1.glif</string>
+    <key>Ahookabove.color2</key>
+    <string>A_hookabove.color2.glif</string>
+    <key>Ahookabove.color3</key>
+    <string>A_hookabove.color3.glif</string>
+    <key>Ahookabove.color4</key>
+    <string>A_hookabove.color4.glif</string>
+    <key>Ahookabove.color5</key>
+    <string>A_hookabove.color5.glif</string>
     <key>Ainvertedbreve</key>
     <string>A_invertedbreve.glif</string>
+    <key>Ainvertedbreve.color0</key>
+    <string>A_invertedbreve.color0.glif</string>
+    <key>Ainvertedbreve.color1</key>
+    <string>A_invertedbreve.color1.glif</string>
+    <key>Ainvertedbreve.color2</key>
+    <string>A_invertedbreve.color2.glif</string>
+    <key>Ainvertedbreve.color3</key>
+    <string>A_invertedbreve.color3.glif</string>
+    <key>Ainvertedbreve.color4</key>
+    <string>A_invertedbreve.color4.glif</string>
+    <key>Ainvertedbreve.color5</key>
+    <string>A_invertedbreve.color5.glif</string>
+    <key>Ainvertedbreve.color6</key>
+    <string>A_invertedbreve.color6.glif</string>
     <key>Amacron</key>
     <string>A_macron.glif</string>
+    <key>Amacron.color0</key>
+    <string>A_macron.color0.glif</string>
+    <key>Amacron.color1</key>
+    <string>A_macron.color1.glif</string>
+    <key>Amacron.color2</key>
+    <string>A_macron.color2.glif</string>
+    <key>Amacron.color3</key>
+    <string>A_macron.color3.glif</string>
+    <key>Amacron.color4</key>
+    <string>A_macron.color4.glif</string>
     <key>Aogonek</key>
     <string>A_ogonek.glif</string>
+    <key>Aogonek.color0</key>
+    <string>A_ogonek.color0.glif</string>
+    <key>Aogonek.color1</key>
+    <string>A_ogonek.color1.glif</string>
+    <key>Aogonek.color2</key>
+    <string>A_ogonek.color2.glif</string>
+    <key>Aogonek.color3</key>
+    <string>A_ogonek.color3.glif</string>
+    <key>Aogonek.color4</key>
+    <string>A_ogonek.color4.glif</string>
+    <key>Aogonek.color5</key>
+    <string>A_ogonek.color5.glif</string>
+    <key>Aogonek.color6</key>
+    <string>A_ogonek.color6.glif</string>
     <key>Aring</key>
     <string>A_ring.glif</string>
+    <key>Aring.color0</key>
+    <string>A_ring.color0.glif</string>
+    <key>Aring.color1</key>
+    <string>A_ring.color1.glif</string>
+    <key>Aring.color2</key>
+    <string>A_ring.color2.glif</string>
+    <key>Aring.color3</key>
+    <string>A_ring.color3.glif</string>
+    <key>Aring.color4</key>
+    <string>A_ring.color4.glif</string>
+    <key>Aring.color5</key>
+    <string>A_ring.color5.glif</string>
+    <key>Aring.color6</key>
+    <string>A_ring.color6.glif</string>
+    <key>Aring.color7</key>
+    <string>A_ring.color7.glif</string>
     <key>Aringacute</key>
     <string>A_ringacute.glif</string>
     <key>Aringacute.color0</key>
@@ -88,8 +412,30 @@
     <string>A_ringacute.color3.glif</string>
     <key>Aringacute.color4</key>
     <string>A_ringacute.color4.glif</string>
+    <key>Aringacute.color5</key>
+    <string>A_ringacute.color5.glif</string>
+    <key>Aringacute.color6</key>
+    <string>A_ringacute.color6.glif</string>
+    <key>Aringacute.color7</key>
+    <string>A_ringacute.color7.glif</string>
+    <key>Aringacute.color8</key>
+    <string>A_ringacute.color8.glif</string>
     <key>Atilde</key>
     <string>A_tilde.glif</string>
+    <key>Atilde.color0</key>
+    <string>A_tilde.color0.glif</string>
+    <key>Atilde.color1</key>
+    <string>A_tilde.color1.glif</string>
+    <key>Atilde.color2</key>
+    <string>A_tilde.color2.glif</string>
+    <key>Atilde.color3</key>
+    <string>A_tilde.color3.glif</string>
+    <key>Atilde.color4</key>
+    <string>A_tilde.color4.glif</string>
+    <key>Atilde.color5</key>
+    <string>A_tilde.color5.glif</string>
+    <key>Atilde.color6</key>
+    <string>A_tilde.color6.glif</string>
     <key>B</key>
     <string>B_.glif</string>
     <key>B.color0</key>
@@ -114,14 +460,64 @@
     <string>C_.color2.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
+    <key>Cacute.color0</key>
+    <string>C_acute.color0.glif</string>
+    <key>Cacute.color1</key>
+    <string>C_acute.color1.glif</string>
+    <key>Cacute.color2</key>
+    <string>C_acute.color2.glif</string>
+    <key>Cacute.color3</key>
+    <string>C_acute.color3.glif</string>
     <key>Ccaron</key>
     <string>C_caron.glif</string>
+    <key>Ccaron.color0</key>
+    <string>C_caron.color0.glif</string>
+    <key>Ccaron.color1</key>
+    <string>C_caron.color1.glif</string>
+    <key>Ccaron.color2</key>
+    <string>C_caron.color2.glif</string>
+    <key>Ccaron.color3</key>
+    <string>C_caron.color3.glif</string>
+    <key>Ccaron.color4</key>
+    <string>C_caron.color4.glif</string>
     <key>Ccedilla</key>
     <string>C_cedilla.glif</string>
+    <key>Ccedilla.color0</key>
+    <string>C_cedilla.color0.glif</string>
+    <key>Ccedilla.color1</key>
+    <string>C_cedilla.color1.glif</string>
+    <key>Ccedilla.color2</key>
+    <string>C_cedilla.color2.glif</string>
+    <key>Ccedilla.color3</key>
+    <string>C_cedilla.color3.glif</string>
+    <key>Ccedilla.color4</key>
+    <string>C_cedilla.color4.glif</string>
+    <key>Ccedilla.color5</key>
+    <string>C_cedilla.color5.glif</string>
+    <key>Ccedilla.color6</key>
+    <string>C_cedilla.color6.glif</string>
     <key>Ccircumflex</key>
     <string>C_circumflex.glif</string>
+    <key>Ccircumflex.color0</key>
+    <string>C_circumflex.color0.glif</string>
+    <key>Ccircumflex.color1</key>
+    <string>C_circumflex.color1.glif</string>
+    <key>Ccircumflex.color2</key>
+    <string>C_circumflex.color2.glif</string>
+    <key>Ccircumflex.color3</key>
+    <string>C_circumflex.color3.glif</string>
+    <key>Ccircumflex.color4</key>
+    <string>C_circumflex.color4.glif</string>
     <key>Cdotaccent</key>
     <string>C_dotaccent.glif</string>
+    <key>Cdotaccent.color0</key>
+    <string>C_dotaccent.color0.glif</string>
+    <key>Cdotaccent.color1</key>
+    <string>C_dotaccent.color1.glif</string>
+    <key>Cdotaccent.color2</key>
+    <string>C_dotaccent.color2.glif</string>
+    <key>Cdotaccent.color3</key>
+    <string>C_dotaccent.color3.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>D.color0</key>
@@ -134,12 +530,70 @@
     <string>D_.color3.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>DZcaron.color0</key>
+    <string>D_Z_caron.color0.glif</string>
+    <key>DZcaron.color1</key>
+    <string>D_Z_caron.color1.glif</string>
+    <key>DZcaron.color2</key>
+    <string>D_Z_caron.color2.glif</string>
+    <key>DZcaron.color3</key>
+    <string>D_Z_caron.color3.glif</string>
+    <key>DZcaron.color4</key>
+    <string>D_Z_caron.color4.glif</string>
+    <key>DZcaron.color5</key>
+    <string>D_Z_caron.color5.glif</string>
+    <key>DZcaron.color6</key>
+    <string>D_Z_caron.color6.glif</string>
+    <key>DZcaron.color7</key>
+    <string>D_Z_caron.color7.glif</string>
+    <key>DZcaron.color8</key>
+    <string>D_Z_caron.color8.glif</string>
     <key>Dcaron</key>
     <string>D_caron.glif</string>
+    <key>Dcaron.color0</key>
+    <string>D_caron.color0.glif</string>
+    <key>Dcaron.color1</key>
+    <string>D_caron.color1.glif</string>
+    <key>Dcaron.color2</key>
+    <string>D_caron.color2.glif</string>
+    <key>Dcaron.color3</key>
+    <string>D_caron.color3.glif</string>
+    <key>Dcaron.color4</key>
+    <string>D_caron.color4.glif</string>
+    <key>Dcaron.color5</key>
+    <string>D_caron.color5.glif</string>
     <key>Dcroat</key>
     <string>D_croat.glif</string>
+    <key>Dcroat.color0</key>
+    <string>D_croat.color0.glif</string>
+    <key>Dcroat.color1</key>
+    <string>D_croat.color1.glif</string>
+    <key>Dcroat.color2</key>
+    <string>D_croat.color2.glif</string>
+    <key>Dcroat.color3</key>
+    <string>D_croat.color3.glif</string>
+    <key>Dcroat.color4</key>
+    <string>D_croat.color4.glif</string>
     <key>Dzcaron</key>
     <string>D_zcaron.glif</string>
+    <key>Dzcaron.color0</key>
+    <string>D_zcaron.color0.glif</string>
+    <key>Dzcaron.color1</key>
+    <string>D_zcaron.color1.glif</string>
+    <key>Dzcaron.color2</key>
+    <string>D_zcaron.color2.glif</string>
+    <key>Dzcaron.color3</key>
+    <string>D_zcaron.color3.glif</string>
+    <key>Dzcaron.color4</key>
+    <string>D_zcaron.color4.glif</string>
+    <key>Dzcaron.color5</key>
+    <string>D_zcaron.color5.glif</string>
+    <key>Dzcaron.color6</key>
+    <string>D_zcaron.color6.glif</string>
+    <key>Dzcaron.color7</key>
+    <string>D_zcaron.color7.glif</string>
+    <key>Dzcaron.color8</key>
+    <string>D_zcaron.color8.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>E.color0</key>
@@ -152,38 +606,252 @@
     <string>E_.color3.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
+    <key>Eacute.color0</key>
+    <string>E_acute.color0.glif</string>
+    <key>Eacute.color1</key>
+    <string>E_acute.color1.glif</string>
+    <key>Eacute.color2</key>
+    <string>E_acute.color2.glif</string>
+    <key>Eacute.color3</key>
+    <string>E_acute.color3.glif</string>
+    <key>Eacute.color4</key>
+    <string>E_acute.color4.glif</string>
     <key>Ebreve</key>
     <string>E_breve.glif</string>
+    <key>Ebreve.color0</key>
+    <string>E_breve.color0.glif</string>
+    <key>Ebreve.color1</key>
+    <string>E_breve.color1.glif</string>
+    <key>Ebreve.color2</key>
+    <string>E_breve.color2.glif</string>
+    <key>Ebreve.color3</key>
+    <string>E_breve.color3.glif</string>
+    <key>Ebreve.color4</key>
+    <string>E_breve.color4.glif</string>
+    <key>Ebreve.color5</key>
+    <string>E_breve.color5.glif</string>
+    <key>Ebreve.color6</key>
+    <string>E_breve.color6.glif</string>
     <key>Ecaron</key>
     <string>E_caron.glif</string>
+    <key>Ecaron.color0</key>
+    <string>E_caron.color0.glif</string>
+    <key>Ecaron.color1</key>
+    <string>E_caron.color1.glif</string>
+    <key>Ecaron.color2</key>
+    <string>E_caron.color2.glif</string>
+    <key>Ecaron.color3</key>
+    <string>E_caron.color3.glif</string>
+    <key>Ecaron.color4</key>
+    <string>E_caron.color4.glif</string>
+    <key>Ecaron.color5</key>
+    <string>E_caron.color5.glif</string>
     <key>Ecircumflex</key>
     <string>E_circumflex.glif</string>
+    <key>Ecircumflex.color0</key>
+    <string>E_circumflex.color0.glif</string>
+    <key>Ecircumflex.color1</key>
+    <string>E_circumflex.color1.glif</string>
+    <key>Ecircumflex.color2</key>
+    <string>E_circumflex.color2.glif</string>
+    <key>Ecircumflex.color3</key>
+    <string>E_circumflex.color3.glif</string>
+    <key>Ecircumflex.color4</key>
+    <string>E_circumflex.color4.glif</string>
+    <key>Ecircumflex.color5</key>
+    <string>E_circumflex.color5.glif</string>
     <key>Ecircumflexacute</key>
     <string>E_circumflexacute.glif</string>
+    <key>Ecircumflexacute.color0</key>
+    <string>E_circumflexacute.color0.glif</string>
+    <key>Ecircumflexacute.color1</key>
+    <string>E_circumflexacute.color1.glif</string>
+    <key>Ecircumflexacute.color2</key>
+    <string>E_circumflexacute.color2.glif</string>
+    <key>Ecircumflexacute.color3</key>
+    <string>E_circumflexacute.color3.glif</string>
+    <key>Ecircumflexacute.color4</key>
+    <string>E_circumflexacute.color4.glif</string>
+    <key>Ecircumflexacute.color5</key>
+    <string>E_circumflexacute.color5.glif</string>
+    <key>Ecircumflexacute.color6</key>
+    <string>E_circumflexacute.color6.glif</string>
     <key>Ecircumflexdotbelow</key>
     <string>E_circumflexdotbelow.glif</string>
+    <key>Ecircumflexdotbelow.color0</key>
+    <string>E_circumflexdotbelow.color0.glif</string>
+    <key>Ecircumflexdotbelow.color1</key>
+    <string>E_circumflexdotbelow.color1.glif</string>
+    <key>Ecircumflexdotbelow.color2</key>
+    <string>E_circumflexdotbelow.color2.glif</string>
+    <key>Ecircumflexdotbelow.color3</key>
+    <string>E_circumflexdotbelow.color3.glif</string>
+    <key>Ecircumflexdotbelow.color4</key>
+    <string>E_circumflexdotbelow.color4.glif</string>
+    <key>Ecircumflexdotbelow.color5</key>
+    <string>E_circumflexdotbelow.color5.glif</string>
+    <key>Ecircumflexdotbelow.color6</key>
+    <string>E_circumflexdotbelow.color6.glif</string>
     <key>Ecircumflexgrave</key>
     <string>E_circumflexgrave.glif</string>
+    <key>Ecircumflexgrave.color0</key>
+    <string>E_circumflexgrave.color0.glif</string>
+    <key>Ecircumflexgrave.color1</key>
+    <string>E_circumflexgrave.color1.glif</string>
+    <key>Ecircumflexgrave.color2</key>
+    <string>E_circumflexgrave.color2.glif</string>
+    <key>Ecircumflexgrave.color3</key>
+    <string>E_circumflexgrave.color3.glif</string>
+    <key>Ecircumflexgrave.color4</key>
+    <string>E_circumflexgrave.color4.glif</string>
+    <key>Ecircumflexgrave.color5</key>
+    <string>E_circumflexgrave.color5.glif</string>
+    <key>Ecircumflexgrave.color6</key>
+    <string>E_circumflexgrave.color6.glif</string>
     <key>Ecircumflexhookabove</key>
     <string>E_circumflexhookabove.glif</string>
+    <key>Ecircumflexhookabove.color0</key>
+    <string>E_circumflexhookabove.color0.glif</string>
+    <key>Ecircumflexhookabove.color1</key>
+    <string>E_circumflexhookabove.color1.glif</string>
+    <key>Ecircumflexhookabove.color2</key>
+    <string>E_circumflexhookabove.color2.glif</string>
+    <key>Ecircumflexhookabove.color3</key>
+    <string>E_circumflexhookabove.color3.glif</string>
+    <key>Ecircumflexhookabove.color4</key>
+    <string>E_circumflexhookabove.color4.glif</string>
+    <key>Ecircumflexhookabove.color5</key>
+    <string>E_circumflexhookabove.color5.glif</string>
+    <key>Ecircumflexhookabove.color6</key>
+    <string>E_circumflexhookabove.color6.glif</string>
+    <key>Ecircumflexhookabove.color7</key>
+    <string>E_circumflexhookabove.color7.glif</string>
     <key>Ecircumflextilde</key>
     <string>E_circumflextilde.glif</string>
+    <key>Ecircumflextilde.color0</key>
+    <string>E_circumflextilde.color0.glif</string>
+    <key>Ecircumflextilde.color1</key>
+    <string>E_circumflextilde.color1.glif</string>
+    <key>Ecircumflextilde.color2</key>
+    <string>E_circumflextilde.color2.glif</string>
+    <key>Ecircumflextilde.color3</key>
+    <string>E_circumflextilde.color3.glif</string>
+    <key>Ecircumflextilde.color4</key>
+    <string>E_circumflextilde.color4.glif</string>
+    <key>Ecircumflextilde.color5</key>
+    <string>E_circumflextilde.color5.glif</string>
+    <key>Ecircumflextilde.color6</key>
+    <string>E_circumflextilde.color6.glif</string>
+    <key>Ecircumflextilde.color7</key>
+    <string>E_circumflextilde.color7.glif</string>
+    <key>Ecircumflextilde.color8</key>
+    <string>E_circumflextilde.color8.glif</string>
     <key>Edblgrave</key>
     <string>E_dblgrave.glif</string>
+    <key>Edblgrave.color0</key>
+    <string>E_dblgrave.color0.glif</string>
+    <key>Edblgrave.color1</key>
+    <string>E_dblgrave.color1.glif</string>
+    <key>Edblgrave.color2</key>
+    <string>E_dblgrave.color2.glif</string>
+    <key>Edblgrave.color3</key>
+    <string>E_dblgrave.color3.glif</string>
+    <key>Edblgrave.color4</key>
+    <string>E_dblgrave.color4.glif</string>
+    <key>Edblgrave.color5</key>
+    <string>E_dblgrave.color5.glif</string>
     <key>Edieresis</key>
     <string>E_dieresis.glif</string>
+    <key>Edieresis.color0</key>
+    <string>E_dieresis.color0.glif</string>
+    <key>Edieresis.color1</key>
+    <string>E_dieresis.color1.glif</string>
+    <key>Edieresis.color2</key>
+    <string>E_dieresis.color2.glif</string>
+    <key>Edieresis.color3</key>
+    <string>E_dieresis.color3.glif</string>
+    <key>Edieresis.color4</key>
+    <string>E_dieresis.color4.glif</string>
+    <key>Edieresis.color5</key>
+    <string>E_dieresis.color5.glif</string>
     <key>Edotaccent</key>
     <string>E_dotaccent.glif</string>
+    <key>Edotaccent.color0</key>
+    <string>E_dotaccent.color0.glif</string>
+    <key>Edotaccent.color1</key>
+    <string>E_dotaccent.color1.glif</string>
+    <key>Edotaccent.color2</key>
+    <string>E_dotaccent.color2.glif</string>
+    <key>Edotaccent.color3</key>
+    <string>E_dotaccent.color3.glif</string>
+    <key>Edotaccent.color4</key>
+    <string>E_dotaccent.color4.glif</string>
     <key>Edotbelow</key>
     <string>E_dotbelow.glif</string>
+    <key>Edotbelow.color0</key>
+    <string>E_dotbelow.color0.glif</string>
+    <key>Edotbelow.color1</key>
+    <string>E_dotbelow.color1.glif</string>
+    <key>Edotbelow.color2</key>
+    <string>E_dotbelow.color2.glif</string>
+    <key>Edotbelow.color3</key>
+    <string>E_dotbelow.color3.glif</string>
+    <key>Edotbelow.color4</key>
+    <string>E_dotbelow.color4.glif</string>
     <key>Egrave</key>
     <string>E_grave.glif</string>
+    <key>Egrave.color0</key>
+    <string>E_grave.color0.glif</string>
+    <key>Egrave.color1</key>
+    <string>E_grave.color1.glif</string>
+    <key>Egrave.color2</key>
+    <string>E_grave.color2.glif</string>
+    <key>Egrave.color3</key>
+    <string>E_grave.color3.glif</string>
+    <key>Egrave.color4</key>
+    <string>E_grave.color4.glif</string>
     <key>Ehookabove</key>
     <string>E_hookabove.glif</string>
+    <key>Ehookabove.color0</key>
+    <string>E_hookabove.color0.glif</string>
+    <key>Ehookabove.color1</key>
+    <string>E_hookabove.color1.glif</string>
+    <key>Ehookabove.color2</key>
+    <string>E_hookabove.color2.glif</string>
+    <key>Ehookabove.color3</key>
+    <string>E_hookabove.color3.glif</string>
+    <key>Ehookabove.color4</key>
+    <string>E_hookabove.color4.glif</string>
+    <key>Ehookabove.color5</key>
+    <string>E_hookabove.color5.glif</string>
     <key>Einvertedbreve</key>
     <string>E_invertedbreve.glif</string>
+    <key>Einvertedbreve.color0</key>
+    <string>E_invertedbreve.color0.glif</string>
+    <key>Einvertedbreve.color1</key>
+    <string>E_invertedbreve.color1.glif</string>
+    <key>Einvertedbreve.color2</key>
+    <string>E_invertedbreve.color2.glif</string>
+    <key>Einvertedbreve.color3</key>
+    <string>E_invertedbreve.color3.glif</string>
+    <key>Einvertedbreve.color4</key>
+    <string>E_invertedbreve.color4.glif</string>
+    <key>Einvertedbreve.color5</key>
+    <string>E_invertedbreve.color5.glif</string>
+    <key>Einvertedbreve.color6</key>
+    <string>E_invertedbreve.color6.glif</string>
     <key>Emacron</key>
     <string>E_macron.glif</string>
+    <key>Emacron.color0</key>
+    <string>E_macron.color0.glif</string>
+    <key>Emacron.color1</key>
+    <string>E_macron.color1.glif</string>
+    <key>Emacron.color2</key>
+    <string>E_macron.color2.glif</string>
+    <key>Emacron.color3</key>
+    <string>E_macron.color3.glif</string>
+    <key>Emacron.color4</key>
+    <string>E_macron.color4.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
     <key>Eng.color0</key>
@@ -196,10 +864,48 @@
     <string>E_ng.color3.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
+    <key>Eogonek.color0</key>
+    <string>E_ogonek.color0.glif</string>
+    <key>Eogonek.color1</key>
+    <string>E_ogonek.color1.glif</string>
+    <key>Eogonek.color2</key>
+    <string>E_ogonek.color2.glif</string>
+    <key>Eogonek.color3</key>
+    <string>E_ogonek.color3.glif</string>
+    <key>Eogonek.color4</key>
+    <string>E_ogonek.color4.glif</string>
+    <key>Eogonek.color5</key>
+    <string>E_ogonek.color5.glif</string>
+    <key>Eogonek.color6</key>
+    <string>E_ogonek.color6.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>Eth.color0</key>
+    <string>E_th.color0.glif</string>
+    <key>Eth.color1</key>
+    <string>E_th.color1.glif</string>
+    <key>Eth.color2</key>
+    <string>E_th.color2.glif</string>
+    <key>Eth.color3</key>
+    <string>E_th.color3.glif</string>
+    <key>Eth.color4</key>
+    <string>E_th.color4.glif</string>
     <key>Etilde</key>
     <string>E_tilde.glif</string>
+    <key>Etilde.color0</key>
+    <string>E_tilde.color0.glif</string>
+    <key>Etilde.color1</key>
+    <string>E_tilde.color1.glif</string>
+    <key>Etilde.color2</key>
+    <string>E_tilde.color2.glif</string>
+    <key>Etilde.color3</key>
+    <string>E_tilde.color3.glif</string>
+    <key>Etilde.color4</key>
+    <string>E_tilde.color4.glif</string>
+    <key>Etilde.color5</key>
+    <string>E_tilde.color5.glif</string>
+    <key>Etilde.color6</key>
+    <string>E_tilde.color6.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>F.color0</key>
@@ -224,14 +930,82 @@
     <string>G_.color4.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
+    <key>Gbreve.color0</key>
+    <string>G_breve.color0.glif</string>
+    <key>Gbreve.color1</key>
+    <string>G_breve.color1.glif</string>
+    <key>Gbreve.color2</key>
+    <string>G_breve.color2.glif</string>
+    <key>Gbreve.color3</key>
+    <string>G_breve.color3.glif</string>
+    <key>Gbreve.color4</key>
+    <string>G_breve.color4.glif</string>
+    <key>Gbreve.color5</key>
+    <string>G_breve.color5.glif</string>
+    <key>Gbreve.color6</key>
+    <string>G_breve.color6.glif</string>
+    <key>Gbreve.color7</key>
+    <string>G_breve.color7.glif</string>
     <key>Gcaron</key>
     <string>G_caron.glif</string>
+    <key>Gcaron.color0</key>
+    <string>G_caron.color0.glif</string>
+    <key>Gcaron.color1</key>
+    <string>G_caron.color1.glif</string>
+    <key>Gcaron.color2</key>
+    <string>G_caron.color2.glif</string>
+    <key>Gcaron.color3</key>
+    <string>G_caron.color3.glif</string>
+    <key>Gcaron.color4</key>
+    <string>G_caron.color4.glif</string>
+    <key>Gcaron.color5</key>
+    <string>G_caron.color5.glif</string>
+    <key>Gcaron.color6</key>
+    <string>G_caron.color6.glif</string>
     <key>Gcircumflex</key>
     <string>G_circumflex.glif</string>
+    <key>Gcircumflex.color0</key>
+    <string>G_circumflex.color0.glif</string>
+    <key>Gcircumflex.color1</key>
+    <string>G_circumflex.color1.glif</string>
+    <key>Gcircumflex.color2</key>
+    <string>G_circumflex.color2.glif</string>
+    <key>Gcircumflex.color3</key>
+    <string>G_circumflex.color3.glif</string>
+    <key>Gcircumflex.color4</key>
+    <string>G_circumflex.color4.glif</string>
+    <key>Gcircumflex.color5</key>
+    <string>G_circumflex.color5.glif</string>
+    <key>Gcircumflex.color6</key>
+    <string>G_circumflex.color6.glif</string>
     <key>Gcommaaccent</key>
     <string>G_commaaccent.glif</string>
+    <key>Gcommaaccent.color0</key>
+    <string>G_commaaccent.color0.glif</string>
+    <key>Gcommaaccent.color1</key>
+    <string>G_commaaccent.color1.glif</string>
+    <key>Gcommaaccent.color2</key>
+    <string>G_commaaccent.color2.glif</string>
+    <key>Gcommaaccent.color3</key>
+    <string>G_commaaccent.color3.glif</string>
+    <key>Gcommaaccent.color4</key>
+    <string>G_commaaccent.color4.glif</string>
+    <key>Gcommaaccent.color5</key>
+    <string>G_commaaccent.color5.glif</string>
     <key>Gdotaccent</key>
     <string>G_dotaccent.glif</string>
+    <key>Gdotaccent.color0</key>
+    <string>G_dotaccent.color0.glif</string>
+    <key>Gdotaccent.color1</key>
+    <string>G_dotaccent.color1.glif</string>
+    <key>Gdotaccent.color2</key>
+    <string>G_dotaccent.color2.glif</string>
+    <key>Gdotaccent.color3</key>
+    <string>G_dotaccent.color3.glif</string>
+    <key>Gdotaccent.color4</key>
+    <string>G_dotaccent.color4.glif</string>
+    <key>Gdotaccent.color5</key>
+    <string>G_dotaccent.color5.glif</string>
     <key>Germandbls</key>
     <string>G_ermandbls.glif</string>
     <key>Germandbls.color0</key>
@@ -258,8 +1032,24 @@
     <string>H_bar.glif</string>
     <key>Hbar.color0</key>
     <string>H_bar.color0.glif</string>
+    <key>Hbar.color1</key>
+    <string>H_bar.color1.glif</string>
+    <key>Hbar.color2</key>
+    <string>H_bar.color2.glif</string>
+    <key>Hbar.color3</key>
+    <string>H_bar.color3.glif</string>
     <key>Hcircumflex</key>
     <string>H_circumflex.glif</string>
+    <key>Hcircumflex.color0</key>
+    <string>H_circumflex.color0.glif</string>
+    <key>Hcircumflex.color1</key>
+    <string>H_circumflex.color1.glif</string>
+    <key>Hcircumflex.color2</key>
+    <string>H_circumflex.color2.glif</string>
+    <key>Hcircumflex.color3</key>
+    <string>H_circumflex.color3.glif</string>
+    <key>Hcircumflex.color4</key>
+    <string>H_circumflex.color4.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>I.color0</key>
@@ -274,30 +1064,210 @@
     <string>I_.color4.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
+    <key>Iacute.color0</key>
+    <string>I_acute.color0.glif</string>
+    <key>Iacute.color1</key>
+    <string>I_acute.color1.glif</string>
+    <key>Iacute.color2</key>
+    <string>I_acute.color2.glif</string>
+    <key>Iacute.color3</key>
+    <string>I_acute.color3.glif</string>
+    <key>Iacute.color4</key>
+    <string>I_acute.color4.glif</string>
+    <key>Iacute.color5</key>
+    <string>I_acute.color5.glif</string>
     <key>Ibreve</key>
     <string>I_breve.glif</string>
+    <key>Ibreve.color0</key>
+    <string>I_breve.color0.glif</string>
+    <key>Ibreve.color1</key>
+    <string>I_breve.color1.glif</string>
+    <key>Ibreve.color2</key>
+    <string>I_breve.color2.glif</string>
+    <key>Ibreve.color3</key>
+    <string>I_breve.color3.glif</string>
+    <key>Ibreve.color4</key>
+    <string>I_breve.color4.glif</string>
+    <key>Ibreve.color5</key>
+    <string>I_breve.color5.glif</string>
+    <key>Ibreve.color6</key>
+    <string>I_breve.color6.glif</string>
+    <key>Ibreve.color7</key>
+    <string>I_breve.color7.glif</string>
     <key>Icircumflex</key>
     <string>I_circumflex.glif</string>
+    <key>Icircumflex.color0</key>
+    <string>I_circumflex.color0.glif</string>
+    <key>Icircumflex.color1</key>
+    <string>I_circumflex.color1.glif</string>
+    <key>Icircumflex.color2</key>
+    <string>I_circumflex.color2.glif</string>
+    <key>Icircumflex.color3</key>
+    <string>I_circumflex.color3.glif</string>
+    <key>Icircumflex.color4</key>
+    <string>I_circumflex.color4.glif</string>
+    <key>Icircumflex.color5</key>
+    <string>I_circumflex.color5.glif</string>
+    <key>Icircumflex.color6</key>
+    <string>I_circumflex.color6.glif</string>
     <key>Idblgrave</key>
     <string>I_dblgrave.glif</string>
+    <key>Idblgrave.color0</key>
+    <string>I_dblgrave.color0.glif</string>
+    <key>Idblgrave.color1</key>
+    <string>I_dblgrave.color1.glif</string>
+    <key>Idblgrave.color2</key>
+    <string>I_dblgrave.color2.glif</string>
+    <key>Idblgrave.color3</key>
+    <string>I_dblgrave.color3.glif</string>
+    <key>Idblgrave.color4</key>
+    <string>I_dblgrave.color4.glif</string>
+    <key>Idblgrave.color5</key>
+    <string>I_dblgrave.color5.glif</string>
+    <key>Idblgrave.color6</key>
+    <string>I_dblgrave.color6.glif</string>
     <key>Idieresis</key>
     <string>I_dieresis.glif</string>
+    <key>Idieresis.color0</key>
+    <string>I_dieresis.color0.glif</string>
+    <key>Idieresis.color1</key>
+    <string>I_dieresis.color1.glif</string>
+    <key>Idieresis.color2</key>
+    <string>I_dieresis.color2.glif</string>
+    <key>Idieresis.color3</key>
+    <string>I_dieresis.color3.glif</string>
+    <key>Idieresis.color4</key>
+    <string>I_dieresis.color4.glif</string>
+    <key>Idieresis.color5</key>
+    <string>I_dieresis.color5.glif</string>
+    <key>Idieresis.color6</key>
+    <string>I_dieresis.color6.glif</string>
     <key>Idotaccent</key>
     <string>I_dotaccent.glif</string>
+    <key>Idotaccent.color0</key>
+    <string>I_dotaccent.color0.glif</string>
+    <key>Idotaccent.color1</key>
+    <string>I_dotaccent.color1.glif</string>
+    <key>Idotaccent.color2</key>
+    <string>I_dotaccent.color2.glif</string>
+    <key>Idotaccent.color3</key>
+    <string>I_dotaccent.color3.glif</string>
+    <key>Idotaccent.color4</key>
+    <string>I_dotaccent.color4.glif</string>
+    <key>Idotaccent.color5</key>
+    <string>I_dotaccent.color5.glif</string>
     <key>Idotbelow</key>
     <string>I_dotbelow.glif</string>
+    <key>Idotbelow.color0</key>
+    <string>I_dotbelow.color0.glif</string>
+    <key>Idotbelow.color1</key>
+    <string>I_dotbelow.color1.glif</string>
+    <key>Idotbelow.color2</key>
+    <string>I_dotbelow.color2.glif</string>
+    <key>Idotbelow.color3</key>
+    <string>I_dotbelow.color3.glif</string>
+    <key>Idotbelow.color4</key>
+    <string>I_dotbelow.color4.glif</string>
+    <key>Idotbelow.color5</key>
+    <string>I_dotbelow.color5.glif</string>
     <key>Igrave</key>
     <string>I_grave.glif</string>
+    <key>Igrave.color0</key>
+    <string>I_grave.color0.glif</string>
+    <key>Igrave.color1</key>
+    <string>I_grave.color1.glif</string>
+    <key>Igrave.color2</key>
+    <string>I_grave.color2.glif</string>
+    <key>Igrave.color3</key>
+    <string>I_grave.color3.glif</string>
+    <key>Igrave.color4</key>
+    <string>I_grave.color4.glif</string>
+    <key>Igrave.color5</key>
+    <string>I_grave.color5.glif</string>
     <key>Ihookabove</key>
     <string>I_hookabove.glif</string>
+    <key>Ihookabove.color0</key>
+    <string>I_hookabove.color0.glif</string>
+    <key>Ihookabove.color1</key>
+    <string>I_hookabove.color1.glif</string>
+    <key>Ihookabove.color2</key>
+    <string>I_hookabove.color2.glif</string>
+    <key>Ihookabove.color3</key>
+    <string>I_hookabove.color3.glif</string>
+    <key>Ihookabove.color4</key>
+    <string>I_hookabove.color4.glif</string>
+    <key>Ihookabove.color5</key>
+    <string>I_hookabove.color5.glif</string>
+    <key>Ihookabove.color6</key>
+    <string>I_hookabove.color6.glif</string>
     <key>Iinvertedbreve</key>
     <string>I_invertedbreve.glif</string>
+    <key>Iinvertedbreve.color0</key>
+    <string>I_invertedbreve.color0.glif</string>
+    <key>Iinvertedbreve.color1</key>
+    <string>I_invertedbreve.color1.glif</string>
+    <key>Iinvertedbreve.color2</key>
+    <string>I_invertedbreve.color2.glif</string>
+    <key>Iinvertedbreve.color3</key>
+    <string>I_invertedbreve.color3.glif</string>
+    <key>Iinvertedbreve.color4</key>
+    <string>I_invertedbreve.color4.glif</string>
+    <key>Iinvertedbreve.color5</key>
+    <string>I_invertedbreve.color5.glif</string>
+    <key>Iinvertedbreve.color6</key>
+    <string>I_invertedbreve.color6.glif</string>
+    <key>Iinvertedbreve.color7</key>
+    <string>I_invertedbreve.color7.glif</string>
     <key>Imacron</key>
     <string>I_macron.glif</string>
+    <key>Imacron.color0</key>
+    <string>I_macron.color0.glif</string>
+    <key>Imacron.color1</key>
+    <string>I_macron.color1.glif</string>
+    <key>Imacron.color2</key>
+    <string>I_macron.color2.glif</string>
+    <key>Imacron.color3</key>
+    <string>I_macron.color3.glif</string>
+    <key>Imacron.color4</key>
+    <string>I_macron.color4.glif</string>
+    <key>Imacron.color5</key>
+    <string>I_macron.color5.glif</string>
     <key>Iogonek</key>
     <string>I_ogonek.glif</string>
+    <key>Iogonek.color0</key>
+    <string>I_ogonek.color0.glif</string>
+    <key>Iogonek.color1</key>
+    <string>I_ogonek.color1.glif</string>
+    <key>Iogonek.color2</key>
+    <string>I_ogonek.color2.glif</string>
+    <key>Iogonek.color3</key>
+    <string>I_ogonek.color3.glif</string>
+    <key>Iogonek.color4</key>
+    <string>I_ogonek.color4.glif</string>
+    <key>Iogonek.color5</key>
+    <string>I_ogonek.color5.glif</string>
+    <key>Iogonek.color6</key>
+    <string>I_ogonek.color6.glif</string>
+    <key>Iogonek.color7</key>
+    <string>I_ogonek.color7.glif</string>
     <key>Itilde</key>
     <string>I_tilde.glif</string>
+    <key>Itilde.color0</key>
+    <string>I_tilde.color0.glif</string>
+    <key>Itilde.color1</key>
+    <string>I_tilde.color1.glif</string>
+    <key>Itilde.color2</key>
+    <string>I_tilde.color2.glif</string>
+    <key>Itilde.color3</key>
+    <string>I_tilde.color3.glif</string>
+    <key>Itilde.color4</key>
+    <string>I_tilde.color4.glif</string>
+    <key>Itilde.color5</key>
+    <string>I_tilde.color5.glif</string>
+    <key>Itilde.color6</key>
+    <string>I_tilde.color6.glif</string>
+    <key>Itilde.color7</key>
+    <string>I_tilde.color7.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>J.color0</key>
@@ -310,6 +1280,18 @@
     <string>J_.color3.glif</string>
     <key>Jcircumflex</key>
     <string>J_circumflex.glif</string>
+    <key>Jcircumflex.color0</key>
+    <string>J_circumflex.color0.glif</string>
+    <key>Jcircumflex.color1</key>
+    <string>J_circumflex.color1.glif</string>
+    <key>Jcircumflex.color2</key>
+    <string>J_circumflex.color2.glif</string>
+    <key>Jcircumflex.color3</key>
+    <string>J_circumflex.color3.glif</string>
+    <key>Jcircumflex.color4</key>
+    <string>J_circumflex.color4.glif</string>
+    <key>Jcircumflex.color5</key>
+    <string>J_circumflex.color5.glif</string>
     <key>K</key>
     <string>K_.glif</string>
     <key>K.color0</key>
@@ -322,6 +1304,16 @@
     <string>K_.color3.glif</string>
     <key>Kcommaaccent</key>
     <string>K_commaaccent.glif</string>
+    <key>Kcommaaccent.color0</key>
+    <string>K_commaaccent.color0.glif</string>
+    <key>Kcommaaccent.color1</key>
+    <string>K_commaaccent.color1.glif</string>
+    <key>Kcommaaccent.color2</key>
+    <string>K_commaaccent.color2.glif</string>
+    <key>Kcommaaccent.color3</key>
+    <string>K_commaaccent.color3.glif</string>
+    <key>Kcommaaccent.color4</key>
+    <string>K_commaaccent.color4.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>L.color0</key>
@@ -330,20 +1322,70 @@
     <string>L_.color1.glif</string>
     <key>LJ</key>
     <string>L_J_.glif</string>
+    <key>LJ.color0</key>
+    <string>L_J_.color0.glif</string>
+    <key>LJ.color1</key>
+    <string>L_J_.color1.glif</string>
+    <key>LJ.color2</key>
+    <string>L_J_.color2.glif</string>
+    <key>LJ.color3</key>
+    <string>L_J_.color3.glif</string>
+    <key>LJ.color4</key>
+    <string>L_J_.color4.glif</string>
+    <key>LJ.color5</key>
+    <string>L_J_.color5.glif</string>
     <key>Lacute</key>
     <string>L_acute.glif</string>
+    <key>Lacute.color0</key>
+    <string>L_acute.color0.glif</string>
+    <key>Lacute.color1</key>
+    <string>L_acute.color1.glif</string>
+    <key>Lacute.color2</key>
+    <string>L_acute.color2.glif</string>
     <key>Lcaron</key>
     <string>L_caron.glif</string>
+    <key>Lcaron.color0</key>
+    <string>L_caron.color0.glif</string>
+    <key>Lcaron.color1</key>
+    <string>L_caron.color1.glif</string>
+    <key>Lcaron.color2</key>
+    <string>L_caron.color2.glif</string>
     <key>Lcommaaccent</key>
     <string>L_commaaccent.glif</string>
+    <key>Lcommaaccent.color0</key>
+    <string>L_commaaccent.color0.glif</string>
+    <key>Lcommaaccent.color1</key>
+    <string>L_commaaccent.color1.glif</string>
+    <key>Lcommaaccent.color2</key>
+    <string>L_commaaccent.color2.glif</string>
     <key>Ldot</key>
     <string>L_dot.glif</string>
+    <key>Ldot.color0</key>
+    <string>L_dot.color0.glif</string>
+    <key>Ldot.color1</key>
+    <string>L_dot.color1.glif</string>
+    <key>Ldot.color2</key>
+    <string>L_dot.color2.glif</string>
     <key>Lj</key>
     <string>L_j.glif</string>
+    <key>Lj.color0</key>
+    <string>L_j.color0.glif</string>
+    <key>Lj.color1</key>
+    <string>L_j.color1.glif</string>
+    <key>Lj.color2</key>
+    <string>L_j.color2.glif</string>
+    <key>Lj.color3</key>
+    <string>L_j.color3.glif</string>
+    <key>Lj.color4</key>
+    <string>L_j.color4.glif</string>
     <key>Lslash</key>
     <string>L_slash.glif</string>
     <key>Lslash.color0</key>
     <string>L_slash.color0.glif</string>
+    <key>Lslash.color1</key>
+    <string>L_slash.color1.glif</string>
+    <key>Lslash.color2</key>
+    <string>L_slash.color2.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>M.color0</key>
@@ -364,16 +1406,80 @@
     <string>N_.color2.glif</string>
     <key>NJ</key>
     <string>N_J_.glif</string>
+    <key>NJ.color0</key>
+    <string>N_J_.color0.glif</string>
+    <key>NJ.color1</key>
+    <string>N_J_.color1.glif</string>
+    <key>NJ.color2</key>
+    <string>N_J_.color2.glif</string>
+    <key>NJ.color3</key>
+    <string>N_J_.color3.glif</string>
+    <key>NJ.color4</key>
+    <string>N_J_.color4.glif</string>
+    <key>NJ.color5</key>
+    <string>N_J_.color5.glif</string>
+    <key>NJ.color6</key>
+    <string>N_J_.color6.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
+    <key>Nacute.color0</key>
+    <string>N_acute.color0.glif</string>
+    <key>Nacute.color1</key>
+    <string>N_acute.color1.glif</string>
+    <key>Nacute.color2</key>
+    <string>N_acute.color2.glif</string>
+    <key>Nacute.color3</key>
+    <string>N_acute.color3.glif</string>
     <key>Ncaron</key>
     <string>N_caron.glif</string>
+    <key>Ncaron.color0</key>
+    <string>N_caron.color0.glif</string>
+    <key>Ncaron.color1</key>
+    <string>N_caron.color1.glif</string>
+    <key>Ncaron.color2</key>
+    <string>N_caron.color2.glif</string>
+    <key>Ncaron.color3</key>
+    <string>N_caron.color3.glif</string>
+    <key>Ncaron.color4</key>
+    <string>N_caron.color4.glif</string>
     <key>Ncommaaccent</key>
     <string>N_commaaccent.glif</string>
+    <key>Ncommaaccent.color0</key>
+    <string>N_commaaccent.color0.glif</string>
+    <key>Ncommaaccent.color1</key>
+    <string>N_commaaccent.color1.glif</string>
+    <key>Ncommaaccent.color2</key>
+    <string>N_commaaccent.color2.glif</string>
+    <key>Ncommaaccent.color3</key>
+    <string>N_commaaccent.color3.glif</string>
     <key>Nj</key>
     <string>N_j.glif</string>
+    <key>Nj.color0</key>
+    <string>N_j.color0.glif</string>
+    <key>Nj.color1</key>
+    <string>N_j.color1.glif</string>
+    <key>Nj.color2</key>
+    <string>N_j.color2.glif</string>
+    <key>Nj.color3</key>
+    <string>N_j.color3.glif</string>
+    <key>Nj.color4</key>
+    <string>N_j.color4.glif</string>
+    <key>Nj.color5</key>
+    <string>N_j.color5.glif</string>
     <key>Ntilde</key>
     <string>N_tilde.glif</string>
+    <key>Ntilde.color0</key>
+    <string>N_tilde.color0.glif</string>
+    <key>Ntilde.color1</key>
+    <string>N_tilde.color1.glif</string>
+    <key>Ntilde.color2</key>
+    <string>N_tilde.color2.glif</string>
+    <key>Ntilde.color3</key>
+    <string>N_tilde.color3.glif</string>
+    <key>Ntilde.color4</key>
+    <string>N_tilde.color4.glif</string>
+    <key>Ntilde.color5</key>
+    <string>N_tilde.color5.glif</string>
     <key>O</key>
     <string>O_.glif</string>
     <key>O.color0</key>
@@ -402,24 +1508,160 @@
     <string>O_E_.color6.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
+    <key>Oacute.color0</key>
+    <string>O_acute.color0.glif</string>
+    <key>Oacute.color1</key>
+    <string>O_acute.color1.glif</string>
+    <key>Oacute.color2</key>
+    <string>O_acute.color2.glif</string>
+    <key>Oacute.color3</key>
+    <string>O_acute.color3.glif</string>
+    <key>Oacute.color4</key>
+    <string>O_acute.color4.glif</string>
     <key>Obreve</key>
     <string>O_breve.glif</string>
+    <key>Obreve.color0</key>
+    <string>O_breve.color0.glif</string>
+    <key>Obreve.color1</key>
+    <string>O_breve.color1.glif</string>
+    <key>Obreve.color2</key>
+    <string>O_breve.color2.glif</string>
+    <key>Obreve.color3</key>
+    <string>O_breve.color3.glif</string>
+    <key>Obreve.color4</key>
+    <string>O_breve.color4.glif</string>
+    <key>Obreve.color5</key>
+    <string>O_breve.color5.glif</string>
+    <key>Obreve.color6</key>
+    <string>O_breve.color6.glif</string>
     <key>Ocircumflex</key>
     <string>O_circumflex.glif</string>
+    <key>Ocircumflex.color0</key>
+    <string>O_circumflex.color0.glif</string>
+    <key>Ocircumflex.color1</key>
+    <string>O_circumflex.color1.glif</string>
+    <key>Ocircumflex.color2</key>
+    <string>O_circumflex.color2.glif</string>
+    <key>Ocircumflex.color3</key>
+    <string>O_circumflex.color3.glif</string>
+    <key>Ocircumflex.color4</key>
+    <string>O_circumflex.color4.glif</string>
+    <key>Ocircumflex.color5</key>
+    <string>O_circumflex.color5.glif</string>
     <key>Ocircumflexacute</key>
     <string>O_circumflexacute.glif</string>
+    <key>Ocircumflexacute.color0</key>
+    <string>O_circumflexacute.color0.glif</string>
+    <key>Ocircumflexacute.color1</key>
+    <string>O_circumflexacute.color1.glif</string>
+    <key>Ocircumflexacute.color2</key>
+    <string>O_circumflexacute.color2.glif</string>
+    <key>Ocircumflexacute.color3</key>
+    <string>O_circumflexacute.color3.glif</string>
+    <key>Ocircumflexacute.color4</key>
+    <string>O_circumflexacute.color4.glif</string>
+    <key>Ocircumflexacute.color5</key>
+    <string>O_circumflexacute.color5.glif</string>
+    <key>Ocircumflexacute.color6</key>
+    <string>O_circumflexacute.color6.glif</string>
     <key>Ocircumflexdotbelow</key>
     <string>O_circumflexdotbelow.glif</string>
+    <key>Ocircumflexdotbelow.color0</key>
+    <string>O_circumflexdotbelow.color0.glif</string>
+    <key>Ocircumflexdotbelow.color1</key>
+    <string>O_circumflexdotbelow.color1.glif</string>
+    <key>Ocircumflexdotbelow.color2</key>
+    <string>O_circumflexdotbelow.color2.glif</string>
+    <key>Ocircumflexdotbelow.color3</key>
+    <string>O_circumflexdotbelow.color3.glif</string>
+    <key>Ocircumflexdotbelow.color4</key>
+    <string>O_circumflexdotbelow.color4.glif</string>
+    <key>Ocircumflexdotbelow.color5</key>
+    <string>O_circumflexdotbelow.color5.glif</string>
+    <key>Ocircumflexdotbelow.color6</key>
+    <string>O_circumflexdotbelow.color6.glif</string>
     <key>Ocircumflexgrave</key>
     <string>O_circumflexgrave.glif</string>
+    <key>Ocircumflexgrave.color0</key>
+    <string>O_circumflexgrave.color0.glif</string>
+    <key>Ocircumflexgrave.color1</key>
+    <string>O_circumflexgrave.color1.glif</string>
+    <key>Ocircumflexgrave.color2</key>
+    <string>O_circumflexgrave.color2.glif</string>
+    <key>Ocircumflexgrave.color3</key>
+    <string>O_circumflexgrave.color3.glif</string>
+    <key>Ocircumflexgrave.color4</key>
+    <string>O_circumflexgrave.color4.glif</string>
+    <key>Ocircumflexgrave.color5</key>
+    <string>O_circumflexgrave.color5.glif</string>
+    <key>Ocircumflexgrave.color6</key>
+    <string>O_circumflexgrave.color6.glif</string>
     <key>Ocircumflexhookabove</key>
     <string>O_circumflexhookabove.glif</string>
+    <key>Ocircumflexhookabove.color0</key>
+    <string>O_circumflexhookabove.color0.glif</string>
+    <key>Ocircumflexhookabove.color1</key>
+    <string>O_circumflexhookabove.color1.glif</string>
+    <key>Ocircumflexhookabove.color2</key>
+    <string>O_circumflexhookabove.color2.glif</string>
+    <key>Ocircumflexhookabove.color3</key>
+    <string>O_circumflexhookabove.color3.glif</string>
+    <key>Ocircumflexhookabove.color4</key>
+    <string>O_circumflexhookabove.color4.glif</string>
+    <key>Ocircumflexhookabove.color5</key>
+    <string>O_circumflexhookabove.color5.glif</string>
+    <key>Ocircumflexhookabove.color6</key>
+    <string>O_circumflexhookabove.color6.glif</string>
+    <key>Ocircumflexhookabove.color7</key>
+    <string>O_circumflexhookabove.color7.glif</string>
     <key>Ocircumflextilde</key>
     <string>O_circumflextilde.glif</string>
+    <key>Ocircumflextilde.color0</key>
+    <string>O_circumflextilde.color0.glif</string>
+    <key>Ocircumflextilde.color1</key>
+    <string>O_circumflextilde.color1.glif</string>
+    <key>Ocircumflextilde.color2</key>
+    <string>O_circumflextilde.color2.glif</string>
+    <key>Ocircumflextilde.color3</key>
+    <string>O_circumflextilde.color3.glif</string>
+    <key>Ocircumflextilde.color4</key>
+    <string>O_circumflextilde.color4.glif</string>
+    <key>Ocircumflextilde.color5</key>
+    <string>O_circumflextilde.color5.glif</string>
+    <key>Ocircumflextilde.color6</key>
+    <string>O_circumflextilde.color6.glif</string>
+    <key>Ocircumflextilde.color7</key>
+    <string>O_circumflextilde.color7.glif</string>
+    <key>Ocircumflextilde.color8</key>
+    <string>O_circumflextilde.color8.glif</string>
     <key>Odblgrave</key>
     <string>O_dblgrave.glif</string>
+    <key>Odblgrave.color0</key>
+    <string>O_dblgrave.color0.glif</string>
+    <key>Odblgrave.color1</key>
+    <string>O_dblgrave.color1.glif</string>
+    <key>Odblgrave.color2</key>
+    <string>O_dblgrave.color2.glif</string>
+    <key>Odblgrave.color3</key>
+    <string>O_dblgrave.color3.glif</string>
+    <key>Odblgrave.color4</key>
+    <string>O_dblgrave.color4.glif</string>
+    <key>Odblgrave.color5</key>
+    <string>O_dblgrave.color5.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
+    <key>Odieresis.color0</key>
+    <string>O_dieresis.color0.glif</string>
+    <key>Odieresis.color1</key>
+    <string>O_dieresis.color1.glif</string>
+    <key>Odieresis.color2</key>
+    <string>O_dieresis.color2.glif</string>
+    <key>Odieresis.color3</key>
+    <string>O_dieresis.color3.glif</string>
+    <key>Odieresis.color4</key>
+    <string>O_dieresis.color4.glif</string>
+    <key>Odieresis.color5</key>
+    <string>O_dieresis.color5.glif</string>
     <key>Odieresismacron</key>
     <string>O_dieresismacron.glif</string>
     <key>Odieresismacron.color0</key>
@@ -428,38 +1670,224 @@
     <string>O_dieresismacron.color1.glif</string>
     <key>Odieresismacron.color2</key>
     <string>O_dieresismacron.color2.glif</string>
+    <key>Odieresismacron.color3</key>
+    <string>O_dieresismacron.color3.glif</string>
+    <key>Odieresismacron.color4</key>
+    <string>O_dieresismacron.color4.glif</string>
+    <key>Odieresismacron.color5</key>
+    <string>O_dieresismacron.color5.glif</string>
+    <key>Odieresismacron.color6</key>
+    <string>O_dieresismacron.color6.glif</string>
     <key>Odotaccentmacron</key>
     <string>O_dotaccentmacron.glif</string>
     <key>Odotaccentmacron.color0</key>
     <string>O_dotaccentmacron.color0.glif</string>
     <key>Odotaccentmacron.color1</key>
     <string>O_dotaccentmacron.color1.glif</string>
+    <key>Odotaccentmacron.color2</key>
+    <string>O_dotaccentmacron.color2.glif</string>
+    <key>Odotaccentmacron.color3</key>
+    <string>O_dotaccentmacron.color3.glif</string>
+    <key>Odotaccentmacron.color4</key>
+    <string>O_dotaccentmacron.color4.glif</string>
+    <key>Odotaccentmacron.color5</key>
+    <string>O_dotaccentmacron.color5.glif</string>
     <key>Odotbelow</key>
     <string>O_dotbelow.glif</string>
+    <key>Odotbelow.color0</key>
+    <string>O_dotbelow.color0.glif</string>
+    <key>Odotbelow.color1</key>
+    <string>O_dotbelow.color1.glif</string>
+    <key>Odotbelow.color2</key>
+    <string>O_dotbelow.color2.glif</string>
+    <key>Odotbelow.color3</key>
+    <string>O_dotbelow.color3.glif</string>
+    <key>Odotbelow.color4</key>
+    <string>O_dotbelow.color4.glif</string>
     <key>Ograve</key>
     <string>O_grave.glif</string>
+    <key>Ograve.color0</key>
+    <string>O_grave.color0.glif</string>
+    <key>Ograve.color1</key>
+    <string>O_grave.color1.glif</string>
+    <key>Ograve.color2</key>
+    <string>O_grave.color2.glif</string>
+    <key>Ograve.color3</key>
+    <string>O_grave.color3.glif</string>
+    <key>Ograve.color4</key>
+    <string>O_grave.color4.glif</string>
     <key>Ohookabove</key>
     <string>O_hookabove.glif</string>
+    <key>Ohookabove.color0</key>
+    <string>O_hookabove.color0.glif</string>
+    <key>Ohookabove.color1</key>
+    <string>O_hookabove.color1.glif</string>
+    <key>Ohookabove.color2</key>
+    <string>O_hookabove.color2.glif</string>
+    <key>Ohookabove.color3</key>
+    <string>O_hookabove.color3.glif</string>
+    <key>Ohookabove.color4</key>
+    <string>O_hookabove.color4.glif</string>
+    <key>Ohookabove.color5</key>
+    <string>O_hookabove.color5.glif</string>
     <key>Ohorn</key>
     <string>O_horn.glif</string>
+    <key>Ohorn.color0</key>
+    <string>O_horn.color0.glif</string>
+    <key>Ohorn.color1</key>
+    <string>O_horn.color1.glif</string>
+    <key>Ohorn.color2</key>
+    <string>O_horn.color2.glif</string>
+    <key>Ohorn.color3</key>
+    <string>O_horn.color3.glif</string>
+    <key>Ohorn.color4</key>
+    <string>O_horn.color4.glif</string>
+    <key>Ohorn.color5</key>
+    <string>O_horn.color5.glif</string>
     <key>Ohornacute</key>
     <string>O_hornacute.glif</string>
+    <key>Ohornacute.color0</key>
+    <string>O_hornacute.color0.glif</string>
+    <key>Ohornacute.color1</key>
+    <string>O_hornacute.color1.glif</string>
+    <key>Ohornacute.color2</key>
+    <string>O_hornacute.color2.glif</string>
+    <key>Ohornacute.color3</key>
+    <string>O_hornacute.color3.glif</string>
+    <key>Ohornacute.color4</key>
+    <string>O_hornacute.color4.glif</string>
+    <key>Ohornacute.color5</key>
+    <string>O_hornacute.color5.glif</string>
+    <key>Ohornacute.color6</key>
+    <string>O_hornacute.color6.glif</string>
     <key>Ohorndotbelow</key>
     <string>O_horndotbelow.glif</string>
+    <key>Ohorndotbelow.color0</key>
+    <string>O_horndotbelow.color0.glif</string>
+    <key>Ohorndotbelow.color1</key>
+    <string>O_horndotbelow.color1.glif</string>
+    <key>Ohorndotbelow.color2</key>
+    <string>O_horndotbelow.color2.glif</string>
+    <key>Ohorndotbelow.color3</key>
+    <string>O_horndotbelow.color3.glif</string>
+    <key>Ohorndotbelow.color4</key>
+    <string>O_horndotbelow.color4.glif</string>
+    <key>Ohorndotbelow.color5</key>
+    <string>O_horndotbelow.color5.glif</string>
+    <key>Ohorndotbelow.color6</key>
+    <string>O_horndotbelow.color6.glif</string>
     <key>Ohorngrave</key>
     <string>O_horngrave.glif</string>
+    <key>Ohorngrave.color0</key>
+    <string>O_horngrave.color0.glif</string>
+    <key>Ohorngrave.color1</key>
+    <string>O_horngrave.color1.glif</string>
+    <key>Ohorngrave.color2</key>
+    <string>O_horngrave.color2.glif</string>
+    <key>Ohorngrave.color3</key>
+    <string>O_horngrave.color3.glif</string>
+    <key>Ohorngrave.color4</key>
+    <string>O_horngrave.color4.glif</string>
+    <key>Ohorngrave.color5</key>
+    <string>O_horngrave.color5.glif</string>
+    <key>Ohorngrave.color6</key>
+    <string>O_horngrave.color6.glif</string>
     <key>Ohornhookabove</key>
     <string>O_hornhookabove.glif</string>
+    <key>Ohornhookabove.color0</key>
+    <string>O_hornhookabove.color0.glif</string>
+    <key>Ohornhookabove.color1</key>
+    <string>O_hornhookabove.color1.glif</string>
+    <key>Ohornhookabove.color2</key>
+    <string>O_hornhookabove.color2.glif</string>
+    <key>Ohornhookabove.color3</key>
+    <string>O_hornhookabove.color3.glif</string>
+    <key>Ohornhookabove.color4</key>
+    <string>O_hornhookabove.color4.glif</string>
+    <key>Ohornhookabove.color5</key>
+    <string>O_hornhookabove.color5.glif</string>
+    <key>Ohornhookabove.color6</key>
+    <string>O_hornhookabove.color6.glif</string>
+    <key>Ohornhookabove.color7</key>
+    <string>O_hornhookabove.color7.glif</string>
     <key>Ohorntilde</key>
     <string>O_horntilde.glif</string>
+    <key>Ohorntilde.color0</key>
+    <string>O_horntilde.color0.glif</string>
+    <key>Ohorntilde.color1</key>
+    <string>O_horntilde.color1.glif</string>
+    <key>Ohorntilde.color2</key>
+    <string>O_horntilde.color2.glif</string>
+    <key>Ohorntilde.color3</key>
+    <string>O_horntilde.color3.glif</string>
+    <key>Ohorntilde.color4</key>
+    <string>O_horntilde.color4.glif</string>
+    <key>Ohorntilde.color5</key>
+    <string>O_horntilde.color5.glif</string>
+    <key>Ohorntilde.color6</key>
+    <string>O_horntilde.color6.glif</string>
+    <key>Ohorntilde.color7</key>
+    <string>O_horntilde.color7.glif</string>
+    <key>Ohorntilde.color8</key>
+    <string>O_horntilde.color8.glif</string>
     <key>Ohungarumlaut</key>
     <string>O_hungarumlaut.glif</string>
+    <key>Ohungarumlaut.color0</key>
+    <string>O_hungarumlaut.color0.glif</string>
+    <key>Ohungarumlaut.color1</key>
+    <string>O_hungarumlaut.color1.glif</string>
+    <key>Ohungarumlaut.color2</key>
+    <string>O_hungarumlaut.color2.glif</string>
+    <key>Ohungarumlaut.color3</key>
+    <string>O_hungarumlaut.color3.glif</string>
+    <key>Ohungarumlaut.color4</key>
+    <string>O_hungarumlaut.color4.glif</string>
+    <key>Ohungarumlaut.color5</key>
+    <string>O_hungarumlaut.color5.glif</string>
     <key>Oinvertedbreve</key>
     <string>O_invertedbreve.glif</string>
+    <key>Oinvertedbreve.color0</key>
+    <string>O_invertedbreve.color0.glif</string>
+    <key>Oinvertedbreve.color1</key>
+    <string>O_invertedbreve.color1.glif</string>
+    <key>Oinvertedbreve.color2</key>
+    <string>O_invertedbreve.color2.glif</string>
+    <key>Oinvertedbreve.color3</key>
+    <string>O_invertedbreve.color3.glif</string>
+    <key>Oinvertedbreve.color4</key>
+    <string>O_invertedbreve.color4.glif</string>
+    <key>Oinvertedbreve.color5</key>
+    <string>O_invertedbreve.color5.glif</string>
+    <key>Oinvertedbreve.color6</key>
+    <string>O_invertedbreve.color6.glif</string>
     <key>Omacron</key>
     <string>O_macron.glif</string>
+    <key>Omacron.color0</key>
+    <string>O_macron.color0.glif</string>
+    <key>Omacron.color1</key>
+    <string>O_macron.color1.glif</string>
+    <key>Omacron.color2</key>
+    <string>O_macron.color2.glif</string>
+    <key>Omacron.color3</key>
+    <string>O_macron.color3.glif</string>
+    <key>Omacron.color4</key>
+    <string>O_macron.color4.glif</string>
     <key>Oogonek</key>
     <string>O_ogonek.glif</string>
+    <key>Oogonek.color0</key>
+    <string>O_ogonek.color0.glif</string>
+    <key>Oogonek.color1</key>
+    <string>O_ogonek.color1.glif</string>
+    <key>Oogonek.color2</key>
+    <string>O_ogonek.color2.glif</string>
+    <key>Oogonek.color3</key>
+    <string>O_ogonek.color3.glif</string>
+    <key>Oogonek.color4</key>
+    <string>O_ogonek.color4.glif</string>
+    <key>Oogonek.color5</key>
+    <string>O_ogonek.color5.glif</string>
+    <key>Oogonek.color6</key>
+    <string>O_ogonek.color6.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
     <key>Oslash.color0</key>
@@ -474,8 +1902,34 @@
     <string>O_slash.color4.glif</string>
     <key>Oslashacute</key>
     <string>O_slashacute.glif</string>
+    <key>Oslashacute.color0</key>
+    <string>O_slashacute.color0.glif</string>
+    <key>Oslashacute.color1</key>
+    <string>O_slashacute.color1.glif</string>
+    <key>Oslashacute.color2</key>
+    <string>O_slashacute.color2.glif</string>
+    <key>Oslashacute.color3</key>
+    <string>O_slashacute.color3.glif</string>
+    <key>Oslashacute.color4</key>
+    <string>O_slashacute.color4.glif</string>
+    <key>Oslashacute.color5</key>
+    <string>O_slashacute.color5.glif</string>
     <key>Otilde</key>
     <string>O_tilde.glif</string>
+    <key>Otilde.color0</key>
+    <string>O_tilde.color0.glif</string>
+    <key>Otilde.color1</key>
+    <string>O_tilde.color1.glif</string>
+    <key>Otilde.color2</key>
+    <string>O_tilde.color2.glif</string>
+    <key>Otilde.color3</key>
+    <string>O_tilde.color3.glif</string>
+    <key>Otilde.color4</key>
+    <string>O_tilde.color4.glif</string>
+    <key>Otilde.color5</key>
+    <string>O_tilde.color5.glif</string>
+    <key>Otilde.color6</key>
+    <string>O_tilde.color6.glif</string>
     <key>Otildemacron</key>
     <string>O_tildemacron.glif</string>
     <key>Otildemacron.color0</key>
@@ -486,6 +1940,14 @@
     <string>O_tildemacron.color2.glif</string>
     <key>Otildemacron.color3</key>
     <string>O_tildemacron.color3.glif</string>
+    <key>Otildemacron.color4</key>
+    <string>O_tildemacron.color4.glif</string>
+    <key>Otildemacron.color5</key>
+    <string>O_tildemacron.color5.glif</string>
+    <key>Otildemacron.color6</key>
+    <string>O_tildemacron.color6.glif</string>
+    <key>Otildemacron.color7</key>
+    <string>O_tildemacron.color7.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>P.color0</key>
@@ -520,14 +1982,82 @@
     <string>R_.color4.glif</string>
     <key>Racute</key>
     <string>R_acute.glif</string>
+    <key>Racute.color0</key>
+    <string>R_acute.color0.glif</string>
+    <key>Racute.color1</key>
+    <string>R_acute.color1.glif</string>
+    <key>Racute.color2</key>
+    <string>R_acute.color2.glif</string>
+    <key>Racute.color3</key>
+    <string>R_acute.color3.glif</string>
+    <key>Racute.color4</key>
+    <string>R_acute.color4.glif</string>
+    <key>Racute.color5</key>
+    <string>R_acute.color5.glif</string>
     <key>Rcaron</key>
     <string>R_caron.glif</string>
+    <key>Rcaron.color0</key>
+    <string>R_caron.color0.glif</string>
+    <key>Rcaron.color1</key>
+    <string>R_caron.color1.glif</string>
+    <key>Rcaron.color2</key>
+    <string>R_caron.color2.glif</string>
+    <key>Rcaron.color3</key>
+    <string>R_caron.color3.glif</string>
+    <key>Rcaron.color4</key>
+    <string>R_caron.color4.glif</string>
+    <key>Rcaron.color5</key>
+    <string>R_caron.color5.glif</string>
+    <key>Rcaron.color6</key>
+    <string>R_caron.color6.glif</string>
     <key>Rcommaaccent</key>
     <string>R_commaaccent.glif</string>
+    <key>Rcommaaccent.color0</key>
+    <string>R_commaaccent.color0.glif</string>
+    <key>Rcommaaccent.color1</key>
+    <string>R_commaaccent.color1.glif</string>
+    <key>Rcommaaccent.color2</key>
+    <string>R_commaaccent.color2.glif</string>
+    <key>Rcommaaccent.color3</key>
+    <string>R_commaaccent.color3.glif</string>
+    <key>Rcommaaccent.color4</key>
+    <string>R_commaaccent.color4.glif</string>
+    <key>Rcommaaccent.color5</key>
+    <string>R_commaaccent.color5.glif</string>
     <key>Rdblgrave</key>
     <string>R_dblgrave.glif</string>
+    <key>Rdblgrave.color0</key>
+    <string>R_dblgrave.color0.glif</string>
+    <key>Rdblgrave.color1</key>
+    <string>R_dblgrave.color1.glif</string>
+    <key>Rdblgrave.color2</key>
+    <string>R_dblgrave.color2.glif</string>
+    <key>Rdblgrave.color3</key>
+    <string>R_dblgrave.color3.glif</string>
+    <key>Rdblgrave.color4</key>
+    <string>R_dblgrave.color4.glif</string>
+    <key>Rdblgrave.color5</key>
+    <string>R_dblgrave.color5.glif</string>
+    <key>Rdblgrave.color6</key>
+    <string>R_dblgrave.color6.glif</string>
     <key>Rinvertedbreve</key>
     <string>R_invertedbreve.glif</string>
+    <key>Rinvertedbreve.color0</key>
+    <string>R_invertedbreve.color0.glif</string>
+    <key>Rinvertedbreve.color1</key>
+    <string>R_invertedbreve.color1.glif</string>
+    <key>Rinvertedbreve.color2</key>
+    <string>R_invertedbreve.color2.glif</string>
+    <key>Rinvertedbreve.color3</key>
+    <string>R_invertedbreve.color3.glif</string>
+    <key>Rinvertedbreve.color4</key>
+    <string>R_invertedbreve.color4.glif</string>
+    <key>Rinvertedbreve.color5</key>
+    <string>R_invertedbreve.color5.glif</string>
+    <key>Rinvertedbreve.color6</key>
+    <string>R_invertedbreve.color6.glif</string>
+    <key>Rinvertedbreve.color7</key>
+    <string>R_invertedbreve.color7.glif</string>
     <key>S</key>
     <string>S_.glif</string>
     <key>S.color0</key>
@@ -542,10 +2072,54 @@
     <string>S_.color4.glif</string>
     <key>Sacute</key>
     <string>S_acute.glif</string>
+    <key>Sacute.color0</key>
+    <string>S_acute.color0.glif</string>
+    <key>Sacute.color1</key>
+    <string>S_acute.color1.glif</string>
+    <key>Sacute.color2</key>
+    <string>S_acute.color2.glif</string>
+    <key>Sacute.color3</key>
+    <string>S_acute.color3.glif</string>
+    <key>Sacute.color4</key>
+    <string>S_acute.color4.glif</string>
+    <key>Sacute.color5</key>
+    <string>S_acute.color5.glif</string>
     <key>Scaron</key>
     <string>S_caron.glif</string>
+    <key>Scaron.color0</key>
+    <string>S_caron.color0.glif</string>
+    <key>Scaron.color1</key>
+    <string>S_caron.color1.glif</string>
+    <key>Scaron.color2</key>
+    <string>S_caron.color2.glif</string>
+    <key>Scaron.color3</key>
+    <string>S_caron.color3.glif</string>
+    <key>Scaron.color4</key>
+    <string>S_caron.color4.glif</string>
+    <key>Scaron.color5</key>
+    <string>S_caron.color5.glif</string>
+    <key>Scaron.color6</key>
+    <string>S_caron.color6.glif</string>
     <key>Scedilla</key>
     <string>S_cedilla.glif</string>
+    <key>Scedilla.color0</key>
+    <string>S_cedilla.color0.glif</string>
+    <key>Scedilla.color1</key>
+    <string>S_cedilla.color1.glif</string>
+    <key>Scedilla.color2</key>
+    <string>S_cedilla.color2.glif</string>
+    <key>Scedilla.color3</key>
+    <string>S_cedilla.color3.glif</string>
+    <key>Scedilla.color4</key>
+    <string>S_cedilla.color4.glif</string>
+    <key>Scedilla.color5</key>
+    <string>S_cedilla.color5.glif</string>
+    <key>Scedilla.color6</key>
+    <string>S_cedilla.color6.glif</string>
+    <key>Scedilla.color7</key>
+    <string>S_cedilla.color7.glif</string>
+    <key>Scedilla.color8</key>
+    <string>S_cedilla.color8.glif</string>
     <key>Schwa</key>
     <string>S_chwa.glif</string>
     <key>Schwa.color0</key>
@@ -560,8 +2134,34 @@
     <string>S_chwa.color4.glif</string>
     <key>Scircumflex</key>
     <string>S_circumflex.glif</string>
+    <key>Scircumflex.color0</key>
+    <string>S_circumflex.color0.glif</string>
+    <key>Scircumflex.color1</key>
+    <string>S_circumflex.color1.glif</string>
+    <key>Scircumflex.color2</key>
+    <string>S_circumflex.color2.glif</string>
+    <key>Scircumflex.color3</key>
+    <string>S_circumflex.color3.glif</string>
+    <key>Scircumflex.color4</key>
+    <string>S_circumflex.color4.glif</string>
+    <key>Scircumflex.color5</key>
+    <string>S_circumflex.color5.glif</string>
+    <key>Scircumflex.color6</key>
+    <string>S_circumflex.color6.glif</string>
     <key>Scommaaccent</key>
     <string>S_commaaccent.glif</string>
+    <key>Scommaaccent.color0</key>
+    <string>S_commaaccent.color0.glif</string>
+    <key>Scommaaccent.color1</key>
+    <string>S_commaaccent.color1.glif</string>
+    <key>Scommaaccent.color2</key>
+    <string>S_commaaccent.color2.glif</string>
+    <key>Scommaaccent.color3</key>
+    <string>S_commaaccent.color3.glif</string>
+    <key>Scommaaccent.color4</key>
+    <string>S_commaaccent.color4.glif</string>
+    <key>Scommaaccent.color5</key>
+    <string>S_commaaccent.color5.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>T.color0</key>
@@ -572,12 +2172,52 @@
     <string>T_.color2.glif</string>
     <key>Tbar</key>
     <string>T_bar.glif</string>
+    <key>Tbar.color0</key>
+    <string>T_bar.color0.glif</string>
+    <key>Tbar.color1</key>
+    <string>T_bar.color1.glif</string>
+    <key>Tbar.color2</key>
+    <string>T_bar.color2.glif</string>
+    <key>Tbar.color3</key>
+    <string>T_bar.color3.glif</string>
     <key>Tcaron</key>
     <string>T_caron.glif</string>
+    <key>Tcaron.color0</key>
+    <string>T_caron.color0.glif</string>
+    <key>Tcaron.color1</key>
+    <string>T_caron.color1.glif</string>
+    <key>Tcaron.color2</key>
+    <string>T_caron.color2.glif</string>
+    <key>Tcaron.color3</key>
+    <string>T_caron.color3.glif</string>
+    <key>Tcaron.color4</key>
+    <string>T_caron.color4.glif</string>
     <key>Tcedilla</key>
     <string>T_cedilla.glif</string>
+    <key>Tcedilla.color0</key>
+    <string>T_cedilla.color0.glif</string>
+    <key>Tcedilla.color1</key>
+    <string>T_cedilla.color1.glif</string>
+    <key>Tcedilla.color2</key>
+    <string>T_cedilla.color2.glif</string>
+    <key>Tcedilla.color3</key>
+    <string>T_cedilla.color3.glif</string>
+    <key>Tcedilla.color4</key>
+    <string>T_cedilla.color4.glif</string>
+    <key>Tcedilla.color5</key>
+    <string>T_cedilla.color5.glif</string>
+    <key>Tcedilla.color6</key>
+    <string>T_cedilla.color6.glif</string>
     <key>Tcommaaccent</key>
     <string>T_commaaccent.glif</string>
+    <key>Tcommaaccent.color0</key>
+    <string>T_commaaccent.color0.glif</string>
+    <key>Tcommaaccent.color1</key>
+    <string>T_commaaccent.color1.glif</string>
+    <key>Tcommaaccent.color2</key>
+    <string>T_commaaccent.color2.glif</string>
+    <key>Tcommaaccent.color3</key>
+    <string>T_commaaccent.color3.glif</string>
     <key>Thorn</key>
     <string>T_horn.glif</string>
     <key>Thorn.color0</key>
@@ -598,44 +2238,264 @@
     <string>U_.color2.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
+    <key>Uacute.color0</key>
+    <string>U_acute.color0.glif</string>
+    <key>Uacute.color1</key>
+    <string>U_acute.color1.glif</string>
+    <key>Uacute.color2</key>
+    <string>U_acute.color2.glif</string>
+    <key>Uacute.color3</key>
+    <string>U_acute.color3.glif</string>
     <key>Ubreve</key>
     <string>U_breve.glif</string>
+    <key>Ubreve.color0</key>
+    <string>U_breve.color0.glif</string>
+    <key>Ubreve.color1</key>
+    <string>U_breve.color1.glif</string>
+    <key>Ubreve.color2</key>
+    <string>U_breve.color2.glif</string>
+    <key>Ubreve.color3</key>
+    <string>U_breve.color3.glif</string>
+    <key>Ubreve.color4</key>
+    <string>U_breve.color4.glif</string>
+    <key>Ubreve.color5</key>
+    <string>U_breve.color5.glif</string>
     <key>Ucircumflex</key>
     <string>U_circumflex.glif</string>
+    <key>Ucircumflex.color0</key>
+    <string>U_circumflex.color0.glif</string>
+    <key>Ucircumflex.color1</key>
+    <string>U_circumflex.color1.glif</string>
+    <key>Ucircumflex.color2</key>
+    <string>U_circumflex.color2.glif</string>
+    <key>Ucircumflex.color3</key>
+    <string>U_circumflex.color3.glif</string>
+    <key>Ucircumflex.color4</key>
+    <string>U_circumflex.color4.glif</string>
     <key>Udblgrave</key>
     <string>U_dblgrave.glif</string>
+    <key>Udblgrave.color0</key>
+    <string>U_dblgrave.color0.glif</string>
+    <key>Udblgrave.color1</key>
+    <string>U_dblgrave.color1.glif</string>
+    <key>Udblgrave.color2</key>
+    <string>U_dblgrave.color2.glif</string>
+    <key>Udblgrave.color3</key>
+    <string>U_dblgrave.color3.glif</string>
+    <key>Udblgrave.color4</key>
+    <string>U_dblgrave.color4.glif</string>
     <key>Udieresis</key>
     <string>U_dieresis.glif</string>
+    <key>Udieresis.color0</key>
+    <string>U_dieresis.color0.glif</string>
+    <key>Udieresis.color1</key>
+    <string>U_dieresis.color1.glif</string>
+    <key>Udieresis.color2</key>
+    <string>U_dieresis.color2.glif</string>
+    <key>Udieresis.color3</key>
+    <string>U_dieresis.color3.glif</string>
+    <key>Udieresis.color4</key>
+    <string>U_dieresis.color4.glif</string>
     <key>Udotbelow</key>
     <string>U_dotbelow.glif</string>
+    <key>Udotbelow.color0</key>
+    <string>U_dotbelow.color0.glif</string>
+    <key>Udotbelow.color1</key>
+    <string>U_dotbelow.color1.glif</string>
+    <key>Udotbelow.color2</key>
+    <string>U_dotbelow.color2.glif</string>
+    <key>Udotbelow.color3</key>
+    <string>U_dotbelow.color3.glif</string>
     <key>Ugrave</key>
     <string>U_grave.glif</string>
+    <key>Ugrave.color0</key>
+    <string>U_grave.color0.glif</string>
+    <key>Ugrave.color1</key>
+    <string>U_grave.color1.glif</string>
+    <key>Ugrave.color2</key>
+    <string>U_grave.color2.glif</string>
+    <key>Ugrave.color3</key>
+    <string>U_grave.color3.glif</string>
     <key>Uhookabove</key>
     <string>U_hookabove.glif</string>
+    <key>Uhookabove.color0</key>
+    <string>U_hookabove.color0.glif</string>
+    <key>Uhookabove.color1</key>
+    <string>U_hookabove.color1.glif</string>
+    <key>Uhookabove.color2</key>
+    <string>U_hookabove.color2.glif</string>
+    <key>Uhookabove.color3</key>
+    <string>U_hookabove.color3.glif</string>
+    <key>Uhookabove.color4</key>
+    <string>U_hookabove.color4.glif</string>
     <key>Uhorn</key>
     <string>U_horn.glif</string>
+    <key>Uhorn.color0</key>
+    <string>U_horn.color0.glif</string>
+    <key>Uhorn.color1</key>
+    <string>U_horn.color1.glif</string>
+    <key>Uhorn.color2</key>
+    <string>U_horn.color2.glif</string>
+    <key>Uhorn.color3</key>
+    <string>U_horn.color3.glif</string>
+    <key>Uhorn.color4</key>
+    <string>U_horn.color4.glif</string>
     <key>Uhornacute</key>
     <string>U_hornacute.glif</string>
+    <key>Uhornacute.color0</key>
+    <string>U_hornacute.color0.glif</string>
+    <key>Uhornacute.color1</key>
+    <string>U_hornacute.color1.glif</string>
+    <key>Uhornacute.color2</key>
+    <string>U_hornacute.color2.glif</string>
+    <key>Uhornacute.color3</key>
+    <string>U_hornacute.color3.glif</string>
+    <key>Uhornacute.color4</key>
+    <string>U_hornacute.color4.glif</string>
+    <key>Uhornacute.color5</key>
+    <string>U_hornacute.color5.glif</string>
     <key>Uhorndotbelow</key>
     <string>U_horndotbelow.glif</string>
+    <key>Uhorndotbelow.color0</key>
+    <string>U_horndotbelow.color0.glif</string>
+    <key>Uhorndotbelow.color1</key>
+    <string>U_horndotbelow.color1.glif</string>
+    <key>Uhorndotbelow.color2</key>
+    <string>U_horndotbelow.color2.glif</string>
+    <key>Uhorndotbelow.color3</key>
+    <string>U_horndotbelow.color3.glif</string>
+    <key>Uhorndotbelow.color4</key>
+    <string>U_horndotbelow.color4.glif</string>
+    <key>Uhorndotbelow.color5</key>
+    <string>U_horndotbelow.color5.glif</string>
     <key>Uhorngrave</key>
     <string>U_horngrave.glif</string>
+    <key>Uhorngrave.color0</key>
+    <string>U_horngrave.color0.glif</string>
+    <key>Uhorngrave.color1</key>
+    <string>U_horngrave.color1.glif</string>
+    <key>Uhorngrave.color2</key>
+    <string>U_horngrave.color2.glif</string>
+    <key>Uhorngrave.color3</key>
+    <string>U_horngrave.color3.glif</string>
+    <key>Uhorngrave.color4</key>
+    <string>U_horngrave.color4.glif</string>
+    <key>Uhorngrave.color5</key>
+    <string>U_horngrave.color5.glif</string>
     <key>Uhornhookabove</key>
     <string>U_hornhookabove.glif</string>
+    <key>Uhornhookabove.color0</key>
+    <string>U_hornhookabove.color0.glif</string>
+    <key>Uhornhookabove.color1</key>
+    <string>U_hornhookabove.color1.glif</string>
+    <key>Uhornhookabove.color2</key>
+    <string>U_hornhookabove.color2.glif</string>
+    <key>Uhornhookabove.color3</key>
+    <string>U_hornhookabove.color3.glif</string>
+    <key>Uhornhookabove.color4</key>
+    <string>U_hornhookabove.color4.glif</string>
+    <key>Uhornhookabove.color5</key>
+    <string>U_hornhookabove.color5.glif</string>
+    <key>Uhornhookabove.color6</key>
+    <string>U_hornhookabove.color6.glif</string>
     <key>Uhorntilde</key>
     <string>U_horntilde.glif</string>
+    <key>Uhorntilde.color0</key>
+    <string>U_horntilde.color0.glif</string>
+    <key>Uhorntilde.color1</key>
+    <string>U_horntilde.color1.glif</string>
+    <key>Uhorntilde.color2</key>
+    <string>U_horntilde.color2.glif</string>
+    <key>Uhorntilde.color3</key>
+    <string>U_horntilde.color3.glif</string>
+    <key>Uhorntilde.color4</key>
+    <string>U_horntilde.color4.glif</string>
+    <key>Uhorntilde.color5</key>
+    <string>U_horntilde.color5.glif</string>
+    <key>Uhorntilde.color6</key>
+    <string>U_horntilde.color6.glif</string>
+    <key>Uhorntilde.color7</key>
+    <string>U_horntilde.color7.glif</string>
     <key>Uhungarumlaut</key>
     <string>U_hungarumlaut.glif</string>
+    <key>Uhungarumlaut.color0</key>
+    <string>U_hungarumlaut.color0.glif</string>
+    <key>Uhungarumlaut.color1</key>
+    <string>U_hungarumlaut.color1.glif</string>
+    <key>Uhungarumlaut.color2</key>
+    <string>U_hungarumlaut.color2.glif</string>
+    <key>Uhungarumlaut.color3</key>
+    <string>U_hungarumlaut.color3.glif</string>
+    <key>Uhungarumlaut.color4</key>
+    <string>U_hungarumlaut.color4.glif</string>
     <key>Uinvertedbreve</key>
     <string>U_invertedbreve.glif</string>
+    <key>Uinvertedbreve.color0</key>
+    <string>U_invertedbreve.color0.glif</string>
+    <key>Uinvertedbreve.color1</key>
+    <string>U_invertedbreve.color1.glif</string>
+    <key>Uinvertedbreve.color2</key>
+    <string>U_invertedbreve.color2.glif</string>
+    <key>Uinvertedbreve.color3</key>
+    <string>U_invertedbreve.color3.glif</string>
+    <key>Uinvertedbreve.color4</key>
+    <string>U_invertedbreve.color4.glif</string>
+    <key>Uinvertedbreve.color5</key>
+    <string>U_invertedbreve.color5.glif</string>
     <key>Umacron</key>
     <string>U_macron.glif</string>
+    <key>Umacron.color0</key>
+    <string>U_macron.color0.glif</string>
+    <key>Umacron.color1</key>
+    <string>U_macron.color1.glif</string>
+    <key>Umacron.color2</key>
+    <string>U_macron.color2.glif</string>
+    <key>Umacron.color3</key>
+    <string>U_macron.color3.glif</string>
     <key>Uogonek</key>
     <string>U_ogonek.glif</string>
+    <key>Uogonek.color0</key>
+    <string>U_ogonek.color0.glif</string>
+    <key>Uogonek.color1</key>
+    <string>U_ogonek.color1.glif</string>
+    <key>Uogonek.color2</key>
+    <string>U_ogonek.color2.glif</string>
+    <key>Uogonek.color3</key>
+    <string>U_ogonek.color3.glif</string>
+    <key>Uogonek.color4</key>
+    <string>U_ogonek.color4.glif</string>
+    <key>Uogonek.color5</key>
+    <string>U_ogonek.color5.glif</string>
     <key>Uring</key>
     <string>U_ring.glif</string>
+    <key>Uring.color0</key>
+    <string>U_ring.color0.glif</string>
+    <key>Uring.color1</key>
+    <string>U_ring.color1.glif</string>
+    <key>Uring.color2</key>
+    <string>U_ring.color2.glif</string>
+    <key>Uring.color3</key>
+    <string>U_ring.color3.glif</string>
+    <key>Uring.color4</key>
+    <string>U_ring.color4.glif</string>
+    <key>Uring.color5</key>
+    <string>U_ring.color5.glif</string>
+    <key>Uring.color6</key>
+    <string>U_ring.color6.glif</string>
     <key>Utilde</key>
     <string>U_tilde.glif</string>
+    <key>Utilde.color0</key>
+    <string>U_tilde.color0.glif</string>
+    <key>Utilde.color1</key>
+    <string>U_tilde.color1.glif</string>
+    <key>Utilde.color2</key>
+    <string>U_tilde.color2.glif</string>
+    <key>Utilde.color3</key>
+    <string>U_tilde.color3.glif</string>
+    <key>Utilde.color4</key>
+    <string>U_tilde.color4.glif</string>
+    <key>Utilde.color5</key>
+    <string>U_tilde.color5.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>V.color0</key>
@@ -654,12 +2514,56 @@
     <string>W_.color3.glif</string>
     <key>Wacute</key>
     <string>W_acute.glif</string>
+    <key>Wacute.color0</key>
+    <string>W_acute.color0.glif</string>
+    <key>Wacute.color1</key>
+    <string>W_acute.color1.glif</string>
+    <key>Wacute.color2</key>
+    <string>W_acute.color2.glif</string>
+    <key>Wacute.color3</key>
+    <string>W_acute.color3.glif</string>
+    <key>Wacute.color4</key>
+    <string>W_acute.color4.glif</string>
     <key>Wcircumflex</key>
     <string>W_circumflex.glif</string>
+    <key>Wcircumflex.color0</key>
+    <string>W_circumflex.color0.glif</string>
+    <key>Wcircumflex.color1</key>
+    <string>W_circumflex.color1.glif</string>
+    <key>Wcircumflex.color2</key>
+    <string>W_circumflex.color2.glif</string>
+    <key>Wcircumflex.color3</key>
+    <string>W_circumflex.color3.glif</string>
+    <key>Wcircumflex.color4</key>
+    <string>W_circumflex.color4.glif</string>
+    <key>Wcircumflex.color5</key>
+    <string>W_circumflex.color5.glif</string>
     <key>Wdieresis</key>
     <string>W_dieresis.glif</string>
+    <key>Wdieresis.color0</key>
+    <string>W_dieresis.color0.glif</string>
+    <key>Wdieresis.color1</key>
+    <string>W_dieresis.color1.glif</string>
+    <key>Wdieresis.color2</key>
+    <string>W_dieresis.color2.glif</string>
+    <key>Wdieresis.color3</key>
+    <string>W_dieresis.color3.glif</string>
+    <key>Wdieresis.color4</key>
+    <string>W_dieresis.color4.glif</string>
+    <key>Wdieresis.color5</key>
+    <string>W_dieresis.color5.glif</string>
     <key>Wgrave</key>
     <string>W_grave.glif</string>
+    <key>Wgrave.color0</key>
+    <string>W_grave.color0.glif</string>
+    <key>Wgrave.color1</key>
+    <string>W_grave.color1.glif</string>
+    <key>Wgrave.color2</key>
+    <string>W_grave.color2.glif</string>
+    <key>Wgrave.color3</key>
+    <string>W_grave.color3.glif</string>
+    <key>Wgrave.color4</key>
+    <string>W_grave.color4.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>X.color0</key>
@@ -680,20 +2584,94 @@
     <string>Y_.color2.glif</string>
     <key>Yacute</key>
     <string>Y_acute.glif</string>
+    <key>Yacute.color0</key>
+    <string>Y_acute.color0.glif</string>
+    <key>Yacute.color1</key>
+    <string>Y_acute.color1.glif</string>
+    <key>Yacute.color2</key>
+    <string>Y_acute.color2.glif</string>
+    <key>Yacute.color3</key>
+    <string>Y_acute.color3.glif</string>
     <key>Ycircumflex</key>
     <string>Y_circumflex.glif</string>
+    <key>Ycircumflex.color0</key>
+    <string>Y_circumflex.color0.glif</string>
+    <key>Ycircumflex.color1</key>
+    <string>Y_circumflex.color1.glif</string>
+    <key>Ycircumflex.color2</key>
+    <string>Y_circumflex.color2.glif</string>
+    <key>Ycircumflex.color3</key>
+    <string>Y_circumflex.color3.glif</string>
+    <key>Ycircumflex.color4</key>
+    <string>Y_circumflex.color4.glif</string>
     <key>Ydieresis</key>
     <string>Y_dieresis.glif</string>
+    <key>Ydieresis.color0</key>
+    <string>Y_dieresis.color0.glif</string>
+    <key>Ydieresis.color1</key>
+    <string>Y_dieresis.color1.glif</string>
+    <key>Ydieresis.color2</key>
+    <string>Y_dieresis.color2.glif</string>
+    <key>Ydieresis.color3</key>
+    <string>Y_dieresis.color3.glif</string>
+    <key>Ydieresis.color4</key>
+    <string>Y_dieresis.color4.glif</string>
     <key>Ydotbelow</key>
     <string>Y_dotbelow.glif</string>
+    <key>Ydotbelow.color0</key>
+    <string>Y_dotbelow.color0.glif</string>
+    <key>Ydotbelow.color1</key>
+    <string>Y_dotbelow.color1.glif</string>
+    <key>Ydotbelow.color2</key>
+    <string>Y_dotbelow.color2.glif</string>
+    <key>Ydotbelow.color3</key>
+    <string>Y_dotbelow.color3.glif</string>
     <key>Ygrave</key>
     <string>Y_grave.glif</string>
+    <key>Ygrave.color0</key>
+    <string>Y_grave.color0.glif</string>
+    <key>Ygrave.color1</key>
+    <string>Y_grave.color1.glif</string>
+    <key>Ygrave.color2</key>
+    <string>Y_grave.color2.glif</string>
+    <key>Ygrave.color3</key>
+    <string>Y_grave.color3.glif</string>
     <key>Yhookabove</key>
     <string>Y_hookabove.glif</string>
+    <key>Yhookabove.color0</key>
+    <string>Y_hookabove.color0.glif</string>
+    <key>Yhookabove.color1</key>
+    <string>Y_hookabove.color1.glif</string>
+    <key>Yhookabove.color2</key>
+    <string>Y_hookabove.color2.glif</string>
+    <key>Yhookabove.color3</key>
+    <string>Y_hookabove.color3.glif</string>
+    <key>Yhookabove.color4</key>
+    <string>Y_hookabove.color4.glif</string>
     <key>Ymacron</key>
     <string>Y_macron.glif</string>
+    <key>Ymacron.color0</key>
+    <string>Y_macron.color0.glif</string>
+    <key>Ymacron.color1</key>
+    <string>Y_macron.color1.glif</string>
+    <key>Ymacron.color2</key>
+    <string>Y_macron.color2.glif</string>
+    <key>Ymacron.color3</key>
+    <string>Y_macron.color3.glif</string>
     <key>Ytilde</key>
     <string>Y_tilde.glif</string>
+    <key>Ytilde.color0</key>
+    <string>Y_tilde.color0.glif</string>
+    <key>Ytilde.color1</key>
+    <string>Y_tilde.color1.glif</string>
+    <key>Ytilde.color2</key>
+    <string>Y_tilde.color2.glif</string>
+    <key>Ytilde.color3</key>
+    <string>Y_tilde.color3.glif</string>
+    <key>Ytilde.color4</key>
+    <string>Y_tilde.color4.glif</string>
+    <key>Ytilde.color5</key>
+    <string>Y_tilde.color5.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
     <key>Z.color0</key>
@@ -704,10 +2682,36 @@
     <string>Z_.color2.glif</string>
     <key>Zacute</key>
     <string>Z_acute.glif</string>
+    <key>Zacute.color0</key>
+    <string>Z_acute.color0.glif</string>
+    <key>Zacute.color1</key>
+    <string>Z_acute.color1.glif</string>
+    <key>Zacute.color2</key>
+    <string>Z_acute.color2.glif</string>
+    <key>Zacute.color3</key>
+    <string>Z_acute.color3.glif</string>
     <key>Zcaron</key>
     <string>Z_caron.glif</string>
+    <key>Zcaron.color0</key>
+    <string>Z_caron.color0.glif</string>
+    <key>Zcaron.color1</key>
+    <string>Z_caron.color1.glif</string>
+    <key>Zcaron.color2</key>
+    <string>Z_caron.color2.glif</string>
+    <key>Zcaron.color3</key>
+    <string>Z_caron.color3.glif</string>
+    <key>Zcaron.color4</key>
+    <string>Z_caron.color4.glif</string>
     <key>Zdotaccent</key>
     <string>Z_dotaccent.glif</string>
+    <key>Zdotaccent.color0</key>
+    <string>Z_dotaccent.color0.glif</string>
+    <key>Zdotaccent.color1</key>
+    <string>Z_dotaccent.color1.glif</string>
+    <key>Zdotaccent.color2</key>
+    <string>Z_dotaccent.color2.glif</string>
+    <key>Zdotaccent.color3</key>
+    <string>Z_dotaccent.color3.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>a.color0</key>
@@ -720,30 +2724,228 @@
     <string>a.color3.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
+    <key>aacute.color0</key>
+    <string>aacute.color0.glif</string>
+    <key>aacute.color1</key>
+    <string>aacute.color1.glif</string>
+    <key>aacute.color2</key>
+    <string>aacute.color2.glif</string>
+    <key>aacute.color3</key>
+    <string>aacute.color3.glif</string>
+    <key>aacute.color4</key>
+    <string>aacute.color4.glif</string>
     <key>abreve</key>
     <string>abreve.glif</string>
+    <key>abreve.color0</key>
+    <string>abreve.color0.glif</string>
+    <key>abreve.color1</key>
+    <string>abreve.color1.glif</string>
+    <key>abreve.color2</key>
+    <string>abreve.color2.glif</string>
+    <key>abreve.color3</key>
+    <string>abreve.color3.glif</string>
+    <key>abreve.color4</key>
+    <string>abreve.color4.glif</string>
+    <key>abreve.color5</key>
+    <string>abreve.color5.glif</string>
+    <key>abreve.color6</key>
+    <string>abreve.color6.glif</string>
     <key>abreveacute</key>
     <string>abreveacute.glif</string>
+    <key>abreveacute.color0</key>
+    <string>abreveacute.color0.glif</string>
+    <key>abreveacute.color1</key>
+    <string>abreveacute.color1.glif</string>
+    <key>abreveacute.color2</key>
+    <string>abreveacute.color2.glif</string>
+    <key>abreveacute.color3</key>
+    <string>abreveacute.color3.glif</string>
+    <key>abreveacute.color4</key>
+    <string>abreveacute.color4.glif</string>
+    <key>abreveacute.color5</key>
+    <string>abreveacute.color5.glif</string>
+    <key>abreveacute.color6</key>
+    <string>abreveacute.color6.glif</string>
+    <key>abreveacute.color7</key>
+    <string>abreveacute.color7.glif</string>
     <key>abrevedotbelow</key>
     <string>abrevedotbelow.glif</string>
+    <key>abrevedotbelow.color0</key>
+    <string>abrevedotbelow.color0.glif</string>
+    <key>abrevedotbelow.color1</key>
+    <string>abrevedotbelow.color1.glif</string>
+    <key>abrevedotbelow.color2</key>
+    <string>abrevedotbelow.color2.glif</string>
+    <key>abrevedotbelow.color3</key>
+    <string>abrevedotbelow.color3.glif</string>
+    <key>abrevedotbelow.color4</key>
+    <string>abrevedotbelow.color4.glif</string>
+    <key>abrevedotbelow.color5</key>
+    <string>abrevedotbelow.color5.glif</string>
+    <key>abrevedotbelow.color6</key>
+    <string>abrevedotbelow.color6.glif</string>
+    <key>abrevedotbelow.color7</key>
+    <string>abrevedotbelow.color7.glif</string>
     <key>abrevegrave</key>
     <string>abrevegrave.glif</string>
+    <key>abrevegrave.color0</key>
+    <string>abrevegrave.color0.glif</string>
+    <key>abrevegrave.color1</key>
+    <string>abrevegrave.color1.glif</string>
+    <key>abrevegrave.color2</key>
+    <string>abrevegrave.color2.glif</string>
+    <key>abrevegrave.color3</key>
+    <string>abrevegrave.color3.glif</string>
+    <key>abrevegrave.color4</key>
+    <string>abrevegrave.color4.glif</string>
+    <key>abrevegrave.color5</key>
+    <string>abrevegrave.color5.glif</string>
+    <key>abrevegrave.color6</key>
+    <string>abrevegrave.color6.glif</string>
+    <key>abrevegrave.color7</key>
+    <string>abrevegrave.color7.glif</string>
     <key>abrevehookabove</key>
     <string>abrevehookabove.glif</string>
+    <key>abrevehookabove.color0</key>
+    <string>abrevehookabove.color0.glif</string>
+    <key>abrevehookabove.color1</key>
+    <string>abrevehookabove.color1.glif</string>
+    <key>abrevehookabove.color2</key>
+    <string>abrevehookabove.color2.glif</string>
+    <key>abrevehookabove.color3</key>
+    <string>abrevehookabove.color3.glif</string>
+    <key>abrevehookabove.color4</key>
+    <string>abrevehookabove.color4.glif</string>
+    <key>abrevehookabove.color5</key>
+    <string>abrevehookabove.color5.glif</string>
+    <key>abrevehookabove.color6</key>
+    <string>abrevehookabove.color6.glif</string>
+    <key>abrevehookabove.color7</key>
+    <string>abrevehookabove.color7.glif</string>
+    <key>abrevehookabove.color8</key>
+    <string>abrevehookabove.color8.glif</string>
     <key>abrevetilde</key>
     <string>abrevetilde.glif</string>
+    <key>abrevetilde.color0</key>
+    <string>abrevetilde.color0.glif</string>
+    <key>abrevetilde.color1</key>
+    <string>abrevetilde.color1.glif</string>
+    <key>abrevetilde.color2</key>
+    <string>abrevetilde.color2.glif</string>
+    <key>abrevetilde.color3</key>
+    <string>abrevetilde.color3.glif</string>
+    <key>abrevetilde.color4</key>
+    <string>abrevetilde.color4.glif</string>
+    <key>abrevetilde.color5</key>
+    <string>abrevetilde.color5.glif</string>
+    <key>abrevetilde.color6</key>
+    <string>abrevetilde.color6.glif</string>
+    <key>abrevetilde.color7</key>
+    <string>abrevetilde.color7.glif</string>
+    <key>abrevetilde.color8</key>
+    <string>abrevetilde.color8.glif</string>
+    <key>abrevetilde.color9</key>
+    <string>abrevetilde.color9.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
+    <key>acircumflex.color0</key>
+    <string>acircumflex.color0.glif</string>
+    <key>acircumflex.color1</key>
+    <string>acircumflex.color1.glif</string>
+    <key>acircumflex.color2</key>
+    <string>acircumflex.color2.glif</string>
+    <key>acircumflex.color3</key>
+    <string>acircumflex.color3.glif</string>
+    <key>acircumflex.color4</key>
+    <string>acircumflex.color4.glif</string>
+    <key>acircumflex.color5</key>
+    <string>acircumflex.color5.glif</string>
     <key>acircumflexacute</key>
     <string>acircumflexacute.glif</string>
+    <key>acircumflexacute.color0</key>
+    <string>acircumflexacute.color0.glif</string>
+    <key>acircumflexacute.color1</key>
+    <string>acircumflexacute.color1.glif</string>
+    <key>acircumflexacute.color2</key>
+    <string>acircumflexacute.color2.glif</string>
+    <key>acircumflexacute.color3</key>
+    <string>acircumflexacute.color3.glif</string>
+    <key>acircumflexacute.color4</key>
+    <string>acircumflexacute.color4.glif</string>
+    <key>acircumflexacute.color5</key>
+    <string>acircumflexacute.color5.glif</string>
+    <key>acircumflexacute.color6</key>
+    <string>acircumflexacute.color6.glif</string>
     <key>acircumflexdotbelow</key>
     <string>acircumflexdotbelow.glif</string>
+    <key>acircumflexdotbelow.color0</key>
+    <string>acircumflexdotbelow.color0.glif</string>
+    <key>acircumflexdotbelow.color1</key>
+    <string>acircumflexdotbelow.color1.glif</string>
+    <key>acircumflexdotbelow.color2</key>
+    <string>acircumflexdotbelow.color2.glif</string>
+    <key>acircumflexdotbelow.color3</key>
+    <string>acircumflexdotbelow.color3.glif</string>
+    <key>acircumflexdotbelow.color4</key>
+    <string>acircumflexdotbelow.color4.glif</string>
+    <key>acircumflexdotbelow.color5</key>
+    <string>acircumflexdotbelow.color5.glif</string>
+    <key>acircumflexdotbelow.color6</key>
+    <string>acircumflexdotbelow.color6.glif</string>
     <key>acircumflexgrave</key>
     <string>acircumflexgrave.glif</string>
+    <key>acircumflexgrave.color0</key>
+    <string>acircumflexgrave.color0.glif</string>
+    <key>acircumflexgrave.color1</key>
+    <string>acircumflexgrave.color1.glif</string>
+    <key>acircumflexgrave.color2</key>
+    <string>acircumflexgrave.color2.glif</string>
+    <key>acircumflexgrave.color3</key>
+    <string>acircumflexgrave.color3.glif</string>
+    <key>acircumflexgrave.color4</key>
+    <string>acircumflexgrave.color4.glif</string>
+    <key>acircumflexgrave.color5</key>
+    <string>acircumflexgrave.color5.glif</string>
+    <key>acircumflexgrave.color6</key>
+    <string>acircumflexgrave.color6.glif</string>
     <key>acircumflexhookabove</key>
     <string>acircumflexhookabove.glif</string>
+    <key>acircumflexhookabove.color0</key>
+    <string>acircumflexhookabove.color0.glif</string>
+    <key>acircumflexhookabove.color1</key>
+    <string>acircumflexhookabove.color1.glif</string>
+    <key>acircumflexhookabove.color2</key>
+    <string>acircumflexhookabove.color2.glif</string>
+    <key>acircumflexhookabove.color3</key>
+    <string>acircumflexhookabove.color3.glif</string>
+    <key>acircumflexhookabove.color4</key>
+    <string>acircumflexhookabove.color4.glif</string>
+    <key>acircumflexhookabove.color5</key>
+    <string>acircumflexhookabove.color5.glif</string>
+    <key>acircumflexhookabove.color6</key>
+    <string>acircumflexhookabove.color6.glif</string>
+    <key>acircumflexhookabove.color7</key>
+    <string>acircumflexhookabove.color7.glif</string>
     <key>acircumflextilde</key>
     <string>acircumflextilde.glif</string>
+    <key>acircumflextilde.color0</key>
+    <string>acircumflextilde.color0.glif</string>
+    <key>acircumflextilde.color1</key>
+    <string>acircumflextilde.color1.glif</string>
+    <key>acircumflextilde.color2</key>
+    <string>acircumflextilde.color2.glif</string>
+    <key>acircumflextilde.color3</key>
+    <string>acircumflextilde.color3.glif</string>
+    <key>acircumflextilde.color4</key>
+    <string>acircumflextilde.color4.glif</string>
+    <key>acircumflextilde.color5</key>
+    <string>acircumflextilde.color5.glif</string>
+    <key>acircumflextilde.color6</key>
+    <string>acircumflextilde.color6.glif</string>
+    <key>acircumflextilde.color7</key>
+    <string>acircumflextilde.color7.glif</string>
+    <key>acircumflextilde.color8</key>
+    <string>acircumflextilde.color8.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acutecomb</key>
@@ -752,10 +2954,44 @@
     <string>acutecomb.case.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
+    <key>adblgrave.color0</key>
+    <string>adblgrave.color0.glif</string>
+    <key>adblgrave.color1</key>
+    <string>adblgrave.color1.glif</string>
+    <key>adblgrave.color2</key>
+    <string>adblgrave.color2.glif</string>
+    <key>adblgrave.color3</key>
+    <string>adblgrave.color3.glif</string>
+    <key>adblgrave.color4</key>
+    <string>adblgrave.color4.glif</string>
+    <key>adblgrave.color5</key>
+    <string>adblgrave.color5.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
+    <key>adieresis.color0</key>
+    <string>adieresis.color0.glif</string>
+    <key>adieresis.color1</key>
+    <string>adieresis.color1.glif</string>
+    <key>adieresis.color2</key>
+    <string>adieresis.color2.glif</string>
+    <key>adieresis.color3</key>
+    <string>adieresis.color3.glif</string>
+    <key>adieresis.color4</key>
+    <string>adieresis.color4.glif</string>
+    <key>adieresis.color5</key>
+    <string>adieresis.color5.glif</string>
     <key>adotbelow</key>
     <string>adotbelow.glif</string>
+    <key>adotbelow.color0</key>
+    <string>adotbelow.color0.glif</string>
+    <key>adotbelow.color1</key>
+    <string>adotbelow.color1.glif</string>
+    <key>adotbelow.color2</key>
+    <string>adotbelow.color2.glif</string>
+    <key>adotbelow.color3</key>
+    <string>adotbelow.color3.glif</string>
+    <key>adotbelow.color4</key>
+    <string>adotbelow.color4.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>ae.color0</key>
@@ -776,14 +3012,78 @@
     <string>ae.color7.glif</string>
     <key>aeacute</key>
     <string>aeacute.glif</string>
+    <key>aeacute.color0</key>
+    <string>aeacute.color0.glif</string>
+    <key>aeacute.color1</key>
+    <string>aeacute.color1.glif</string>
+    <key>aeacute.color2</key>
+    <string>aeacute.color2.glif</string>
+    <key>aeacute.color3</key>
+    <string>aeacute.color3.glif</string>
+    <key>aeacute.color4</key>
+    <string>aeacute.color4.glif</string>
+    <key>aeacute.color5</key>
+    <string>aeacute.color5.glif</string>
+    <key>aeacute.color6</key>
+    <string>aeacute.color6.glif</string>
+    <key>aeacute.color7</key>
+    <string>aeacute.color7.glif</string>
+    <key>aeacute.color8</key>
+    <string>aeacute.color8.glif</string>
     <key>agrave</key>
     <string>agrave.glif</string>
+    <key>agrave.color0</key>
+    <string>agrave.color0.glif</string>
+    <key>agrave.color1</key>
+    <string>agrave.color1.glif</string>
+    <key>agrave.color2</key>
+    <string>agrave.color2.glif</string>
+    <key>agrave.color3</key>
+    <string>agrave.color3.glif</string>
+    <key>agrave.color4</key>
+    <string>agrave.color4.glif</string>
     <key>ahookabove</key>
     <string>ahookabove.glif</string>
+    <key>ahookabove.color0</key>
+    <string>ahookabove.color0.glif</string>
+    <key>ahookabove.color1</key>
+    <string>ahookabove.color1.glif</string>
+    <key>ahookabove.color2</key>
+    <string>ahookabove.color2.glif</string>
+    <key>ahookabove.color3</key>
+    <string>ahookabove.color3.glif</string>
+    <key>ahookabove.color4</key>
+    <string>ahookabove.color4.glif</string>
+    <key>ahookabove.color5</key>
+    <string>ahookabove.color5.glif</string>
     <key>ainvertedbreve</key>
     <string>ainvertedbreve.glif</string>
+    <key>ainvertedbreve.color0</key>
+    <string>ainvertedbreve.color0.glif</string>
+    <key>ainvertedbreve.color1</key>
+    <string>ainvertedbreve.color1.glif</string>
+    <key>ainvertedbreve.color2</key>
+    <string>ainvertedbreve.color2.glif</string>
+    <key>ainvertedbreve.color3</key>
+    <string>ainvertedbreve.color3.glif</string>
+    <key>ainvertedbreve.color4</key>
+    <string>ainvertedbreve.color4.glif</string>
+    <key>ainvertedbreve.color5</key>
+    <string>ainvertedbreve.color5.glif</string>
+    <key>ainvertedbreve.color6</key>
+    <string>ainvertedbreve.color6.glif</string>
     <key>amacron</key>
     <string>amacron.glif</string>
+    <key>amacron.color0</key>
+    <string>amacron.color0.glif</string>
+    <key>amacron.color1</key>
+    <string>amacron.color1.glif</string>
+    <key>amacron.color2</key>
+    <string>amacron.color2.glif</string>
+    <key>amacron.color3</key>
+    <string>amacron.color3.glif</string>
+    <key>amacron.color4</key>
+    <string>amacron.color4.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>ampersand.color0</key>
@@ -804,6 +3104,20 @@
     <string>ampersand.color7.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
+    <key>aogonek.color0</key>
+    <string>aogonek.color0.glif</string>
+    <key>aogonek.color1</key>
+    <string>aogonek.color1.glif</string>
+    <key>aogonek.color2</key>
+    <string>aogonek.color2.glif</string>
+    <key>aogonek.color3</key>
+    <string>aogonek.color3.glif</string>
+    <key>aogonek.color4</key>
+    <string>aogonek.color4.glif</string>
+    <key>aogonek.color5</key>
+    <string>aogonek.color5.glif</string>
+    <key>aogonek.color6</key>
+    <string>aogonek.color6.glif</string>
     <key>apostrophemod</key>
     <string>apostrophemod.glif</string>
     <key>apostrophemod.color0</key>
@@ -826,6 +3140,22 @@
     <string>approxequal.color5.glif</string>
     <key>aring</key>
     <string>aring.glif</string>
+    <key>aring.color0</key>
+    <string>aring.color0.glif</string>
+    <key>aring.color1</key>
+    <string>aring.color1.glif</string>
+    <key>aring.color2</key>
+    <string>aring.color2.glif</string>
+    <key>aring.color3</key>
+    <string>aring.color3.glif</string>
+    <key>aring.color4</key>
+    <string>aring.color4.glif</string>
+    <key>aring.color5</key>
+    <string>aring.color5.glif</string>
+    <key>aring.color6</key>
+    <string>aring.color6.glif</string>
+    <key>aring.color7</key>
+    <string>aring.color7.glif</string>
     <key>aringacute</key>
     <string>aringacute.glif</string>
     <key>aringacute.color0</key>
@@ -838,6 +3168,14 @@
     <string>aringacute.color3.glif</string>
     <key>aringacute.color4</key>
     <string>aringacute.color4.glif</string>
+    <key>aringacute.color5</key>
+    <string>aringacute.color5.glif</string>
+    <key>aringacute.color6</key>
+    <string>aringacute.color6.glif</string>
+    <key>aringacute.color7</key>
+    <string>aringacute.color7.glif</string>
+    <key>aringacute.color8</key>
+    <string>aringacute.color8.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciicircum.color0</key>
@@ -882,6 +3220,20 @@
     <string>at.color8.glif</string>
     <key>atilde</key>
     <string>atilde.glif</string>
+    <key>atilde.color0</key>
+    <string>atilde.color0.glif</string>
+    <key>atilde.color1</key>
+    <string>atilde.color1.glif</string>
+    <key>atilde.color2</key>
+    <string>atilde.color2.glif</string>
+    <key>atilde.color3</key>
+    <string>atilde.color3.glif</string>
+    <key>atilde.color4</key>
+    <string>atilde.color4.glif</string>
+    <key>atilde.color5</key>
+    <string>atilde.color5.glif</string>
+    <key>atilde.color6</key>
+    <string>atilde.color6.glif</string>
     <key>b</key>
     <string>b.glif</string>
     <key>b.color0</key>
@@ -1108,6 +3460,14 @@
     <string>c.color2.glif</string>
     <key>cacute</key>
     <string>cacute.glif</string>
+    <key>cacute.color0</key>
+    <string>cacute.color0.glif</string>
+    <key>cacute.color1</key>
+    <string>cacute.color1.glif</string>
+    <key>cacute.color2</key>
+    <string>cacute.color2.glif</string>
+    <key>cacute.color3</key>
+    <string>cacute.color3.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
     <key>caron.color0</key>
@@ -1132,12 +3492,54 @@
     <string>caroncomb.color1.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
+    <key>ccaron.color0</key>
+    <string>ccaron.color0.glif</string>
+    <key>ccaron.color1</key>
+    <string>ccaron.color1.glif</string>
+    <key>ccaron.color2</key>
+    <string>ccaron.color2.glif</string>
+    <key>ccaron.color3</key>
+    <string>ccaron.color3.glif</string>
+    <key>ccaron.color4</key>
+    <string>ccaron.color4.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>ccedilla.color0</key>
+    <string>ccedilla.color0.glif</string>
+    <key>ccedilla.color1</key>
+    <string>ccedilla.color1.glif</string>
+    <key>ccedilla.color2</key>
+    <string>ccedilla.color2.glif</string>
+    <key>ccedilla.color3</key>
+    <string>ccedilla.color3.glif</string>
+    <key>ccedilla.color4</key>
+    <string>ccedilla.color4.glif</string>
+    <key>ccedilla.color5</key>
+    <string>ccedilla.color5.glif</string>
+    <key>ccedilla.color6</key>
+    <string>ccedilla.color6.glif</string>
     <key>ccircumflex</key>
     <string>ccircumflex.glif</string>
+    <key>ccircumflex.color0</key>
+    <string>ccircumflex.color0.glif</string>
+    <key>ccircumflex.color1</key>
+    <string>ccircumflex.color1.glif</string>
+    <key>ccircumflex.color2</key>
+    <string>ccircumflex.color2.glif</string>
+    <key>ccircumflex.color3</key>
+    <string>ccircumflex.color3.glif</string>
+    <key>ccircumflex.color4</key>
+    <string>ccircumflex.color4.glif</string>
     <key>cdotaccent</key>
     <string>cdotaccent.glif</string>
+    <key>cdotaccent.color0</key>
+    <string>cdotaccent.color0.glif</string>
+    <key>cdotaccent.color1</key>
+    <string>cdotaccent.color1.glif</string>
+    <key>cdotaccent.color2</key>
+    <string>cdotaccent.color2.glif</string>
+    <key>cdotaccent.color3</key>
+    <string>cdotaccent.color3.glif</string>
     <key>cedi</key>
     <string>cedi.glif</string>
     <key>cedi.color0</key>
@@ -1396,10 +3798,38 @@
     <string>dblgravecomb.case.color0.glif</string>
     <key>dblgravecomb.case.color1</key>
     <string>dblgravecomb.case.color1.glif</string>
+    <key>dblgravecomb.color0</key>
+    <string>dblgravecomb.color0.glif</string>
+    <key>dblgravecomb.color1</key>
+    <string>dblgravecomb.color1.glif</string>
     <key>dcaron</key>
     <string>dcaron.glif</string>
+    <key>dcaron.color0</key>
+    <string>dcaron.color0.glif</string>
+    <key>dcaron.color1</key>
+    <string>dcaron.color1.glif</string>
+    <key>dcaron.color2</key>
+    <string>dcaron.color2.glif</string>
+    <key>dcaron.color3</key>
+    <string>dcaron.color3.glif</string>
+    <key>dcaron.color4</key>
+    <string>dcaron.color4.glif</string>
+    <key>dcaron.color5</key>
+    <string>dcaron.color5.glif</string>
     <key>dcroat</key>
     <string>dcroat.glif</string>
+    <key>dcroat.color0</key>
+    <string>dcroat.color0.glif</string>
+    <key>dcroat.color1</key>
+    <string>dcroat.color1.glif</string>
+    <key>dcroat.color2</key>
+    <string>dcroat.color2.glif</string>
+    <key>dcroat.color3</key>
+    <string>dcroat.color3.glif</string>
+    <key>dcroat.color4</key>
+    <string>dcroat.color4.glif</string>
+    <key>dcroat.color5</key>
+    <string>dcroat.color5.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>degree.color0</key>
@@ -1490,6 +3920,26 @@
     <string>doubleprimemod.color1.glif</string>
     <key>dzcaron</key>
     <string>dzcaron.glif</string>
+    <key>dzcaron.color0</key>
+    <string>dzcaron.color0.glif</string>
+    <key>dzcaron.color1</key>
+    <string>dzcaron.color1.glif</string>
+    <key>dzcaron.color2</key>
+    <string>dzcaron.color2.glif</string>
+    <key>dzcaron.color3</key>
+    <string>dzcaron.color3.glif</string>
+    <key>dzcaron.color4</key>
+    <string>dzcaron.color4.glif</string>
+    <key>dzcaron.color5</key>
+    <string>dzcaron.color5.glif</string>
+    <key>dzcaron.color6</key>
+    <string>dzcaron.color6.glif</string>
+    <key>dzcaron.color7</key>
+    <string>dzcaron.color7.glif</string>
+    <key>dzcaron.color8</key>
+    <string>dzcaron.color8.glif</string>
+    <key>dzcaron.color9</key>
+    <string>dzcaron.color9.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>e.color0</key>
@@ -1504,34 +3954,254 @@
     <string>e.color4.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
+    <key>eacute.color0</key>
+    <string>eacute.color0.glif</string>
+    <key>eacute.color1</key>
+    <string>eacute.color1.glif</string>
+    <key>eacute.color2</key>
+    <string>eacute.color2.glif</string>
+    <key>eacute.color3</key>
+    <string>eacute.color3.glif</string>
+    <key>eacute.color4</key>
+    <string>eacute.color4.glif</string>
+    <key>eacute.color5</key>
+    <string>eacute.color5.glif</string>
     <key>ebreve</key>
     <string>ebreve.glif</string>
+    <key>ebreve.color0</key>
+    <string>ebreve.color0.glif</string>
+    <key>ebreve.color1</key>
+    <string>ebreve.color1.glif</string>
+    <key>ebreve.color2</key>
+    <string>ebreve.color2.glif</string>
+    <key>ebreve.color3</key>
+    <string>ebreve.color3.glif</string>
+    <key>ebreve.color4</key>
+    <string>ebreve.color4.glif</string>
+    <key>ebreve.color5</key>
+    <string>ebreve.color5.glif</string>
+    <key>ebreve.color6</key>
+    <string>ebreve.color6.glif</string>
+    <key>ebreve.color7</key>
+    <string>ebreve.color7.glif</string>
     <key>ecaron</key>
     <string>ecaron.glif</string>
+    <key>ecaron.color0</key>
+    <string>ecaron.color0.glif</string>
+    <key>ecaron.color1</key>
+    <string>ecaron.color1.glif</string>
+    <key>ecaron.color2</key>
+    <string>ecaron.color2.glif</string>
+    <key>ecaron.color3</key>
+    <string>ecaron.color3.glif</string>
+    <key>ecaron.color4</key>
+    <string>ecaron.color4.glif</string>
+    <key>ecaron.color5</key>
+    <string>ecaron.color5.glif</string>
+    <key>ecaron.color6</key>
+    <string>ecaron.color6.glif</string>
     <key>ecircumflex</key>
     <string>ecircumflex.glif</string>
+    <key>ecircumflex.color0</key>
+    <string>ecircumflex.color0.glif</string>
+    <key>ecircumflex.color1</key>
+    <string>ecircumflex.color1.glif</string>
+    <key>ecircumflex.color2</key>
+    <string>ecircumflex.color2.glif</string>
+    <key>ecircumflex.color3</key>
+    <string>ecircumflex.color3.glif</string>
+    <key>ecircumflex.color4</key>
+    <string>ecircumflex.color4.glif</string>
+    <key>ecircumflex.color5</key>
+    <string>ecircumflex.color5.glif</string>
+    <key>ecircumflex.color6</key>
+    <string>ecircumflex.color6.glif</string>
     <key>ecircumflexacute</key>
     <string>ecircumflexacute.glif</string>
+    <key>ecircumflexacute.color0</key>
+    <string>ecircumflexacute.color0.glif</string>
+    <key>ecircumflexacute.color1</key>
+    <string>ecircumflexacute.color1.glif</string>
+    <key>ecircumflexacute.color2</key>
+    <string>ecircumflexacute.color2.glif</string>
+    <key>ecircumflexacute.color3</key>
+    <string>ecircumflexacute.color3.glif</string>
+    <key>ecircumflexacute.color4</key>
+    <string>ecircumflexacute.color4.glif</string>
+    <key>ecircumflexacute.color5</key>
+    <string>ecircumflexacute.color5.glif</string>
+    <key>ecircumflexacute.color6</key>
+    <string>ecircumflexacute.color6.glif</string>
+    <key>ecircumflexacute.color7</key>
+    <string>ecircumflexacute.color7.glif</string>
     <key>ecircumflexdotbelow</key>
     <string>ecircumflexdotbelow.glif</string>
+    <key>ecircumflexdotbelow.color0</key>
+    <string>ecircumflexdotbelow.color0.glif</string>
+    <key>ecircumflexdotbelow.color1</key>
+    <string>ecircumflexdotbelow.color1.glif</string>
+    <key>ecircumflexdotbelow.color2</key>
+    <string>ecircumflexdotbelow.color2.glif</string>
+    <key>ecircumflexdotbelow.color3</key>
+    <string>ecircumflexdotbelow.color3.glif</string>
+    <key>ecircumflexdotbelow.color4</key>
+    <string>ecircumflexdotbelow.color4.glif</string>
+    <key>ecircumflexdotbelow.color5</key>
+    <string>ecircumflexdotbelow.color5.glif</string>
+    <key>ecircumflexdotbelow.color6</key>
+    <string>ecircumflexdotbelow.color6.glif</string>
+    <key>ecircumflexdotbelow.color7</key>
+    <string>ecircumflexdotbelow.color7.glif</string>
     <key>ecircumflexgrave</key>
     <string>ecircumflexgrave.glif</string>
+    <key>ecircumflexgrave.color0</key>
+    <string>ecircumflexgrave.color0.glif</string>
+    <key>ecircumflexgrave.color1</key>
+    <string>ecircumflexgrave.color1.glif</string>
+    <key>ecircumflexgrave.color2</key>
+    <string>ecircumflexgrave.color2.glif</string>
+    <key>ecircumflexgrave.color3</key>
+    <string>ecircumflexgrave.color3.glif</string>
+    <key>ecircumflexgrave.color4</key>
+    <string>ecircumflexgrave.color4.glif</string>
+    <key>ecircumflexgrave.color5</key>
+    <string>ecircumflexgrave.color5.glif</string>
+    <key>ecircumflexgrave.color6</key>
+    <string>ecircumflexgrave.color6.glif</string>
+    <key>ecircumflexgrave.color7</key>
+    <string>ecircumflexgrave.color7.glif</string>
     <key>ecircumflexhookabove</key>
     <string>ecircumflexhookabove.glif</string>
+    <key>ecircumflexhookabove.color0</key>
+    <string>ecircumflexhookabove.color0.glif</string>
+    <key>ecircumflexhookabove.color1</key>
+    <string>ecircumflexhookabove.color1.glif</string>
+    <key>ecircumflexhookabove.color2</key>
+    <string>ecircumflexhookabove.color2.glif</string>
+    <key>ecircumflexhookabove.color3</key>
+    <string>ecircumflexhookabove.color3.glif</string>
+    <key>ecircumflexhookabove.color4</key>
+    <string>ecircumflexhookabove.color4.glif</string>
+    <key>ecircumflexhookabove.color5</key>
+    <string>ecircumflexhookabove.color5.glif</string>
+    <key>ecircumflexhookabove.color6</key>
+    <string>ecircumflexhookabove.color6.glif</string>
+    <key>ecircumflexhookabove.color7</key>
+    <string>ecircumflexhookabove.color7.glif</string>
+    <key>ecircumflexhookabove.color8</key>
+    <string>ecircumflexhookabove.color8.glif</string>
     <key>ecircumflextilde</key>
     <string>ecircumflextilde.glif</string>
+    <key>ecircumflextilde.color0</key>
+    <string>ecircumflextilde.color0.glif</string>
+    <key>ecircumflextilde.color1</key>
+    <string>ecircumflextilde.color1.glif</string>
+    <key>ecircumflextilde.color2</key>
+    <string>ecircumflextilde.color2.glif</string>
+    <key>ecircumflextilde.color3</key>
+    <string>ecircumflextilde.color3.glif</string>
+    <key>ecircumflextilde.color4</key>
+    <string>ecircumflextilde.color4.glif</string>
+    <key>ecircumflextilde.color5</key>
+    <string>ecircumflextilde.color5.glif</string>
+    <key>ecircumflextilde.color6</key>
+    <string>ecircumflextilde.color6.glif</string>
+    <key>ecircumflextilde.color7</key>
+    <string>ecircumflextilde.color7.glif</string>
+    <key>ecircumflextilde.color8</key>
+    <string>ecircumflextilde.color8.glif</string>
+    <key>ecircumflextilde.color9</key>
+    <string>ecircumflextilde.color9.glif</string>
     <key>edblgrave</key>
     <string>edblgrave.glif</string>
+    <key>edblgrave.color0</key>
+    <string>edblgrave.color0.glif</string>
+    <key>edblgrave.color1</key>
+    <string>edblgrave.color1.glif</string>
+    <key>edblgrave.color2</key>
+    <string>edblgrave.color2.glif</string>
+    <key>edblgrave.color3</key>
+    <string>edblgrave.color3.glif</string>
+    <key>edblgrave.color4</key>
+    <string>edblgrave.color4.glif</string>
+    <key>edblgrave.color5</key>
+    <string>edblgrave.color5.glif</string>
+    <key>edblgrave.color6</key>
+    <string>edblgrave.color6.glif</string>
     <key>edieresis</key>
     <string>edieresis.glif</string>
+    <key>edieresis.color0</key>
+    <string>edieresis.color0.glif</string>
+    <key>edieresis.color1</key>
+    <string>edieresis.color1.glif</string>
+    <key>edieresis.color2</key>
+    <string>edieresis.color2.glif</string>
+    <key>edieresis.color3</key>
+    <string>edieresis.color3.glif</string>
+    <key>edieresis.color4</key>
+    <string>edieresis.color4.glif</string>
+    <key>edieresis.color5</key>
+    <string>edieresis.color5.glif</string>
+    <key>edieresis.color6</key>
+    <string>edieresis.color6.glif</string>
     <key>edotaccent</key>
     <string>edotaccent.glif</string>
+    <key>edotaccent.color0</key>
+    <string>edotaccent.color0.glif</string>
+    <key>edotaccent.color1</key>
+    <string>edotaccent.color1.glif</string>
+    <key>edotaccent.color2</key>
+    <string>edotaccent.color2.glif</string>
+    <key>edotaccent.color3</key>
+    <string>edotaccent.color3.glif</string>
+    <key>edotaccent.color4</key>
+    <string>edotaccent.color4.glif</string>
+    <key>edotaccent.color5</key>
+    <string>edotaccent.color5.glif</string>
     <key>edotbelow</key>
     <string>edotbelow.glif</string>
+    <key>edotbelow.color0</key>
+    <string>edotbelow.color0.glif</string>
+    <key>edotbelow.color1</key>
+    <string>edotbelow.color1.glif</string>
+    <key>edotbelow.color2</key>
+    <string>edotbelow.color2.glif</string>
+    <key>edotbelow.color3</key>
+    <string>edotbelow.color3.glif</string>
+    <key>edotbelow.color4</key>
+    <string>edotbelow.color4.glif</string>
+    <key>edotbelow.color5</key>
+    <string>edotbelow.color5.glif</string>
     <key>egrave</key>
     <string>egrave.glif</string>
+    <key>egrave.color0</key>
+    <string>egrave.color0.glif</string>
+    <key>egrave.color1</key>
+    <string>egrave.color1.glif</string>
+    <key>egrave.color2</key>
+    <string>egrave.color2.glif</string>
+    <key>egrave.color3</key>
+    <string>egrave.color3.glif</string>
+    <key>egrave.color4</key>
+    <string>egrave.color4.glif</string>
+    <key>egrave.color5</key>
+    <string>egrave.color5.glif</string>
     <key>ehookabove</key>
     <string>ehookabove.glif</string>
+    <key>ehookabove.color0</key>
+    <string>ehookabove.color0.glif</string>
+    <key>ehookabove.color1</key>
+    <string>ehookabove.color1.glif</string>
+    <key>ehookabove.color2</key>
+    <string>ehookabove.color2.glif</string>
+    <key>ehookabove.color3</key>
+    <string>ehookabove.color3.glif</string>
+    <key>ehookabove.color4</key>
+    <string>ehookabove.color4.glif</string>
+    <key>ehookabove.color5</key>
+    <string>ehookabove.color5.glif</string>
+    <key>ehookabove.color6</key>
+    <string>ehookabove.color6.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>eight.color0</key>
@@ -1546,8 +4216,34 @@
     <string>eight.color4.glif</string>
     <key>eight.lf</key>
     <string>eight.lf.glif</string>
+    <key>eight.lf.color0</key>
+    <string>eight.lf.color0.glif</string>
+    <key>eight.lf.color1</key>
+    <string>eight.lf.color1.glif</string>
+    <key>eight.lf.color2</key>
+    <string>eight.lf.color2.glif</string>
+    <key>eight.lf.color3</key>
+    <string>eight.lf.color3.glif</string>
+    <key>eight.lf.color4</key>
+    <string>eight.lf.color4.glif</string>
     <key>einvertedbreve</key>
     <string>einvertedbreve.glif</string>
+    <key>einvertedbreve.color0</key>
+    <string>einvertedbreve.color0.glif</string>
+    <key>einvertedbreve.color1</key>
+    <string>einvertedbreve.color1.glif</string>
+    <key>einvertedbreve.color2</key>
+    <string>einvertedbreve.color2.glif</string>
+    <key>einvertedbreve.color3</key>
+    <string>einvertedbreve.color3.glif</string>
+    <key>einvertedbreve.color4</key>
+    <string>einvertedbreve.color4.glif</string>
+    <key>einvertedbreve.color5</key>
+    <string>einvertedbreve.color5.glif</string>
+    <key>einvertedbreve.color6</key>
+    <string>einvertedbreve.color6.glif</string>
+    <key>einvertedbreve.color7</key>
+    <string>einvertedbreve.color7.glif</string>
     <key>ellipsis</key>
     <string>ellipsis.glif</string>
     <key>ellipsis.color0</key>
@@ -1558,6 +4254,18 @@
     <string>ellipsis.color2.glif</string>
     <key>emacron</key>
     <string>emacron.glif</string>
+    <key>emacron.color0</key>
+    <string>emacron.color0.glif</string>
+    <key>emacron.color1</key>
+    <string>emacron.color1.glif</string>
+    <key>emacron.color2</key>
+    <string>emacron.color2.glif</string>
+    <key>emacron.color3</key>
+    <string>emacron.color3.glif</string>
+    <key>emacron.color4</key>
+    <string>emacron.color4.glif</string>
+    <key>emacron.color5</key>
+    <string>emacron.color5.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
     <key>endash</key>
@@ -1574,6 +4282,22 @@
     <string>eng.color3.glif</string>
     <key>eogonek</key>
     <string>eogonek.glif</string>
+    <key>eogonek.color0</key>
+    <string>eogonek.color0.glif</string>
+    <key>eogonek.color1</key>
+    <string>eogonek.color1.glif</string>
+    <key>eogonek.color2</key>
+    <string>eogonek.color2.glif</string>
+    <key>eogonek.color3</key>
+    <string>eogonek.color3.glif</string>
+    <key>eogonek.color4</key>
+    <string>eogonek.color4.glif</string>
+    <key>eogonek.color5</key>
+    <string>eogonek.color5.glif</string>
+    <key>eogonek.color6</key>
+    <string>eogonek.color6.glif</string>
+    <key>eogonek.color7</key>
+    <string>eogonek.color7.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>equal.color0</key>
@@ -1596,6 +4320,22 @@
     <string>eth.color5.glif</string>
     <key>etilde</key>
     <string>etilde.glif</string>
+    <key>etilde.color0</key>
+    <string>etilde.color0.glif</string>
+    <key>etilde.color1</key>
+    <string>etilde.color1.glif</string>
+    <key>etilde.color2</key>
+    <string>etilde.color2.glif</string>
+    <key>etilde.color3</key>
+    <string>etilde.color3.glif</string>
+    <key>etilde.color4</key>
+    <string>etilde.color4.glif</string>
+    <key>etilde.color5</key>
+    <string>etilde.color5.glif</string>
+    <key>etilde.color6</key>
+    <string>etilde.color6.glif</string>
+    <key>etilde.color7</key>
+    <string>etilde.color7.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
     <key>euro.color0</key>
@@ -1640,6 +4380,14 @@
     <string>f_f.color2.glif</string>
     <key>f_f.color3</key>
     <string>f_f.color3.glif</string>
+    <key>f_f.color4</key>
+    <string>f_f.color4.glif</string>
+    <key>f_f.color5</key>
+    <string>f_f.color5.glif</string>
+    <key>f_f.color6</key>
+    <string>f_f.color6.glif</string>
+    <key>f_f.color7</key>
+    <string>f_f.color7.glif</string>
     <key>f_f_i</key>
     <string>f_f_i.glif</string>
     <key>f_f_i.color0</key>
@@ -1658,6 +4406,10 @@
     <string>f_f_i.color6.glif</string>
     <key>f_f_i.color7</key>
     <string>f_f_i.color7.glif</string>
+    <key>f_f_i.color8</key>
+    <string>f_f_i.color8.glif</string>
+    <key>f_f_i.color9</key>
+    <string>f_f_i.color9.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
     <key>f_f_l.color0</key>
@@ -1676,6 +4428,10 @@
     <string>f_f_l.color6.glif</string>
     <key>f_f_l.color7</key>
     <string>f_f_l.color7.glif</string>
+    <key>f_f_l.color8</key>
+    <string>f_f_l.color8.glif</string>
+    <key>f_f_l.color9</key>
+    <string>f_f_l.color9.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
     <key>fi.color0</key>
@@ -1686,6 +4442,10 @@
     <string>fi.color2.glif</string>
     <key>fi.color3</key>
     <string>fi.color3.glif</string>
+    <key>fi.color4</key>
+    <string>fi.color4.glif</string>
+    <key>fi.color5</key>
+    <string>fi.color5.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>five.color0</key>
@@ -1700,6 +4460,16 @@
     <string>five.color4.glif</string>
     <key>five.lf</key>
     <string>five.lf.glif</string>
+    <key>five.lf.color0</key>
+    <string>five.lf.color0.glif</string>
+    <key>five.lf.color1</key>
+    <string>five.lf.color1.glif</string>
+    <key>five.lf.color2</key>
+    <string>five.lf.color2.glif</string>
+    <key>five.lf.color3</key>
+    <string>five.lf.color3.glif</string>
+    <key>five.lf.color4</key>
+    <string>five.lf.color4.glif</string>
     <key>fl</key>
     <string>fl.glif</string>
     <key>fl.color0</key>
@@ -1710,6 +4480,10 @@
     <string>fl.color2.glif</string>
     <key>fl.color3</key>
     <string>fl.color3.glif</string>
+    <key>fl.color4</key>
+    <string>fl.color4.glif</string>
+    <key>fl.color5</key>
+    <string>fl.color5.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>florin.color0</key>
@@ -1734,6 +4508,12 @@
     <string>four.color2.glif</string>
     <key>four.lf</key>
     <string>four.lf.glif</string>
+    <key>four.lf.color0</key>
+    <string>four.lf.color0.glif</string>
+    <key>four.lf.color1</key>
+    <string>four.lf.color1.glif</string>
+    <key>four.lf.color2</key>
+    <string>four.lf.color2.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>foursuperior.color0</key>
@@ -1770,14 +4550,82 @@
     <string>g.color4.glif</string>
     <key>gbreve</key>
     <string>gbreve.glif</string>
+    <key>gbreve.color0</key>
+    <string>gbreve.color0.glif</string>
+    <key>gbreve.color1</key>
+    <string>gbreve.color1.glif</string>
+    <key>gbreve.color2</key>
+    <string>gbreve.color2.glif</string>
+    <key>gbreve.color3</key>
+    <string>gbreve.color3.glif</string>
+    <key>gbreve.color4</key>
+    <string>gbreve.color4.glif</string>
+    <key>gbreve.color5</key>
+    <string>gbreve.color5.glif</string>
+    <key>gbreve.color6</key>
+    <string>gbreve.color6.glif</string>
+    <key>gbreve.color7</key>
+    <string>gbreve.color7.glif</string>
     <key>gcaron</key>
     <string>gcaron.glif</string>
+    <key>gcaron.color0</key>
+    <string>gcaron.color0.glif</string>
+    <key>gcaron.color1</key>
+    <string>gcaron.color1.glif</string>
+    <key>gcaron.color2</key>
+    <string>gcaron.color2.glif</string>
+    <key>gcaron.color3</key>
+    <string>gcaron.color3.glif</string>
+    <key>gcaron.color4</key>
+    <string>gcaron.color4.glif</string>
+    <key>gcaron.color5</key>
+    <string>gcaron.color5.glif</string>
+    <key>gcaron.color6</key>
+    <string>gcaron.color6.glif</string>
     <key>gcircumflex</key>
     <string>gcircumflex.glif</string>
+    <key>gcircumflex.color0</key>
+    <string>gcircumflex.color0.glif</string>
+    <key>gcircumflex.color1</key>
+    <string>gcircumflex.color1.glif</string>
+    <key>gcircumflex.color2</key>
+    <string>gcircumflex.color2.glif</string>
+    <key>gcircumflex.color3</key>
+    <string>gcircumflex.color3.glif</string>
+    <key>gcircumflex.color4</key>
+    <string>gcircumflex.color4.glif</string>
+    <key>gcircumflex.color5</key>
+    <string>gcircumflex.color5.glif</string>
+    <key>gcircumflex.color6</key>
+    <string>gcircumflex.color6.glif</string>
     <key>gcommaaccent</key>
     <string>gcommaaccent.glif</string>
+    <key>gcommaaccent.color0</key>
+    <string>gcommaaccent.color0.glif</string>
+    <key>gcommaaccent.color1</key>
+    <string>gcommaaccent.color1.glif</string>
+    <key>gcommaaccent.color2</key>
+    <string>gcommaaccent.color2.glif</string>
+    <key>gcommaaccent.color3</key>
+    <string>gcommaaccent.color3.glif</string>
+    <key>gcommaaccent.color4</key>
+    <string>gcommaaccent.color4.glif</string>
+    <key>gcommaaccent.color5</key>
+    <string>gcommaaccent.color5.glif</string>
     <key>gdotaccent</key>
     <string>gdotaccent.glif</string>
+    <key>gdotaccent.color0</key>
+    <string>gdotaccent.color0.glif</string>
+    <key>gdotaccent.color1</key>
+    <string>gdotaccent.color1.glif</string>
+    <key>gdotaccent.color2</key>
+    <string>gdotaccent.color2.glif</string>
+    <key>gdotaccent.color3</key>
+    <string>gdotaccent.color3.glif</string>
+    <key>gdotaccent.color4</key>
+    <string>gdotaccent.color4.glif</string>
+    <key>gdotaccent.color5</key>
+    <string>gdotaccent.color5.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>germandbls.color0</key>
@@ -1868,8 +4716,26 @@
     <string>h.color2.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
+    <key>hbar.color0</key>
+    <string>hbar.color0.glif</string>
+    <key>hbar.color1</key>
+    <string>hbar.color1.glif</string>
+    <key>hbar.color2</key>
+    <string>hbar.color2.glif</string>
+    <key>hbar.color3</key>
+    <string>hbar.color3.glif</string>
     <key>hcircumflex</key>
     <string>hcircumflex.glif</string>
+    <key>hcircumflex.color0</key>
+    <string>hcircumflex.color0.glif</string>
+    <key>hcircumflex.color1</key>
+    <string>hcircumflex.color1.glif</string>
+    <key>hcircumflex.color2</key>
+    <string>hcircumflex.color2.glif</string>
+    <key>hcircumflex.color3</key>
+    <string>hcircumflex.color3.glif</string>
+    <key>hcircumflex.color4</key>
+    <string>hcircumflex.color4.glif</string>
     <key>hookabovecomb</key>
     <string>hookabovecomb.glif</string>
     <key>hookabovecomb.case</key>
@@ -1908,6 +4774,10 @@
     <string>hungarumlautcomb.case.color0.glif</string>
     <key>hungarumlautcomb.case.color1</key>
     <string>hungarumlautcomb.case.color1.glif</string>
+    <key>hungarumlautcomb.color0</key>
+    <string>hungarumlautcomb.color0.glif</string>
+    <key>hungarumlautcomb.color1</key>
+    <string>hungarumlautcomb.color1.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>hyphentwo</key>
@@ -1920,6 +4790,10 @@
     <string>i.color1.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
+    <key>iacute.color0</key>
+    <string>iacute.color0.glif</string>
+    <key>iacute.color1</key>
+    <string>iacute.color1.glif</string>
     <key>ibreve</key>
     <string>ibreve.glif</string>
     <key>ibreve.color0</key>
@@ -1928,32 +4802,58 @@
     <string>ibreve.color1.glif</string>
     <key>ibreve.color2</key>
     <string>ibreve.color2.glif</string>
+    <key>ibreve.color3</key>
+    <string>ibreve.color3.glif</string>
     <key>icircumflex</key>
     <string>icircumflex.glif</string>
+    <key>icircumflex.color0</key>
+    <string>icircumflex.color0.glif</string>
+    <key>icircumflex.color1</key>
+    <string>icircumflex.color1.glif</string>
+    <key>icircumflex.color2</key>
+    <string>icircumflex.color2.glif</string>
     <key>idblgrave</key>
     <string>idblgrave.glif</string>
     <key>idblgrave.color0</key>
     <string>idblgrave.color0.glif</string>
+    <key>idblgrave.color1</key>
+    <string>idblgrave.color1.glif</string>
     <key>idieresis</key>
     <string>idieresis.glif</string>
     <key>idieresis.color0</key>
     <string>idieresis.color0.glif</string>
     <key>idieresis.color1</key>
     <string>idieresis.color1.glif</string>
+    <key>idieresis.color2</key>
+    <string>idieresis.color2.glif</string>
     <key>idotaccent</key>
     <string>idotaccent.glif</string>
+    <key>idotaccent.color0</key>
+    <string>idotaccent.color0.glif</string>
+    <key>idotaccent.color1</key>
+    <string>idotaccent.color1.glif</string>
     <key>idotbelow</key>
     <string>idotbelow.glif</string>
+    <key>idotbelow.color0</key>
+    <string>idotbelow.color0.glif</string>
+    <key>idotbelow.color1</key>
+    <string>idotbelow.color1.glif</string>
     <key>idotless</key>
     <string>idotless.glif</string>
     <key>igrave</key>
     <string>igrave.glif</string>
+    <key>igrave.color0</key>
+    <string>igrave.color0.glif</string>
+    <key>igrave.color1</key>
+    <string>igrave.color1.glif</string>
     <key>ihookabove</key>
     <string>ihookabove.glif</string>
     <key>ihookabove.color0</key>
     <string>ihookabove.color0.glif</string>
     <key>ihookabove.color1</key>
     <string>ihookabove.color1.glif</string>
+    <key>ihookabove.color2</key>
+    <string>ihookabove.color2.glif</string>
     <key>iinvertedbreve</key>
     <string>iinvertedbreve.glif</string>
     <key>iinvertedbreve.color0</key>
@@ -1962,12 +4862,26 @@
     <string>iinvertedbreve.color1.glif</string>
     <key>iinvertedbreve.color2</key>
     <string>iinvertedbreve.color2.glif</string>
+    <key>iinvertedbreve.color3</key>
+    <string>iinvertedbreve.color3.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
     <key>imacron.color0</key>
     <string>imacron.color0.glif</string>
+    <key>imacron.color1</key>
+    <string>imacron.color1.glif</string>
     <key>iogonek</key>
     <string>iogonek.glif</string>
+    <key>iogonek.color0</key>
+    <string>iogonek.color0.glif</string>
+    <key>iogonek.color1</key>
+    <string>iogonek.color1.glif</string>
+    <key>iogonek.color2</key>
+    <string>iogonek.color2.glif</string>
+    <key>iogonek.color3</key>
+    <string>iogonek.color3.glif</string>
+    <key>iogonek.color4</key>
+    <string>iogonek.color4.glif</string>
     <key>itilde</key>
     <string>itilde.glif</string>
     <key>itilde.color0</key>
@@ -1976,6 +4890,8 @@
     <string>itilde.color1.glif</string>
     <key>itilde.color2</key>
     <string>itilde.color2.glif</string>
+    <key>itilde.color3</key>
+    <string>itilde.color3.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>j.color0</key>
@@ -1986,6 +4902,14 @@
     <string>j.color2.glif</string>
     <key>jcircumflex</key>
     <string>jcircumflex.glif</string>
+    <key>jcircumflex.color0</key>
+    <string>jcircumflex.color0.glif</string>
+    <key>jcircumflex.color1</key>
+    <string>jcircumflex.color1.glif</string>
+    <key>jcircumflex.color2</key>
+    <string>jcircumflex.color2.glif</string>
+    <key>jcircumflex.color3</key>
+    <string>jcircumflex.color3.glif</string>
     <key>jdotless</key>
     <string>jdotless.glif</string>
     <key>jdotless.color0</key>
@@ -2004,6 +4928,16 @@
     <string>k.color3.glif</string>
     <key>kcommaaccent</key>
     <string>kcommaaccent.glif</string>
+    <key>kcommaaccent.color0</key>
+    <string>kcommaaccent.color0.glif</string>
+    <key>kcommaaccent.color1</key>
+    <string>kcommaaccent.color1.glif</string>
+    <key>kcommaaccent.color2</key>
+    <string>kcommaaccent.color2.glif</string>
+    <key>kcommaaccent.color3</key>
+    <string>kcommaaccent.color3.glif</string>
+    <key>kcommaaccent.color4</key>
+    <string>kcommaaccent.color4.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
     <key>kgreenlandic.color0</key>
@@ -2034,12 +4968,36 @@
     <string>l.color1.glif</string>
     <key>lacute</key>
     <string>lacute.glif</string>
+    <key>lacute.color0</key>
+    <string>lacute.color0.glif</string>
+    <key>lacute.color1</key>
+    <string>lacute.color1.glif</string>
+    <key>lacute.color2</key>
+    <string>lacute.color2.glif</string>
     <key>lcaron</key>
     <string>lcaron.glif</string>
+    <key>lcaron.color0</key>
+    <string>lcaron.color0.glif</string>
+    <key>lcaron.color1</key>
+    <string>lcaron.color1.glif</string>
+    <key>lcaron.color2</key>
+    <string>lcaron.color2.glif</string>
     <key>lcommaaccent</key>
     <string>lcommaaccent.glif</string>
+    <key>lcommaaccent.color0</key>
+    <string>lcommaaccent.color0.glif</string>
+    <key>lcommaaccent.color1</key>
+    <string>lcommaaccent.color1.glif</string>
+    <key>lcommaaccent.color2</key>
+    <string>lcommaaccent.color2.glif</string>
     <key>ldot</key>
     <string>ldot.glif</string>
+    <key>ldot.color0</key>
+    <string>ldot.color0.glif</string>
+    <key>ldot.color1</key>
+    <string>ldot.color1.glif</string>
+    <key>ldot.color2</key>
+    <string>ldot.color2.glif</string>
     <key>leftanglebracket-math</key>
     <string>leftanglebracket-math.glif</string>
     <key>leftanglebracket-math.color0</key>
@@ -2086,6 +5044,16 @@
     <string>liraT_urkish.color4.glif</string>
     <key>lj</key>
     <string>lj.glif</string>
+    <key>lj.color0</key>
+    <string>lj.color0.glif</string>
+    <key>lj.color1</key>
+    <string>lj.color1.glif</string>
+    <key>lj.color2</key>
+    <string>lj.color2.glif</string>
+    <key>lj.color3</key>
+    <string>lj.color3.glif</string>
+    <key>lj.color4</key>
+    <string>lj.color4.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
     <key>logicalnot.color0</key>
@@ -2096,6 +5064,10 @@
     <string>lslash.glif</string>
     <key>lslash.color0</key>
     <string>lslash.color0.glif</string>
+    <key>lslash.color1</key>
+    <string>lslash.color1.glif</string>
+    <key>lslash.color2</key>
+    <string>lslash.color2.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>m.color0</key>
@@ -2156,6 +5128,14 @@
     <string>n.color2.glif</string>
     <key>nacute</key>
     <string>nacute.glif</string>
+    <key>nacute.color0</key>
+    <string>nacute.color0.glif</string>
+    <key>nacute.color1</key>
+    <string>nacute.color1.glif</string>
+    <key>nacute.color2</key>
+    <string>nacute.color2.glif</string>
+    <key>nacute.color3</key>
+    <string>nacute.color3.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
     <key>naira.color0</key>
@@ -2172,8 +5152,26 @@
     <string>nbspace.glif</string>
     <key>ncaron</key>
     <string>ncaron.glif</string>
+    <key>ncaron.color0</key>
+    <string>ncaron.color0.glif</string>
+    <key>ncaron.color1</key>
+    <string>ncaron.color1.glif</string>
+    <key>ncaron.color2</key>
+    <string>ncaron.color2.glif</string>
+    <key>ncaron.color3</key>
+    <string>ncaron.color3.glif</string>
+    <key>ncaron.color4</key>
+    <string>ncaron.color4.glif</string>
     <key>ncommaaccent</key>
     <string>ncommaaccent.glif</string>
+    <key>ncommaaccent.color0</key>
+    <string>ncommaaccent.color0.glif</string>
+    <key>ncommaaccent.color1</key>
+    <string>ncommaaccent.color1.glif</string>
+    <key>ncommaaccent.color2</key>
+    <string>ncommaaccent.color2.glif</string>
+    <key>ncommaaccent.color3</key>
+    <string>ncommaaccent.color3.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>nine.color0</key>
@@ -2188,8 +5186,30 @@
     <string>nine.color4.glif</string>
     <key>nine.lf</key>
     <string>nine.lf.glif</string>
+    <key>nine.lf.color0</key>
+    <string>nine.lf.color0.glif</string>
+    <key>nine.lf.color1</key>
+    <string>nine.lf.color1.glif</string>
+    <key>nine.lf.color2</key>
+    <string>nine.lf.color2.glif</string>
+    <key>nine.lf.color3</key>
+    <string>nine.lf.color3.glif</string>
+    <key>nine.lf.color4</key>
+    <string>nine.lf.color4.glif</string>
     <key>nj</key>
     <string>nj.glif</string>
+    <key>nj.color0</key>
+    <string>nj.color0.glif</string>
+    <key>nj.color1</key>
+    <string>nj.color1.glif</string>
+    <key>nj.color2</key>
+    <string>nj.color2.glif</string>
+    <key>nj.color3</key>
+    <string>nj.color3.glif</string>
+    <key>nj.color4</key>
+    <string>nj.color4.glif</string>
+    <key>nj.color5</key>
+    <string>nj.color5.glif</string>
     <key>nonmarkingreturn</key>
     <string>nonmarkingreturn.glif</string>
     <key>notequal</key>
@@ -2202,6 +5222,18 @@
     <string>notequal.color2.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
+    <key>ntilde.color0</key>
+    <string>ntilde.color0.glif</string>
+    <key>ntilde.color1</key>
+    <string>ntilde.color1.glif</string>
+    <key>ntilde.color2</key>
+    <string>ntilde.color2.glif</string>
+    <key>ntilde.color3</key>
+    <string>ntilde.color3.glif</string>
+    <key>ntilde.color4</key>
+    <string>ntilde.color4.glif</string>
+    <key>ntilde.color5</key>
+    <string>ntilde.color5.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>numbersign.color0</key>
@@ -2242,24 +5274,160 @@
     <string>o.color3.glif</string>
     <key>oacute</key>
     <string>oacute.glif</string>
+    <key>oacute.color0</key>
+    <string>oacute.color0.glif</string>
+    <key>oacute.color1</key>
+    <string>oacute.color1.glif</string>
+    <key>oacute.color2</key>
+    <string>oacute.color2.glif</string>
+    <key>oacute.color3</key>
+    <string>oacute.color3.glif</string>
+    <key>oacute.color4</key>
+    <string>oacute.color4.glif</string>
     <key>obreve</key>
     <string>obreve.glif</string>
+    <key>obreve.color0</key>
+    <string>obreve.color0.glif</string>
+    <key>obreve.color1</key>
+    <string>obreve.color1.glif</string>
+    <key>obreve.color2</key>
+    <string>obreve.color2.glif</string>
+    <key>obreve.color3</key>
+    <string>obreve.color3.glif</string>
+    <key>obreve.color4</key>
+    <string>obreve.color4.glif</string>
+    <key>obreve.color5</key>
+    <string>obreve.color5.glif</string>
+    <key>obreve.color6</key>
+    <string>obreve.color6.glif</string>
     <key>ocircumflex</key>
     <string>ocircumflex.glif</string>
+    <key>ocircumflex.color0</key>
+    <string>ocircumflex.color0.glif</string>
+    <key>ocircumflex.color1</key>
+    <string>ocircumflex.color1.glif</string>
+    <key>ocircumflex.color2</key>
+    <string>ocircumflex.color2.glif</string>
+    <key>ocircumflex.color3</key>
+    <string>ocircumflex.color3.glif</string>
+    <key>ocircumflex.color4</key>
+    <string>ocircumflex.color4.glif</string>
+    <key>ocircumflex.color5</key>
+    <string>ocircumflex.color5.glif</string>
     <key>ocircumflexacute</key>
     <string>ocircumflexacute.glif</string>
+    <key>ocircumflexacute.color0</key>
+    <string>ocircumflexacute.color0.glif</string>
+    <key>ocircumflexacute.color1</key>
+    <string>ocircumflexacute.color1.glif</string>
+    <key>ocircumflexacute.color2</key>
+    <string>ocircumflexacute.color2.glif</string>
+    <key>ocircumflexacute.color3</key>
+    <string>ocircumflexacute.color3.glif</string>
+    <key>ocircumflexacute.color4</key>
+    <string>ocircumflexacute.color4.glif</string>
+    <key>ocircumflexacute.color5</key>
+    <string>ocircumflexacute.color5.glif</string>
+    <key>ocircumflexacute.color6</key>
+    <string>ocircumflexacute.color6.glif</string>
     <key>ocircumflexdotbelow</key>
     <string>ocircumflexdotbelow.glif</string>
+    <key>ocircumflexdotbelow.color0</key>
+    <string>ocircumflexdotbelow.color0.glif</string>
+    <key>ocircumflexdotbelow.color1</key>
+    <string>ocircumflexdotbelow.color1.glif</string>
+    <key>ocircumflexdotbelow.color2</key>
+    <string>ocircumflexdotbelow.color2.glif</string>
+    <key>ocircumflexdotbelow.color3</key>
+    <string>ocircumflexdotbelow.color3.glif</string>
+    <key>ocircumflexdotbelow.color4</key>
+    <string>ocircumflexdotbelow.color4.glif</string>
+    <key>ocircumflexdotbelow.color5</key>
+    <string>ocircumflexdotbelow.color5.glif</string>
+    <key>ocircumflexdotbelow.color6</key>
+    <string>ocircumflexdotbelow.color6.glif</string>
     <key>ocircumflexgrave</key>
     <string>ocircumflexgrave.glif</string>
+    <key>ocircumflexgrave.color0</key>
+    <string>ocircumflexgrave.color0.glif</string>
+    <key>ocircumflexgrave.color1</key>
+    <string>ocircumflexgrave.color1.glif</string>
+    <key>ocircumflexgrave.color2</key>
+    <string>ocircumflexgrave.color2.glif</string>
+    <key>ocircumflexgrave.color3</key>
+    <string>ocircumflexgrave.color3.glif</string>
+    <key>ocircumflexgrave.color4</key>
+    <string>ocircumflexgrave.color4.glif</string>
+    <key>ocircumflexgrave.color5</key>
+    <string>ocircumflexgrave.color5.glif</string>
+    <key>ocircumflexgrave.color6</key>
+    <string>ocircumflexgrave.color6.glif</string>
     <key>ocircumflexhookabove</key>
     <string>ocircumflexhookabove.glif</string>
+    <key>ocircumflexhookabove.color0</key>
+    <string>ocircumflexhookabove.color0.glif</string>
+    <key>ocircumflexhookabove.color1</key>
+    <string>ocircumflexhookabove.color1.glif</string>
+    <key>ocircumflexhookabove.color2</key>
+    <string>ocircumflexhookabove.color2.glif</string>
+    <key>ocircumflexhookabove.color3</key>
+    <string>ocircumflexhookabove.color3.glif</string>
+    <key>ocircumflexhookabove.color4</key>
+    <string>ocircumflexhookabove.color4.glif</string>
+    <key>ocircumflexhookabove.color5</key>
+    <string>ocircumflexhookabove.color5.glif</string>
+    <key>ocircumflexhookabove.color6</key>
+    <string>ocircumflexhookabove.color6.glif</string>
+    <key>ocircumflexhookabove.color7</key>
+    <string>ocircumflexhookabove.color7.glif</string>
     <key>ocircumflextilde</key>
     <string>ocircumflextilde.glif</string>
+    <key>ocircumflextilde.color0</key>
+    <string>ocircumflextilde.color0.glif</string>
+    <key>ocircumflextilde.color1</key>
+    <string>ocircumflextilde.color1.glif</string>
+    <key>ocircumflextilde.color2</key>
+    <string>ocircumflextilde.color2.glif</string>
+    <key>ocircumflextilde.color3</key>
+    <string>ocircumflextilde.color3.glif</string>
+    <key>ocircumflextilde.color4</key>
+    <string>ocircumflextilde.color4.glif</string>
+    <key>ocircumflextilde.color5</key>
+    <string>ocircumflextilde.color5.glif</string>
+    <key>ocircumflextilde.color6</key>
+    <string>ocircumflextilde.color6.glif</string>
+    <key>ocircumflextilde.color7</key>
+    <string>ocircumflextilde.color7.glif</string>
+    <key>ocircumflextilde.color8</key>
+    <string>ocircumflextilde.color8.glif</string>
     <key>odblgrave</key>
     <string>odblgrave.glif</string>
+    <key>odblgrave.color0</key>
+    <string>odblgrave.color0.glif</string>
+    <key>odblgrave.color1</key>
+    <string>odblgrave.color1.glif</string>
+    <key>odblgrave.color2</key>
+    <string>odblgrave.color2.glif</string>
+    <key>odblgrave.color3</key>
+    <string>odblgrave.color3.glif</string>
+    <key>odblgrave.color4</key>
+    <string>odblgrave.color4.glif</string>
+    <key>odblgrave.color5</key>
+    <string>odblgrave.color5.glif</string>
     <key>odieresis</key>
     <string>odieresis.glif</string>
+    <key>odieresis.color0</key>
+    <string>odieresis.color0.glif</string>
+    <key>odieresis.color1</key>
+    <string>odieresis.color1.glif</string>
+    <key>odieresis.color2</key>
+    <string>odieresis.color2.glif</string>
+    <key>odieresis.color3</key>
+    <string>odieresis.color3.glif</string>
+    <key>odieresis.color4</key>
+    <string>odieresis.color4.glif</string>
+    <key>odieresis.color5</key>
+    <string>odieresis.color5.glif</string>
     <key>odieresismacron</key>
     <string>odieresismacron.glif</string>
     <key>odieresismacron.color0</key>
@@ -2268,14 +5436,40 @@
     <string>odieresismacron.color1.glif</string>
     <key>odieresismacron.color2</key>
     <string>odieresismacron.color2.glif</string>
+    <key>odieresismacron.color3</key>
+    <string>odieresismacron.color3.glif</string>
+    <key>odieresismacron.color4</key>
+    <string>odieresismacron.color4.glif</string>
+    <key>odieresismacron.color5</key>
+    <string>odieresismacron.color5.glif</string>
+    <key>odieresismacron.color6</key>
+    <string>odieresismacron.color6.glif</string>
     <key>odotaccentmacron</key>
     <string>odotaccentmacron.glif</string>
     <key>odotaccentmacron.color0</key>
     <string>odotaccentmacron.color0.glif</string>
     <key>odotaccentmacron.color1</key>
     <string>odotaccentmacron.color1.glif</string>
+    <key>odotaccentmacron.color2</key>
+    <string>odotaccentmacron.color2.glif</string>
+    <key>odotaccentmacron.color3</key>
+    <string>odotaccentmacron.color3.glif</string>
+    <key>odotaccentmacron.color4</key>
+    <string>odotaccentmacron.color4.glif</string>
+    <key>odotaccentmacron.color5</key>
+    <string>odotaccentmacron.color5.glif</string>
     <key>odotbelow</key>
     <string>odotbelow.glif</string>
+    <key>odotbelow.color0</key>
+    <string>odotbelow.color0.glif</string>
+    <key>odotbelow.color1</key>
+    <string>odotbelow.color1.glif</string>
+    <key>odotbelow.color2</key>
+    <string>odotbelow.color2.glif</string>
+    <key>odotbelow.color3</key>
+    <string>odotbelow.color3.glif</string>
+    <key>odotbelow.color4</key>
+    <string>odotbelow.color4.glif</string>
     <key>oe</key>
     <string>oe.glif</string>
     <key>oe.color0</key>
@@ -2312,26 +5506,172 @@
     <string>ogonekcomb.color2.glif</string>
     <key>ograve</key>
     <string>ograve.glif</string>
+    <key>ograve.color0</key>
+    <string>ograve.color0.glif</string>
+    <key>ograve.color1</key>
+    <string>ograve.color1.glif</string>
+    <key>ograve.color2</key>
+    <string>ograve.color2.glif</string>
+    <key>ograve.color3</key>
+    <string>ograve.color3.glif</string>
+    <key>ograve.color4</key>
+    <string>ograve.color4.glif</string>
     <key>ohookabove</key>
     <string>ohookabove.glif</string>
+    <key>ohookabove.color0</key>
+    <string>ohookabove.color0.glif</string>
+    <key>ohookabove.color1</key>
+    <string>ohookabove.color1.glif</string>
+    <key>ohookabove.color2</key>
+    <string>ohookabove.color2.glif</string>
+    <key>ohookabove.color3</key>
+    <string>ohookabove.color3.glif</string>
+    <key>ohookabove.color4</key>
+    <string>ohookabove.color4.glif</string>
+    <key>ohookabove.color5</key>
+    <string>ohookabove.color5.glif</string>
     <key>ohorn</key>
     <string>ohorn.glif</string>
+    <key>ohorn.color0</key>
+    <string>ohorn.color0.glif</string>
+    <key>ohorn.color1</key>
+    <string>ohorn.color1.glif</string>
+    <key>ohorn.color2</key>
+    <string>ohorn.color2.glif</string>
+    <key>ohorn.color3</key>
+    <string>ohorn.color3.glif</string>
+    <key>ohorn.color4</key>
+    <string>ohorn.color4.glif</string>
+    <key>ohorn.color5</key>
+    <string>ohorn.color5.glif</string>
     <key>ohornacute</key>
     <string>ohornacute.glif</string>
+    <key>ohornacute.color0</key>
+    <string>ohornacute.color0.glif</string>
+    <key>ohornacute.color1</key>
+    <string>ohornacute.color1.glif</string>
+    <key>ohornacute.color2</key>
+    <string>ohornacute.color2.glif</string>
+    <key>ohornacute.color3</key>
+    <string>ohornacute.color3.glif</string>
+    <key>ohornacute.color4</key>
+    <string>ohornacute.color4.glif</string>
+    <key>ohornacute.color5</key>
+    <string>ohornacute.color5.glif</string>
+    <key>ohornacute.color6</key>
+    <string>ohornacute.color6.glif</string>
     <key>ohorndotbelow</key>
     <string>ohorndotbelow.glif</string>
+    <key>ohorndotbelow.color0</key>
+    <string>ohorndotbelow.color0.glif</string>
+    <key>ohorndotbelow.color1</key>
+    <string>ohorndotbelow.color1.glif</string>
+    <key>ohorndotbelow.color2</key>
+    <string>ohorndotbelow.color2.glif</string>
+    <key>ohorndotbelow.color3</key>
+    <string>ohorndotbelow.color3.glif</string>
+    <key>ohorndotbelow.color4</key>
+    <string>ohorndotbelow.color4.glif</string>
+    <key>ohorndotbelow.color5</key>
+    <string>ohorndotbelow.color5.glif</string>
+    <key>ohorndotbelow.color6</key>
+    <string>ohorndotbelow.color6.glif</string>
     <key>ohorngrave</key>
     <string>ohorngrave.glif</string>
+    <key>ohorngrave.color0</key>
+    <string>ohorngrave.color0.glif</string>
+    <key>ohorngrave.color1</key>
+    <string>ohorngrave.color1.glif</string>
+    <key>ohorngrave.color2</key>
+    <string>ohorngrave.color2.glif</string>
+    <key>ohorngrave.color3</key>
+    <string>ohorngrave.color3.glif</string>
+    <key>ohorngrave.color4</key>
+    <string>ohorngrave.color4.glif</string>
+    <key>ohorngrave.color5</key>
+    <string>ohorngrave.color5.glif</string>
+    <key>ohorngrave.color6</key>
+    <string>ohorngrave.color6.glif</string>
     <key>ohornhookabove</key>
     <string>ohornhookabove.glif</string>
+    <key>ohornhookabove.color0</key>
+    <string>ohornhookabove.color0.glif</string>
+    <key>ohornhookabove.color1</key>
+    <string>ohornhookabove.color1.glif</string>
+    <key>ohornhookabove.color2</key>
+    <string>ohornhookabove.color2.glif</string>
+    <key>ohornhookabove.color3</key>
+    <string>ohornhookabove.color3.glif</string>
+    <key>ohornhookabove.color4</key>
+    <string>ohornhookabove.color4.glif</string>
+    <key>ohornhookabove.color5</key>
+    <string>ohornhookabove.color5.glif</string>
+    <key>ohornhookabove.color6</key>
+    <string>ohornhookabove.color6.glif</string>
+    <key>ohornhookabove.color7</key>
+    <string>ohornhookabove.color7.glif</string>
     <key>ohorntilde</key>
     <string>ohorntilde.glif</string>
+    <key>ohorntilde.color0</key>
+    <string>ohorntilde.color0.glif</string>
+    <key>ohorntilde.color1</key>
+    <string>ohorntilde.color1.glif</string>
+    <key>ohorntilde.color2</key>
+    <string>ohorntilde.color2.glif</string>
+    <key>ohorntilde.color3</key>
+    <string>ohorntilde.color3.glif</string>
+    <key>ohorntilde.color4</key>
+    <string>ohorntilde.color4.glif</string>
+    <key>ohorntilde.color5</key>
+    <string>ohorntilde.color5.glif</string>
+    <key>ohorntilde.color6</key>
+    <string>ohorntilde.color6.glif</string>
+    <key>ohorntilde.color7</key>
+    <string>ohorntilde.color7.glif</string>
+    <key>ohorntilde.color8</key>
+    <string>ohorntilde.color8.glif</string>
     <key>ohungarumlaut</key>
     <string>ohungarumlaut.glif</string>
+    <key>ohungarumlaut.color0</key>
+    <string>ohungarumlaut.color0.glif</string>
+    <key>ohungarumlaut.color1</key>
+    <string>ohungarumlaut.color1.glif</string>
+    <key>ohungarumlaut.color2</key>
+    <string>ohungarumlaut.color2.glif</string>
+    <key>ohungarumlaut.color3</key>
+    <string>ohungarumlaut.color3.glif</string>
+    <key>ohungarumlaut.color4</key>
+    <string>ohungarumlaut.color4.glif</string>
+    <key>ohungarumlaut.color5</key>
+    <string>ohungarumlaut.color5.glif</string>
     <key>oinvertedbreve</key>
     <string>oinvertedbreve.glif</string>
+    <key>oinvertedbreve.color0</key>
+    <string>oinvertedbreve.color0.glif</string>
+    <key>oinvertedbreve.color1</key>
+    <string>oinvertedbreve.color1.glif</string>
+    <key>oinvertedbreve.color2</key>
+    <string>oinvertedbreve.color2.glif</string>
+    <key>oinvertedbreve.color3</key>
+    <string>oinvertedbreve.color3.glif</string>
+    <key>oinvertedbreve.color4</key>
+    <string>oinvertedbreve.color4.glif</string>
+    <key>oinvertedbreve.color5</key>
+    <string>oinvertedbreve.color5.glif</string>
+    <key>oinvertedbreve.color6</key>
+    <string>oinvertedbreve.color6.glif</string>
     <key>omacron</key>
     <string>omacron.glif</string>
+    <key>omacron.color0</key>
+    <string>omacron.color0.glif</string>
+    <key>omacron.color1</key>
+    <string>omacron.color1.glif</string>
+    <key>omacron.color2</key>
+    <string>omacron.color2.glif</string>
+    <key>omacron.color3</key>
+    <string>omacron.color3.glif</string>
+    <key>omacron.color4</key>
+    <string>omacron.color4.glif</string>
     <key>one</key>
     <string>one.glif</string>
     <key>one.color0</key>
@@ -2344,10 +5684,50 @@
     <string>one.color3.glif</string>
     <key>one.lf</key>
     <string>one.lf.glif</string>
+    <key>one.lf.color0</key>
+    <string>one.lf.color0.glif</string>
+    <key>one.lf.color1</key>
+    <string>one.lf.color1.glif</string>
+    <key>one.lf.color2</key>
+    <string>one.lf.color2.glif</string>
+    <key>one.lf.color3</key>
+    <string>one.lf.color3.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
+    <key>onehalf.color0</key>
+    <string>onehalf.color0.glif</string>
+    <key>onehalf.color1</key>
+    <string>onehalf.color1.glif</string>
+    <key>onehalf.color2</key>
+    <string>onehalf.color2.glif</string>
+    <key>onehalf.color3</key>
+    <string>onehalf.color3.glif</string>
+    <key>onehalf.color4</key>
+    <string>onehalf.color4.glif</string>
+    <key>onehalf.color5</key>
+    <string>onehalf.color5.glif</string>
+    <key>onehalf.color6</key>
+    <string>onehalf.color6.glif</string>
+    <key>onehalf.color7</key>
+    <string>onehalf.color7.glif</string>
     <key>onequarter</key>
     <string>onequarter.glif</string>
+    <key>onequarter.color0</key>
+    <string>onequarter.color0.glif</string>
+    <key>onequarter.color1</key>
+    <string>onequarter.color1.glif</string>
+    <key>onequarter.color2</key>
+    <string>onequarter.color2.glif</string>
+    <key>onequarter.color3</key>
+    <string>onequarter.color3.glif</string>
+    <key>onequarter.color4</key>
+    <string>onequarter.color4.glif</string>
+    <key>onequarter.color5</key>
+    <string>onequarter.color5.glif</string>
+    <key>onequarter.color6</key>
+    <string>onequarter.color6.glif</string>
+    <key>onequarter.color7</key>
+    <string>onequarter.color7.glif</string>
     <key>onesuperior</key>
     <string>onesuperior.glif</string>
     <key>onesuperior.color0</key>
@@ -2360,6 +5740,20 @@
     <string>onesuperior.color3.glif</string>
     <key>oogonek</key>
     <string>oogonek.glif</string>
+    <key>oogonek.color0</key>
+    <string>oogonek.color0.glif</string>
+    <key>oogonek.color1</key>
+    <string>oogonek.color1.glif</string>
+    <key>oogonek.color2</key>
+    <string>oogonek.color2.glif</string>
+    <key>oogonek.color3</key>
+    <string>oogonek.color3.glif</string>
+    <key>oogonek.color4</key>
+    <string>oogonek.color4.glif</string>
+    <key>oogonek.color5</key>
+    <string>oogonek.color5.glif</string>
+    <key>oogonek.color6</key>
+    <string>oogonek.color6.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
     <key>ordfeminine.color0</key>
@@ -2384,10 +5778,44 @@
     <string>oslash.glif</string>
     <key>oslash.color0</key>
     <string>oslash.color0.glif</string>
+    <key>oslash.color1</key>
+    <string>oslash.color1.glif</string>
+    <key>oslash.color2</key>
+    <string>oslash.color2.glif</string>
+    <key>oslash.color3</key>
+    <string>oslash.color3.glif</string>
+    <key>oslash.color4</key>
+    <string>oslash.color4.glif</string>
     <key>oslashacute</key>
     <string>oslashacute.glif</string>
+    <key>oslashacute.color0</key>
+    <string>oslashacute.color0.glif</string>
+    <key>oslashacute.color1</key>
+    <string>oslashacute.color1.glif</string>
+    <key>oslashacute.color2</key>
+    <string>oslashacute.color2.glif</string>
+    <key>oslashacute.color3</key>
+    <string>oslashacute.color3.glif</string>
+    <key>oslashacute.color4</key>
+    <string>oslashacute.color4.glif</string>
+    <key>oslashacute.color5</key>
+    <string>oslashacute.color5.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
+    <key>otilde.color0</key>
+    <string>otilde.color0.glif</string>
+    <key>otilde.color1</key>
+    <string>otilde.color1.glif</string>
+    <key>otilde.color2</key>
+    <string>otilde.color2.glif</string>
+    <key>otilde.color3</key>
+    <string>otilde.color3.glif</string>
+    <key>otilde.color4</key>
+    <string>otilde.color4.glif</string>
+    <key>otilde.color5</key>
+    <string>otilde.color5.glif</string>
+    <key>otilde.color6</key>
+    <string>otilde.color6.glif</string>
     <key>otildemacron</key>
     <string>otildemacron.glif</string>
     <key>otildemacron.color0</key>
@@ -2398,6 +5826,14 @@
     <string>otildemacron.color2.glif</string>
     <key>otildemacron.color3</key>
     <string>otildemacron.color3.glif</string>
+    <key>otildemacron.color4</key>
+    <string>otildemacron.color4.glif</string>
+    <key>otildemacron.color5</key>
+    <string>otildemacron.color5.glif</string>
+    <key>otildemacron.color6</key>
+    <string>otildemacron.color6.glif</string>
+    <key>otildemacron.color7</key>
+    <string>otildemacron.color7.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>p.color0</key>
@@ -2648,12 +6084,40 @@
     <string>r.color1.glif</string>
     <key>racute</key>
     <string>racute.glif</string>
+    <key>racute.color0</key>
+    <string>racute.color0.glif</string>
+    <key>racute.color1</key>
+    <string>racute.color1.glif</string>
+    <key>racute.color2</key>
+    <string>racute.color2.glif</string>
     <key>rcaron</key>
     <string>rcaron.glif</string>
+    <key>rcaron.color0</key>
+    <string>rcaron.color0.glif</string>
+    <key>rcaron.color1</key>
+    <string>rcaron.color1.glif</string>
+    <key>rcaron.color2</key>
+    <string>rcaron.color2.glif</string>
+    <key>rcaron.color3</key>
+    <string>rcaron.color3.glif</string>
     <key>rcommaaccent</key>
     <string>rcommaaccent.glif</string>
+    <key>rcommaaccent.color0</key>
+    <string>rcommaaccent.color0.glif</string>
+    <key>rcommaaccent.color1</key>
+    <string>rcommaaccent.color1.glif</string>
+    <key>rcommaaccent.color2</key>
+    <string>rcommaaccent.color2.glif</string>
     <key>rdblgrave</key>
     <string>rdblgrave.glif</string>
+    <key>rdblgrave.color0</key>
+    <string>rdblgrave.color0.glif</string>
+    <key>rdblgrave.color1</key>
+    <string>rdblgrave.color1.glif</string>
+    <key>rdblgrave.color2</key>
+    <string>rdblgrave.color2.glif</string>
+    <key>rdblgrave.color3</key>
+    <string>rdblgrave.color3.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
     <key>registered.color0</key>
@@ -2712,6 +6176,16 @@
     <string>ringcomb.color3.glif</string>
     <key>rinvertedbreve</key>
     <string>rinvertedbreve.glif</string>
+    <key>rinvertedbreve.color0</key>
+    <string>rinvertedbreve.color0.glif</string>
+    <key>rinvertedbreve.color1</key>
+    <string>rinvertedbreve.color1.glif</string>
+    <key>rinvertedbreve.color2</key>
+    <string>rinvertedbreve.color2.glif</string>
+    <key>rinvertedbreve.color3</key>
+    <string>rinvertedbreve.color3.glif</string>
+    <key>rinvertedbreve.color4</key>
+    <string>rinvertedbreve.color4.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
     <key>ruble.color0</key>
@@ -2750,10 +6224,42 @@
     <string>s.color2.glif</string>
     <key>sacute</key>
     <string>sacute.glif</string>
+    <key>sacute.color0</key>
+    <string>sacute.color0.glif</string>
+    <key>sacute.color1</key>
+    <string>sacute.color1.glif</string>
+    <key>sacute.color2</key>
+    <string>sacute.color2.glif</string>
+    <key>sacute.color3</key>
+    <string>sacute.color3.glif</string>
     <key>scaron</key>
     <string>scaron.glif</string>
+    <key>scaron.color0</key>
+    <string>scaron.color0.glif</string>
+    <key>scaron.color1</key>
+    <string>scaron.color1.glif</string>
+    <key>scaron.color2</key>
+    <string>scaron.color2.glif</string>
+    <key>scaron.color3</key>
+    <string>scaron.color3.glif</string>
+    <key>scaron.color4</key>
+    <string>scaron.color4.glif</string>
     <key>scedilla</key>
     <string>scedilla.glif</string>
+    <key>scedilla.color0</key>
+    <string>scedilla.color0.glif</string>
+    <key>scedilla.color1</key>
+    <string>scedilla.color1.glif</string>
+    <key>scedilla.color2</key>
+    <string>scedilla.color2.glif</string>
+    <key>scedilla.color3</key>
+    <string>scedilla.color3.glif</string>
+    <key>scedilla.color4</key>
+    <string>scedilla.color4.glif</string>
+    <key>scedilla.color5</key>
+    <string>scedilla.color5.glif</string>
+    <key>scedilla.color6</key>
+    <string>scedilla.color6.glif</string>
     <key>schwa</key>
     <string>schwa.glif</string>
     <key>schwa.color0</key>
@@ -2768,8 +6274,26 @@
     <string>schwa.color4.glif</string>
     <key>scircumflex</key>
     <string>scircumflex.glif</string>
+    <key>scircumflex.color0</key>
+    <string>scircumflex.color0.glif</string>
+    <key>scircumflex.color1</key>
+    <string>scircumflex.color1.glif</string>
+    <key>scircumflex.color2</key>
+    <string>scircumflex.color2.glif</string>
+    <key>scircumflex.color3</key>
+    <string>scircumflex.color3.glif</string>
+    <key>scircumflex.color4</key>
+    <string>scircumflex.color4.glif</string>
     <key>scommaaccent</key>
     <string>scommaaccent.glif</string>
+    <key>scommaaccent.color0</key>
+    <string>scommaaccent.color0.glif</string>
+    <key>scommaaccent.color1</key>
+    <string>scommaaccent.color1.glif</string>
+    <key>scommaaccent.color2</key>
+    <string>scommaaccent.color2.glif</string>
+    <key>scommaaccent.color3</key>
+    <string>scommaaccent.color3.glif</string>
     <key>second</key>
     <string>second.glif</string>
     <key>second.color0</key>
@@ -2806,6 +6330,10 @@
     <string>seven.color1.glif</string>
     <key>seven.lf</key>
     <string>seven.lf.glif</string>
+    <key>seven.lf.color0</key>
+    <string>seven.lf.color0.glif</string>
+    <key>seven.lf.color1</key>
+    <string>seven.lf.color1.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>six.color0</key>
@@ -2822,6 +6350,18 @@
     <string>six.color5.glif</string>
     <key>six.lf</key>
     <string>six.lf.glif</string>
+    <key>six.lf.color0</key>
+    <string>six.lf.color0.glif</string>
+    <key>six.lf.color1</key>
+    <string>six.lf.color1.glif</string>
+    <key>six.lf.color2</key>
+    <string>six.lf.color2.glif</string>
+    <key>six.lf.color3</key>
+    <string>six.lf.color3.glif</string>
+    <key>six.lf.color4</key>
+    <string>six.lf.color4.glif</string>
+    <key>six.lf.color5</key>
+    <string>six.lf.color5.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>softhyphen</key>
@@ -2854,12 +6394,56 @@
     <string>tbar.glif</string>
     <key>tbar.color0</key>
     <string>tbar.color0.glif</string>
+    <key>tbar.color1</key>
+    <string>tbar.color1.glif</string>
+    <key>tbar.color2</key>
+    <string>tbar.color2.glif</string>
+    <key>tbar.color3</key>
+    <string>tbar.color3.glif</string>
+    <key>tbar.color4</key>
+    <string>tbar.color4.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
+    <key>tcaron.color0</key>
+    <string>tcaron.color0.glif</string>
+    <key>tcaron.color1</key>
+    <string>tcaron.color1.glif</string>
+    <key>tcaron.color2</key>
+    <string>tcaron.color2.glif</string>
+    <key>tcaron.color3</key>
+    <string>tcaron.color3.glif</string>
+    <key>tcaron.color4</key>
+    <string>tcaron.color4.glif</string>
     <key>tcedilla</key>
     <string>tcedilla.glif</string>
+    <key>tcedilla.color0</key>
+    <string>tcedilla.color0.glif</string>
+    <key>tcedilla.color1</key>
+    <string>tcedilla.color1.glif</string>
+    <key>tcedilla.color2</key>
+    <string>tcedilla.color2.glif</string>
+    <key>tcedilla.color3</key>
+    <string>tcedilla.color3.glif</string>
+    <key>tcedilla.color4</key>
+    <string>tcedilla.color4.glif</string>
+    <key>tcedilla.color5</key>
+    <string>tcedilla.color5.glif</string>
+    <key>tcedilla.color6</key>
+    <string>tcedilla.color6.glif</string>
+    <key>tcedilla.color7</key>
+    <string>tcedilla.color7.glif</string>
     <key>tcommaaccent</key>
     <string>tcommaaccent.glif</string>
+    <key>tcommaaccent.color0</key>
+    <string>tcommaaccent.color0.glif</string>
+    <key>tcommaaccent.color1</key>
+    <string>tcommaaccent.color1.glif</string>
+    <key>tcommaaccent.color2</key>
+    <string>tcommaaccent.color2.glif</string>
+    <key>tcommaaccent.color3</key>
+    <string>tcommaaccent.color3.glif</string>
+    <key>tcommaaccent.color4</key>
+    <string>tcommaaccent.color4.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>thorn.color0</key>
@@ -2886,8 +6470,36 @@
     <string>three.color4.glif</string>
     <key>three.lf</key>
     <string>three.lf.glif</string>
+    <key>three.lf.color0</key>
+    <string>three.lf.color0.glif</string>
+    <key>three.lf.color1</key>
+    <string>three.lf.color1.glif</string>
+    <key>three.lf.color2</key>
+    <string>three.lf.color2.glif</string>
+    <key>three.lf.color3</key>
+    <string>three.lf.color3.glif</string>
+    <key>three.lf.color4</key>
+    <string>three.lf.color4.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
+    <key>threequarters.color0</key>
+    <string>threequarters.color0.glif</string>
+    <key>threequarters.color1</key>
+    <string>threequarters.color1.glif</string>
+    <key>threequarters.color2</key>
+    <string>threequarters.color2.glif</string>
+    <key>threequarters.color3</key>
+    <string>threequarters.color3.glif</string>
+    <key>threequarters.color4</key>
+    <string>threequarters.color4.glif</string>
+    <key>threequarters.color5</key>
+    <string>threequarters.color5.glif</string>
+    <key>threequarters.color6</key>
+    <string>threequarters.color6.glif</string>
+    <key>threequarters.color7</key>
+    <string>threequarters.color7.glif</string>
+    <key>threequarters.color8</key>
+    <string>threequarters.color8.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
     <key>threesuperior.color0</key>
@@ -2950,6 +6562,12 @@
     <string>two.color2.glif</string>
     <key>two.lf</key>
     <string>two.lf.glif</string>
+    <key>two.lf.color0</key>
+    <string>two.lf.color0.glif</string>
+    <key>two.lf.color1</key>
+    <string>two.lf.color1.glif</string>
+    <key>two.lf.color2</key>
+    <string>two.lf.color2.glif</string>
     <key>twosuperior</key>
     <string>twosuperior.glif</string>
     <key>twosuperior.color0</key>
@@ -2968,46 +6586,266 @@
     <string>u.color2.glif</string>
     <key>uacute</key>
     <string>uacute.glif</string>
+    <key>uacute.color0</key>
+    <string>uacute.color0.glif</string>
+    <key>uacute.color1</key>
+    <string>uacute.color1.glif</string>
+    <key>uacute.color2</key>
+    <string>uacute.color2.glif</string>
+    <key>uacute.color3</key>
+    <string>uacute.color3.glif</string>
     <key>ubreve</key>
     <string>ubreve.glif</string>
+    <key>ubreve.color0</key>
+    <string>ubreve.color0.glif</string>
+    <key>ubreve.color1</key>
+    <string>ubreve.color1.glif</string>
+    <key>ubreve.color2</key>
+    <string>ubreve.color2.glif</string>
+    <key>ubreve.color3</key>
+    <string>ubreve.color3.glif</string>
+    <key>ubreve.color4</key>
+    <string>ubreve.color4.glif</string>
+    <key>ubreve.color5</key>
+    <string>ubreve.color5.glif</string>
     <key>ucircumflex</key>
     <string>ucircumflex.glif</string>
+    <key>ucircumflex.color0</key>
+    <string>ucircumflex.color0.glif</string>
+    <key>ucircumflex.color1</key>
+    <string>ucircumflex.color1.glif</string>
+    <key>ucircumflex.color2</key>
+    <string>ucircumflex.color2.glif</string>
+    <key>ucircumflex.color3</key>
+    <string>ucircumflex.color3.glif</string>
+    <key>ucircumflex.color4</key>
+    <string>ucircumflex.color4.glif</string>
     <key>udblgrave</key>
     <string>udblgrave.glif</string>
+    <key>udblgrave.color0</key>
+    <string>udblgrave.color0.glif</string>
+    <key>udblgrave.color1</key>
+    <string>udblgrave.color1.glif</string>
+    <key>udblgrave.color2</key>
+    <string>udblgrave.color2.glif</string>
+    <key>udblgrave.color3</key>
+    <string>udblgrave.color3.glif</string>
+    <key>udblgrave.color4</key>
+    <string>udblgrave.color4.glif</string>
     <key>udieresis</key>
     <string>udieresis.glif</string>
+    <key>udieresis.color0</key>
+    <string>udieresis.color0.glif</string>
+    <key>udieresis.color1</key>
+    <string>udieresis.color1.glif</string>
+    <key>udieresis.color2</key>
+    <string>udieresis.color2.glif</string>
+    <key>udieresis.color3</key>
+    <string>udieresis.color3.glif</string>
+    <key>udieresis.color4</key>
+    <string>udieresis.color4.glif</string>
     <key>udotbelow</key>
     <string>udotbelow.glif</string>
+    <key>udotbelow.color0</key>
+    <string>udotbelow.color0.glif</string>
+    <key>udotbelow.color1</key>
+    <string>udotbelow.color1.glif</string>
+    <key>udotbelow.color2</key>
+    <string>udotbelow.color2.glif</string>
+    <key>udotbelow.color3</key>
+    <string>udotbelow.color3.glif</string>
     <key>ugrave</key>
     <string>ugrave.glif</string>
+    <key>ugrave.color0</key>
+    <string>ugrave.color0.glif</string>
+    <key>ugrave.color1</key>
+    <string>ugrave.color1.glif</string>
+    <key>ugrave.color2</key>
+    <string>ugrave.color2.glif</string>
+    <key>ugrave.color3</key>
+    <string>ugrave.color3.glif</string>
     <key>uhookabove</key>
     <string>uhookabove.glif</string>
+    <key>uhookabove.color0</key>
+    <string>uhookabove.color0.glif</string>
+    <key>uhookabove.color1</key>
+    <string>uhookabove.color1.glif</string>
+    <key>uhookabove.color2</key>
+    <string>uhookabove.color2.glif</string>
+    <key>uhookabove.color3</key>
+    <string>uhookabove.color3.glif</string>
+    <key>uhookabove.color4</key>
+    <string>uhookabove.color4.glif</string>
     <key>uhorn</key>
     <string>uhorn.glif</string>
+    <key>uhorn.color0</key>
+    <string>uhorn.color0.glif</string>
+    <key>uhorn.color1</key>
+    <string>uhorn.color1.glif</string>
+    <key>uhorn.color2</key>
+    <string>uhorn.color2.glif</string>
+    <key>uhorn.color3</key>
+    <string>uhorn.color3.glif</string>
+    <key>uhorn.color4</key>
+    <string>uhorn.color4.glif</string>
     <key>uhornacute</key>
     <string>uhornacute.glif</string>
+    <key>uhornacute.color0</key>
+    <string>uhornacute.color0.glif</string>
+    <key>uhornacute.color1</key>
+    <string>uhornacute.color1.glif</string>
+    <key>uhornacute.color2</key>
+    <string>uhornacute.color2.glif</string>
+    <key>uhornacute.color3</key>
+    <string>uhornacute.color3.glif</string>
+    <key>uhornacute.color4</key>
+    <string>uhornacute.color4.glif</string>
+    <key>uhornacute.color5</key>
+    <string>uhornacute.color5.glif</string>
     <key>uhorndotbelow</key>
     <string>uhorndotbelow.glif</string>
+    <key>uhorndotbelow.color0</key>
+    <string>uhorndotbelow.color0.glif</string>
+    <key>uhorndotbelow.color1</key>
+    <string>uhorndotbelow.color1.glif</string>
+    <key>uhorndotbelow.color2</key>
+    <string>uhorndotbelow.color2.glif</string>
+    <key>uhorndotbelow.color3</key>
+    <string>uhorndotbelow.color3.glif</string>
+    <key>uhorndotbelow.color4</key>
+    <string>uhorndotbelow.color4.glif</string>
+    <key>uhorndotbelow.color5</key>
+    <string>uhorndotbelow.color5.glif</string>
     <key>uhorngrave</key>
     <string>uhorngrave.glif</string>
+    <key>uhorngrave.color0</key>
+    <string>uhorngrave.color0.glif</string>
+    <key>uhorngrave.color1</key>
+    <string>uhorngrave.color1.glif</string>
+    <key>uhorngrave.color2</key>
+    <string>uhorngrave.color2.glif</string>
+    <key>uhorngrave.color3</key>
+    <string>uhorngrave.color3.glif</string>
+    <key>uhorngrave.color4</key>
+    <string>uhorngrave.color4.glif</string>
+    <key>uhorngrave.color5</key>
+    <string>uhorngrave.color5.glif</string>
     <key>uhornhookabove</key>
     <string>uhornhookabove.glif</string>
+    <key>uhornhookabove.color0</key>
+    <string>uhornhookabove.color0.glif</string>
+    <key>uhornhookabove.color1</key>
+    <string>uhornhookabove.color1.glif</string>
+    <key>uhornhookabove.color2</key>
+    <string>uhornhookabove.color2.glif</string>
+    <key>uhornhookabove.color3</key>
+    <string>uhornhookabove.color3.glif</string>
+    <key>uhornhookabove.color4</key>
+    <string>uhornhookabove.color4.glif</string>
+    <key>uhornhookabove.color5</key>
+    <string>uhornhookabove.color5.glif</string>
+    <key>uhornhookabove.color6</key>
+    <string>uhornhookabove.color6.glif</string>
     <key>uhorntilde</key>
     <string>uhorntilde.glif</string>
+    <key>uhorntilde.color0</key>
+    <string>uhorntilde.color0.glif</string>
+    <key>uhorntilde.color1</key>
+    <string>uhorntilde.color1.glif</string>
+    <key>uhorntilde.color2</key>
+    <string>uhorntilde.color2.glif</string>
+    <key>uhorntilde.color3</key>
+    <string>uhorntilde.color3.glif</string>
+    <key>uhorntilde.color4</key>
+    <string>uhorntilde.color4.glif</string>
+    <key>uhorntilde.color5</key>
+    <string>uhorntilde.color5.glif</string>
+    <key>uhorntilde.color6</key>
+    <string>uhorntilde.color6.glif</string>
+    <key>uhorntilde.color7</key>
+    <string>uhorntilde.color7.glif</string>
     <key>uhungarumlaut</key>
     <string>uhungarumlaut.glif</string>
+    <key>uhungarumlaut.color0</key>
+    <string>uhungarumlaut.color0.glif</string>
+    <key>uhungarumlaut.color1</key>
+    <string>uhungarumlaut.color1.glif</string>
+    <key>uhungarumlaut.color2</key>
+    <string>uhungarumlaut.color2.glif</string>
+    <key>uhungarumlaut.color3</key>
+    <string>uhungarumlaut.color3.glif</string>
+    <key>uhungarumlaut.color4</key>
+    <string>uhungarumlaut.color4.glif</string>
     <key>uinvertedbreve</key>
     <string>uinvertedbreve.glif</string>
+    <key>uinvertedbreve.color0</key>
+    <string>uinvertedbreve.color0.glif</string>
+    <key>uinvertedbreve.color1</key>
+    <string>uinvertedbreve.color1.glif</string>
+    <key>uinvertedbreve.color2</key>
+    <string>uinvertedbreve.color2.glif</string>
+    <key>uinvertedbreve.color3</key>
+    <string>uinvertedbreve.color3.glif</string>
+    <key>uinvertedbreve.color4</key>
+    <string>uinvertedbreve.color4.glif</string>
+    <key>uinvertedbreve.color5</key>
+    <string>uinvertedbreve.color5.glif</string>
     <key>umacron</key>
     <string>umacron.glif</string>
+    <key>umacron.color0</key>
+    <string>umacron.color0.glif</string>
+    <key>umacron.color1</key>
+    <string>umacron.color1.glif</string>
+    <key>umacron.color2</key>
+    <string>umacron.color2.glif</string>
+    <key>umacron.color3</key>
+    <string>umacron.color3.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
+    <key>uogonek.color0</key>
+    <string>uogonek.color0.glif</string>
+    <key>uogonek.color1</key>
+    <string>uogonek.color1.glif</string>
+    <key>uogonek.color2</key>
+    <string>uogonek.color2.glif</string>
+    <key>uogonek.color3</key>
+    <string>uogonek.color3.glif</string>
+    <key>uogonek.color4</key>
+    <string>uogonek.color4.glif</string>
+    <key>uogonek.color5</key>
+    <string>uogonek.color5.glif</string>
     <key>uring</key>
     <string>uring.glif</string>
+    <key>uring.color0</key>
+    <string>uring.color0.glif</string>
+    <key>uring.color1</key>
+    <string>uring.color1.glif</string>
+    <key>uring.color2</key>
+    <string>uring.color2.glif</string>
+    <key>uring.color3</key>
+    <string>uring.color3.glif</string>
+    <key>uring.color4</key>
+    <string>uring.color4.glif</string>
+    <key>uring.color5</key>
+    <string>uring.color5.glif</string>
+    <key>uring.color6</key>
+    <string>uring.color6.glif</string>
     <key>utilde</key>
     <string>utilde.glif</string>
+    <key>utilde.color0</key>
+    <string>utilde.color0.glif</string>
+    <key>utilde.color1</key>
+    <string>utilde.color1.glif</string>
+    <key>utilde.color2</key>
+    <string>utilde.color2.glif</string>
+    <key>utilde.color3</key>
+    <string>utilde.color3.glif</string>
+    <key>utilde.color4</key>
+    <string>utilde.color4.glif</string>
+    <key>utilde.color5</key>
+    <string>utilde.color5.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>v.color0</key>
@@ -3028,12 +6866,56 @@
     <string>w.color3.glif</string>
     <key>wacute</key>
     <string>wacute.glif</string>
+    <key>wacute.color0</key>
+    <string>wacute.color0.glif</string>
+    <key>wacute.color1</key>
+    <string>wacute.color1.glif</string>
+    <key>wacute.color2</key>
+    <string>wacute.color2.glif</string>
+    <key>wacute.color3</key>
+    <string>wacute.color3.glif</string>
+    <key>wacute.color4</key>
+    <string>wacute.color4.glif</string>
     <key>wcircumflex</key>
     <string>wcircumflex.glif</string>
+    <key>wcircumflex.color0</key>
+    <string>wcircumflex.color0.glif</string>
+    <key>wcircumflex.color1</key>
+    <string>wcircumflex.color1.glif</string>
+    <key>wcircumflex.color2</key>
+    <string>wcircumflex.color2.glif</string>
+    <key>wcircumflex.color3</key>
+    <string>wcircumflex.color3.glif</string>
+    <key>wcircumflex.color4</key>
+    <string>wcircumflex.color4.glif</string>
+    <key>wcircumflex.color5</key>
+    <string>wcircumflex.color5.glif</string>
     <key>wdieresis</key>
     <string>wdieresis.glif</string>
+    <key>wdieresis.color0</key>
+    <string>wdieresis.color0.glif</string>
+    <key>wdieresis.color1</key>
+    <string>wdieresis.color1.glif</string>
+    <key>wdieresis.color2</key>
+    <string>wdieresis.color2.glif</string>
+    <key>wdieresis.color3</key>
+    <string>wdieresis.color3.glif</string>
+    <key>wdieresis.color4</key>
+    <string>wdieresis.color4.glif</string>
+    <key>wdieresis.color5</key>
+    <string>wdieresis.color5.glif</string>
     <key>wgrave</key>
     <string>wgrave.glif</string>
+    <key>wgrave.color0</key>
+    <string>wgrave.color0.glif</string>
+    <key>wgrave.color1</key>
+    <string>wgrave.color1.glif</string>
+    <key>wgrave.color2</key>
+    <string>wgrave.color2.glif</string>
+    <key>wgrave.color3</key>
+    <string>wgrave.color3.glif</string>
+    <key>wgrave.color4</key>
+    <string>wgrave.color4.glif</string>
     <key>won</key>
     <string>won.glif</string>
     <key>won.color0</key>
@@ -3070,12 +6952,56 @@
     <string>y.color3.glif</string>
     <key>yacute</key>
     <string>yacute.glif</string>
+    <key>yacute.color0</key>
+    <string>yacute.color0.glif</string>
+    <key>yacute.color1</key>
+    <string>yacute.color1.glif</string>
+    <key>yacute.color2</key>
+    <string>yacute.color2.glif</string>
+    <key>yacute.color3</key>
+    <string>yacute.color3.glif</string>
+    <key>yacute.color4</key>
+    <string>yacute.color4.glif</string>
     <key>ycircumflex</key>
     <string>ycircumflex.glif</string>
+    <key>ycircumflex.color0</key>
+    <string>ycircumflex.color0.glif</string>
+    <key>ycircumflex.color1</key>
+    <string>ycircumflex.color1.glif</string>
+    <key>ycircumflex.color2</key>
+    <string>ycircumflex.color2.glif</string>
+    <key>ycircumflex.color3</key>
+    <string>ycircumflex.color3.glif</string>
+    <key>ycircumflex.color4</key>
+    <string>ycircumflex.color4.glif</string>
+    <key>ycircumflex.color5</key>
+    <string>ycircumflex.color5.glif</string>
     <key>ydieresis</key>
     <string>ydieresis.glif</string>
+    <key>ydieresis.color0</key>
+    <string>ydieresis.color0.glif</string>
+    <key>ydieresis.color1</key>
+    <string>ydieresis.color1.glif</string>
+    <key>ydieresis.color2</key>
+    <string>ydieresis.color2.glif</string>
+    <key>ydieresis.color3</key>
+    <string>ydieresis.color3.glif</string>
+    <key>ydieresis.color4</key>
+    <string>ydieresis.color4.glif</string>
+    <key>ydieresis.color5</key>
+    <string>ydieresis.color5.glif</string>
     <key>ydotbelow</key>
     <string>ydotbelow.glif</string>
+    <key>ydotbelow.color0</key>
+    <string>ydotbelow.color0.glif</string>
+    <key>ydotbelow.color1</key>
+    <string>ydotbelow.color1.glif</string>
+    <key>ydotbelow.color2</key>
+    <string>ydotbelow.color2.glif</string>
+    <key>ydotbelow.color3</key>
+    <string>ydotbelow.color3.glif</string>
+    <key>ydotbelow.color4</key>
+    <string>ydotbelow.color4.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
     <key>yen.color0</key>
@@ -3090,12 +7016,58 @@
     <string>yen.color4.glif</string>
     <key>ygrave</key>
     <string>ygrave.glif</string>
+    <key>ygrave.color0</key>
+    <string>ygrave.color0.glif</string>
+    <key>ygrave.color1</key>
+    <string>ygrave.color1.glif</string>
+    <key>ygrave.color2</key>
+    <string>ygrave.color2.glif</string>
+    <key>ygrave.color3</key>
+    <string>ygrave.color3.glif</string>
+    <key>ygrave.color4</key>
+    <string>ygrave.color4.glif</string>
     <key>yhookabove</key>
     <string>yhookabove.glif</string>
+    <key>yhookabove.color0</key>
+    <string>yhookabove.color0.glif</string>
+    <key>yhookabove.color1</key>
+    <string>yhookabove.color1.glif</string>
+    <key>yhookabove.color2</key>
+    <string>yhookabove.color2.glif</string>
+    <key>yhookabove.color3</key>
+    <string>yhookabove.color3.glif</string>
+    <key>yhookabove.color4</key>
+    <string>yhookabove.color4.glif</string>
+    <key>yhookabove.color5</key>
+    <string>yhookabove.color5.glif</string>
     <key>ymacron</key>
     <string>ymacron.glif</string>
+    <key>ymacron.color0</key>
+    <string>ymacron.color0.glif</string>
+    <key>ymacron.color1</key>
+    <string>ymacron.color1.glif</string>
+    <key>ymacron.color2</key>
+    <string>ymacron.color2.glif</string>
+    <key>ymacron.color3</key>
+    <string>ymacron.color3.glif</string>
+    <key>ymacron.color4</key>
+    <string>ymacron.color4.glif</string>
     <key>ytilde</key>
     <string>ytilde.glif</string>
+    <key>ytilde.color0</key>
+    <string>ytilde.color0.glif</string>
+    <key>ytilde.color1</key>
+    <string>ytilde.color1.glif</string>
+    <key>ytilde.color2</key>
+    <string>ytilde.color2.glif</string>
+    <key>ytilde.color3</key>
+    <string>ytilde.color3.glif</string>
+    <key>ytilde.color4</key>
+    <string>ytilde.color4.glif</string>
+    <key>ytilde.color5</key>
+    <string>ytilde.color5.glif</string>
+    <key>ytilde.color6</key>
+    <string>ytilde.color6.glif</string>
     <key>z</key>
     <string>z.glif</string>
     <key>z.color0</key>
@@ -3106,10 +7078,36 @@
     <string>z.color2.glif</string>
     <key>zacute</key>
     <string>zacute.glif</string>
+    <key>zacute.color0</key>
+    <string>zacute.color0.glif</string>
+    <key>zacute.color1</key>
+    <string>zacute.color1.glif</string>
+    <key>zacute.color2</key>
+    <string>zacute.color2.glif</string>
+    <key>zacute.color3</key>
+    <string>zacute.color3.glif</string>
     <key>zcaron</key>
     <string>zcaron.glif</string>
+    <key>zcaron.color0</key>
+    <string>zcaron.color0.glif</string>
+    <key>zcaron.color1</key>
+    <string>zcaron.color1.glif</string>
+    <key>zcaron.color2</key>
+    <string>zcaron.color2.glif</string>
+    <key>zcaron.color3</key>
+    <string>zcaron.color3.glif</string>
+    <key>zcaron.color4</key>
+    <string>zcaron.color4.glif</string>
     <key>zdotaccent</key>
     <string>zdotaccent.glif</string>
+    <key>zdotaccent.color0</key>
+    <string>zdotaccent.color0.glif</string>
+    <key>zdotaccent.color1</key>
+    <string>zdotaccent.color1.glif</string>
+    <key>zdotaccent.color2</key>
+    <string>zdotaccent.color2.glif</string>
+    <key>zdotaccent.color3</key>
+    <string>zdotaccent.color3.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.color0</key>
@@ -3124,5 +7122,15 @@
     <string>zero.color4.glif</string>
     <key>zero.lf</key>
     <string>zero.lf.glif</string>
+    <key>zero.lf.color0</key>
+    <string>zero.lf.color0.glif</string>
+    <key>zero.lf.color1</key>
+    <string>zero.lf.color1.glif</string>
+    <key>zero.lf.color2</key>
+    <string>zero.lf.color2.glif</string>
+    <key>zero.lf.color3</key>
+    <string>zero.lf.color3.glif</string>
+    <key>zero.lf.color4</key>
+    <string>zero.lf.color4.glif</string>
   </dict>
 </plist>

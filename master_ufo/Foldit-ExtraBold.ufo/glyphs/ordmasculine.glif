@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="557"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="45" y="693" type="line"/>
+      <point x="168" y="800" type="line"/>
+      <point x="169" y="800" type="line"/>
+      <point x="169" y="604" type="line"/>
+      <point x="45" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="800" type="line"/>
+      <point x="512" y="687" type="line"/>
+      <point x="512" y="686" type="line"/>
+      <point x="169" y="686" type="line"/>
+      <point x="169" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="597" type="line"/>
+      <point x="389" y="490" type="line"/>
+      <point x="388" y="490" type="line"/>
+      <point x="388" y="686" type="line"/>
+      <point x="512" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="490" type="line"/>
+      <point x="45" y="603" type="line"/>
+      <point x="45" y="604" type="line"/>
+      <point x="388" y="604" type="line"/>
+      <point x="388" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

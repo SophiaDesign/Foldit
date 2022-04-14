@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj.color3" format="2">
+  <advance width="1108"/>
+  <unicode hex="01CC"/>
+  <outline>
+    <contour>
+      <point x="869" y="393" type="line"/>
+      <point x="1062" y="500" type="line"/>
+      <point x="1063" y="503" type="line"/>
+      <point x="1063" y="-99" type="line"/>
+      <point x="870" y="-206" type="line"/>
+      <point x="869" y="-206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

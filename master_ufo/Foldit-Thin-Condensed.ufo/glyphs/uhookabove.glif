@@ -2,8 +2,46 @@
 <glyph name="uhookabove" format="2">
   <advance width="203"/>
   <unicode hex="1EE7"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="126" y="500" name="horn"/>
+  <anchor x="103" y="500" name="top"/>
   <outline>
-    <component base="u"/>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="150" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="23" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="126" y="24" type="line"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="483" type="line"/>
+      <point x="76" y="506" type="line"/>
+      <point x="77" y="506" type="line"/>
+      <point x="77" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="654" type="line"/>
+      <point x="68" y="654" type="line"/>
+      <point x="68" y="678" type="line"/>
+      <point x="127" y="678" type="line"/>
+      <point x="145" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="583" type="line"/>
+      <point x="89" y="583" type="line"/>
+      <point x="89" y="584" type="line"/>
+      <point x="127" y="678" type="line"/>
+      <point x="145" y="655" type="line"/>
+      <point x="145" y="654" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

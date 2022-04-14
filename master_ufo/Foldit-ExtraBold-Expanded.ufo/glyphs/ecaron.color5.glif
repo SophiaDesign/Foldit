@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecaron.color5" format="2">
+  <advance width="837"/>
+  <unicode hex="011B"/>
+  <outline>
+    <contour>
+      <point x="203" y="750" type="line"/>
+      <point x="360" y="750" type="line"/>
+      <point x="464" y="613" type="line"/>
+      <point x="382" y="582" type="line"/>
+      <point x="341" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

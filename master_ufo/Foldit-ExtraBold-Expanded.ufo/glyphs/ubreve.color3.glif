@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve.color3" format="2">
+  <advance width="807"/>
+  <unicode hex="016D"/>
+  <outline>
+    <contour>
+      <point x="345" y="700" type="line"/>
+      <point x="209" y="700" type="line"/>
+      <point x="162" y="778" type="line"/>
+      <point x="162" y="780" type="line"/>
+      <point x="298" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

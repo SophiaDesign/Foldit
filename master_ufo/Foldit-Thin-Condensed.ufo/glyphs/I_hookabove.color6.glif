@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ihookabove.color6" format="2">
+  <advance width="272"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <contour>
+      <point x="146" y="739" type="line"/>
+      <point x="123" y="739" type="line"/>
+      <point x="123" y="740" type="line"/>
+      <point x="161" y="870" type="line"/>
+      <point x="179" y="847" type="line"/>
+      <point x="179" y="846" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

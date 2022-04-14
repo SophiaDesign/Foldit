@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflextilde.color6" format="2">
+  <advance width="907"/>
+  <unicode hex="1EAA"/>
+  <outline>
+    <contour>
+      <point x="286" y="955" type="line"/>
+      <point x="366" y="984" type="line"/>
+      <point x="367" y="984" type="line"/>
+      <point x="655" y="917" type="line"/>
+      <point x="655" y="896" type="line"/>
+      <point x="593" y="871" type="line"/>
+      <point x="592" y="871" type="line"/>
+      <point x="286" y="944" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

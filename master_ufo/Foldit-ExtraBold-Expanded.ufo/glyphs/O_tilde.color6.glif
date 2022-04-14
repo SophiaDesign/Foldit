@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde.color6" format="2">
+  <advance width="907"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="238" y="873" type="line"/>
+      <point x="238" y="883" type="line"/>
+      <point x="366" y="923" type="line"/>
+      <point x="387" y="923" type="line"/>
+      <point x="706" y="821" type="line"/>
+      <point x="706" y="811" type="line"/>
+      <point x="578" y="771" type="line"/>
+      <point x="557" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

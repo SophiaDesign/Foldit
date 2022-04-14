@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Atilde.color5" format="2">
+  <advance width="273"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="197" y="847" type="line"/>
+      <point x="197" y="795" type="line"/>
+      <point x="173" y="795" type="line"/>
+      <point x="173" y="847" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

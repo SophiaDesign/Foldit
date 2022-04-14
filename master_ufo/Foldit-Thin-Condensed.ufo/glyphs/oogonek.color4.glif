@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek.color4" format="2">
+  <advance width="204"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="115" y="-80" type="line"/>
+      <point x="90" y="-80" type="line"/>
+      <point x="90" y="-61" type="line"/>
+      <point x="133" y="-61" type="line"/>
+      <point x="133" y="-62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

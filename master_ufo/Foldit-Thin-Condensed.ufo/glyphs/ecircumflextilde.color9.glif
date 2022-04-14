@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflextilde.color9" format="2">
+  <advance width="203"/>
+  <unicode hex="1EC5"/>
+  <outline>
+    <contour>
+      <point x="60" y="714" type="line"/>
+      <point x="60" y="715" type="line"/>
+      <point x="80" y="724" type="line"/>
+      <point x="81" y="724" type="line"/>
+      <point x="160" y="672" type="line"/>
+      <point x="160" y="671" type="line"/>
+      <point x="140" y="662" type="line"/>
+      <point x="139" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

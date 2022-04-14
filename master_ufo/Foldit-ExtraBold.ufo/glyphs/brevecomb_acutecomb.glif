@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <anchor x="319" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="242" y="660" type="line"/>
+      <point x="146" y="660" type="line"/>
+      <point x="109" y="708" type="line"/>
+      <point x="109" y="710" type="line"/>
+      <point x="205" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="660" type="line"/>
+      <point x="414" y="710" type="line"/>
+      <point x="510" y="710" type="line"/>
+      <point x="510" y="709" type="line"/>
+      <point x="473" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="578" type="line"/>
+      <point x="207" y="578" type="line"/>
+      <point x="146" y="660" type="line"/>
+      <point x="473" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="710" type="line"/>
+      <point x="309" y="900" type="line"/>
+      <point x="447" y="900" type="line"/>
+      <point x="447" y="899" type="line"/>
+      <point x="332" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

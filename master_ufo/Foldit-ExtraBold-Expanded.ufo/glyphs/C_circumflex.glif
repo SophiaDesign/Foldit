@@ -2,8 +2,45 @@
 <glyph name="Ccircumflex" format="2">
   <advance width="927"/>
   <unicode hex="0108"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="C"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="730" type="line"/>
+      <point x="902" y="487" type="line"/>
+      <point x="902" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="902" y="244" type="line"/>
+      <point x="700" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="716" y="760" type="line"/>
+      <point x="559" y="760" type="line"/>
+      <point x="425" y="867" type="line"/>
+      <point x="517" y="900" type="line"/>
+      <point x="558" y="900" type="line"/>
+      <point x="716" y="761" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="760" type="line"/>
+      <point x="250" y="761" type="line"/>
+      <point x="404" y="900" type="line"/>
+      <point x="558" y="900" type="line"/>
+      <point x="404" y="760" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.color2" format="2">
+  <advance width="182"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="59" y="795" type="line"/>
+      <point x="84" y="885" type="line"/>
+      <point x="115" y="885" type="line"/>
+      <point x="115" y="884" type="line"/>
+      <point x="83" y="795" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

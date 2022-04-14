@@ -1,9 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhornhookabove" format="2">
-  <advance width="987"/>
+  <advance width="807"/>
   <unicode hex="1EED"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="772" y="530" name="horn"/>
+  <anchor x="422" y="530" name="top"/>
   <outline>
-    <component base="uhorn"/>
+    <contour>
+      <point x="772" y="0" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="530" type="line"/>
+      <point x="772" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="35" y="203" type="line"/>
+      <point x="35" y="204" type="line"/>
+      <point x="558" y="204" type="line"/>
+      <point x="558" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="489" type="line"/>
+      <point x="248" y="536" type="line"/>
+      <point x="249" y="536" type="line"/>
+      <point x="249" y="204" type="line"/>
+      <point x="35" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="530" type="line"/>
+      <point x="813" y="530" type="line"/>
+      <point x="813" y="376" type="line"/>
+      <point x="772" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="483" type="line"/>
+      <point x="814" y="376" type="line"/>
+      <point x="813" y="376" type="line"/>
+      <point x="813" y="654" type="line"/>
+      <point x="987" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="736" type="line"/>
+      <point x="272" y="736" type="line"/>
+      <point x="272" y="860" type="line"/>
+      <point x="533" y="860" type="line"/>
+      <point x="640" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="586" type="line"/>
+      <point x="362" y="586" type="line"/>
+      <point x="361" y="586" type="line"/>
+      <point x="533" y="860" type="line"/>
+      <point x="640" y="737" type="line"/>
+      <point x="640" y="736" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

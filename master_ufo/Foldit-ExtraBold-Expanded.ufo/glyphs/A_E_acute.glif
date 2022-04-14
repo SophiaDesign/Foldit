@@ -2,8 +2,61 @@
 <glyph name="AEacute" format="2">
   <advance width="1391"/>
   <unicode hex="01FC"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="AE"/>
+    <contour>
+      <point x="651" y="173" type="line"/>
+      <point x="279" y="173" type="line"/>
+      <point x="279" y="417" type="line"/>
+      <point x="588" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="1366" y="730" type="line"/>
+      <point x="1366" y="729" type="line"/>
+      <point x="1164" y="486" type="line"/>
+      <point x="842" y="486" type="line"/>
+      <point x="640" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="1202" y="263" type="line"/>
+      <point x="842" y="263" type="line"/>
+      <point x="842" y="467" type="line"/>
+      <point x="1202" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="1315" y="244" type="line"/>
+      <point x="1315" y="0" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="588" y="243" type="line"/>
+      <point x="588" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="842" y="244" type="line"/>
+      <point x="588" y="244" type="line"/>
+      <point x="588" y="486" type="line"/>
+      <point x="842" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="730" type="line"/>
+      <point x="842" y="487" type="line"/>
+      <point x="842" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="760" type="line"/>
+      <point x="428" y="900" type="line"/>
+      <point x="634" y="900" type="line"/>
+      <point x="634" y="899" type="line"/>
+      <point x="519" y="760" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

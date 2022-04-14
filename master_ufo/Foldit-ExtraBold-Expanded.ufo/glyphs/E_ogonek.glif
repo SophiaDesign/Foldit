@@ -2,8 +2,57 @@
 <glyph name="Eogonek" format="2">
   <advance width="832"/>
   <unicode hex="0118"/>
+  <anchor x="432" y="0" name="bottom"/>
+  <anchor x="446" y="730" name="top"/>
   <outline>
-    <component base="E"/>
+    <contour>
+      <point x="25" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="842" y="730" type="line"/>
+      <point x="842" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="263" type="line"/>
+      <point x="279" y="263" type="line"/>
+      <point x="279" y="467" type="line"/>
+      <point x="688" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="791" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="791" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="-230" type="line"/>
+      <point x="423" y="-230" type="line"/>
+      <point x="423" y="-138" type="line"/>
+      <point x="601" y="-138" type="line"/>
+      <point x="601" y="-139" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="-86" type="line"/>
+      <point x="295" y="-85" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="-1" type="line"/>
+      <point x="423" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="-174" type="line"/>
+      <point x="295" y="-86" type="line"/>
+      <point x="423" y="-86" type="line"/>
+      <point x="423" y="-230" type="line"/>
+      <point x="422" y="-230" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

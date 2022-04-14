@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildemacron.color6" format="2">
+  <advance width="907"/>
+  <unicode hex="022C"/>
+  <outline>
+    <contour>
+      <point x="279" y="843" type="line"/>
+      <point x="279" y="854" type="line"/>
+      <point x="359" y="883" type="line"/>
+      <point x="360" y="883" type="line"/>
+      <point x="648" y="816" type="line"/>
+      <point x="648" y="795" type="line"/>
+      <point x="586" y="770" type="line"/>
+      <point x="585" y="770" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

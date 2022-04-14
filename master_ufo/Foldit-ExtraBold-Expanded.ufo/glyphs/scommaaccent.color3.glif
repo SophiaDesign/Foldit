@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent.color3" format="2">
+  <advance width="690"/>
+  <unicode hex="0219"/>
+  <outline>
+    <contour>
+      <point x="416" y="-158" type="line"/>
+      <point x="285" y="-260" type="line"/>
+      <point x="284" y="-260" type="line"/>
+      <point x="284" y="-50" type="line"/>
+      <point x="416" y="-50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

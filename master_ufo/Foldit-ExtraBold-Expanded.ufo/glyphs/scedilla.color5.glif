@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla.color5" format="2">
+  <advance width="690"/>
+  <unicode hex="015F"/>
+  <outline>
+    <contour>
+      <point x="409" y="-32" type="line"/>
+      <point x="479" y="-125" type="line"/>
+      <point x="479" y="-126" type="line"/>
+      <point x="329" y="-126" type="line"/>
+      <point x="375" y="-32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

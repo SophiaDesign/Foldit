@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute.color4" format="2">
+  <advance width="570"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="268" y="765" type="line"/>
+      <point x="293" y="855" type="line"/>
+      <point x="324" y="855" type="line"/>
+      <point x="324" y="854" type="line"/>
+      <point x="292" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

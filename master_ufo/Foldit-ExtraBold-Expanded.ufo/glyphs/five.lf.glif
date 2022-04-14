@@ -2,7 +2,44 @@
 <glyph name="five.lf" format="2">
   <advance width="800"/>
   <outline>
-    <component base="five"/>
+    <contour>
+      <point x="85" y="700" type="line"/>
+      <point x="338" y="700" type="line"/>
+      <point x="339" y="700" type="line"/>
+      <point x="339" y="502" type="line"/>
+      <point x="338" y="502" type="line"/>
+      <point x="85" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="725" y="700" type="line"/>
+      <point x="725" y="523" type="line"/>
+      <point x="725" y="522" type="line"/>
+      <point x="339" y="522" type="line"/>
+      <point x="339" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="775" y="187" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="502" type="line"/>
+      <point x="522" y="502" type="line"/>
+      <point x="775" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="262" type="line"/>
+      <point x="85" y="502" type="line"/>
+      <point x="521" y="502" type="line"/>
+      <point x="521" y="263" type="line"/>
+      <point x="521" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="521" y="244" type="line"/>
+      <point x="521" y="243" type="line"/>
+      <point x="521" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.color2" format="2">
+  <advance width="182"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="148" y="329" type="line"/>
+      <point x="117" y="329" type="line"/>
+      <point x="117" y="353" type="line"/>
+      <point x="148" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

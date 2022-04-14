@@ -2,8 +2,65 @@
 <glyph name="Aring" format="2">
   <advance width="907"/>
   <unicode hex="00C5"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="629" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="173" type="line"/>
+      <point x="279" y="173" type="line"/>
+      <point x="279" y="417" type="line"/>
+      <point x="628" y="417" type="line"/>
+      <point x="628" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="886" type="line"/>
+      <point x="404" y="948" type="line"/>
+      <point x="404" y="948" type="line"/>
+      <point x="404" y="812" type="line"/>
+      <point x="308" y="812" type="line"/>
+    </contour>
+    <contour>
+      <point x="574" y="948" type="line"/>
+      <point x="634" y="864" type="line"/>
+      <point x="634" y="864" type="line"/>
+      <point x="404" y="864" type="line"/>
+      <point x="404" y="948" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="786" type="line"/>
+      <point x="538" y="730" type="line"/>
+      <point x="538" y="730" type="line"/>
+      <point x="538" y="864" type="line"/>
+      <point x="634" y="864" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="730" type="line"/>
+      <point x="308" y="812" type="line"/>
+      <point x="308" y="812" type="line"/>
+      <point x="538" y="812" type="line"/>
+      <point x="538" y="730" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

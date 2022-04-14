@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut.color4" format="2">
+  <advance width="897"/>
+  <unicode hex="0170"/>
+  <outline>
+    <contour>
+      <point x="483" y="760" type="line"/>
+      <point x="518" y="900" type="line"/>
+      <point x="724" y="900" type="line"/>
+      <point x="724" y="899" type="line"/>
+      <point x="609" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

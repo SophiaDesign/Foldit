@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve.color5" format="2">
+  <advance width="897"/>
+  <unicode hex="016C"/>
+  <outline>
+    <contour>
+      <point x="579" y="760" type="line"/>
+      <point x="334" y="760" type="line"/>
+      <point x="260" y="840" type="line"/>
+      <point x="653" y="840" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

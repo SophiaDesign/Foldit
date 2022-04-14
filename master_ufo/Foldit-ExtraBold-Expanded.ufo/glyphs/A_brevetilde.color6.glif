@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde.color6" format="2">
+  <advance width="907"/>
+  <unicode hex="1EB4"/>
+  <outline>
+    <contour>
+      <point x="559" y="760" type="line"/>
+      <point x="334" y="760" type="line"/>
+      <point x="283" y="822" type="line"/>
+      <point x="600" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

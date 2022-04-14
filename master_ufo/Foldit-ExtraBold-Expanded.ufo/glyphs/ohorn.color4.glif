@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn.color4" format="2">
+  <advance width="877"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <contour>
+      <point x="471" y="530" type="line"/>
+      <point x="726" y="530" type="line"/>
+      <point x="726" y="376" type="line"/>
+      <point x="685" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,47 @@
 <glyph name="Imacron" format="2">
   <advance width="272"/>
   <unicode hex="012A"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="138" y="700" name="top"/>
   <outline>
-    <component base="I"/>
+    <contour>
+      <point x="124" y="676" type="line"/>
+      <point x="147" y="700" type="line"/>
+      <point x="148" y="700" type="line"/>
+      <point x="148" y="24" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="676" type="line"/>
+      <point x="43" y="676" type="line"/>
+      <point x="43" y="700" type="line"/>
+      <point x="147" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="676" type="line"/>
+      <point x="148" y="676" type="line"/>
+      <point x="148" y="700" type="line"/>
+      <point x="228" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="24" type="line"/>
+      <point x="229" y="24" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="24" type="line"/>
+      <point x="124" y="24" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="801" type="line"/>
+      <point x="63" y="801" type="line"/>
+      <point x="63" y="825" type="line"/>
+      <point x="213" y="825" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

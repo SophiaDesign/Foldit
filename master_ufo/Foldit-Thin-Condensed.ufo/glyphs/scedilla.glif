@@ -2,8 +2,59 @@
 <glyph name="scedilla" format="2">
   <advance width="182"/>
   <unicode hex="015F"/>
+  <anchor x="95" y="0" name="bottom"/>
+  <anchor x="103" y="500" name="top"/>
   <outline>
-    <component base="s"/>
+    <contour>
+      <point x="116" y="500" type="line"/>
+      <point x="139" y="477" type="line"/>
+      <point x="139" y="476" type="line"/>
+      <point x="69" y="476" type="line"/>
+      <point x="66" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="24" type="line"/>
+      <point x="43" y="467" type="line"/>
+      <point x="66" y="500" type="line"/>
+      <point x="139" y="25" type="line"/>
+      <point x="139" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="43" y="23" type="line"/>
+      <point x="43" y="24" type="line"/>
+      <point x="139" y="24" type="line"/>
+      <point x="116" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="-109" type="line"/>
+      <point x="55" y="-91" type="line"/>
+      <point x="55" y="-90" type="line"/>
+      <point x="105" y="-90" type="line"/>
+      <point x="105" y="-109" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="-91" type="line"/>
+      <point x="106" y="-109" type="line"/>
+      <point x="105" y="-109" type="line"/>
+      <point x="105" y="-44" type="line"/>
+      <point x="126" y="-44" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="-25" type="line"/>
+      <point x="126" y="-43" type="line"/>
+      <point x="126" y="-44" type="line"/>
+      <point x="91" y="-44" type="line"/>
+      <point x="91" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="-44" type="line"/>
+      <point x="70" y="-43" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="106" y="-1" type="line"/>
+      <point x="91" y="-44" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

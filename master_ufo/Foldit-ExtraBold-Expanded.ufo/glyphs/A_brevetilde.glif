@@ -2,8 +2,79 @@
 <glyph name="Abrevetilde" format="2">
   <advance width="907"/>
   <unicode hex="1EB4"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="629" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="173" type="line"/>
+      <point x="279" y="173" type="line"/>
+      <point x="279" y="417" type="line"/>
+      <point x="628" y="417" type="line"/>
+      <point x="628" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="822" type="line"/>
+      <point x="283" y="822" type="line"/>
+      <point x="226" y="890" type="line"/>
+      <point x="226" y="892" type="line"/>
+      <point x="332" y="892" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="822" type="line"/>
+      <point x="529" y="878" type="line"/>
+      <point x="634" y="878" type="line"/>
+      <point x="634" y="877" type="line"/>
+      <point x="600" y="822" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="760" type="line"/>
+      <point x="334" y="760" type="line"/>
+      <point x="283" y="822" type="line"/>
+      <point x="600" y="822" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="878" type="line"/>
+      <point x="390" y="964" type="line"/>
+      <point x="485" y="955" type="line"/>
+      <point x="485" y="878" type="line"/>
+    </contour>
+    <contour>
+      <point x="765" y="980" type="line"/>
+      <point x="765" y="896" type="line"/>
+      <point x="660" y="907" type="line"/>
+      <point x="660" y="980" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="964" type="line"/>
+      <point x="390" y="965" type="line"/>
+      <point x="495" y="984" type="line"/>
+      <point x="496" y="984" type="line"/>
+      <point x="765" y="907" type="line"/>
+      <point x="765" y="896" type="line"/>
+      <point x="693" y="879" type="line"/>
+      <point x="692" y="879" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

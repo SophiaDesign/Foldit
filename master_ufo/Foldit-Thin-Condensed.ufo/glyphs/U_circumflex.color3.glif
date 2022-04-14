@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucircumflex.color3" format="2">
+  <advance width="273"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <contour>
+      <point x="197" y="761" type="line"/>
+      <point x="173" y="761" type="line"/>
+      <point x="129" y="851" type="line"/>
+      <point x="152" y="851" type="line"/>
+      <point x="153" y="851" type="line"/>
+      <point x="197" y="762" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

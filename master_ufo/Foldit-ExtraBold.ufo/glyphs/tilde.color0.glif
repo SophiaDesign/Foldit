@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="89" y="641" type="line"/>
+      <point x="89" y="762" type="line"/>
+      <point x="209" y="743" type="line"/>
+      <point x="209" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

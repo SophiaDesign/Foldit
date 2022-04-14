@@ -2,23 +2,56 @@
 <glyph name="Nj" format="2">
   <advance width="443"/>
   <unicode hex="01CB"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="168" y="700" name="top"/>
   <outline>
-    <component base="N"/>
-    <component base="j" xOffset="303"/>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="53" y="679" type="line"/>
+      <point x="77" y="655" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="700" type="line"/>
+      <point x="260" y="22" type="line"/>
+      <point x="236" y="46" type="line"/>
+      <point x="236" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="679" type="line"/>
+      <point x="53" y="680" type="line"/>
+      <point x="76" y="703" type="line"/>
+      <point x="77" y="703" type="line"/>
+      <point x="260" y="22" type="line"/>
+      <point x="260" y="21" type="line"/>
+      <point x="237" y="-3" type="line"/>
+      <point x="236" y="-3" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="480" type="line"/>
+      <point x="379" y="503" type="line"/>
+      <point x="380" y="503" type="line"/>
+      <point x="380" y="-177" type="line"/>
+      <point x="357" y="-200" type="line"/>
+      <point x="356" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="565" type="line"/>
+      <point x="357" y="542" type="line"/>
+      <point x="356" y="542" type="line"/>
+      <point x="356" y="615" type="line"/>
+      <point x="380" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="-200" type="line"/>
+      <point x="294" y="-200" type="line"/>
+      <point x="294" y="-176" type="line"/>
+      <point x="356" y="-176" type="line"/>
+      <point x="356" y="-177" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>j</string>
-        </dict>
-      </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

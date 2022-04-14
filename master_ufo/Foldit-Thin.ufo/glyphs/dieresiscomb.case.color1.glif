@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case.color1" format="2">
+  <outline>
+    <contour>
+      <point x="357" y="811" type="line"/>
+      <point x="326" y="811" type="line"/>
+      <point x="326" y="845" type="line"/>
+      <point x="357" y="845" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

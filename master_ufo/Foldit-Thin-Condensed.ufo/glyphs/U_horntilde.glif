@@ -2,8 +2,66 @@
 <glyph name="Uhorntilde" format="2">
   <advance width="273"/>
   <unicode hex="1EEE"/>
+  <anchor x="132" y="0" name="bottom"/>
+  <anchor x="196" y="700" name="horn"/>
+  <anchor x="143" y="701" name="top"/>
   <outline>
-    <component base="Uhorn"/>
+    <contour>
+      <point x="220" y="23" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="700" type="line"/>
+      <point x="220" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="23" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="196" y="24" type="line"/>
+      <point x="196" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="700" type="line"/>
+      <point x="76" y="700" type="line"/>
+      <point x="77" y="700" type="line"/>
+      <point x="77" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="700" type="line"/>
+      <point x="227" y="700" type="line"/>
+      <point x="227" y="676" type="line"/>
+      <point x="219" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="699" type="line"/>
+      <point x="228" y="676" type="line"/>
+      <point x="227" y="676" type="line"/>
+      <point x="227" y="767" type="line"/>
+      <point x="251" y="767" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="787" type="line"/>
+      <point x="82" y="838" type="line"/>
+      <point x="106" y="839" type="line"/>
+      <point x="106" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="848" type="line"/>
+      <point x="202" y="796" type="line"/>
+      <point x="178" y="796" type="line"/>
+      <point x="178" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="838" type="line"/>
+      <point x="82" y="839" type="line"/>
+      <point x="104" y="848" type="line"/>
+      <point x="105" y="848" type="line"/>
+      <point x="201" y="796" type="line"/>
+      <point x="201" y="795" type="line"/>
+      <point x="179" y="786" type="line"/>
+      <point x="178" y="786" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcommaaccent.color1" format="2">
+  <advance width="351"/>
+  <unicode hex="021A"/>
+  <outline>
+    <contour>
+      <point x="164" y="676" type="line"/>
+      <point x="43" y="676" type="line"/>
+      <point x="43" y="700" type="line"/>
+      <point x="187" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

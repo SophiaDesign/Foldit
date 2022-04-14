@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters.color0" format="2">
+  <advance width="943"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="434" y="638" type="line"/>
+      <point x="279" y="638" type="line"/>
+      <point x="279" y="794" type="line"/>
+      <point x="280" y="794" type="line"/>
+      <point x="434" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

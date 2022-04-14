@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute.color4" format="2">
+  <advance width="203"/>
+  <unicode hex="1EAF"/>
+  <outline>
+    <contour>
+      <point x="91" y="580" type="line"/>
+      <point x="65" y="580" type="line"/>
+      <point x="36" y="629" type="line"/>
+      <point x="36" y="630" type="line"/>
+      <point x="62" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

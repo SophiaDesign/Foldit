@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute.color5" format="2">
+  <advance width="907"/>
+  <unicode hex="01FE"/>
+  <outline>
+    <contour>
+      <point x="395" y="760" type="line"/>
+      <point x="430" y="900" type="line"/>
+      <point x="636" y="900" type="line"/>
+      <point x="636" y="899" type="line"/>
+      <point x="521" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

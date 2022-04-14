@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron.color7" format="2">
+  <advance width="877"/>
+  <unicode hex="022D"/>
+  <outline>
+    <contour>
+      <point x="633" y="798" type="line"/>
+      <point x="267" y="798" type="line"/>
+      <point x="267" y="890" type="line"/>
+      <point x="633" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorntilde.color8" format="2">
+  <advance width="204"/>
+  <unicode hex="1EE1"/>
+  <outline>
+    <contour>
+      <point x="52" y="662" type="line"/>
+      <point x="52" y="663" type="line"/>
+      <point x="72" y="672" type="line"/>
+      <point x="73" y="672" type="line"/>
+      <point x="152" y="620" type="line"/>
+      <point x="152" y="619" type="line"/>
+      <point x="132" y="610" type="line"/>
+      <point x="131" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

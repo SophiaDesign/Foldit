@@ -2,8 +2,45 @@
 <glyph name="Oacute" format="2">
   <advance width="907"/>
   <unicode hex="00D3"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="680" y="730" name="horn"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="197" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="628" y="244" type="line"/>
+      <point x="628" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="760" type="line"/>
+      <point x="428" y="900" type="line"/>
+      <point x="634" y="900" type="line"/>
+      <point x="634" y="899" type="line"/>
+      <point x="519" y="760" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

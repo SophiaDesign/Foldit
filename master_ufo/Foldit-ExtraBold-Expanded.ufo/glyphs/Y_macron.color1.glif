@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ymacron.color1" format="2">
+  <advance width="830"/>
+  <unicode hex="0232"/>
+  <outline>
+    <contour>
+      <point x="805" y="730" type="line"/>
+      <point x="547" y="285" type="line"/>
+      <point x="284" y="285" type="line"/>
+      <point x="541" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

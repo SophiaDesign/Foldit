@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron.color3" format="2">
+  <advance width="777"/>
+  <unicode hex="010D"/>
+  <outline>
+    <contour>
+      <point x="193" y="750" type="line"/>
+      <point x="350" y="750" type="line"/>
+      <point x="454" y="613" type="line"/>
+      <point x="372" y="582" type="line"/>
+      <point x="331" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,59 @@
 <glyph name="uring" format="2">
   <advance width="203"/>
   <unicode hex="016F"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="126" y="500" name="horn"/>
+  <anchor x="103" y="645" name="top"/>
   <outline>
-    <component base="u"/>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="150" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="23" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="126" y="24" type="line"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="483" type="line"/>
+      <point x="76" y="506" type="line"/>
+      <point x="77" y="506" type="line"/>
+      <point x="77" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="658" type="line"/>
+      <point x="82" y="676" type="line"/>
+      <point x="83" y="676" type="line"/>
+      <point x="83" y="591" type="line"/>
+      <point x="64" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="676" type="line"/>
+      <point x="141" y="658" type="line"/>
+      <point x="141" y="657" type="line"/>
+      <point x="83" y="657" type="line"/>
+      <point x="83" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="590" type="line"/>
+      <point x="123" y="572" type="line"/>
+      <point x="122" y="572" type="line"/>
+      <point x="122" y="657" type="line"/>
+      <point x="141" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="572" type="line"/>
+      <point x="64" y="590" type="line"/>
+      <point x="64" y="591" type="line"/>
+      <point x="122" y="591" type="line"/>
+      <point x="122" y="572" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

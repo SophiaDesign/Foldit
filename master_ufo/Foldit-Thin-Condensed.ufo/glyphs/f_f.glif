@@ -29,7 +29,33 @@
       <point x="53" y="377" type="line"/>
       <point x="54" y="377" type="line"/>
     </contour>
-    <component base="f" xOffset="183"/>
+    <contour>
+      <point x="260" y="353" type="line"/>
+      <point x="237" y="377" type="line"/>
+      <point x="314" y="377" type="line"/>
+      <point x="314" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="677" type="line"/>
+      <point x="259" y="700" type="line"/>
+      <point x="260" y="700" type="line"/>
+      <point x="260" y="377" type="line"/>
+      <point x="236" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="700" type="line"/>
+      <point x="343" y="677" type="line"/>
+      <point x="343" y="676" type="line"/>
+      <point x="260" y="676" type="line"/>
+      <point x="260" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="353" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="377" type="line"/>
+      <point x="237" y="377" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

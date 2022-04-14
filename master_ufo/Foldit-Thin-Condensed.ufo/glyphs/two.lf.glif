@@ -2,7 +2,27 @@
 <glyph name="two.lf" format="2">
   <advance width="290"/>
   <outline>
-    <component base="two"/>
+    <contour>
+      <point x="86" y="670" type="line"/>
+      <point x="196" y="670" type="line"/>
+      <point x="193" y="646" type="line"/>
+      <point x="63" y="646" type="line"/>
+      <point x="63" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="24" type="line"/>
+      <point x="63" y="24" type="line"/>
+      <point x="63" y="25" type="line"/>
+      <point x="196" y="670" type="line"/>
+      <point x="219" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="63" y="24" type="line"/>
+      <point x="219" y="24" type="line"/>
+      <point x="219" y="23" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

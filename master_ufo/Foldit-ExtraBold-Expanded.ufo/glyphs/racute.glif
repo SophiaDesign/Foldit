@@ -2,8 +2,30 @@
 <glyph name="racute" format="2">
   <advance width="606"/>
   <unicode hex="0155"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="342" y="530" name="top"/>
   <outline>
-    <component base="r"/>
+    <contour>
+      <point x="35" y="423" type="line"/>
+      <point x="248" y="530" type="line"/>
+      <point x="249" y="530" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="530" type="line"/>
+      <point x="602" y="327" type="line"/>
+      <point x="602" y="326" type="line"/>
+      <point x="249" y="326" type="line"/>
+      <point x="249" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="590" type="line"/>
+      <point x="294" y="820" type="line"/>
+      <point x="470" y="820" type="line"/>
+      <point x="470" y="819" type="line"/>
+      <point x="355" y="590" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

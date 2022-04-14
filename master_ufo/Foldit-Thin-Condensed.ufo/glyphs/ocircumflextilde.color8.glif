@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflextilde.color8" format="2">
+  <advance width="204"/>
+  <unicode hex="1ED7"/>
+  <outline>
+    <contour>
+      <point x="59" y="714" type="line"/>
+      <point x="59" y="715" type="line"/>
+      <point x="79" y="724" type="line"/>
+      <point x="80" y="724" type="line"/>
+      <point x="159" y="672" type="line"/>
+      <point x="159" y="671" type="line"/>
+      <point x="139" y="662" type="line"/>
+      <point x="138" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

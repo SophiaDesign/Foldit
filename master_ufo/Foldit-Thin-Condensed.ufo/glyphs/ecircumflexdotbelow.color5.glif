@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexdotbelow.color5" format="2">
+  <advance width="203"/>
+  <unicode hex="1EC7"/>
+  <outline>
+    <contour>
+      <point x="120" y="-119" type="line"/>
+      <point x="90" y="-119" type="line"/>
+      <point x="90" y="-85" type="line"/>
+      <point x="120" y="-85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

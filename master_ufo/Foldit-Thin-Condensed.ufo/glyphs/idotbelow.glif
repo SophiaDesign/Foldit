@@ -2,8 +2,22 @@
 <glyph name="idotbelow" format="2">
   <advance width="130"/>
   <unicode hex="1ECB"/>
+  <anchor x="65" y="0" name="bottom"/>
   <outline>
-    <component base="i"/>
+    <contour>
+      <point x="53" y="480" type="line"/>
+      <point x="76" y="503" type="line"/>
+      <point x="77" y="503" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="565" type="line"/>
+      <point x="54" y="542" type="line"/>
+      <point x="53" y="542" type="line"/>
+      <point x="53" y="615" type="line"/>
+      <point x="77" y="615" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

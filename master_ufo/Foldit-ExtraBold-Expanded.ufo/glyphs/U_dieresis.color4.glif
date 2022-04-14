@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis.color4" format="2">
+  <advance width="897"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="664" y="788" type="line"/>
+      <point x="518" y="788" type="line"/>
+      <point x="518" y="900" type="line"/>
+      <point x="664" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

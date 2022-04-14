@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ.color5" format="2">
+  <advance width="1480"/>
+  <unicode hex="01C7"/>
+  <outline>
+    <contour>
+      <point x="830" y="240" type="line"/>
+      <point x="1283" y="240" type="line"/>
+      <point x="1283" y="239" type="line"/>
+      <point x="1081" y="-4" type="line"/>
+      <point x="830" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

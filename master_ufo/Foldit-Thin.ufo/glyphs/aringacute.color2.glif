@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute.color2" format="2">
+  <advance width="203"/>
+  <unicode hex="01FB"/>
+  <outline>
+    <contour>
+      <point x="143" y="555" type="line"/>
+      <point x="125" y="537" type="line"/>
+      <point x="124" y="537" type="line"/>
+      <point x="124" y="622" type="line"/>
+      <point x="143" y="622" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

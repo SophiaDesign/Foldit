@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="877"/>
+  <unicode hex="022B"/>
+  <outline>
+    <contour>
+      <point x="413" y="580" type="line"/>
+      <point x="237" y="580" type="line"/>
+      <point x="237" y="712" type="line"/>
+      <point x="413" y="712" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="580" type="line"/>
+      <point x="485" y="580" type="line"/>
+      <point x="485" y="712" type="line"/>
+      <point x="661" y="712" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="778" type="line"/>
+      <point x="237" y="778" type="line"/>
+      <point x="237" y="870" type="line"/>
+      <point x="661" y="870" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,57 @@
 <glyph name="abreve" format="2">
   <advance width="203"/>
   <unicode hex="0103"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="105" y="500" name="top"/>
   <outline>
-    <component base="a"/>
+    <contour>
+      <point x="53" y="477" type="line"/>
+      <point x="76" y="500" type="line"/>
+      <point x="77" y="500" type="line"/>
+      <point x="77" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="500" type="line"/>
+      <point x="150" y="477" type="line"/>
+      <point x="150" y="476" type="line"/>
+      <point x="77" y="476" type="line"/>
+      <point x="77" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="476" type="line"/>
+      <point x="150" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="23" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="126" y="24" type="line"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="622" type="line"/>
+      <point x="65" y="622" type="line"/>
+      <point x="36" y="671" type="line"/>
+      <point x="36" y="672" type="line"/>
+      <point x="62" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="622" type="line"/>
+      <point x="146" y="672" type="line"/>
+      <point x="172" y="672" type="line"/>
+      <point x="172" y="671" type="line"/>
+      <point x="143" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="600" type="line"/>
+      <point x="78" y="600" type="line"/>
+      <point x="65" y="622" type="line"/>
+      <point x="143" y="622" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

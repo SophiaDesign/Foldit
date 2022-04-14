@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornhookabove.color7" format="2">
+  <advance width="877"/>
+  <unicode hex="1EDF"/>
+  <outline>
+    <contour>
+      <point x="529" y="586" type="line"/>
+      <point x="402" y="586" type="line"/>
+      <point x="401" y="586" type="line"/>
+      <point x="573" y="860" type="line"/>
+      <point x="680" y="737" type="line"/>
+      <point x="680" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

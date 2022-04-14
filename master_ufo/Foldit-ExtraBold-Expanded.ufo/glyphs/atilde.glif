@@ -2,8 +2,59 @@
 <glyph name="atilde" format="2">
   <advance width="827"/>
   <unicode hex="00E3"/>
+  <anchor x="441" y="0" name="bottom"/>
+  <anchor x="452" y="530" name="top"/>
   <outline>
-    <component base="a"/>
+    <contour>
+      <point x="35" y="423" type="line"/>
+      <point x="248" y="530" type="line"/>
+      <point x="249" y="530" type="line"/>
+      <point x="249" y="204" type="line"/>
+      <point x="35" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="685" y="530" type="line"/>
+      <point x="792" y="327" type="line"/>
+      <point x="792" y="326" type="line"/>
+      <point x="249" y="326" type="line"/>
+      <point x="249" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="326" type="line"/>
+      <point x="792" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="35" y="203" type="line"/>
+      <point x="35" y="204" type="line"/>
+      <point x="578" y="204" type="line"/>
+      <point x="578" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="641" type="line"/>
+      <point x="239" y="762" type="line"/>
+      <point x="359" y="743" type="line"/>
+      <point x="359" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="637" y="789" type="line"/>
+      <point x="637" y="670" type="line"/>
+      <point x="518" y="680" type="line"/>
+      <point x="518" y="789" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="762" type="line"/>
+      <point x="239" y="762" type="line"/>
+      <point x="368" y="802" type="line"/>
+      <point x="369" y="802" type="line"/>
+      <point x="637" y="670" type="line"/>
+      <point x="637" y="670" type="line"/>
+      <point x="509" y="630" type="line"/>
+      <point x="508" y="630" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

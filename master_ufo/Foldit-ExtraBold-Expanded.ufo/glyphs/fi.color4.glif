@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi.color4" format="2">
+  <advance width="891"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="652" y="393" type="line"/>
+      <point x="845" y="500" type="line"/>
+      <point x="846" y="503" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

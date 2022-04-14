@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex.color4" format="2">
+  <advance width="276"/>
+  <unicode hex="0175"/>
+  <outline>
+    <contour>
+      <point x="201" y="590" type="line"/>
+      <point x="177" y="590" type="line"/>
+      <point x="133" y="680" type="line"/>
+      <point x="156" y="680" type="line"/>
+      <point x="157" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

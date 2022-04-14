@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="at.color4" format="2">
+  <advance width="1043"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="990" y="607" type="line"/>
+      <point x="990" y="24" type="line"/>
+      <point x="966" y="24" type="line"/>
+      <point x="966" y="630" type="line"/>
+      <point x="967" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

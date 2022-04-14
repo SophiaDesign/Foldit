@@ -2,8 +2,37 @@
 <glyph name="sacute" format="2">
   <advance width="182"/>
   <unicode hex="015B"/>
+  <anchor x="95" y="0" name="bottom"/>
+  <anchor x="103" y="500" name="top"/>
   <outline>
-    <component base="s"/>
+    <contour>
+      <point x="116" y="500" type="line"/>
+      <point x="139" y="477" type="line"/>
+      <point x="139" y="476" type="line"/>
+      <point x="69" y="476" type="line"/>
+      <point x="66" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="24" type="line"/>
+      <point x="43" y="467" type="line"/>
+      <point x="66" y="500" type="line"/>
+      <point x="139" y="25" type="line"/>
+      <point x="139" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="43" y="23" type="line"/>
+      <point x="43" y="24" type="line"/>
+      <point x="139" y="24" type="line"/>
+      <point x="116" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="570" type="line"/>
+      <point x="112" y="700" type="line"/>
+      <point x="143" y="700" type="line"/>
+      <point x="143" y="699" type="line"/>
+      <point x="111" y="570" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

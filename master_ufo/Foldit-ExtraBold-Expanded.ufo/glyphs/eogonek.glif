@@ -2,8 +2,66 @@
 <glyph name="eogonek" format="2">
   <advance width="837"/>
   <unicode hex="0119"/>
+  <anchor x="421" y="0" name="bottom"/>
+  <anchor x="432" y="530" name="top"/>
   <outline>
-    <component base="e"/>
+    <contour>
+      <point x="35" y="423" type="line"/>
+      <point x="248" y="530" type="line"/>
+      <point x="249" y="530" type="line"/>
+      <point x="249" y="200" type="line"/>
+      <point x="35" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="530" type="line"/>
+      <point x="802" y="352" type="line"/>
+      <point x="802" y="351" type="line"/>
+      <point x="249" y="351" type="line"/>
+      <point x="249" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="35" y="199" type="line"/>
+      <point x="35" y="200" type="line"/>
+      <point x="802" y="200" type="line"/>
+      <point x="802" y="199" type="line"/>
+      <point x="695" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="331" type="line"/>
+      <point x="588" y="221" type="line"/>
+      <point x="249" y="220" type="line"/>
+      <point x="249" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="328" type="line"/>
+      <point x="589" y="221" type="line"/>
+      <point x="588" y="221" type="line"/>
+      <point x="588" y="351" type="line"/>
+      <point x="802" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="-230" type="line"/>
+      <point x="412" y="-230" type="line"/>
+      <point x="412" y="-138" type="line"/>
+      <point x="590" y="-138" type="line"/>
+      <point x="590" y="-139" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="-86" type="line"/>
+      <point x="284" y="-85" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="-1" type="line"/>
+      <point x="412" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="-174" type="line"/>
+      <point x="284" y="-86" type="line"/>
+      <point x="412" y="-86" type="line"/>
+      <point x="412" y="-230" type="line"/>
+      <point x="411" y="-230" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

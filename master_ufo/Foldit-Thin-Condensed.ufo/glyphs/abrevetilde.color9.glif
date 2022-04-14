@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.color9" format="2">
+  <advance width="203"/>
+  <unicode hex="1EB5"/>
+  <outline>
+    <contour>
+      <point x="55" y="717" type="line"/>
+      <point x="55" y="718" type="line"/>
+      <point x="75" y="727" type="line"/>
+      <point x="76" y="727" type="line"/>
+      <point x="155" y="675" type="line"/>
+      <point x="155" y="674" type="line"/>
+      <point x="135" y="665" type="line"/>
+      <point x="134" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

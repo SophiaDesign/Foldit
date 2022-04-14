@@ -2,8 +2,42 @@
 <glyph name="zcaron" format="2">
   <advance width="232"/>
   <unicode hex="017E"/>
+  <anchor x="113" y="500" name="top"/>
   <outline>
-    <component base="z"/>
+    <contour>
+      <point x="53" y="500" type="line"/>
+      <point x="156" y="500" type="line"/>
+      <point x="153" y="476" type="line"/>
+      <point x="53" y="476" type="line"/>
+      <point x="53" y="477" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="53" y="25" type="line"/>
+      <point x="156" y="500" type="line"/>
+      <point x="179" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="179" y="24" type="line"/>
+      <point x="179" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="680" type="line"/>
+      <point x="81" y="680" type="line"/>
+      <point x="124" y="602" type="line"/>
+      <point x="102" y="590" type="line"/>
+      <point x="101" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="680" type="line"/>
+      <point x="125" y="590" type="line"/>
+      <point x="102" y="590" type="line"/>
+      <point x="147" y="680" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

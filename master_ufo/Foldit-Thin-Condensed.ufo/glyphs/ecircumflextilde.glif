@@ -2,8 +2,81 @@
 <glyph name="ecircumflextilde" format="2">
   <advance width="203"/>
   <unicode hex="1EC5"/>
+  <anchor x="104" y="0" name="bottom"/>
+  <anchor x="103" y="500" name="top"/>
   <outline>
-    <component base="e"/>
+    <contour>
+      <point x="53" y="477" type="line"/>
+      <point x="76" y="500" type="line"/>
+      <point x="77" y="500" type="line"/>
+      <point x="77" y="24" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="500" type="line"/>
+      <point x="150" y="477" type="line"/>
+      <point x="150" y="476" type="line"/>
+      <point x="77" y="476" type="line"/>
+      <point x="77" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="53" y="23" type="line"/>
+      <point x="53" y="24" type="line"/>
+      <point x="150" y="24" type="line"/>
+      <point x="150" y="23" type="line"/>
+      <point x="127" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="226" type="line"/>
+      <point x="126" y="202" type="line"/>
+      <point x="77" y="202" type="line"/>
+      <point x="77" y="226" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="225" type="line"/>
+      <point x="127" y="202" type="line"/>
+      <point x="126" y="202" type="line"/>
+      <point x="126" y="476" type="line"/>
+      <point x="150" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="540" type="line"/>
+      <point x="137" y="540" type="line"/>
+      <point x="93" y="630" type="line"/>
+      <point x="116" y="630" type="line"/>
+      <point x="117" y="630" type="line"/>
+      <point x="161" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="540" type="line"/>
+      <point x="47" y="541" type="line"/>
+      <point x="93" y="630" type="line"/>
+      <point x="116" y="630" type="line"/>
+      <point x="71" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="663" type="line"/>
+      <point x="60" y="714" type="line"/>
+      <point x="80" y="715" type="line"/>
+      <point x="80" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="724" type="line"/>
+      <point x="161" y="672" type="line"/>
+      <point x="141" y="672" type="line"/>
+      <point x="141" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="714" type="line"/>
+      <point x="60" y="715" type="line"/>
+      <point x="80" y="724" type="line"/>
+      <point x="81" y="724" type="line"/>
+      <point x="160" y="672" type="line"/>
+      <point x="160" y="671" type="line"/>
+      <point x="140" y="662" type="line"/>
+      <point x="139" y="662" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

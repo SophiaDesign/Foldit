@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="100"/>
+    <axis tag="wght" name="Weight" minimum="250" maximum="800" default="250">
+      <map input="250" output="100"/>
+      <map input="800" output="800"/>
+    </axis>
     <axis tag="COLR" name="Color" minimum="0" maximum="0" default="0"/>
   </axes>
   <sources>
@@ -23,7 +26,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed" filename="../instance_ufo/Foldit-Thin-Condensed.ufo" stylemapfamilyname="Foldit Thin-Condensed" stylemapstylename="regular">
+    <instance name="Foldit Thin" familyname="Foldit" stylename="Thin" filename="../instance_ufo/Foldit-Thin.ufo" stylemapfamilyname="Foldit Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Color" xvalue="0"/>
@@ -58,7 +61,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded" filename="../instance_ufo/Foldit-ExtraBold-Expanded.ufo" stylemapfamilyname="Foldit ExtraBold-Expanded" stylemapstylename="regular">
+    <instance name="Foldit ExtraBold" familyname="Foldit" stylename="ExtraBold" filename="../instance_ufo/Foldit-ExtraBold.ufo" stylemapfamilyname="Foldit ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Color" xvalue="0"/>

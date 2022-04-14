@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresismacron.color0" format="2">
+  <advance width="907"/>
+  <unicode hex="022A"/>
+  <outline>
+    <contour>
+      <point x="420" y="777" type="line"/>
+      <point x="287" y="777" type="line"/>
+      <point x="287" y="871" type="line"/>
+      <point x="420" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

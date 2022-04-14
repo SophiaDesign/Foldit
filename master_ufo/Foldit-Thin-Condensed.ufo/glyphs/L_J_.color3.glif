@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ.color3" format="2">
+  <advance width="609"/>
+  <unicode hex="01C7"/>
+  <outline>
+    <contour>
+      <point x="442" y="676" type="line"/>
+      <point x="341" y="676" type="line"/>
+      <point x="341" y="700" type="line"/>
+      <point x="465" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

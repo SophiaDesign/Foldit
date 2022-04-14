@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute.color4" format="2">
+  <advance width="1391"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="1315" y="244" type="line"/>
+      <point x="1315" y="0" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="588" y="243" type="line"/>
+      <point x="588" y="244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

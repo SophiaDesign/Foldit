@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.lf.color1" format="2">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="324" y="119" type="line"/>
+      <point x="31" y="244" type="line"/>
+      <point x="31" y="245" type="line"/>
+      <point x="629" y="730" type="line"/>
+      <point x="769" y="535" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

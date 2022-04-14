@@ -2,8 +2,57 @@
 <glyph name="Ainvertedbreve" format="2">
   <advance width="907"/>
   <unicode hex="0202"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="629" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="173" type="line"/>
+      <point x="279" y="173" type="line"/>
+      <point x="279" y="417" type="line"/>
+      <point x="628" y="417" type="line"/>
+      <point x="628" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="820" type="line"/>
+      <point x="382" y="760" type="line"/>
+      <point x="226" y="760" type="line"/>
+      <point x="226" y="762" type="line"/>
+      <point x="280" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="820" type="line"/>
+      <point x="673" y="820" type="line"/>
+      <point x="727" y="761" type="line"/>
+      <point x="727" y="760" type="line"/>
+      <point x="571" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="900" type="line"/>
+      <point x="673" y="820" type="line"/>
+      <point x="280" y="820" type="line"/>
+      <point x="354" y="900" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

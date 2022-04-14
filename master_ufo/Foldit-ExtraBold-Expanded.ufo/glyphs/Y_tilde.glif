@@ -2,8 +2,50 @@
 <glyph name="Ytilde" format="2">
   <advance width="830"/>
   <unicode hex="1EF8"/>
+  <anchor x="412" y="0" name="bottom"/>
+  <anchor x="438" y="730" name="top"/>
   <outline>
-    <component base="Y"/>
+    <contour>
+      <point x="25" y="730" type="line"/>
+      <point x="288" y="730" type="line"/>
+      <point x="431" y="467" type="line"/>
+      <point x="284" y="285" type="line"/>
+      <point x="283" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="805" y="730" type="line"/>
+      <point x="547" y="285" type="line"/>
+      <point x="284" y="285" type="line"/>
+      <point x="541" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="285" type="line"/>
+      <point x="547" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="782" type="line"/>
+      <point x="200" y="873" type="line"/>
+      <point x="320" y="864" type="line"/>
+      <point x="320" y="782" type="line"/>
+    </contour>
+    <contour>
+      <point x="668" y="900" type="line"/>
+      <point x="668" y="821" type="line"/>
+      <point x="549" y="801" type="line"/>
+      <point x="549" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="873" type="line"/>
+      <point x="200" y="883" type="line"/>
+      <point x="328" y="923" type="line"/>
+      <point x="349" y="923" type="line"/>
+      <point x="668" y="821" type="line"/>
+      <point x="668" y="811" type="line"/>
+      <point x="540" y="771" type="line"/>
+      <point x="519" y="771" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

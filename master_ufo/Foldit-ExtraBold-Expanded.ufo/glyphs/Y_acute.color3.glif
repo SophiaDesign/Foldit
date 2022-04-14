@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute.color3" format="2">
+  <advance width="830"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="355" y="760" type="line"/>
+      <point x="390" y="900" type="line"/>
+      <point x="596" y="900" type="line"/>
+      <point x="596" y="899" type="line"/>
+      <point x="481" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

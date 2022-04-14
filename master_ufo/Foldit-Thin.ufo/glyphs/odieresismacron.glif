@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="204"/>
+  <unicode hex="022B"/>
+  <outline>
+    <contour>
+      <point x="90" y="581" type="line"/>
+      <point x="59" y="581" type="line"/>
+      <point x="59" y="615" type="line"/>
+      <point x="90" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="581" type="line"/>
+      <point x="114" y="581" type="line"/>
+      <point x="114" y="615" type="line"/>
+      <point x="145" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="666" type="line"/>
+      <point x="47" y="666" type="line"/>
+      <point x="47" y="690" type="line"/>
+      <point x="157" y="690" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ainvertedbreve.color6" format="2">
+  <advance width="907"/>
+  <unicode hex="0202"/>
+  <outline>
+    <contour>
+      <point x="599" y="900" type="line"/>
+      <point x="673" y="820" type="line"/>
+      <point x="280" y="820" type="line"/>
+      <point x="354" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

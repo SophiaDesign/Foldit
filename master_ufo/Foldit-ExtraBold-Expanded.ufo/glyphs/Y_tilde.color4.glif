@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde.color4" format="2">
+  <advance width="830"/>
+  <unicode hex="1EF8"/>
+  <outline>
+    <contour>
+      <point x="668" y="900" type="line"/>
+      <point x="668" y="821" type="line"/>
+      <point x="549" y="801" type="line"/>
+      <point x="549" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

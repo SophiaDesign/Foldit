@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="907"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="330" type="line"/>
+      <point x="629" y="133" type="line"/>
+      <point x="628" y="133" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="133" type="line"/>
+      <point x="279" y="377" type="line"/>
+      <point x="628" y="377" type="line"/>
+      <point x="628" y="376" type="line"/>
+      <point x="628" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="959" y="466" type="line"/>
+      <point x="982" y="443" type="line"/>
+      <point x="982" y="442" type="line"/>
+      <point x="-47" y="441" type="line"/>
+      <point x="-47" y="442" type="line"/>
+      <point x="-70" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="959" y="422" type="line"/>
+      <point x="982" y="399" type="line"/>
+      <point x="982" y="398" type="line"/>
+      <point x="-47" y="397" type="line"/>
+      <point x="-47" y="398" type="line"/>
+      <point x="-70" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="730" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

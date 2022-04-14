@@ -2,8 +2,55 @@
 <glyph name="wdieresis" format="2">
   <advance width="1190"/>
   <unicode hex="1E85"/>
+  <anchor x="601" y="530" name="top"/>
   <outline>
-    <component base="w"/>
+    <contour>
+      <point x="1155" y="205" type="line"/>
+      <point x="942" y="1" type="line"/>
+      <point x="941" y="1" type="line"/>
+      <point x="941" y="531" type="line"/>
+      <point x="1155" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="531" type="line"/>
+      <point x="691" y="531" type="line"/>
+      <point x="692" y="531" type="line"/>
+      <point x="692" y="205" type="line"/>
+      <point x="498" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="490" type="line"/>
+      <point x="248" y="537" type="line"/>
+      <point x="249" y="537" type="line"/>
+      <point x="249" y="205" type="line"/>
+      <point x="35" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="1" type="line"/>
+      <point x="35" y="204" type="line"/>
+      <point x="35" y="205" type="line"/>
+      <point x="498" y="205" type="line"/>
+      <point x="498" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="1" type="line"/>
+      <point x="498" y="204" type="line"/>
+      <point x="498" y="205" type="line"/>
+      <point x="941" y="205" type="line"/>
+      <point x="941" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="640" type="line"/>
+      <point x="379" y="640" type="line"/>
+      <point x="379" y="772" type="line"/>
+      <point x="555" y="772" type="line"/>
+    </contour>
+    <contour>
+      <point x="803" y="640" type="line"/>
+      <point x="627" y="640" type="line"/>
+      <point x="627" y="772" type="line"/>
+      <point x="803" y="772" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

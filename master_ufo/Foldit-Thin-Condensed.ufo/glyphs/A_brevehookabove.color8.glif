@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehookabove.color8" format="2">
+  <advance width="273"/>
+  <unicode hex="1EB2"/>
+  <outline>
+    <contour>
+      <point x="146" y="795" type="line"/>
+      <point x="123" y="795" type="line"/>
+      <point x="123" y="796" type="line"/>
+      <point x="161" y="926" type="line"/>
+      <point x="179" y="903" type="line"/>
+      <point x="179" y="902" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

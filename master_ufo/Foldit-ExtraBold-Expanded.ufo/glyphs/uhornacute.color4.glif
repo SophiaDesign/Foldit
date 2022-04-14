@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute.color4" format="2">
+  <advance width="807"/>
+  <unicode hex="1EE9"/>
+  <outline>
+    <contour>
+      <point x="987" y="483" type="line"/>
+      <point x="814" y="376" type="line"/>
+      <point x="813" y="376" type="line"/>
+      <point x="813" y="654" type="line"/>
+      <point x="987" y="654" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

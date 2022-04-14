@@ -2,8 +2,36 @@
 <glyph name="jcircumflex" format="2">
   <advance width="451"/>
   <unicode hex="0135"/>
+  <anchor x="311" y="750" name="top"/>
   <outline>
-    <component base="jdotless"/>
+    <contour>
+      <point x="212" y="530" type="line"/>
+      <point x="405" y="530" type="line"/>
+      <point x="406" y="530" type="line"/>
+      <point x="406" y="-93" type="line"/>
+      <point x="213" y="-200" type="line"/>
+      <point x="212" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="-200" type="line"/>
+      <point x="0" y="-200" type="line"/>
+      <point x="0" y="4" type="line"/>
+      <point x="212" y="4" type="line"/>
+      <point x="212" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="592" type="line"/>
+      <point x="352" y="592" type="line"/>
+      <point x="248" y="739" type="line"/>
+      <point x="330" y="770" type="line"/>
+      <point x="371" y="770" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="592" type="line"/>
+      <point x="227" y="770" type="line"/>
+      <point x="371" y="770" type="line"/>
+      <point x="237" y="592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

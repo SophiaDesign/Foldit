@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove.color1" format="2">
+  <advance width="203"/>
+  <unicode hex="1EF7"/>
+  <outline>
+    <contour>
+      <point x="149" y="-177" type="line"/>
+      <point x="127" y="-200" type="line"/>
+      <point x="126" y="-200" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="150" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

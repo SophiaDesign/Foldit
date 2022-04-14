@@ -2,14 +2,22 @@
 <glyph name="imacron" format="2">
   <advance width="130"/>
   <unicode hex="012B"/>
+  <anchor x="65" y="0" name="bottom"/>
+  <anchor x="63" y="500" name="top"/>
   <outline>
+    <contour>
+      <point x="53" y="480" type="line"/>
+      <point x="76" y="503" type="line"/>
+      <point x="77" y="503" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+    </contour>
     <contour>
       <point x="118" y="611" type="line"/>
       <point x="8" y="611" type="line"/>
       <point x="8" y="635" type="line"/>
       <point x="118" y="635" type="line"/>
     </contour>
-    <component base="idotless"/>
   </outline>
   <lib>
     <dict>

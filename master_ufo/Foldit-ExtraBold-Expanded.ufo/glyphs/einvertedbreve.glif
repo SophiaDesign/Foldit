@@ -2,8 +2,64 @@
 <glyph name="einvertedbreve" format="2">
   <advance width="837"/>
   <unicode hex="0207"/>
+  <anchor x="421" y="0" name="bottom"/>
+  <anchor x="432" y="530" name="top"/>
   <outline>
-    <component base="e"/>
+    <contour>
+      <point x="35" y="423" type="line"/>
+      <point x="248" y="530" type="line"/>
+      <point x="249" y="530" type="line"/>
+      <point x="249" y="200" type="line"/>
+      <point x="35" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="530" type="line"/>
+      <point x="802" y="352" type="line"/>
+      <point x="802" y="351" type="line"/>
+      <point x="249" y="351" type="line"/>
+      <point x="249" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="35" y="199" type="line"/>
+      <point x="35" y="200" type="line"/>
+      <point x="802" y="200" type="line"/>
+      <point x="802" y="199" type="line"/>
+      <point x="695" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="331" type="line"/>
+      <point x="588" y="221" type="line"/>
+      <point x="249" y="220" type="line"/>
+      <point x="249" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="328" type="line"/>
+      <point x="589" y="221" type="line"/>
+      <point x="588" y="221" type="line"/>
+      <point x="588" y="351" type="line"/>
+      <point x="802" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="698" type="line"/>
+      <point x="576" y="698" type="line"/>
+      <point x="623" y="619" type="line"/>
+      <point x="623" y="618" type="line"/>
+      <point x="507" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="698" type="line"/>
+      <point x="328" y="618" type="line"/>
+      <point x="202" y="618" type="line"/>
+      <point x="202" y="620" type="line"/>
+      <point x="249" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="515" y="800" type="line"/>
+      <point x="576" y="698" type="line"/>
+      <point x="249" y="698" type="line"/>
+      <point x="310" y="800" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -2,9 +2,71 @@
 <glyph name="DZcaron" format="2">
   <advance width="1742"/>
   <unicode hex="01C4"/>
+  <anchor x="156" y="361" name="stroke"/>
+  <anchor x="1313" y="730" name="top"/>
   <outline>
-    <component base="D"/>
-    <component base="Zcaron" xOffset="937"/>
+    <contour>
+      <point x="25" y="730" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="240" type="line"/>
+      <point x="25" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="710" y="730" type="line"/>
+      <point x="912" y="487" type="line"/>
+      <point x="912" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="193" type="line"/>
+      <point x="659" y="-4" type="line"/>
+      <point x="658" y="-4" type="line"/>
+      <point x="658" y="486" type="line"/>
+      <point x="912" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="-4" type="line"/>
+      <point x="25" y="239" type="line"/>
+      <point x="25" y="240" type="line"/>
+      <point x="658" y="240" type="line"/>
+      <point x="658" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="962" y="730" type="line"/>
+      <point x="1571" y="730" type="line"/>
+      <point x="1545" y="486" type="line"/>
+      <point x="962" y="486" type="line"/>
+      <point x="962" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="1261" y="119" type="line"/>
+      <point x="968" y="244" type="line"/>
+      <point x="968" y="245" type="line"/>
+      <point x="1571" y="730" type="line"/>
+      <point x="1711" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="1717" y="0" type="line"/>
+      <point x="968" y="0" type="line"/>
+      <point x="968" y="244" type="line"/>
+      <point x="1717" y="244" type="line"/>
+      <point x="1717" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081" y="900" type="line"/>
+      <point x="1238" y="900" type="line"/>
+      <point x="1372" y="793" type="line"/>
+      <point x="1280" y="760" type="line"/>
+      <point x="1239" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="1547" y="900" type="line"/>
+      <point x="1393" y="760" type="line"/>
+      <point x="1239" y="760" type="line"/>
+      <point x="1393" y="900" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

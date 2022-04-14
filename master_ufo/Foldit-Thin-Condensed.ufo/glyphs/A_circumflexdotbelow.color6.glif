@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexdotbelow.color6" format="2">
+  <advance width="273"/>
+  <unicode hex="1EAC"/>
+  <outline>
+    <contour>
+      <point x="78" y="760" type="line"/>
+      <point x="78" y="761" type="line"/>
+      <point x="124" y="850" type="line"/>
+      <point x="147" y="850" type="line"/>
+      <point x="102" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

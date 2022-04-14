@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohungarumlaut.color5" format="2">
+  <advance width="273"/>
+  <unicode hex="0150"/>
+  <outline>
+    <contour>
+      <point x="154" y="770" type="line"/>
+      <point x="179" y="860" type="line"/>
+      <point x="210" y="860" type="line"/>
+      <point x="210" y="859" type="line"/>
+      <point x="178" y="770" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

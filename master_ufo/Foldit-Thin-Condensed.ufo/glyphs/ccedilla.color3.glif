@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedilla.color3" format="2">
+  <advance width="203"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <contour>
+      <point x="83" y="-109" type="line"/>
+      <point x="65" y="-91" type="line"/>
+      <point x="65" y="-90" type="line"/>
+      <point x="115" y="-90" type="line"/>
+      <point x="115" y="-109" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

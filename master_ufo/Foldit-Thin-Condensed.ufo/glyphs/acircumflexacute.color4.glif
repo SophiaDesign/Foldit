@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexacute.color4" format="2">
+  <advance width="203"/>
+  <unicode hex="1EA5"/>
+  <outline>
+    <contour>
+      <point x="94" y="663" type="line"/>
+      <point x="119" y="772" type="line"/>
+      <point x="150" y="772" type="line"/>
+      <point x="150" y="771" type="line"/>
+      <point x="118" y="663" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

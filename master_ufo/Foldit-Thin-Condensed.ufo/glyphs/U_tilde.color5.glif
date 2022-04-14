@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde.color5" format="2">
+  <advance width="273"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="82" y="838" type="line"/>
+      <point x="82" y="839" type="line"/>
+      <point x="104" y="848" type="line"/>
+      <point x="105" y="848" type="line"/>
+      <point x="201" y="796" type="line"/>
+      <point x="201" y="795" type="line"/>
+      <point x="179" y="786" type="line"/>
+      <point x="178" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

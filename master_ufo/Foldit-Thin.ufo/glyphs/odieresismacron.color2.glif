@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron.color2" format="2">
+  <advance width="204"/>
+  <unicode hex="022B"/>
+  <outline>
+    <contour>
+      <point x="157" y="666" type="line"/>
+      <point x="47" y="666" type="line"/>
+      <point x="47" y="690" type="line"/>
+      <point x="157" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

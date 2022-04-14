@@ -2,8 +2,43 @@
 <glyph name="kcommaaccent" format="2">
   <advance width="227"/>
   <unicode hex="0137"/>
+  <anchor x="115" y="0" name="bottom"/>
   <outline>
-    <component base="k"/>
+    <contour>
+      <point x="53" y="730" type="line"/>
+      <point x="77" y="730" type="line"/>
+      <point x="77" y="1" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="377" type="line"/>
+      <point x="174" y="354" type="line"/>
+      <point x="174" y="353" type="line"/>
+      <point x="77" y="353" type="line"/>
+      <point x="77" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="353" type="line"/>
+      <point x="174" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="575" type="line"/>
+      <point x="150" y="598" type="line"/>
+      <point x="151" y="598" type="line"/>
+      <point x="151" y="377" type="line"/>
+      <point x="127" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="-118" type="line"/>
+      <point x="103" y="-141" type="line"/>
+      <point x="102" y="-141" type="line"/>
+      <point x="102" y="-50" type="line"/>
+      <point x="126" y="-50" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

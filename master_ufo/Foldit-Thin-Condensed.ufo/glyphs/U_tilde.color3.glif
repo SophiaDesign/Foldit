@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde.color3" format="2">
+  <advance width="273"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="82" y="787" type="line"/>
+      <point x="82" y="838" type="line"/>
+      <point x="106" y="839" type="line"/>
+      <point x="106" y="787" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

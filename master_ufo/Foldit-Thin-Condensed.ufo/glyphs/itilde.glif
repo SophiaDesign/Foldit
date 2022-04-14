@@ -2,7 +2,16 @@
 <glyph name="itilde" format="2">
   <advance width="130"/>
   <unicode hex="0129"/>
+  <anchor x="65" y="0" name="bottom"/>
+  <anchor x="63" y="500" name="top"/>
   <outline>
+    <contour>
+      <point x="53" y="480" type="line"/>
+      <point x="76" y="503" type="line"/>
+      <point x="77" y="503" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+    </contour>
     <contour>
       <point x="23" y="611" type="line"/>
       <point x="23" y="662" type="line"/>
@@ -25,7 +34,6 @@
       <point x="83" y="610" type="line"/>
       <point x="82" y="610" type="line"/>
     </contour>
-    <component base="idotless"/>
   </outline>
   <lib>
     <dict>

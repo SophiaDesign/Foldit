@@ -3,23 +3,73 @@
   <advance width="467"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="threesuperior"/>
-    <component base="fraction" xOffset="56"/>
-    <component base="foursuperior" xOffset="232" yOffset="-430"/>
+    <contour>
+      <point x="174" y="587" type="line"/>
+      <point x="151" y="587" type="line"/>
+      <point x="151" y="700" type="line"/>
+      <point x="152" y="700" type="line"/>
+      <point x="174" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="700" type="line"/>
+      <point x="151" y="700" type="line"/>
+      <point x="151" y="676" type="line"/>
+      <point x="63" y="676" type="line"/>
+      <point x="63" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="454" type="line"/>
+      <point x="152" y="430" type="line"/>
+      <point x="151" y="430" type="line"/>
+      <point x="151" y="587" type="line"/>
+      <point x="152" y="587" type="line"/>
+      <point x="175" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="563" type="line"/>
+      <point x="83" y="587" type="line"/>
+      <point x="151" y="587" type="line"/>
+      <point x="151" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="430" type="line"/>
+      <point x="53" y="453" type="line"/>
+      <point x="53" y="454" type="line"/>
+      <point x="151" y="454" type="line"/>
+      <point x="151" y="453" type="line"/>
+      <point x="151" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="700" type="line"/>
+      <point x="377" y="699" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="109" y="1" type="line"/>
+      <point x="354" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="104" type="line"/>
+      <point x="303" y="104" type="line"/>
+      <point x="304" y="128" type="line"/>
+      <point x="390" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="270" type="line"/>
+      <point x="384" y="270" type="line"/>
+      <point x="384" y="269" type="line"/>
+      <point x="303" y="104" type="line"/>
+      <point x="285" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="128" type="line"/>
+      <point x="391" y="128" type="line"/>
+      <point x="414" y="104" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>fraction</string>
-        </dict>
-      </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

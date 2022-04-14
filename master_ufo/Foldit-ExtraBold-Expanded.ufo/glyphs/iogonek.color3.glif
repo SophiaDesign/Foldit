@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.color3" format="2">
+  <advance width="284"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="4" y="-86" type="line"/>
+      <point x="4" y="-85" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="-1" type="line"/>
+      <point x="132" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

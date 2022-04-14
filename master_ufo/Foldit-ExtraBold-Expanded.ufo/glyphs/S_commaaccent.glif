@@ -2,8 +2,55 @@
 <glyph name="Scommaaccent" format="2">
   <advance width="897"/>
   <unicode hex="0218"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
   <outline>
-    <component base="S"/>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="466" type="line"/>
+      <point x="278" y="466" type="line"/>
+      <point x="25" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="730" type="line"/>
+      <point x="872" y="487" type="line"/>
+      <point x="872" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="872" y="193" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="618" y="466" type="line"/>
+      <point x="619" y="466" type="line"/>
+      <point x="872" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="262" type="line"/>
+      <point x="25" y="465" type="line"/>
+      <point x="25" y="466" type="line"/>
+      <point x="618" y="466" type="line"/>
+      <point x="618" y="263" type="line"/>
+      <point x="618" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="618" y="244" type="line"/>
+      <point x="618" y="243" type="line"/>
+      <point x="618" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="-158" type="line"/>
+      <point x="387" y="-260" type="line"/>
+      <point x="386" y="-260" type="line"/>
+      <point x="386" y="-50" type="line"/>
+      <point x="518" y="-50" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

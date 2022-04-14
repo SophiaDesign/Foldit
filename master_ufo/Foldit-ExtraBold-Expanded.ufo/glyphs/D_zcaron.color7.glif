@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzcaron.color7" format="2">
+  <advance width="1740"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <contour>
+      <point x="1130" y="750" type="line"/>
+      <point x="1287" y="750" type="line"/>
+      <point x="1391" y="613" type="line"/>
+      <point x="1309" y="582" type="line"/>
+      <point x="1268" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
