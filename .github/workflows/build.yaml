@@ -48,7 +48,7 @@ jobs:
           bumpfontversion sources/$src --new-version $TAG_NAME;
         done
     - name: Build font
-      run: fontmake
+      run: make build
     - name: Check with fontbakery
       run: make test
       continue-on-error: true
