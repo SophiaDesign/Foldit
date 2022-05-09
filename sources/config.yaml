@@ -36,7 +36,7 @@ stat:
 #    - name: Expanded
 #      value: 125
 instances:
- Foldit[wght,colr].ttf:
+ GF-Foldit-decomposed[COLR,wght].ttf:
  - familyName: "Foldit"
    styleName: "Thin"
    coordinates:
