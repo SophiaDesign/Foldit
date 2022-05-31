@@ -26,6 +26,7 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 
 - Viviana Monsalve (dev support) | [github](https://github.com/vv-monsalve)
 - Khaled Kosny (COLRv1 support) | [github](https://github.com/khaledhosny)
+- Simon Cozens () | github
 - Linh Nguyen (Vietnamese diacritics advice)
 - Cosimo Lupo () | github
 - Just van Rossum () | github

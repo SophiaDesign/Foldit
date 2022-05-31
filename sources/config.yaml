@@ -3,7 +3,7 @@ sources:
 #  - GF-Foldit-origin.glyphs
 axisOrder:
   - wght
-outputDir: "../fonts"
+outputDir: "../GF-Foldit/fonts"
 familyName: Foldit
 stat:
   - name: Weight
