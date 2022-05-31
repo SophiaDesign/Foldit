@@ -1,17 +1,9 @@
 sources:
   - GF-Foldit-decomposed.glyphs
 #  - GF-Foldit-origin.glyphs
-#  - GF-Foldit-Khaled-modified.glyphs
 axisOrder:
   - wght
-  - colr
-#  - wdth
 outputDir: "../fonts"
-# buildVariable: False
-# ttDir: "../fonts/ttf"
-# otDir: "../fonts/otf"
-# woffDir: "../fonts/woff"
-# vfDir: "../fonts/vf"
 familyName: Foldit
 stat:
   - name: Weight
@@ -19,33 +11,21 @@ stat:
     values:
     - name: Thin
       value: 100
-    - name: Regular
-      value: 400
+   - name: Regular
+     value: 400
     - name: ExtraBold
       value: 800
-  - name: Color
-    tag: colr
-    values:
-    - name: COLRv1
-      value: 0
-#  - name: Width
-#    tag: wdth
-#    values:
-#    - name: Condensed
-#      value: 75
-#    - name: Expanded
-#      value: 125
-instances:
- GF-Foldit-decomposed[COLR,wght].ttf:
- - familyName: "Foldit"
-   styleName: "Thin"
-   coordinates:
-     wght: 100
-     colr: 0
-#      wdth: 75
- - familyName: "Foldit"
-   styleName: "ExtraBold"
-   coordinates:
-     wght: 800
-     colr: 0
-#      wdth: 125
+#instances:
+# GF-Foldit-decomposed[COLR,wght].ttf:
+# - familyName: "Foldit"
+#   styleName: "Thin"
+#   coordinates:
+#     wght: 100
+#     colr: 0
+##      wdth: 75
+# - familyName: "Foldit"
+#   styleName: "ExtraBold"
+#   coordinates:
+#     wght: 800
+#     colr: 0
+##      wdth: 125

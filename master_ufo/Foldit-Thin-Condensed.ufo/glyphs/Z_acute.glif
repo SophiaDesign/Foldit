@@ -2,36 +2,8 @@
 <glyph name="Zacute" format="2">
   <advance width="262"/>
   <unicode hex="0179"/>
-  <anchor x="138" y="700" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="700" type="line"/>
-      <point x="186" y="700" type="line"/>
-      <point x="183" y="676" type="line"/>
-      <point x="53" y="676" type="line"/>
-      <point x="53" y="677" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="25" type="line"/>
-      <point x="186" y="700" type="line"/>
-      <point x="209" y="667" type="line"/>
-    </contour>
-    <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="209" y="24" type="line"/>
-      <point x="209" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="120" y="765" type="line"/>
-      <point x="145" y="855" type="line"/>
-      <point x="176" y="855" type="line"/>
-      <point x="176" y="854" type="line"/>
-      <point x="144" y="765" type="line"/>
-    </contour>
+    <component base="Z"/>
   </outline>
   <lib>
     <dict>

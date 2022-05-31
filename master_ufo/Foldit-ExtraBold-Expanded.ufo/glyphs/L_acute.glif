@@ -2,30 +2,8 @@
 <glyph name="Lacute" format="2">
   <advance width="783"/>
   <unicode hex="0139"/>
-  <anchor x="435" y="0" name="bottom"/>
-  <anchor x="163" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="25" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="279" y="240" type="line"/>
-      <point x="25" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="-4" type="line"/>
-      <point x="25" y="239" type="line"/>
-      <point x="25" y="240" type="line"/>
-      <point x="758" y="240" type="line"/>
-      <point x="758" y="-4" type="line"/>
-    </contour>
-    <contour>
-      <point x="80" y="760" type="line"/>
-      <point x="115" y="900" type="line"/>
-      <point x="321" y="900" type="line"/>
-      <point x="321" y="899" type="line"/>
-      <point x="206" y="760" type="line"/>
-    </contour>
+    <component base="L"/>
   </outline>
   <lib>
     <dict>

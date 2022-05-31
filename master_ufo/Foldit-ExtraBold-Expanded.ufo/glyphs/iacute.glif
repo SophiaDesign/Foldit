@@ -2,23 +2,8 @@
 <glyph name="iacute" format="2">
   <advance width="284"/>
   <unicode hex="00ED"/>
-  <anchor x="141" y="0" name="bottom"/>
-  <anchor x="149" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="45" y="530" type="line"/>
-      <point x="238" y="530" type="line"/>
-      <point x="239" y="503" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="45" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="66" y="590" type="line"/>
-      <point x="101" y="820" type="line"/>
-      <point x="277" y="820" type="line"/>
-      <point x="277" y="819" type="line"/>
-      <point x="162" y="590" type="line"/>
-    </contour>
+    <component base="idotless"/>
   </outline>
   <lib>
     <dict>

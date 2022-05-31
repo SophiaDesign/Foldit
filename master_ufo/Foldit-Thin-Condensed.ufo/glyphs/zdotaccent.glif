@@ -2,35 +2,8 @@
 <glyph name="zdotaccent" format="2">
   <advance width="232"/>
   <unicode hex="017C"/>
-  <anchor x="113" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="500" type="line"/>
-      <point x="156" y="500" type="line"/>
-      <point x="153" y="476" type="line"/>
-      <point x="53" y="476" type="line"/>
-      <point x="53" y="477" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="25" type="line"/>
-      <point x="156" y="500" type="line"/>
-      <point x="179" y="467" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="0" type="line"/>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="179" y="24" type="line"/>
-      <point x="179" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="601" type="line"/>
-      <point x="98" y="601" type="line"/>
-      <point x="98" y="635" type="line"/>
-      <point x="128" y="635" type="line"/>
-    </contour>
+    <component base="z"/>
   </outline>
   <lib>
     <dict>

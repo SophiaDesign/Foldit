@@ -2,16 +2,7 @@
 <glyph name="ibreve" format="2">
   <advance width="367"/>
   <unicode hex="012D"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="190" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="86" y="530" type="line"/>
-      <point x="279" y="530" type="line"/>
-      <point x="280" y="503" type="line"/>
-      <point x="280" y="0" type="line"/>
-      <point x="86" y="0" type="line"/>
-    </contour>
     <contour>
       <point x="161" y="700" type="line"/>
       <point x="25" y="700" type="line"/>
@@ -32,6 +23,7 @@
       <point x="25" y="700" type="line"/>
       <point x="342" y="700" type="line"/>
     </contour>
+    <component base="idotless" xOffset="41"/>
   </outline>
   <lib>
     <dict>

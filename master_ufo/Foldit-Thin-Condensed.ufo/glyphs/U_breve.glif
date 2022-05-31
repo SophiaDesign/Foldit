@@ -2,51 +2,8 @@
 <glyph name="Ubreve" format="2">
   <advance width="273"/>
   <unicode hex="016C"/>
-  <anchor x="132" y="0" name="bottom"/>
-  <anchor x="196" y="700" name="horn"/>
-  <anchor x="143" y="701" name="top"/>
   <outline>
-    <contour>
-      <point x="220" y="23" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="196" y="0" type="line"/>
-      <point x="196" y="700" type="line"/>
-      <point x="220" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="23" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="196" y="24" type="line"/>
-      <point x="196" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="700" type="line"/>
-      <point x="76" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="804" type="line"/>
-      <point x="96" y="804" type="line"/>
-      <point x="65" y="840" type="line"/>
-      <point x="65" y="841" type="line"/>
-      <point x="97" y="841" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="804" type="line"/>
-      <point x="189" y="841" type="line"/>
-      <point x="221" y="841" type="line"/>
-      <point x="221" y="840" type="line"/>
-      <point x="190" y="804" type="line"/>
-    </contour>
-    <contour>
-      <point x="171" y="782" type="line"/>
-      <point x="115" y="782" type="line"/>
-      <point x="96" y="804" type="line"/>
-      <point x="190" y="804" type="line"/>
-    </contour>
+    <component base="U"/>
   </outline>
   <lib>
     <dict>

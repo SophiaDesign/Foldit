@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odieresismacron.color2" format="2">
-  <advance width="907"/>
+  <advance width="600"/>
   <unicode hex="022A"/>
   <outline>
     <contour>
-      <point x="882" y="197" type="line"/>
-      <point x="629" y="0" type="line"/>
-      <point x="628" y="0" type="line"/>
-      <point x="628" y="486" type="line"/>
-      <point x="882" y="486" type="line"/>
+      <point x="647" y="918" type="line"/>
+      <point x="281" y="918" type="line"/>
+      <point x="281" y="980" type="line"/>
+      <point x="647" y="980" type="line"/>
     </contour>
   </outline>
   <lib>

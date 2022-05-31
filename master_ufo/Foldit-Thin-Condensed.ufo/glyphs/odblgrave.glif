@@ -2,52 +2,8 @@
 <glyph name="odblgrave" format="2">
   <advance width="204"/>
   <unicode hex="020D"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="127" y="500" name="horn"/>
-  <anchor x="102" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="477" type="line"/>
-      <point x="76" y="500" type="line"/>
-      <point x="77" y="500" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="500" type="line"/>
-      <point x="151" y="477" type="line"/>
-      <point x="151" y="476" type="line"/>
-      <point x="77" y="476" type="line"/>
-      <point x="77" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="23" type="line"/>
-      <point x="128" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="476" type="line"/>
-      <point x="151" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="23" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="127" y="24" type="line"/>
-      <point x="127" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="142" y="570" type="line"/>
-      <point x="118" y="570" type="line"/>
-      <point x="86" y="699" type="line"/>
-      <point x="86" y="700" type="line"/>
-      <point x="117" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="570" type="line"/>
-      <point x="66" y="570" type="line"/>
-      <point x="34" y="699" type="line"/>
-      <point x="34" y="700" type="line"/>
-      <point x="65" y="700" type="line"/>
-    </contour>
+    <component base="o"/>
   </outline>
   <lib>
     <dict>

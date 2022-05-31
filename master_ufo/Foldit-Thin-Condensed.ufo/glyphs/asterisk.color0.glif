@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk.color0" format="2">
-  <advance width="198"/>
+  <advance width="600"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
@@ -8,7 +8,7 @@
       <point x="83" y="540" type="line"/>
       <point x="83" y="539" type="line"/>
       <point x="75" y="539" type="line"/>
-      <point x="53" y="663" type="line"/>
+      <point x="53" y="662" type="line"/>
     </contour>
   </outline>
   <lib>

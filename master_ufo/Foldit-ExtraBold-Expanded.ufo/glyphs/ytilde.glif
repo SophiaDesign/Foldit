@@ -2,59 +2,8 @@
 <glyph name="ytilde" format="2">
   <advance width="779"/>
   <unicode hex="1EF9"/>
-  <anchor x="422" y="-200" name="bottom"/>
-  <anchor x="422" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="35" y="203" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="529" y="204" type="line"/>
-      <point x="529" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="744" y="-98" type="line"/>
-      <point x="531" y="-200" type="line"/>
-      <point x="530" y="-200" type="line"/>
-      <point x="530" y="530" type="line"/>
-      <point x="744" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="489" type="line"/>
-      <point x="248" y="536" type="line"/>
-      <point x="249" y="536" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="-200" type="line"/>
-      <point x="35" y="-21" type="line"/>
-      <point x="35" y="-20" type="line"/>
-      <point x="530" y="-20" type="line"/>
-      <point x="530" y="-200" type="line"/>
-    </contour>
-    <contour>
-      <point x="209" y="641" type="line"/>
-      <point x="209" y="762" type="line"/>
-      <point x="329" y="743" type="line"/>
-      <point x="329" y="641" type="line"/>
-    </contour>
-    <contour>
-      <point x="607" y="789" type="line"/>
-      <point x="607" y="670" type="line"/>
-      <point x="488" y="680" type="line"/>
-      <point x="488" y="789" type="line"/>
-    </contour>
-    <contour>
-      <point x="209" y="762" type="line"/>
-      <point x="209" y="762" type="line"/>
-      <point x="338" y="802" type="line"/>
-      <point x="339" y="802" type="line"/>
-      <point x="607" y="670" type="line"/>
-      <point x="607" y="670" type="line"/>
-      <point x="479" y="630" type="line"/>
-      <point x="478" y="630" type="line"/>
-    </contour>
+    <component base="y"/>
   </outline>
   <lib>
     <dict>

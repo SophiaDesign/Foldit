@@ -2,16 +2,7 @@
 <glyph name="ihookabove" format="2">
   <advance width="284"/>
   <unicode hex="1EC9"/>
-  <anchor x="141" y="0" name="bottom"/>
-  <anchor x="149" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="45" y="530" type="line"/>
-      <point x="238" y="530" type="line"/>
-      <point x="239" y="503" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="45" y="0" type="line"/>
-    </contour>
     <contour>
       <point x="277" y="736" type="line"/>
       <point x="-1" y="736" type="line"/>
@@ -27,6 +18,7 @@
       <point x="277" y="737" type="line"/>
       <point x="277" y="736" type="line"/>
     </contour>
+    <component base="idotless"/>
   </outline>
   <lib>
     <dict>

@@ -2,41 +2,8 @@
 <glyph name="Edotaccent" format="2">
   <advance width="832"/>
   <unicode hex="0116"/>
-  <anchor x="432" y="0" name="bottom"/>
-  <anchor x="446" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="25" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="279" y="244" type="line"/>
-      <point x="25" y="244" type="line"/>
-    </contour>
-    <contour>
-      <point x="640" y="486" type="line"/>
-      <point x="279" y="486" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="842" y="730" type="line"/>
-      <point x="842" y="729" type="line"/>
-    </contour>
-    <contour>
-      <point x="688" y="263" type="line"/>
-      <point x="279" y="263" type="line"/>
-      <point x="279" y="467" type="line"/>
-      <point x="688" y="467" type="line"/>
-    </contour>
-    <contour>
-      <point x="791" y="0" type="line"/>
-      <point x="227" y="0" type="line"/>
-      <point x="25" y="243" type="line"/>
-      <point x="25" y="244" type="line"/>
-      <point x="791" y="244" type="line"/>
-    </contour>
-    <contour>
-      <point x="534" y="768" type="line"/>
-      <point x="358" y="768" type="line"/>
-      <point x="358" y="900" type="line"/>
-      <point x="534" y="900" type="line"/>
-    </contour>
+    <component base="E"/>
   </outline>
   <lib>
     <dict>

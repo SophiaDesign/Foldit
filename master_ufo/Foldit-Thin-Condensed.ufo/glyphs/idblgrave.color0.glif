@@ -1,14 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idblgrave.color0" format="2">
-  <advance width="130"/>
+  <advance width="600"/>
   <unicode hex="0209"/>
   <outline>
     <contour>
-      <point x="53" y="480" type="line"/>
-      <point x="76" y="503" type="line"/>
-      <point x="77" y="503" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="53" y="0" type="line"/>
+      <point x="109" y="570" type="line"/>
+      <point x="85" y="570" type="line"/>
+      <point x="53" y="699" type="line"/>
+      <point x="53" y="700" type="line"/>
+      <point x="84" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="570" type="line"/>
+      <point x="33" y="570" type="line"/>
+      <point x="1" y="699" type="line"/>
+      <point x="1" y="700" type="line"/>
+      <point x="32" y="700" type="line"/>
     </contour>
   </outline>
   <lib>

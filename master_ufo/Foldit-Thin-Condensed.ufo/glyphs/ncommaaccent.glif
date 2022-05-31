@@ -2,37 +2,8 @@
 <glyph name="ncommaaccent" format="2">
   <advance width="203"/>
   <unicode hex="0146"/>
-  <anchor x="105" y="0" name="bottom"/>
-  <anchor x="103" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="477" type="line"/>
-      <point x="76" y="500" type="line"/>
-      <point x="77" y="500" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="53" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="127" y="500" type="line"/>
-      <point x="150" y="477" type="line"/>
-      <point x="150" y="476" type="line"/>
-      <point x="77" y="476" type="line"/>
-      <point x="77" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="150" y="20" type="line"/>
-      <point x="127" y="-3" type="line"/>
-      <point x="126" y="-3" type="line"/>
-      <point x="126" y="476" type="line"/>
-      <point x="150" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="-118" type="line"/>
-      <point x="93" y="-141" type="line"/>
-      <point x="92" y="-141" type="line"/>
-      <point x="92" y="-50" type="line"/>
-      <point x="116" y="-50" type="line"/>
-    </contour>
+    <component base="n"/>
   </outline>
   <lib>
     <dict>

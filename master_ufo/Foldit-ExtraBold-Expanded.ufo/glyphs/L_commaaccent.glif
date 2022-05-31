@@ -2,30 +2,8 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="783"/>
   <unicode hex="013B"/>
-  <anchor x="435" y="0" name="bottom"/>
-  <anchor x="163" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="25" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="279" y="240" type="line"/>
-      <point x="25" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="-4" type="line"/>
-      <point x="25" y="239" type="line"/>
-      <point x="25" y="240" type="line"/>
-      <point x="758" y="240" type="line"/>
-      <point x="758" y="-4" type="line"/>
-    </contour>
-    <contour>
-      <point x="501" y="-158" type="line"/>
-      <point x="370" y="-260" type="line"/>
-      <point x="369" y="-260" type="line"/>
-      <point x="369" y="-50" type="line"/>
-      <point x="501" y="-50" type="line"/>
-    </contour>
+    <component base="L"/>
   </outline>
   <lib>
     <dict>

@@ -2,53 +2,8 @@
 <glyph name="oslashacute" format="2">
   <advance width="203"/>
   <unicode hex="01FF"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="127" y="500" name="horn"/>
-  <anchor x="102" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="56" y="0" type="line"/>
-      <point x="33" y="0" type="line"/>
-      <point x="33" y="1" type="line"/>
-      <point x="147" y="500" type="line"/>
-      <point x="170" y="500" type="line"/>
-      <point x="170" y="499" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="477" type="line"/>
-      <point x="76" y="500" type="line"/>
-      <point x="77" y="500" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="500" type="line"/>
-      <point x="151" y="477" type="line"/>
-      <point x="151" y="476" type="line"/>
-      <point x="77" y="476" type="line"/>
-      <point x="77" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="23" type="line"/>
-      <point x="128" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="476" type="line"/>
-      <point x="151" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="23" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="127" y="24" type="line"/>
-      <point x="127" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="86" y="570" type="line"/>
-      <point x="111" y="700" type="line"/>
-      <point x="142" y="700" type="line"/>
-      <point x="142" y="699" type="line"/>
-      <point x="110" y="570" type="line"/>
-    </contour>
+    <component base="oslash"/>
   </outline>
   <lib>
     <dict>

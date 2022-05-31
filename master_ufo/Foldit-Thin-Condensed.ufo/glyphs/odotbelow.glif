@@ -2,44 +2,8 @@
 <glyph name="odotbelow" format="2">
   <advance width="204"/>
   <unicode hex="1ECD"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="127" y="500" name="horn"/>
-  <anchor x="102" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="477" type="line"/>
-      <point x="76" y="500" type="line"/>
-      <point x="77" y="500" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="500" type="line"/>
-      <point x="151" y="477" type="line"/>
-      <point x="151" y="476" type="line"/>
-      <point x="77" y="476" type="line"/>
-      <point x="77" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="23" type="line"/>
-      <point x="128" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="476" type="line"/>
-      <point x="151" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="53" y="23" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="127" y="24" type="line"/>
-      <point x="127" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="118" y="-119" type="line"/>
-      <point x="88" y="-119" type="line"/>
-      <point x="88" y="-85" type="line"/>
-      <point x="118" y="-85" type="line"/>
-    </contour>
+    <component base="o"/>
   </outline>
   <lib>
     <dict>

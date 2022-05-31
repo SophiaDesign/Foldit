@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute.color1" format="2">
-  <advance width="827"/>
+  <advance width="600"/>
   <unicode hex="01FB"/>
   <outline>
     <contour>
-      <point x="685" y="530" type="line"/>
-      <point x="792" y="327" type="line"/>
-      <point x="792" y="326" type="line"/>
-      <point x="249" y="326" type="line"/>
-      <point x="249" y="530" type="line"/>
+      <point x="550" y="760" type="line"/>
+      <point x="610" y="677" type="line"/>
+      <point x="610" y="676" type="line"/>
+      <point x="380" y="676" type="line"/>
+      <point x="380" y="760" type="line"/>
     </contour>
   </outline>
   <lib>

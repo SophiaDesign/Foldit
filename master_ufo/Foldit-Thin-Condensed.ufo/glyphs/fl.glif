@@ -2,8 +2,6 @@
 <glyph name="fl" format="2">
   <advance width="365"/>
   <unicode hex="FB02"/>
-  <anchor x="278" y="0" name="bottom_1"/>
-  <anchor x="260" y="730" name="top_1"/>
   <outline>
     <contour>
       <point x="77" y="353" type="line"/>
@@ -32,20 +30,7 @@
       <point x="53" y="377" type="line"/>
       <point x="54" y="377" type="line"/>
     </contour>
-    <contour>
-      <point x="236" y="730" type="line"/>
-      <point x="260" y="730" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="259" y="0" type="line"/>
-      <point x="236" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="322" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="260" y="24" type="line"/>
-      <point x="322" y="24" type="line"/>
-      <point x="322" y="23" type="line"/>
-    </contour>
+    <component base="l" xOffset="183"/>
   </outline>
   <lib>
     <dict>

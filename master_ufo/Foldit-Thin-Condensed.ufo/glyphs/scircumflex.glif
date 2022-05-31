@@ -2,43 +2,8 @@
 <glyph name="scircumflex" format="2">
   <advance width="182"/>
   <unicode hex="015D"/>
-  <anchor x="95" y="0" name="bottom"/>
-  <anchor x="110" y="602" name="top"/>
   <outline>
-    <contour>
-      <point x="116" y="500" type="line"/>
-      <point x="139" y="477" type="line"/>
-      <point x="139" y="476" type="line"/>
-      <point x="69" y="476" type="line"/>
-      <point x="66" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="24" type="line"/>
-      <point x="43" y="467" type="line"/>
-      <point x="66" y="500" type="line"/>
-      <point x="139" y="25" type="line"/>
-      <point x="139" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="66" y="0" type="line"/>
-      <point x="43" y="23" type="line"/>
-      <point x="43" y="24" type="line"/>
-      <point x="139" y="24" type="line"/>
-      <point x="116" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="590" type="line"/>
-      <point x="137" y="590" type="line"/>
-      <point x="93" y="680" type="line"/>
-      <point x="116" y="680" type="line"/>
-      <point x="117" y="680" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="590" type="line"/>
-      <point x="93" y="680" type="line"/>
-      <point x="116" y="680" type="line"/>
-      <point x="71" y="590" type="line"/>
-    </contour>
+    <component base="s"/>
   </outline>
   <lib>
     <dict>

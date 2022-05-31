@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="250" maximum="800" default="250">
+      <map input="250" output="100"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="COLR" name="Color" minimum="0" maximum="0" default="0"/>
+  </axes>
+  <sources>
+    <source filename="variable-COLRv1-test-Thin-Condensed.ufo" name="variable-COLRv1-test Thin-Condensed" familyname="variable-COLRv1-test" stylename="Thin-Condensed">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="variable-COLRv1-test-ExtraBold-Expanded.ufo" name="variable-COLRv1-test ExtraBold-Expanded" familyname="variable-COLRv1-test" stylename="ExtraBold-Expanded">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="variable-COLRv1-test Thin" familyname="variable-COLRv1-test" stylename="Thin" filename="../instance_ufo/variable-COLRv1-test-Thin.ufo" stylemapfamilyname="variable-COLRv1-test Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="variable-COLRv1-test ExtraBold" familyname="variable-COLRv1-test" stylename="ExtraBold" filename="../instance_ufo/variable-COLRv1-test-ExtraBold.ufo" stylemapfamilyname="variable-COLRv1-test ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Color" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>33AE93C6-B8B3-427A-A53B-F24970E840CE</key>
+        <dict>
+          <key>HV</key>
+          <string>24</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

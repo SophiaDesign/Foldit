@@ -2,49 +2,9 @@
 <glyph name="LJ" format="2">
   <advance width="1480"/>
   <unicode hex="01C7"/>
-  <anchor x="435" y="0" name="bottom"/>
-  <anchor x="1169" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="25" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="279" y="240" type="line"/>
-      <point x="25" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="-4" type="line"/>
-      <point x="25" y="239" type="line"/>
-      <point x="25" y="240" type="line"/>
-      <point x="758" y="240" type="line"/>
-      <point x="758" y="-4" type="line"/>
-    </contour>
-    <contour>
-      <point x="1029" y="240" type="line"/>
-      <point x="1029" y="486" type="line"/>
-      <point x="1231" y="730" type="line"/>
-      <point x="1283" y="730" type="line"/>
-      <point x="1283" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="1029" y="486" type="line"/>
-      <point x="808" y="486" type="line"/>
-      <point x="808" y="730" type="line"/>
-      <point x="1231" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="1454" y="486" type="line"/>
-      <point x="1283" y="486" type="line"/>
-      <point x="1283" y="730" type="line"/>
-      <point x="1454" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="830" y="240" type="line"/>
-      <point x="1283" y="240" type="line"/>
-      <point x="1283" y="239" type="line"/>
-      <point x="1081" y="-4" type="line"/>
-      <point x="830" y="-4" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="J" xOffset="783"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresis.color0" format="2">
-  <advance width="300"/>
+  <advance width="600"/>
   <unicode hex="00EF"/>
   <outline>
     <contour>
-      <point x="56" y="530" type="line"/>
-      <point x="249" y="530" type="line"/>
-      <point x="250" y="503" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="56" y="0" type="line"/>
+      <point x="134" y="640" type="line"/>
+      <point x="-22" y="640" type="line"/>
+      <point x="-22" y="772" type="line"/>
+      <point x="134" y="772" type="line"/>
     </contour>
   </outline>
   <lib>

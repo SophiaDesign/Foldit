@@ -2,50 +2,8 @@
 <glyph name="Dcaron" format="2">
   <advance width="937"/>
   <unicode hex="010E"/>
-  <anchor x="156" y="361" name="stroke"/>
-  <anchor x="466" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="25" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="279" y="240" type="line"/>
-      <point x="25" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="710" y="730" type="line"/>
-      <point x="912" y="487" type="line"/>
-      <point x="912" y="486" type="line"/>
-      <point x="279" y="486" type="line"/>
-      <point x="279" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="912" y="193" type="line"/>
-      <point x="659" y="-4" type="line"/>
-      <point x="658" y="-4" type="line"/>
-      <point x="658" y="486" type="line"/>
-      <point x="912" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="-4" type="line"/>
-      <point x="25" y="239" type="line"/>
-      <point x="25" y="240" type="line"/>
-      <point x="658" y="240" type="line"/>
-      <point x="658" y="-4" type="line"/>
-    </contour>
-    <contour>
-      <point x="234" y="900" type="line"/>
-      <point x="391" y="900" type="line"/>
-      <point x="525" y="793" type="line"/>
-      <point x="433" y="760" type="line"/>
-      <point x="392" y="760" type="line"/>
-    </contour>
-    <contour>
-      <point x="700" y="900" type="line"/>
-      <point x="546" y="760" type="line"/>
-      <point x="392" y="760" type="line"/>
-      <point x="546" y="900" type="line"/>
-    </contour>
+    <component base="D"/>
   </outline>
   <lib>
     <dict>
