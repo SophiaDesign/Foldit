@@ -430,7 +430,8 @@ YáYăYắYặYằYẳYẵYâYấYậYầYẩYẫYȁYäYàYảYȃYāYåYǻYãYǽ
 YễYȅYëYėYèYẻYȇYēYẽYğYǧYĝYģYġYhYħYĥYYiYíYĭYîYȉYYïY/idotaccent YYịYìYỉ
 YȋYīYįYĩYjYȷYĵYkYķYĸYlYĺYľYļYŀYǉYłYńYňYñYóYŏYôYYốYộYồYổYỗYȍYöYȫYȱYòYỏYơYớYợYờYởYỡYőYȏYōYǿYõYȭYþYŕYřYȑ
 YȓYśYšYŝYß
-YtYŧYťYţYțYúYŭYûYȕYüYụYùYủYưYứYựYừYửYữYűYȗYūYůYũYẃYŵYẅYẁYýYŷYÿYỵYỳYỷYȳYỹYźYžYżY/f_f Y/f_f_i Y/f_f_l ﬁYﬂY"
+YtYŧYťYţYțYúYŭYûYȕYüYụYùYủYưYứYựYừYửYữYűYȗYūYůYũYẃYŵYẅYẁYýYŷYÿYỵYỳYỷYȳYỹYźYžYżY/f_f Y/f_f_i Y/f_f_l ﬁYﬂY",
+A
 );
 axes = (
 {
@@ -874,7 +875,7 @@ color = 4;
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-05-25 14:42:37 +0000";
+lastChange = "2022-05-26 14:45:04 +0000";
 layers = (
 {
 anchors = (
@@ -1058,8 +1059,8 @@ colors = (
 1
 )
 );
-end = (0.8878,0.5878);
-start = (0.0693,0.513);
+end = (0.8814,0.226);
+start = (0.0812,0.4764);
 };
 };
 closed = 1;
