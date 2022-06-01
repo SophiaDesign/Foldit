@@ -4,6 +4,7 @@ axisOrder:
   - wght
   - colr
 outputDir: "../GF-Foldit/fonts"
+buildOTF: false
 familyName: Foldit
 #stat:
 #  - name: Weight
