@@ -5,11 +5,6 @@ axes = (
 {
 name = Weight;
 tag = wght;
-},
-{
-hidden = 1;
-name = Color;
-tag = COLR;
 }
 );
 classes = (
@@ -268,8 +263,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -352,8 +346,7 @@ name = "Thin-Condensed";
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -188118,8 +188111,7 @@ unicode = 697;
 instances = (
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -188154,8 +188146,7 @@ type = variable;
 },
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -188190,8 +188181,7 @@ widthClass = 3;
 },
 {
 axesValues = (
-400,
-0
+400
 );
 customParameters = (
 {
@@ -188226,8 +188216,7 @@ name = Regular;
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -188262,8 +188251,7 @@ widthClass = 7;
 },
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -188281,8 +188269,7 @@ widthClass = 3;
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -188300,8 +188287,7 @@ widthClass = 7;
 },
 {
 axesValues = (
-400,
-0
+400
 );
 customParameters = (
 {

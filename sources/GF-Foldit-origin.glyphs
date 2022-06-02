@@ -437,11 +437,6 @@ axes = (
 {
 name = Weight;
 tag = wght;
-},
-{
-hidden = 1;
-name = Color;
-tag = COLR;
 }
 );
 classes = (
@@ -480,7 +475,7 @@ value = 0;
 }
 );
 date = "2021-06-03 13:29:50 +0000";
-familyName = "Foldit-colorsvg";
+familyName = Foldit;
 featurePrefixes = (
 {
 automatic = 1;
@@ -700,8 +695,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -784,8 +778,7 @@ name = "Thin-Condensed";
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -73077,8 +73070,7 @@ width = 1027;
 instances = (
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -73113,8 +73105,7 @@ type = variable;
 },
 {
 axesValues = (
-100,
-0
+100
 );
 customParameters = (
 {
@@ -73149,8 +73140,7 @@ widthClass = 3;
 },
 {
 axesValues = (
-400,
-0
+400
 );
 customParameters = (
 {
@@ -73185,8 +73175,7 @@ name = Regular;
 },
 {
 axesValues = (
-800,
-0
+800
 );
 customParameters = (
 {
@@ -73218,62 +73207,6 @@ instanceInterpolations = {
 name = ExtraBold;
 weightClass = 800;
 widthClass = 7;
-},
-{
-axesValues = (
-100,
-0
-);
-customParameters = (
-{
-name = "Export COLR Table";
-value = 0;
-}
-);
-exports = 0;
-instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 1;
-};
-name = "Thin-Fallback";
-weightClass = 100;
-widthClass = 3;
-},
-{
-axesValues = (
-800,
-0
-);
-customParameters = (
-{
-name = "Export COLR Table";
-value = 0;
-}
-);
-exports = 0;
-instanceInterpolations = {
-"E87239EE-82B8-404C-B23A-53843E270889" = 1;
-};
-name = "ExtraBold-Fallback";
-weightClass = 800;
-widthClass = 7;
-},
-{
-axesValues = (
-400,
-0
-);
-customParameters = (
-{
-name = "Export COLR Table";
-value = 0;
-}
-);
-exports = 0;
-instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.57143;
-"E87239EE-82B8-404C-B23A-53843E270889" = 0.42857;
-};
-name = "Regular-Fallback";
 }
 );
 kerningLTR = {
@@ -73408,8 +73341,8 @@ Y = -40;
 Z = -30;
 };
 "@MMK_L_t" = {
-parenright = 0;
 "@MMK_R_T" = -50;
+parenright = 0;
 };
 "@MMK_L_u" = {
 "@MMK_R_T" = -80;
@@ -73811,8 +73744,8 @@ x = -10;
 "@MMK_L_g" = {
 "@MMK_R_T" = 10;
 "@MMK_R_Y" = -80;
-questiondown = -30;
 "@MMK_R_j" = 100;
+questiondown = -30;
 };
 "@MMK_L_j" = {
 "@MMK_R_j" = 140;
