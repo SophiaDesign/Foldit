@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oinvertedbreve" format="2">
+  <advance width="837"/>
+  <unicode hex="020F"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="665" y="530" name="horn"/>
+  <anchor x="442" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="423" type="line"/>
+      <point x="238" y="530" type="line"/>
+      <point x="239" y="530" type="line"/>
+      <point x="239" y="204" type="line"/>
+      <point x="25" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="530" type="line"/>
+      <point x="812" y="327" type="line"/>
+      <point x="812" y="326" type="line"/>
+      <point x="239" y="326" type="line"/>
+      <point x="239" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="812" y="107" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="598" y="326" type="line"/>
+      <point x="812" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="25" y="203" type="line"/>
+      <point x="25" y="204" type="line"/>
+      <point x="598" y="204" type="line"/>
+      <point x="598" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="698" type="line"/>
+      <point x="586" y="698" type="line"/>
+      <point x="633" y="619" type="line"/>
+      <point x="633" y="618" type="line"/>
+      <point x="517" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="698" type="line"/>
+      <point x="338" y="618" type="line"/>
+      <point x="212" y="618" type="line"/>
+      <point x="212" y="620" type="line"/>
+      <point x="259" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="800" type="line"/>
+      <point x="586" y="698" type="line"/>
+      <point x="259" y="698" type="line"/>
+      <point x="320" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

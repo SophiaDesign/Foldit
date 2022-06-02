@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="886"/>
+  <unicode hex="0166"/>
+  <anchor x="433" y="365" name="_stroke"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="365" name="stroke"/>
+  <anchor x="436" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="730" y="273" type="line"/>
+      <point x="136" y="273" type="line"/>
+      <point x="136" y="457" type="line"/>
+      <point x="730" y="457" type="line"/>
+      <point x="730" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="486" type="line"/>
+      <point x="508" y="730" type="line"/>
+      <point x="560" y="730" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="486" type="line"/>
+      <point x="25" y="486" type="line"/>
+      <point x="25" y="730" type="line"/>
+      <point x="508" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="861" y="486" type="line"/>
+      <point x="560" y="486" type="line"/>
+      <point x="560" y="730" type="line"/>
+      <point x="861" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

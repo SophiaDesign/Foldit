@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wgrave" format="2">
+  <advance width="1190"/>
+  <unicode hex="1E81"/>
+  <anchor x="601" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="1155" y="205" type="line"/>
+      <point x="942" y="1" type="line"/>
+      <point x="941" y="1" type="line"/>
+      <point x="941" y="531" type="line"/>
+      <point x="1155" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="531" type="line"/>
+      <point x="691" y="531" type="line"/>
+      <point x="692" y="531" type="line"/>
+      <point x="692" y="205" type="line"/>
+      <point x="498" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="490" type="line"/>
+      <point x="248" y="537" type="line"/>
+      <point x="249" y="537" type="line"/>
+      <point x="249" y="205" type="line"/>
+      <point x="35" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="1" type="line"/>
+      <point x="35" y="204" type="line"/>
+      <point x="35" y="205" type="line"/>
+      <point x="498" y="205" type="line"/>
+      <point x="498" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="1" type="line"/>
+      <point x="498" y="204" type="line"/>
+      <point x="498" y="205" type="line"/>
+      <point x="941" y="205" type="line"/>
+      <point x="941" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="658" y="590" type="line"/>
+      <point x="552" y="590" type="line"/>
+      <point x="447" y="819" type="line"/>
+      <point x="447" y="820" type="line"/>
+      <point x="623" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="858" y="376" type="line"/>
+      <point x="739" y="467" type="line"/>
+      <point x="584" y="467" type="line"/>
+      <point x="584" y="730" type="line"/>
+      <point x="585" y="730" type="line"/>
+      <point x="858" y="533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

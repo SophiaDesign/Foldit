@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB0"/>
+  <outline>
+    <contour>
+      <point x="419" y="852" type="line"/>
+      <point x="273" y="852" type="line"/>
+      <point x="236" y="890" type="line"/>
+      <point x="236" y="892" type="line"/>
+      <point x="372" y="892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="239" y="576" type="line"/>
+      <point x="46" y="469" type="line"/>
+      <point x="45" y="469" type="line"/>
+      <point x="45" y="682" type="line"/>
+      <point x="239" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

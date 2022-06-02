@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="567"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="290" y="600" type="line"/>
+      <point x="532" y="600" type="line"/>
+      <point x="532" y="396" type="line"/>
+      <point x="397" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="800" type="line"/>
+      <point x="503" y="800" type="line"/>
+      <point x="504" y="800" type="line"/>
+      <point x="464" y="600" type="line"/>
+      <point x="290" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="600" type="line"/>
+      <point x="277" y="600" type="line"/>
+      <point x="277" y="396" type="line"/>
+      <point x="142" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="800" type="line"/>
+      <point x="248" y="800" type="line"/>
+      <point x="249" y="800" type="line"/>
+      <point x="209" y="600" type="line"/>
+      <point x="35" y="600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>comma</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

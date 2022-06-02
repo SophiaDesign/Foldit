@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdieresis.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="498" y="531" type="line"/>
+      <point x="691" y="531" type="line"/>
+      <point x="692" y="531" type="line"/>
+      <point x="692" y="205" type="line"/>
+      <point x="498" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="490" type="line"/>
+      <point x="248" y="537" type="line"/>
+      <point x="249" y="537" type="line"/>
+      <point x="249" y="205" type="line"/>
+      <point x="35" y="205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

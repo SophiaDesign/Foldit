@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron" format="2">
+  <advance width="233"/>
+  <unicode hex="0160"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="128" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="43" y="677" type="line"/>
+      <point x="66" y="700" type="line"/>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="377" type="line"/>
+      <point x="66" y="377" type="line"/>
+      <point x="43" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="700" type="line"/>
+      <point x="190" y="677" type="line"/>
+      <point x="190" y="676" type="line"/>
+      <point x="67" y="676" type="line"/>
+      <point x="67" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="24" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="377" type="line"/>
+      <point x="167" y="377" type="line"/>
+      <point x="190" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="353" type="line"/>
+      <point x="43" y="376" type="line"/>
+      <point x="43" y="377" type="line"/>
+      <point x="166" y="377" type="line"/>
+      <point x="166" y="354" type="line"/>
+      <point x="166" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="43" y="23" type="line"/>
+      <point x="43" y="24" type="line"/>
+      <point x="166" y="24" type="line"/>
+      <point x="166" y="23" type="line"/>
+      <point x="166" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="840" type="line"/>
+      <point x="95" y="840" type="line"/>
+      <point x="138" y="762" type="line"/>
+      <point x="116" y="750" type="line"/>
+      <point x="115" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="840" type="line"/>
+      <point x="139" y="750" type="line"/>
+      <point x="116" y="750" type="line"/>
+      <point x="161" y="840" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

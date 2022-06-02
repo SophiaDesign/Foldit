@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="680" y="650" type="line"/>
+      <point x="882" y="407" type="line"/>
+      <point x="882" y="406" type="line"/>
+      <point x="279" y="406" type="line"/>
+      <point x="279" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

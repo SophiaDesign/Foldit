@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="1012"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="730" y="730" type="line"/>
+      <point x="932" y="487" type="line"/>
+      <point x="932" y="486" type="line"/>
+      <point x="329" y="486" type="line"/>
+      <point x="329" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="932" y="370" type="line"/>
+      <point x="679" y="173" type="line"/>
+      <point x="678" y="173" type="line"/>
+      <point x="678" y="486" type="line"/>
+      <point x="932" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="173" type="line"/>
+      <point x="329" y="417" type="line"/>
+      <point x="678" y="417" type="line"/>
+      <point x="678" y="416" type="line"/>
+      <point x="678" y="173" type="line"/>
+    </contour>
+    <contour>
+      <point x="1009" y="466" type="line"/>
+      <point x="1032" y="443" type="line"/>
+      <point x="1032" y="442" type="line"/>
+      <point x="3" y="441" type="line"/>
+      <point x="3" y="442" type="line"/>
+      <point x="-20" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="730" type="line"/>
+      <point x="328" y="730" type="line"/>
+      <point x="329" y="730" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

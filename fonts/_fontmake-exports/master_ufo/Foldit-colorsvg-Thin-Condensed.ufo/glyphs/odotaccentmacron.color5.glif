@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotaccentmacron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0231"/>
+  <outline>
+    <contour>
+      <point x="154" y="555" type="line"/>
+      <point x="44" y="555" type="line"/>
+      <point x="44" y="579" type="line"/>
+      <point x="154" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

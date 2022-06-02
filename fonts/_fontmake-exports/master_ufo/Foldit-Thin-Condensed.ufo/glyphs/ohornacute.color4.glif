@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EDB"/>
+  <outline>
+    <contour>
+      <point x="124" y="500" type="line"/>
+      <point x="155" y="500" type="line"/>
+      <point x="155" y="476" type="line"/>
+      <point x="147" y="476" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

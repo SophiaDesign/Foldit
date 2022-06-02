@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.lf" format="2">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="216" y="427" type="line"/>
+      <point x="193" y="427" type="line"/>
+      <point x="193" y="670" type="line"/>
+      <point x="194" y="670" type="line"/>
+      <point x="216" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="670" type="line"/>
+      <point x="193" y="670" type="line"/>
+      <point x="193" y="646" type="line"/>
+      <point x="45" y="646" type="line"/>
+      <point x="45" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="24" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="427" type="line"/>
+      <point x="194" y="427" type="line"/>
+      <point x="217" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="403" type="line"/>
+      <point x="65" y="427" type="line"/>
+      <point x="193" y="427" type="line"/>
+      <point x="193" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="35" y="23" type="line"/>
+      <point x="35" y="24" type="line"/>
+      <point x="193" y="24" type="line"/>
+      <point x="193" y="23" type="line"/>
+      <point x="193" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

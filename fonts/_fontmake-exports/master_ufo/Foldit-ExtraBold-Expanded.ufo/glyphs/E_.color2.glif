@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="698" y="263" type="line"/>
+      <point x="289" y="263" type="line"/>
+      <point x="289" y="467" type="line"/>
+      <point x="698" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

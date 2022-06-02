@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="606"/>
+  <unicode hex="0157"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="342" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="35" y="423" type="line"/>
+      <point x="248" y="530" type="line"/>
+      <point x="249" y="530" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="530" type="line"/>
+      <point x="602" y="327" type="line"/>
+      <point x="602" y="326" type="line"/>
+      <point x="249" y="326" type="line"/>
+      <point x="249" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="-158" type="line"/>
+      <point x="70" y="-260" type="line"/>
+      <point x="69" y="-260" type="line"/>
+      <point x="69" y="-50" type="line"/>
+      <point x="201" y="-50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

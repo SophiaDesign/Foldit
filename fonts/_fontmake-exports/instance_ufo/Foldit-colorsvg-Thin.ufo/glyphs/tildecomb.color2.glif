@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.color2" format="2">
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="245" y="632" type="line"/>
+      <point x="245" y="633" type="line"/>
+      <point x="265" y="642" type="line"/>
+      <point x="266" y="642" type="line"/>
+      <point x="345" y="590" type="line"/>
+      <point x="345" y="589" type="line"/>
+      <point x="325" y="580" type="line"/>
+      <point x="324" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

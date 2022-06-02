@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="198"/>
+  <unicode hex="01A1"/>
+  <anchor x="99" y="0" name="bottom"/>
+  <anchor x="124" y="500" name="horn"/>
+  <anchor x="99" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="477" type="line"/>
+      <point x="73" y="500" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="74" y="24" type="line"/>
+      <point x="50" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="500" type="line"/>
+      <point x="148" y="477" type="line"/>
+      <point x="148" y="476" type="line"/>
+      <point x="74" y="476" type="line"/>
+      <point x="74" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="23" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="476" type="line"/>
+      <point x="148" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="50" y="23" type="line"/>
+      <point x="50" y="24" type="line"/>
+      <point x="124" y="24" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="500" type="line"/>
+      <point x="155" y="500" type="line"/>
+      <point x="155" y="476" type="line"/>
+      <point x="147" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="499" type="line"/>
+      <point x="156" y="476" type="line"/>
+      <point x="155" y="476" type="line"/>
+      <point x="155" y="567" type="line"/>
+      <point x="179" y="567" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

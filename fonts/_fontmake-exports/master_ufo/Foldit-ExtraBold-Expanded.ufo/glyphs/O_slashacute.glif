@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance width="907"/>
+  <unicode hex="01FE"/>
+  <anchor x="478" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="42" y="2" type="line"/>
+      <point x="754" y="730" type="line"/>
+      <point x="867" y="730" type="line"/>
+      <point x="867" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="523" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="730" type="line"/>
+      <point x="882" y="487" type="line"/>
+      <point x="882" y="486" type="line"/>
+      <point x="279" y="486" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="197" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="486" type="line"/>
+      <point x="882" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="25" y="243" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="628" y="244" type="line"/>
+      <point x="628" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="760" type="line"/>
+      <point x="429" y="900" type="line"/>
+      <point x="635" y="900" type="line"/>
+      <point x="635" y="899" type="line"/>
+      <point x="520" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

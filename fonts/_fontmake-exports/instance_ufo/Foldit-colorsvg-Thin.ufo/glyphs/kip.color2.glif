@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="293" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="183" y="353" type="line"/>
+      <point x="203" y="373" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

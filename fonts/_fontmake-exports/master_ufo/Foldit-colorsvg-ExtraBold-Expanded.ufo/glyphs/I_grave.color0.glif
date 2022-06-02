@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="246" y="486" type="line"/>
+      <point x="448" y="730" type="line"/>
+      <point x="500" y="730" type="line"/>
+      <point x="500" y="244" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

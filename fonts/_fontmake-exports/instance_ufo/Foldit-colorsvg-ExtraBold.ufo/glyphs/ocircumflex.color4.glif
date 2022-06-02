@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflex.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <contour>
+      <point x="642" y="592" type="line"/>
+      <point x="485" y="592" type="line"/>
+      <point x="381" y="739" type="line"/>
+      <point x="463" y="770" type="line"/>
+      <point x="504" y="770" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

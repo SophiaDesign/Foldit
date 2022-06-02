@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="232" y="23" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="646" type="line"/>
+      <point x="232" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

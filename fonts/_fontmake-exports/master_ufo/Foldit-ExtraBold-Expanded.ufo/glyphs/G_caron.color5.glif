@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcaron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="01E6"/>
+  <outline>
+    <contour>
+      <point x="301" y="900" type="line"/>
+      <point x="458" y="900" type="line"/>
+      <point x="592" y="793" type="line"/>
+      <point x="500" y="760" type="line"/>
+      <point x="459" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

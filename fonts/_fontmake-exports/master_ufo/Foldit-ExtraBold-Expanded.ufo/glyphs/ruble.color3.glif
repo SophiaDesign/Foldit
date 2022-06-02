@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="848" y="136" type="line"/>
+      <point x="871" y="113" type="line"/>
+      <point x="871" y="112" type="line"/>
+      <point x="172" y="111" type="line"/>
+      <point x="172" y="112" type="line"/>
+      <point x="149" y="135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

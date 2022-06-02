@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="618" y="377" type="line"/>
+      <point x="365" y="168" type="line"/>
+      <point x="364" y="168" type="line"/>
+      <point x="364" y="557" type="line"/>
+      <point x="618" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

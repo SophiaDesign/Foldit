@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute" format="2">
+  <advance width="172"/>
+  <unicode hex="017A"/>
+  <anchor x="83" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="500" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="123" y="476" type="line"/>
+      <point x="23" y="476" type="line"/>
+      <point x="23" y="477" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="24" type="line"/>
+      <point x="23" y="24" type="line"/>
+      <point x="23" y="25" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="149" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="23" y="24" type="line"/>
+      <point x="149" y="24" type="line"/>
+      <point x="149" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="570" type="line"/>
+      <point x="92" y="700" type="line"/>
+      <point x="123" y="700" type="line"/>
+      <point x="123" y="699" type="line"/>
+      <point x="91" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

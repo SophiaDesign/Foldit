@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflextilde.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="1EAB"/>
+  <outline>
+    <contour>
+      <point x="650" y="891" type="line"/>
+      <point x="650" y="790" type="line"/>
+      <point x="531" y="790" type="line"/>
+      <point x="531" y="891" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

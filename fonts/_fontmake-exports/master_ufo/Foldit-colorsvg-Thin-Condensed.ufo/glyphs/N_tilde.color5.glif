@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="107" y="837" type="line"/>
+      <point x="107" y="838" type="line"/>
+      <point x="129" y="847" type="line"/>
+      <point x="130" y="847" type="line"/>
+      <point x="226" y="795" type="line"/>
+      <point x="226" y="794" type="line"/>
+      <point x="204" y="785" type="line"/>
+      <point x="203" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

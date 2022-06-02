@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="74" y="500" type="line"/>
+      <point x="128" y="500" type="line"/>
+      <point x="128" y="476" type="line"/>
+      <point x="51" y="476" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

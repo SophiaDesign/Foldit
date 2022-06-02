@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="197"/>
+  <unicode hex="1EAD"/>
+  <anchor x="102" y="0" name="bottom"/>
+  <anchor x="109" y="602" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="477" type="line"/>
+      <point x="73" y="500" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="74" y="24" type="line"/>
+      <point x="50" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="500" type="line"/>
+      <point x="147" y="477" type="line"/>
+      <point x="147" y="476" type="line"/>
+      <point x="74" y="476" type="line"/>
+      <point x="74" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="476" type="line"/>
+      <point x="147" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="50" y="23" type="line"/>
+      <point x="50" y="24" type="line"/>
+      <point x="123" y="24" type="line"/>
+      <point x="123" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="-119" type="line"/>
+      <point x="88" y="-119" type="line"/>
+      <point x="88" y="-85" type="line"/>
+      <point x="118" y="-85" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="590" type="line"/>
+      <point x="136" y="590" type="line"/>
+      <point x="92" y="680" type="line"/>
+      <point x="115" y="680" type="line"/>
+      <point x="116" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="590" type="line"/>
+      <point x="92" y="680" type="line"/>
+      <point x="115" y="680" type="line"/>
+      <point x="70" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

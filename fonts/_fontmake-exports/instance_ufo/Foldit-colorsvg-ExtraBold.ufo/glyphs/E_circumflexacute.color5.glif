@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexacute.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="1EBE"/>
+  <outline>
+    <contour>
+      <point x="646" y="755" type="line"/>
+      <point x="489" y="755" type="line"/>
+      <point x="385" y="852" type="line"/>
+      <point x="467" y="883" type="line"/>
+      <point x="518" y="883" type="line"/>
+      <point x="646" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

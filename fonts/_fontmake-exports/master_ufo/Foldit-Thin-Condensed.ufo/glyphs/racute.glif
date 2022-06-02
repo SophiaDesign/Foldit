@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute" format="2">
+  <advance width="157"/>
+  <unicode hex="0155"/>
+  <anchor x="62" y="0" name="bottom"/>
+  <anchor x="100" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="477" type="line"/>
+      <point x="73" y="500" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="500" type="line"/>
+      <point x="147" y="477" type="line"/>
+      <point x="147" y="476" type="line"/>
+      <point x="74" y="476" type="line"/>
+      <point x="74" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="570" type="line"/>
+      <point x="109" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="140" y="699" type="line"/>
+      <point x="108" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

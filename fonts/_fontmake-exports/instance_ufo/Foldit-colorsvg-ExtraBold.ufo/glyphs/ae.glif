@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
+  <advance width="1380"/>
+  <unicode hex="00E6"/>
+  <anchor x="462" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="35" y="203" type="line"/>
+      <point x="35" y="204" type="line"/>
+      <point x="588" y="204" type="line"/>
+      <point x="802" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1248" y="530" type="line"/>
+      <point x="1355" y="352" type="line"/>
+      <point x="1355" y="351" type="line"/>
+      <point x="588" y="351" type="line"/>
+      <point x="802" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="0" type="line"/>
+      <point x="588" y="199" type="line"/>
+      <point x="588" y="326" type="line"/>
+      <point x="802" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="1141" y="331" type="line"/>
+      <point x="1141" y="221" type="line"/>
+      <point x="802" y="220" type="line"/>
+      <point x="802" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="1355" y="328" type="line"/>
+      <point x="1142" y="221" type="line"/>
+      <point x="1141" y="221" type="line"/>
+      <point x="1141" y="351" type="line"/>
+      <point x="1355" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="423" type="line"/>
+      <point x="258" y="530" type="line"/>
+      <point x="259" y="530" type="line"/>
+      <point x="259" y="204" type="line"/>
+      <point x="45" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="0" type="line"/>
+      <point x="802" y="199" type="line"/>
+      <point x="802" y="200" type="line"/>
+      <point x="1355" y="200" type="line"/>
+      <point x="1355" y="199" type="line"/>
+      <point x="1248" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="530" type="line"/>
+      <point x="802" y="327" type="line"/>
+      <point x="802" y="326" type="line"/>
+      <point x="259" y="326" type="line"/>
+      <point x="259" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

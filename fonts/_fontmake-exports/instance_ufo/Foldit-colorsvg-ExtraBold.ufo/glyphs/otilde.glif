@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otilde" format="2">
+  <advance width="837"/>
+  <unicode hex="00F5"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="665" y="530" name="horn"/>
+  <anchor x="442" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="423" type="line"/>
+      <point x="238" y="530" type="line"/>
+      <point x="239" y="530" type="line"/>
+      <point x="239" y="204" type="line"/>
+      <point x="25" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="530" type="line"/>
+      <point x="812" y="327" type="line"/>
+      <point x="812" y="326" type="line"/>
+      <point x="239" y="326" type="line"/>
+      <point x="239" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="812" y="107" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="598" y="326" type="line"/>
+      <point x="812" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="25" y="203" type="line"/>
+      <point x="25" y="204" type="line"/>
+      <point x="598" y="204" type="line"/>
+      <point x="598" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="601" type="line"/>
+      <point x="229" y="722" type="line"/>
+      <point x="349" y="703" type="line"/>
+      <point x="349" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="627" y="749" type="line"/>
+      <point x="627" y="630" type="line"/>
+      <point x="508" y="640" type="line"/>
+      <point x="508" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="722" type="line"/>
+      <point x="229" y="723" type="line"/>
+      <point x="358" y="762" type="line"/>
+      <point x="359" y="762" type="line"/>
+      <point x="627" y="630" type="line"/>
+      <point x="627" y="629" type="line"/>
+      <point x="499" y="590" type="line"/>
+      <point x="498" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

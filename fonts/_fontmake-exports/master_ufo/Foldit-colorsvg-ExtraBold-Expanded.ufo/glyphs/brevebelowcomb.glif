@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="329" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="262" y="-80" type="line"/>
+      <point x="116" y="-80" type="line"/>
+      <point x="79" y="-22" type="line"/>
+      <point x="79" y="-20" type="line"/>
+      <point x="225" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="-80" type="line"/>
+      <point x="414" y="-20" type="line"/>
+      <point x="550" y="-20" type="line"/>
+      <point x="550" y="-21" type="line"/>
+      <point x="513" y="-80" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="-202" type="line"/>
+      <point x="187" y="-202" type="line"/>
+      <point x="116" y="-80" type="line"/>
+      <point x="513" y="-80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ymacron" format="2">
+  <advance width="250"/>
+  <unicode hex="0232"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="127" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="700" type="line"/>
+      <point x="47" y="700" type="line"/>
+      <point x="140" y="356" type="line"/>
+      <point x="118" y="350" type="line"/>
+      <point x="117" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="700" type="line"/>
+      <point x="141" y="350" type="line"/>
+      <point x="118" y="350" type="line"/>
+      <point x="203" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="350" type="line"/>
+      <point x="141" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="801" type="line"/>
+      <point x="52" y="801" type="line"/>
+      <point x="52" y="825" type="line"/>
+      <point x="202" y="825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

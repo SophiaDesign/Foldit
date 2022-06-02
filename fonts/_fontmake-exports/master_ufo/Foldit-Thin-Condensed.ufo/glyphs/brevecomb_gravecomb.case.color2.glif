@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb.case.color2" format="2">
+  <outline>
+    <contour>
+      <point x="336" y="741" type="line"/>
+      <point x="280" y="741" type="line"/>
+      <point x="261" y="763" type="line"/>
+      <point x="355" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

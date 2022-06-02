@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="50" y="-200" type="line"/>
+      <point x="50" y="-177" type="line"/>
+      <point x="50" y="-176" type="line"/>
+      <point x="123" y="-176" type="line"/>
+      <point x="123" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
