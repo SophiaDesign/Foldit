@@ -2,31 +2,6 @@ sources:
   - GF-Foldit-decomposed.glyphs
 axisOrder:
   - wght
-  - colr
-outputDir: "../GF-Foldit/fonts"
+outputDir: "../fonts"
 buildOTF: false
 familyName: Foldit
-#stat:
-#  - name: Weight
-#    tag: wght
-#    values:
-#    - name: Thin
-#      value: 100
-#   - name: Regular
-#     value: 400
-#    - name: ExtraBold
-#      value: 800
-#instances:
-# GF-Foldit-decomposed[COLR,wght].ttf:
-# - familyName: "Foldit"
-#   styleName: "Thin"
-#   coordinates:
-#     wght: 100
-#     colr: 0
-##      wdth: 75
-# - familyName: "Foldit"
-#   styleName: "ExtraBold"
-#   coordinates:
-#     wght: 800
-#     colr: 0
-##      wdth: 125
