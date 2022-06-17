@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <contour>
+      <point x="517" y="650" type="line"/>
+      <point x="636" y="640" type="line"/>
+      <point x="636" y="759" type="line"/>
+      <point x="517" y="759" type="line"/>
+    </contour>
+  </outline>
+</glyph>

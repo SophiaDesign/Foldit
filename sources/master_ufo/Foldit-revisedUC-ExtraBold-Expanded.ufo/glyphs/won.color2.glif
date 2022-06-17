@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="8" y="488" type="line"/>
+      <point x="1373" y="489" type="line"/>
+      <point x="1373" y="490" type="line"/>
+      <point x="1350" y="513" type="line"/>
+      <point x="-15" y="512" type="line"/>
+      <point x="-15" y="511" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccaron" format="2">
+  <advance width="862"/>
+  <unicode hex="010C"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="476" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="862" y="243" type="line"/>
+      <point x="862" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="25" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="244" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="279" y="730" type="line"/>
+      <point x="278" y="730" type="line"/>
+      <point x="25" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="486" type="line"/>
+      <point x="862" y="486" type="line"/>
+      <point x="862" y="487" type="line"/>
+      <point x="660" y="730" type="line"/>
+      <point x="279" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="760" type="line"/>
+      <point x="535" y="793" type="line"/>
+      <point x="401" y="900" type="line"/>
+      <point x="244" y="900" type="line"/>
+      <point x="244" y="899" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="760" type="line"/>
+      <point x="556" y="760" type="line"/>
+      <point x="710" y="899" type="line"/>
+      <point x="710" y="900" type="line"/>
+      <point x="556" y="900" type="line"/>
+    </contour>
+  </outline>
+</glyph>

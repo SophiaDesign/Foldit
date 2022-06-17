@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.color1" format="2">
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="169" y="736" type="line"/>
+      <point x="497" y="736" type="line"/>
+      <point x="497" y="737" type="line"/>
+      <point x="410" y="850" type="line"/>
+      <point x="169" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

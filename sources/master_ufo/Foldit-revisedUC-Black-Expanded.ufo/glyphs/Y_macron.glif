@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ymacron" format="2">
+  <advance width="840"/>
+  <unicode hex="0232"/>
+  <anchor x="417" y="0" name="bottom"/>
+  <anchor x="443" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="288" y="285" type="line"/>
+      <point x="289" y="285" type="line"/>
+      <point x="436" y="467" type="line"/>
+      <point x="273" y="730" type="line"/>
+      <point x="0" y="730" type="line"/>
+      <point x="0" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="285" type="line"/>
+      <point x="288" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="285" type="line"/>
+      <point x="552" y="285" type="line"/>
+      <point x="840" y="729" type="line"/>
+      <point x="840" y="730" type="line"/>
+      <point x="566" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="798" type="line"/>
+      <point x="641" y="798" type="line"/>
+      <point x="641" y="900" type="line"/>
+      <point x="245" y="900" type="line"/>
+    </contour>
+  </outline>
+</glyph>

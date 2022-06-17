@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotaccent.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="017B"/>
+  <outline>
+    <contour>
+      <point x="244" y="119" type="line"/>
+      <point x="784" y="535" type="line"/>
+      <point x="644" y="730" type="line"/>
+      <point x="41" y="245" type="line"/>
+      <point x="41" y="244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.color1" format="2">
+  <unicode hex="032E"/>
+  <outline>
+    <contour>
+      <point x="289" y="-78" type="line"/>
+      <point x="315" y="-78" type="line"/>
+      <point x="286" y="-28" type="line"/>
+      <point x="260" y="-28" type="line"/>
+      <point x="260" y="-29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

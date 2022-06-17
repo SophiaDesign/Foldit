@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla" format="2">
+  <advance width="166"/>
+  <unicode hex="015F"/>
+  <anchor x="87" y="0" name="bottom"/>
+  <anchor x="95" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="476" type="line"/>
+      <point x="131" y="476" type="line"/>
+      <point x="131" y="477" type="line"/>
+      <point x="108" y="500" type="line"/>
+      <point x="58" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="24" type="line"/>
+      <point x="131" y="24" type="line"/>
+      <point x="131" y="25" type="line"/>
+      <point x="58" y="500" type="line"/>
+      <point x="35" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="131" y="24" type="line"/>
+      <point x="35" y="24" type="line"/>
+      <point x="35" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="-44" type="line"/>
+      <point x="83" y="-44" type="line"/>
+      <point x="98" y="-1" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="62" y="-43" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="-109" type="line"/>
+      <point x="97" y="-109" type="line"/>
+      <point x="97" y="-90" type="line"/>
+      <point x="47" y="-90" type="line"/>
+      <point x="47" y="-91" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="-109" type="line"/>
+      <point x="98" y="-109" type="line"/>
+      <point x="118" y="-91" type="line"/>
+      <point x="118" y="-44" type="line"/>
+      <point x="97" y="-44" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="-44" type="line"/>
+      <point x="118" y="-44" type="line"/>
+      <point x="118" y="-43" type="line"/>
+      <point x="100" y="-25" type="line"/>
+      <point x="83" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

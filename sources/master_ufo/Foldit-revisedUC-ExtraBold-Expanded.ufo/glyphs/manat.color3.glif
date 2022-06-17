@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="303" y="53" type="line"/>
+      <point x="305" y="53" type="line"/>
+      <point x="516" y="76" type="line"/>
+      <point x="514" y="786" type="line"/>
+      <point x="512" y="786" type="line"/>
+      <point x="302" y="763" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="817"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="239" y="526" type="line"/>
+      <point x="792" y="526" type="line"/>
+      <point x="792" y="527" type="line"/>
+      <point x="590" y="730" type="line"/>
+      <point x="239" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="204" type="line"/>
+      <point x="25" y="204" type="line"/>
+      <point x="25" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="-47" type="line"/>
+      <point x="308" y="-47" type="line"/>
+      <point x="519" y="-24" type="line"/>
+      <point x="517" y="786" type="line"/>
+      <point x="515" y="786" type="line"/>
+      <point x="305" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="262" type="line"/>
+      <point x="578" y="262" type="line"/>
+      <point x="578" y="466" type="line"/>
+      <point x="25" y="466" type="line"/>
+      <point x="25" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="466" type="line"/>
+      <point x="239" y="466" type="line"/>
+      <point x="239" y="730" type="line"/>
+      <point x="238" y="730" type="line"/>
+      <point x="25" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="792" y="193" type="line"/>
+      <point x="792" y="269" type="line"/>
+      <point x="579" y="466" type="line"/>
+      <point x="578" y="466" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="01FB"/>
+  <outline>
+    <contour>
+      <point x="514" y="572" type="line"/>
+      <point x="515" y="572" type="line"/>
+      <point x="610" y="628" type="line"/>
+      <point x="610" y="676" type="line"/>
+      <point x="514" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
+</glyph>

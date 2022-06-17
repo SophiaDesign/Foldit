@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="23" y="373" type="line"/>
+      <point x="388" y="374" type="line"/>
+      <point x="388" y="375" type="line"/>
+      <point x="365" y="398" type="line"/>
+      <point x="0" y="397" type="line"/>
+      <point x="0" y="396" type="line"/>
+    </contour>
+  </outline>
+</glyph>

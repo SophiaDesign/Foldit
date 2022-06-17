@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="128" y="474" type="line"/>
+      <point x="239" y="474" type="line"/>
+      <point x="239" y="794" type="line"/>
+      <point x="216" y="794" type="line"/>
+      <point x="128" y="687" type="line"/>
+    </contour>
+  </outline>
+</glyph>

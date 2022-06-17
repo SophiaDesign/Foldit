@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <contour>
+      <point x="323" y="-200" type="line"/>
+      <point x="527" y="-200" type="line"/>
+      <point x="527" y="-38" type="line"/>
+      <point x="323" y="-38" type="line"/>
+    </contour>
+  </outline>
+</glyph>

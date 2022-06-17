@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0211"/>
+  <outline>
+    <contour>
+      <point x="434" y="590" type="line"/>
+      <point x="530" y="590" type="line"/>
+      <point x="495" y="820" type="line"/>
+      <point x="319" y="820" type="line"/>
+      <point x="319" y="819" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="270" y="591" type="line"/>
+      <point x="289" y="591" type="line"/>
+      <point x="289" y="676" type="line"/>
+      <point x="288" y="676" type="line"/>
+      <point x="270" y="658" type="line"/>
+    </contour>
+  </outline>
+</glyph>

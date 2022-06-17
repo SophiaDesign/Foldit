@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.color0" format="2">
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="381" y="590" type="line"/>
+      <point x="477" y="590" type="line"/>
+      <point x="442" y="820" type="line"/>
+      <point x="266" y="820" type="line"/>
+      <point x="266" y="819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

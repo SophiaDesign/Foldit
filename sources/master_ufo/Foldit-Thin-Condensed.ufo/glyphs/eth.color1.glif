@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="149" y="477" type="line"/>
+      <point x="150" y="477" type="line"/>
+      <point x="100" y="730" type="line"/>
+      <point x="76" y="730" type="line"/>
+      <point x="76" y="729" type="line"/>
+      <point x="126" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

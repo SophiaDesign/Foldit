@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="24" type="line"/>
+      <point x="43" y="24" type="line"/>
+      <point x="43" y="23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

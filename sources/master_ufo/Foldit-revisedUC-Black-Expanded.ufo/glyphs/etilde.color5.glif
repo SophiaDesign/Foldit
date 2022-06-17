@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etilde.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="1EBD"/>
+  <outline>
+    <contour>
+      <point x="259" y="601" type="line"/>
+      <point x="379" y="601" type="line"/>
+      <point x="379" y="703" type="line"/>
+      <point x="259" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

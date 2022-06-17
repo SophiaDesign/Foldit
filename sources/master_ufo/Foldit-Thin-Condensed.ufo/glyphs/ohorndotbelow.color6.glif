@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EE3"/>
+  <outline>
+    <contour>
+      <point x="85" y="-119" type="line"/>
+      <point x="115" y="-119" type="line"/>
+      <point x="115" y="-85" type="line"/>
+      <point x="85" y="-85" type="line"/>
+    </contour>
+  </outline>
+</glyph>

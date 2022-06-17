@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scircumflex.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="015D"/>
+  <outline>
+    <contour>
+      <point x="129" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="652" y="179" type="line"/>
+      <point x="22" y="179" type="line"/>
+      <point x="22" y="178" type="line"/>
+    </contour>
+  </outline>
+</glyph>

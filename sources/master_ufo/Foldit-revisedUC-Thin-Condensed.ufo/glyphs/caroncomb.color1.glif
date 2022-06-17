@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.color1" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="298" y="590" type="line"/>
+      <point x="321" y="590" type="line"/>
+      <point x="367" y="679" type="line"/>
+      <point x="367" y="680" type="line"/>
+      <point x="343" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="175" y="-141" type="line"/>
+      <point x="176" y="-141" type="line"/>
+      <point x="176" y="-50" type="line"/>
+      <point x="152" y="-50" type="line"/>
+      <point x="152" y="-118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

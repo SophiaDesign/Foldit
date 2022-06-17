@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case.color2" format="2">
+  <outline>
+    <contour>
+      <point x="245" y="870" type="line"/>
+      <point x="341" y="870" type="line"/>
+      <point x="444" y="979" type="line"/>
+      <point x="444" y="980" type="line"/>
+      <point x="278" y="980" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

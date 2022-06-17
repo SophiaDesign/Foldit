@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="022D"/>
+  <outline>
+    <contour>
+      <point x="132" y="590" type="line"/>
+      <point x="152" y="590" type="line"/>
+      <point x="152" y="642" type="line"/>
+      <point x="132" y="642" type="line"/>
+    </contour>
+  </outline>
+</glyph>

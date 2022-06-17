@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexhookabove.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EC2"/>
+  <outline>
+    <contour>
+      <point x="446" y="892" type="line"/>
+      <point x="734" y="892" type="line"/>
+      <point x="734" y="893" type="line"/>
+      <point x="657" y="980" type="line"/>
+      <point x="446" y="980" type="line"/>
+    </contour>
+  </outline>
+</glyph>

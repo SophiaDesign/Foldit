@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="352" y="760" type="line"/>
+      <point x="485" y="793" type="line"/>
+      <point x="351" y="900" type="line"/>
+      <point x="194" y="900" type="line"/>
+      <point x="194" y="899" type="line"/>
+    </contour>
+  </outline>
+</glyph>

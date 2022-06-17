@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="022B"/>
+  <outline>
+    <contour>
+      <point x="39" y="701" type="line"/>
+      <point x="149" y="701" type="line"/>
+      <point x="149" y="725" type="line"/>
+      <point x="39" y="725" type="line"/>
+    </contour>
+  </outline>
+</glyph>

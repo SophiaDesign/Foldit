@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="71" y="534" type="line"/>
+      <point x="158" y="534" type="line"/>
+      <point x="158" y="558" type="line"/>
+      <point x="72" y="558" type="line"/>
+    </contour>
+  </outline>
+</glyph>

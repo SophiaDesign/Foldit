@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexgrave.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EA6"/>
+  <outline>
+    <contour>
+      <point x="612" y="808" type="line"/>
+      <point x="728" y="808" type="line"/>
+      <point x="685" y="950" type="line"/>
+      <point x="519" y="950" type="line"/>
+      <point x="519" y="949" type="line"/>
+    </contour>
+  </outline>
+</glyph>

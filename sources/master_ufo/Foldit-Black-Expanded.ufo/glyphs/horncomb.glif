@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="250" y="530" name="_horn"/>
+  <outline>
+    <contour>
+      <point x="291" y="376" type="line"/>
+      <point x="292" y="376" type="line"/>
+      <point x="465" y="483" type="line"/>
+      <point x="465" y="654" type="line"/>
+      <point x="291" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="376" type="line"/>
+      <point x="291" y="376" type="line"/>
+      <point x="291" y="530" type="line"/>
+      <point x="36" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

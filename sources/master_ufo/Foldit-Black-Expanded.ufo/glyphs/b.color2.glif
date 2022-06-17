@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="599" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="853" y="107" type="line"/>
+      <point x="853" y="286" type="line"/>
+      <point x="599" y="286" type="line"/>
+    </contour>
+  </outline>
+</glyph>

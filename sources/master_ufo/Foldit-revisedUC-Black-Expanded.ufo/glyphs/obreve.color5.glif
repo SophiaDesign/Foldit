@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="014F"/>
+  <outline>
+    <contour>
+      <point x="259" y="720" type="line"/>
+      <point x="405" y="720" type="line"/>
+      <point x="368" y="780" type="line"/>
+      <point x="222" y="780" type="line"/>
+      <point x="222" y="778" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rinvertedbreve" format="2">
+  <advance width="157"/>
+  <unicode hex="0213"/>
+  <anchor x="62" y="0" name="bottom"/>
+  <anchor x="100" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="73" y="500" type="line"/>
+      <point x="50" y="477" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="476" type="line"/>
+      <point x="147" y="476" type="line"/>
+      <point x="147" y="477" type="line"/>
+      <point x="124" y="500" type="line"/>
+      <point x="74" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="648" type="line"/>
+      <point x="142" y="648" type="line"/>
+      <point x="129" y="670" type="line"/>
+      <point x="77" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="598" type="line"/>
+      <point x="61" y="598" type="line"/>
+      <point x="90" y="648" type="line"/>
+      <point x="64" y="648" type="line"/>
+      <point x="35" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="598" type="line"/>
+      <point x="171" y="598" type="line"/>
+      <point x="171" y="599" type="line"/>
+      <point x="142" y="648" type="line"/>
+      <point x="116" y="648" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="802" y="263" type="line"/>
+      <point x="1172" y="263" type="line"/>
+      <point x="1172" y="467" type="line"/>
+      <point x="802" y="467" type="line"/>
+    </contour>
+  </outline>
+</glyph>

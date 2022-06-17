@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0113"/>
+  <outline>
+    <contour>
+      <point x="259" y="628" type="line"/>
+      <point x="685" y="628" type="line"/>
+      <point x="685" y="740" type="line"/>
+      <point x="259" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>
