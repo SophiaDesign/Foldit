@@ -121,38 +121,6 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Regular-fallback" familyname="Foldit" stylename="Regular-fallback" filename="../instance_ufo/Foldit-Regular-fallback.ufo" stylemapfamilyname="Foldit Regular-fallback" stylemapstylename="regular">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Color Layers to SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for CPAL</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export COLR Table</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export SVG Table</string>
-              <integer>0</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
     <instance name="Foldit ExtraBold" familyname="Foldit" stylename="ExtraBold" filename="../instance_ufo/Foldit-ExtraBold.ufo" stylemapfamilyname="Foldit ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="800"/>
@@ -185,38 +153,6 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit ExtraBold-fallback" familyname="Foldit" stylename="ExtraBold-fallback" filename="../instance_ufo/Foldit-ExtraBold-fallback.ufo" stylemapfamilyname="Foldit ExtraBold-fallback" stylemapstylename="regular">
-      <location>
-        <dimension name="Weight" xvalue="800"/>
-      </location>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Color Layers to SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for CPAL</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export COLR Table</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export SVG Table</string>
-              <integer>0</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
     <instance name="Foldit Black" familyname="Foldit" stylename="Black" filename="../instance_ufo/Foldit-Black.ufo" stylemapfamilyname="Foldit Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="900"/>
@@ -244,38 +180,6 @@
             <array>
               <string>Export SVG Table</string>
               <integer>1</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="Foldit Black-Fallback" familyname="Foldit" stylename="Black-Fallback" filename="../instance_ufo/Foldit-Black-Fallback.ufo" stylemapfamilyname="Foldit Black-Fallback" stylemapstylename="regular">
-      <location>
-        <dimension name="Weight" xvalue="900"/>
-      </location>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Color Layers to SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for SVG</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Color Palette for CPAL</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export COLR Table</string>
-              <integer>0</integer>
-            </array>
-            <array>
-              <string>Export SVG Table</string>
-              <integer>0</integer>
             </array>
           </array>
         </dict>
