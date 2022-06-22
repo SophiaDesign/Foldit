@@ -104847,6 +104847,11 @@ value = 1;
 {
 name = "Export SVG Table";
 value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+};
 }
 );
 exports = 0;
