@@ -1,5 +1,5 @@
 sources:
-  - GF-Foldit-decomposed.glyphs
+  - Foldit-decomposed.glyphs
 axisOrder:
   - wght
 outputDir: "../fonts"

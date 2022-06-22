@@ -291,7 +291,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1029;
+value = 1070;
 },
 {
 name = winDescent;
@@ -377,7 +377,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1029;
+value = 1070;
 },
 {
 name = winDescent;
@@ -465,7 +465,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1029;
+value = 1070;
 },
 {
 name = winDescent;
@@ -59101,7 +59101,7 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-06-15 16:08:38 +0000";
+lastChange = "2022-06-22 13:13:37 +0000";
 layers = (
 {
 attr = {
@@ -59115,7 +59115,7 @@ attr = {
 color = 1;
 };
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
-width = 100;
+width = 110;
 },
 {
 attr = {
