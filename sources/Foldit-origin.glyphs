@@ -10,7 +10,8 @@ DisplayStrings = (
 
 
 y8&",
-"³"
+"³",
+"*"
 );
 axes = (
 {
@@ -61207,7 +61208,7 @@ unicode = 8226;
 },
 {
 glyphname = asterisk;
-lastChange = "2022-06-17 13:16:21 +0000";
+lastChange = "2022-06-23 10:42:32 +0000";
 layers = (
 {
 attr = {
@@ -61215,34 +61216,6 @@ color = "1";
 };
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
 shapes = (
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-1
-)
-);
-end = (0.5953,0.0497);
-start = (0.4439,0.5897);
-};
-};
-closed = 1;
-nodes = (
-(113,539,l),
-(135,663,l),
-(135,664,l),
-(90,730,l),
-(89,730,l),
-(73,540,l),
-(73,539,l)
-);
-},
 {
 attr = {
 gradient = {
@@ -61294,16 +61267,7 @@ nodes = (
 (43,663,l),
 (93,585,l)
 );
-}
-);
-width = 178;
 },
-{
-attr = {
-color = "1";
-};
-layerId = "E87239EE-82B8-404C-B23A-53843E270889";
-shapes = (
 {
 attr = {
 gradient = {
@@ -61317,21 +61281,30 @@ colors = (
 1
 )
 );
-end = (0.5937,0.0374);
-start = (0.5062,0.4717);
+end = (0.5953,0.0497);
+start = (0.4439,0.5897);
 };
 };
 closed = 1;
 nodes = (
-(445,349,l),
-(527,556,l),
-(527,557,l),
-(272,730,l),
-(271,730,l),
-(211,351,l),
-(211,349,l)
+(113,539,l),
+(135,663,l),
+(135,664,l),
+(90,730,l),
+(89,730,l),
+(73,540,l),
+(73,539,l)
 );
+}
+);
+width = 178;
 },
+{
+attr = {
+color = "1";
+};
+layerId = "E87239EE-82B8-404C-B23A-53843E270889";
+shapes = (
 {
 attr = {
 gradient = {
@@ -61382,6 +61355,34 @@ nodes = (
 (5,557,l),
 (5,556,l),
 (225,442,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+1
+)
+);
+end = (0.5937,0.0374);
+start = (0.5062,0.4717);
+};
+};
+closed = 1;
+nodes = (
+(445,349,l),
+(527,556,l),
+(527,557,l),
+(272,730,l),
+(271,730,l),
+(211,351,l),
+(211,349,l)
 );
 }
 );
@@ -61406,34 +61407,6 @@ colors = (
 1
 )
 );
-end = (0.5937,0.0374);
-start = (0.5062,0.4717);
-};
-};
-closed = 1;
-nodes = (
-(445,349,l),
-(527,556,l),
-(527,557,l),
-(272,730,l),
-(271,730,l),
-(211,351,l),
-(211,349,l)
-);
-},
-{
-attr = {
-gradient = {
-colors = (
-(
-(191,255),
-0
-),
-(
-(64,255),
-1
-)
-);
 end = (0.748,0.5106);
 start = (0.4147,0.1255);
 };
@@ -61471,6 +61444,34 @@ nodes = (
 (5,557,l),
 (5,556,l),
 (225,442,l)
+);
+},
+{
+attr = {
+gradient = {
+colors = (
+(
+(191,255),
+0
+),
+(
+(64,255),
+1
+)
+);
+end = (0.5937,0.0374);
+start = (0.5062,0.4717);
+};
+};
+closed = 1;
+nodes = (
+(445,349,l),
+(527,556,l),
+(527,557,l),
+(272,730,l),
+(271,730,l),
+(211,351,l),
+(211,349,l)
 );
 }
 );
@@ -104970,6 +104971,42 @@ widthClass = 2;
 },
 {
 axesValues = (
+200
+);
+customParameters = (
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+disabled = 1;
+name = "Color Palette for SVG";
+value = 0;
+},
+{
+disabled = 1;
+name = "Color Palette for CPAL";
+value = 0;
+},
+{
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Export SVG Table";
+value = 1;
+}
+);
+instanceInterpolations = {
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.83333;
+"E87239EE-82B8-404C-B23A-53843E270889" = 0.16667;
+};
+name = Light;
+weightClass = 300;
+widthClass = 3;
+},
+{
+axesValues = (
 300
 );
 customParameters = (
@@ -104996,46 +105033,9 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.66667;
 "E87239EE-82B8-404C-B23A-53843E270889" = 0.33333;
-};
-name = Light;
-weightClass = 300;
-widthClass = 3;
-},
-{
-axesValues = (
-400
-);
-customParameters = (
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-disabled = 1;
-name = "Color Palette for SVG";
-value = 0;
-},
-{
-disabled = 1;
-name = "Color Palette for CPAL";
-value = 0;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-}
-);
-instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.5;
-"E87239EE-82B8-404C-B23A-53843E270889" = 0.5;
 };
 name = Regular;
 widthClass = 4;
@@ -105078,7 +105078,7 @@ widthClass = 4;
 },
 {
 axesValues = (
-500
+400
 );
 customParameters = (
 {
@@ -105104,17 +105104,16 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.33333;
-"E87239EE-82B8-404C-B23A-53843E270889" = 0.66667;
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.5;
+"E87239EE-82B8-404C-B23A-53843E270889" = 0.5;
 };
 name = Medium;
 weightClass = 500;
 },
 {
 axesValues = (
-600
+450
 );
 customParameters = (
 {
@@ -105140,14 +105139,49 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
-"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.16667;
-"E87239EE-82B8-404C-B23A-53843E270889" = 0.83333;
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.41667;
+"E87239EE-82B8-404C-B23A-53843E270889" = 0.58333;
 };
 name = SemiBold;
 weightClass = 600;
 widthClass = 6;
+},
+{
+axesValues = (
+550
+);
+customParameters = (
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+disabled = 1;
+name = "Color Palette for SVG";
+value = 0;
+},
+{
+disabled = 1;
+name = "Color Palette for CPAL";
+value = 0;
+},
+{
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Export SVG Table";
+value = 1;
+}
+);
+instanceInterpolations = {
+"33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.25;
+"E87239EE-82B8-404C-B23A-53843E270889" = 0.75;
+};
+name = Bold;
+weightClass = 700;
+widthClass = 7;
 },
 {
 axesValues = (
@@ -105177,45 +105211,8 @@ name = "Export SVG Table";
 value = 1;
 }
 );
-exports = 0;
 instanceInterpolations = {
 "E87239EE-82B8-404C-B23A-53843E270889" = 1;
-};
-name = Bold;
-weightClass = 700;
-widthClass = 7;
-},
-{
-axesValues = (
-800
-);
-customParameters = (
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-disabled = 1;
-name = "Color Palette for SVG";
-value = 0;
-},
-{
-disabled = 1;
-name = "Color Palette for CPAL";
-value = 0;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-}
-);
-instanceInterpolations = {
-"E87239EE-82B8-404C-B23A-53843E270889" = 0.5;
-m003 = 0.5;
 };
 name = ExtraBold;
 weightClass = 800;

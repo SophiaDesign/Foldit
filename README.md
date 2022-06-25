@@ -1,9 +1,9 @@
 # Foldit Font Project (coming soon)
 
-[![][Fontbakery]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
-[![][Universal]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
-[![][GF Profile]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
-[![][Outline Correctness]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
+[![][Fontbakery]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
+[![][Universal]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
+[![][GF Profile]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
+[![][Outline Correctness]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
 [![][Shaping]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
 
 [Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSophiaDesign%2FGF-Foldit%2Fgh-pages%2Fbadges%2Foverall.json
