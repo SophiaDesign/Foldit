@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="86" y="318" type="line"/>
+      <point x="595" y="319" type="line"/>
+      <point x="595" y="320" type="line"/>
+      <point x="572" y="343" type="line"/>
+      <point x="63" y="342" type="line"/>
+      <point x="63" y="341" type="line"/>
+    </contour>
+  </outline>
+</glyph>

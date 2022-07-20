@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.color0" format="2">
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="69" y="601" type="line"/>
+      <point x="209" y="601" type="line"/>
+      <point x="209" y="703" type="line"/>
+      <point x="69" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="48" y="520" type="line"/>
+      <point x="48" y="520" type="line"/>
+      <point x="105" y="520" type="line"/>
+      <point x="142" y="640" type="line"/>
+      <point x="68" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>comma</string>
+    </dict>
+  </lib>
+</glyph>

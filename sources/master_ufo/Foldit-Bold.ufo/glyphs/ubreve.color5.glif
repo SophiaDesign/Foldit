@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="016D"/>
+  <outline>
+    <contour>
+      <point x="221" y="599" type="line"/>
+      <point x="425" y="599" type="line"/>
+      <point x="481" y="695" type="line"/>
+      <point x="164" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

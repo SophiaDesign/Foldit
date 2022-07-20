@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <advance width="460.33333"/>
+  <unicode hex="1EE9"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="339" y="510" name="horn"/>
+  <anchor x="208" y="510" name="top"/>
+  <outline>
+    <contour>
+      <point x="268" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="510" type="line"/>
+      <point x="268" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="84" type="line"/>
+      <point x="45" y="84" type="line"/>
+      <point x="45" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="84" type="line"/>
+      <point x="132" y="84" type="line"/>
+      <point x="132" y="516" type="line"/>
+      <point x="131" y="516" type="line"/>
+      <point x="45" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="442" type="line"/>
+      <point x="375" y="442" type="line"/>
+      <point x="448" y="493" type="line"/>
+      <point x="448" y="596" type="line"/>
+      <point x="374" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="442" type="line"/>
+      <point x="374" y="442" type="line"/>
+      <point x="374" y="510" type="line"/>
+      <point x="268" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="576" type="line"/>
+      <point x="224" y="576" type="line"/>
+      <point x="280" y="739" type="line"/>
+      <point x="280" y="740" type="line"/>
+      <point x="201" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

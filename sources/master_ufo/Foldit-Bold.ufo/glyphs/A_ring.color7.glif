@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="309" y="857" type="line"/>
+      <point x="496" y="857" type="line"/>
+      <point x="496" y="858" type="line"/>
+      <point x="446" y="925" type="line"/>
+      <point x="309" y="925" type="line"/>
+    </contour>
+  </outline>
+</glyph>

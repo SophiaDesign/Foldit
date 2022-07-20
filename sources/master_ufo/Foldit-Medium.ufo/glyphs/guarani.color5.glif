@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="448" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="566" y="111" type="line"/>
+      <point x="566" y="304" type="line"/>
+      <point x="449" y="422" type="line"/>
+      <point x="448" y="422" type="line"/>
+    </contour>
+  </outline>
+</glyph>

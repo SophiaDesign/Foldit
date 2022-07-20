@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="527" y="806" type="line"/>
+      <point x="666" y="827" type="line"/>
+      <point x="666" y="915" type="line"/>
+      <point x="527" y="915" type="line"/>
+    </contour>
+  </outline>
+</glyph>

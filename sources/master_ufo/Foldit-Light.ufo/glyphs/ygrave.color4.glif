@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF3"/>
+  <outline>
+    <contour>
+      <point x="139" y="573" type="line"/>
+      <point x="177" y="573" type="line"/>
+      <point x="150" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
+      <point x="95" y="719" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="152" y="338" type="line"/>
+      <point x="278" y="338" type="line"/>
+      <point x="278" y="392" type="line"/>
+      <point x="152" y="392" type="line"/>
+    </contour>
+  </outline>
+</glyph>

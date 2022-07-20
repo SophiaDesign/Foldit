@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="495" y="0" type="line"/>
+      <point x="689" y="0" type="line"/>
+      <point x="689" y="1" type="line"/>
+      <point x="462" y="365" type="line"/>
+      <point x="327" y="268" type="line"/>
+    </contour>
+  </outline>
+</glyph>

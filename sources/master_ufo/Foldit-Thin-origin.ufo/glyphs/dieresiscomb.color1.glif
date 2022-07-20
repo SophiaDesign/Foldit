@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.color1" format="2">
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="266" y="601" type="line"/>
+      <point x="297" y="601" type="line"/>
+      <point x="297" y="635" type="line"/>
+      <point x="266" y="635" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

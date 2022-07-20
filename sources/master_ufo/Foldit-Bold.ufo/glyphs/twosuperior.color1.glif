@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosuperior.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="103" y="490" type="line"/>
+      <point x="343" y="685" type="line"/>
+      <point x="278" y="771" type="line"/>
+      <point x="36" y="571" type="line"/>
+      <point x="36" y="570" type="line"/>
+    </contour>
+  </outline>
+</glyph>

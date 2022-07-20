@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1E80"/>
+  <outline>
+    <contour>
+      <point x="290" y="743" type="line"/>
+      <point x="331" y="743" type="line"/>
+      <point x="317" y="867" type="line"/>
+      <point x="257" y="867" type="line"/>
+      <point x="257" y="866" type="line"/>
+    </contour>
+  </outline>
+</glyph>

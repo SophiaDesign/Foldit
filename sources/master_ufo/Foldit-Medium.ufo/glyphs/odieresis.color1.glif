@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="114" type="line"/>
+      <point x="38" y="114" type="line"/>
+      <point x="38" y="113" type="line"/>
+    </contour>
+  </outline>
+</glyph>

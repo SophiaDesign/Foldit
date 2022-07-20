@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="43" y="430" type="line"/>
+      <point x="131" y="430" type="line"/>
+      <point x="131" y="690" type="line"/>
+      <point x="130" y="690" type="line"/>
+      <point x="43" y="639" type="line"/>
+    </contour>
+  </outline>
+</glyph>

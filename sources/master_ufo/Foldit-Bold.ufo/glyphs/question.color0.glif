@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="30" y="564" type="line"/>
+      <point x="497" y="564" type="line"/>
+      <point x="497" y="723" type="line"/>
+      <point x="187" y="723" type="line"/>
+      <point x="30" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

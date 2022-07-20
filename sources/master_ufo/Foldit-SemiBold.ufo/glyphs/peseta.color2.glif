@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="21" y="470" type="line"/>
+      <point x="683" y="471" type="line"/>
+      <point x="683" y="472" type="line"/>
+      <point x="660" y="495" type="line"/>
+      <point x="-2" y="494" type="line"/>
+      <point x="12" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

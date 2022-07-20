@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="462" y="393" type="line"/>
+      <point x="463" y="393" type="line"/>
+      <point x="463" y="763" type="line"/>
+      <point x="343" y="763" type="line"/>
+      <point x="343" y="504" type="line"/>
+    </contour>
+  </outline>
+</glyph>

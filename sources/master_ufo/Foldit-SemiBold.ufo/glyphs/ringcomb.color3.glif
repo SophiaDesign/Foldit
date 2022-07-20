@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.color3" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="349" y="590" type="line"/>
+      <point x="350" y="590" type="line"/>
+      <point x="412" y="630" type="line"/>
+      <point x="412" y="703" type="line"/>
+      <point x="349" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

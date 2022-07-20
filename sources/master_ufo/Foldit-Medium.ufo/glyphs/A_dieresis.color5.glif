@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="170" y="799" type="line"/>
+      <point x="259" y="799" type="line"/>
+      <point x="259" y="872" type="line"/>
+      <point x="170" y="872" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="201" y="601" type="line"/>
+      <point x="555" y="601" type="line"/>
+      <point x="555" y="602" type="line"/>
+      <point x="463" y="715" type="line"/>
+      <point x="201" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

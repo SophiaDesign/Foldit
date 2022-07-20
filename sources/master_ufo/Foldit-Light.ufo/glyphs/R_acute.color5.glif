@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0154"/>
+  <outline>
+    <contour>
+      <point x="155" y="739" type="line"/>
+      <point x="196" y="739" type="line"/>
+      <point x="238" y="862" type="line"/>
+      <point x="238" y="863" type="line"/>
+      <point x="178" y="863" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="263"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="47" y="231" type="line"/>
+      <point x="213" y="231" type="line"/>
+      <point x="213" y="728" type="line"/>
+      <point x="212" y="728" type="line"/>
+      <point x="47" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="159" type="line"/>
+      <point x="40" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

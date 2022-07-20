@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="310" y="624" type="line"/>
+      <point x="426" y="624" type="line"/>
+      <point x="426" y="715" type="line"/>
+      <point x="310" y="715" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <contour>
+      <point x="196" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="505" type="line"/>
+      <point x="196" y="505" type="line"/>
+    </contour>
+  </outline>
+</glyph>

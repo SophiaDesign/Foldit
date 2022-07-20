@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.lf.color5" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="417" y="80" type="line"/>
+      <point x="417" y="325" type="line"/>
+      <point x="330" y="407" type="line"/>
+      <point x="329" y="407" type="line"/>
+    </contour>
+  </outline>
+</glyph>

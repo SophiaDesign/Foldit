@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="313" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="1" type="line"/>
+      <point x="190" y="306" type="line"/>
+      <point x="100" y="214" type="line"/>
+    </contour>
+  </outline>
+</glyph>

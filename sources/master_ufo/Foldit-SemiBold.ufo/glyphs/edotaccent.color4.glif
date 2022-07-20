@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotaccent.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0117"/>
+  <outline>
+    <contour>
+      <point x="400" y="213" type="line"/>
+      <point x="401" y="213" type="line"/>
+      <point x="535" y="285" type="line"/>
+      <point x="535" y="403" type="line"/>
+      <point x="400" y="403" type="line"/>
+    </contour>
+  </outline>
+</glyph>

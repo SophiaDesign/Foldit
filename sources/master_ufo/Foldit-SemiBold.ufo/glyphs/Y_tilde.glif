@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="559.16667"/>
+  <unicode hex="1EF8"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="287" y="718" name="top"/>
+  <outline>
+    <contour>
+      <point x="220" y="312" type="line"/>
+      <point x="221" y="312" type="line"/>
+      <point x="290" y="421" type="line"/>
+      <point x="156" y="718" type="line"/>
+      <point x="9" y="718" type="line"/>
+      <point x="9" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="312" type="line"/>
+      <point x="220" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="312" type="line"/>
+      <point x="355" y="312" type="line"/>
+      <point x="549" y="717" type="line"/>
+      <point x="549" y="718" type="line"/>
+      <point x="403" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="779" type="line"/>
+      <point x="213" y="779" type="line"/>
+      <point x="213" y="853" type="line"/>
+      <point x="122" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="802" type="line"/>
+      <point x="445" y="814" type="line"/>
+      <point x="445" y="887" type="line"/>
+      <point x="355" y="887" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="768" type="line"/>
+      <point x="356" y="768" type="line"/>
+      <point x="445" y="813" type="line"/>
+      <point x="445" y="814" type="line"/>
+      <point x="219" y="892" type="line"/>
+      <point x="211" y="892" type="line"/>
+      <point x="122" y="848" type="line"/>
+      <point x="122" y="847" type="line"/>
+    </contour>
+  </outline>
+</glyph>

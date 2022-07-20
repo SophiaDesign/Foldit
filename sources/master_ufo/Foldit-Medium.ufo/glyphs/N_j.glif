@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nj" format="2">
+  <advance width="780.5"/>
+  <unicode hex="01CB"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="292" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="521" y="88" type="line"/>
+      <point x="521" y="715" type="line"/>
+      <point x="402" y="715" type="line"/>
+      <point x="402" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="518" type="line"/>
+      <point x="44" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="-4" type="line"/>
+      <point x="441" y="-4" type="line"/>
+      <point x="521" y="87" type="line"/>
+      <point x="521" y="88" type="line"/>
+      <point x="133" y="720" type="line"/>
+      <point x="132" y="720" type="line"/>
+      <point x="44" y="636" type="line"/>
+      <point x="44" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="617" y="-203" type="line"/>
+      <point x="618" y="-203" type="line"/>
+      <point x="726" y="-138" type="line"/>
+      <point x="726" y="503" type="line"/>
+      <point x="725" y="503" type="line"/>
+      <point x="617" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="-203" type="line"/>
+      <point x="617" y="-203" type="line"/>
+      <point x="617" y="-101" type="line"/>
+      <point x="480" y="-101" type="line"/>
+    </contour>
+    <contour>
+      <point x="617" y="506" type="line"/>
+      <point x="618" y="506" type="line"/>
+      <point x="726" y="571" type="line"/>
+      <point x="726" y="648" type="line"/>
+      <point x="617" y="648" type="line"/>
+    </contour>
+  </outline>
+</glyph>

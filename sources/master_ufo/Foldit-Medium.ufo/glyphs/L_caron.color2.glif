@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="235" y="567" type="line"/>
+      <point x="294" y="567" type="line"/>
+      <point x="353" y="747" type="line"/>
+      <point x="353" y="748" type="line"/>
+      <point x="252" y="748" type="line"/>
+    </contour>
+  </outline>
+</glyph>

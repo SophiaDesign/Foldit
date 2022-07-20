@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="114" type="line"/>
+      <point x="42" y="114" type="line"/>
+      <point x="42" y="113" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdotbelow" format="2">
+  <advance width="516"/>
+  <unicode hex="1EC6"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="282" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="114" type="line"/>
+      <point x="44" y="114" type="line"/>
+      <point x="44" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="114" type="line"/>
+      <point x="164" y="114" type="line"/>
+      <point x="164" y="715" type="line"/>
+      <point x="44" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="318" type="line"/>
+      <point x="427" y="318" type="line"/>
+      <point x="427" y="413" type="line"/>
+      <point x="164" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="601" type="line"/>
+      <point x="404" y="601" type="line"/>
+      <point x="517" y="714" type="line"/>
+      <point x="517" y="715" type="line"/>
+      <point x="164" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="-159" type="line"/>
+      <point x="360" y="-159" type="line"/>
+      <point x="360" y="-61" type="line"/>
+      <point x="243" y="-61" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="760" type="line"/>
+      <point x="430" y="760" type="line"/>
+      <point x="430" y="761" type="line"/>
+      <point x="329" y="875" type="line"/>
+      <point x="250" y="859" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="760" type="line"/>
+      <point x="229" y="760" type="line"/>
+      <point x="329" y="875" type="line"/>
+      <point x="241" y="875" type="line"/>
+      <point x="141" y="761" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="317" y="799" type="line"/>
+      <point x="405" y="799" type="line"/>
+      <point x="405" y="872" type="line"/>
+      <point x="317" y="872" type="line"/>
+    </contour>
+  </outline>
+</glyph>

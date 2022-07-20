@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="341" y="367" type="line"/>
+      <point x="524" y="367" type="line"/>
+      <point x="524" y="526" type="line"/>
+      <point x="341" y="526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

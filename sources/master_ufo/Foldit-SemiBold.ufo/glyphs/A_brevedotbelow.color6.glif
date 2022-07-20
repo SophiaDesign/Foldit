@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevedotbelow.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB6"/>
+  <outline>
+    <contour>
+      <point x="168" y="837" type="line"/>
+      <point x="285" y="837" type="line"/>
+      <point x="251" y="875" type="line"/>
+      <point x="135" y="875" type="line"/>
+      <point x="135" y="874" type="line"/>
+    </contour>
+  </outline>
+</glyph>

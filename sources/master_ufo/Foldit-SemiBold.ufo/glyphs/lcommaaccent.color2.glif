@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="013C"/>
+  <outline>
+    <contour>
+      <point x="233" y="-222" type="line"/>
+      <point x="234" y="-222" type="line"/>
+      <point x="234" y="-38" type="line"/>
+      <point x="147" y="-38" type="line"/>
+      <point x="147" y="-153" type="line"/>
+    </contour>
+  </outline>
+</glyph>

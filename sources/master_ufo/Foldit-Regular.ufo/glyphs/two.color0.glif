@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="51" y="606" type="line"/>
+      <point x="319" y="606" type="line"/>
+      <point x="344" y="690" type="line"/>
+      <point x="133" y="690" type="line"/>
+      <point x="51" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

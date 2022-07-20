@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSophiaDesign%2FGF-Foldit%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSophiaDesign%2FGF-Foldit%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Foldit is a COLRv1 variable font which uses gradients to play with dimension and sense of space. Styles run along weight and width axes with two masters: Thin Condensed and Extrabold Expanded. First version is available in GF Latin Plus character set. Concept of this design was, as the name suggest, based on a folded paper strip.
+Foldit is a variable-gradient COLRv1 font which uses gradients to play with dimension and sense of space. Styles run along weight and width axes with two masters: Thin Condensed and Extrabold Expanded. First version is available in GF Latin Plus character set. Concept of this design was, as the name suggest, based on a folded paper strip.
 
 ![Sample Image](documentation/image1.png)
 
@@ -25,13 +25,13 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 ## Project Contributors
 
 - Viviana Monsalve (dev support) | [github](https://github.com/vv-monsalve)
-- Khaled Kosny (COLRv1 support) | [github](https://github.com/khaledhosny)
-- Simon Cozens () | github
+- Khaled Kosny (COLRv1 dev support) | [github](https://github.com/khaledhosny)
+- Cosimo Lupo ([FontTools](https://github.com/fonttools/fonttools)) | [github](https://github.com/anthrotype)
+- Simon Cozens (dev support) | [github](https://github.com/simoncozens)
 - Linh Nguyen (Vietnamese diacritics advice)
-- Cosimo Lupo () | github
-- Just van Rossum () | github
-- Laurence Penney () | github
-- Yanone () | github
+- Just van Rossum ([FontGoggles](https://fontgoggles.org/)) | [github](https://github.com/justvanrossum)
+- Laurence Penney ([Samsa](https://lorp.github.io/samsa)) | [github](https://github.com/Lorp)
+- Yanone (general support) | [github](https://github.com/yanone)
 
 ## Changelog
 
@@ -47,10 +47,10 @@ Changelog example:
 
 Guide for making your contribution to this project:
 
-1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in `GF-Foldit-origin.glyphs` source file to keep an editable version.
+1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in `Foldit-origin.glyphs` source file to keep an editable version.
 2. For COLRv1 feature make sure you only have [native Color layer type](https://glyphsapp.com/learn/creating-an-svg-color-font) selected and no others. 
-2. Make a copy of the source file and name this `GF-Foldit-decomposed.glyphs` 
-3. In `GF-Foldit-decomposed.glyphs` file, decompose all elements on all masters, and clear background on all masters. 
+2. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
+3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters, and clear background on all masters (for which you can use [use Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
 4. Generate font files locally using [fontmake](https://github.com/googlefonts/fontmake)
 
 
@@ -58,17 +58,6 @@ Guide for making your contribution to this project:
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
 
-## Building
-
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
-
-If you want to build fonts manually on your own computer:
-
-* `make build` will produce font files. // **make build doesn't work (yet)** 
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
 
 ## License
 

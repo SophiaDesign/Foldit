@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="327" y="-203" type="line"/>
+      <point x="328" y="-203" type="line"/>
+      <point x="446" y="-141" type="line"/>
+      <point x="446" y="515" type="line"/>
+      <point x="327" y="515" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

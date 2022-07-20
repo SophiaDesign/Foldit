@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="726.5"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="723" type="line"/>
+      <point x="251" y="723" type="line"/>
+      <point x="85" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="218" type="line"/>
+      <point x="85" y="218" type="line"/>
+      <point x="85" y="377" type="line"/>
+      <point x="-96" y="377" type="line"/>
+      <point x="-96" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="153" type="line"/>
+      <point x="597" y="154" type="line"/>
+      <point x="597" y="155" type="line"/>
+      <point x="574" y="178" type="line"/>
+      <point x="-4" y="177" type="line"/>
+      <point x="-4" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="218" type="line"/>
+      <point x="543" y="218" type="line"/>
+      <point x="543" y="377" type="line"/>
+      <point x="252" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="543" y="218" type="line"/>
+      <point x="544" y="218" type="line"/>
+      <point x="711" y="372" type="line"/>
+      <point x="711" y="564" type="line"/>
+      <point x="543" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="564" type="line"/>
+      <point x="711" y="564" type="line"/>
+      <point x="711" y="565" type="line"/>
+      <point x="583" y="723" type="line"/>
+      <point x="252" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

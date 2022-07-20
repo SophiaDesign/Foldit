@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehookabove.color8" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB2"/>
+  <outline>
+    <contour>
+      <point x="213" y="795" type="line"/>
+      <point x="264" y="795" type="line"/>
+      <point x="296" y="831" type="line"/>
+      <point x="296" y="832" type="line"/>
+      <point x="247" y="832" type="line"/>
+    </contour>
+  </outline>
+</glyph>

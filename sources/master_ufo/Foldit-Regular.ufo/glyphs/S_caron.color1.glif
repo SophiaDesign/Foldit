@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0160"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="304" y="84" type="line"/>
+      <point x="37" y="84" type="line"/>
+      <point x="37" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

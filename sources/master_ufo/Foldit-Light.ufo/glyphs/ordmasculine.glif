@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="251.16667"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="91" y="704" type="line"/>
+      <point x="200" y="704" type="line"/>
+      <point x="200" y="705" type="line"/>
+      <point x="164" y="742" type="line"/>
+      <point x="91" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="500" type="line"/>
+      <point x="161" y="500" type="line"/>
+      <point x="161" y="538" type="line"/>
+      <point x="52" y="538" type="line"/>
+      <point x="52" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="538" type="line"/>
+      <point x="91" y="538" type="line"/>
+      <point x="91" y="742" type="line"/>
+      <point x="90" y="742" type="line"/>
+      <point x="52" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="500" type="line"/>
+      <point x="162" y="500" type="line"/>
+      <point x="200" y="536" type="line"/>
+      <point x="200" y="704" type="line"/>
+      <point x="161" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

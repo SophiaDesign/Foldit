@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis" format="2">
+  <advance width="677"/>
+  <unicode hex="00EB"/>
+  <anchor x="349" y="0" name="bottom"/>
+  <anchor x="356" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="646" y="155" type="line"/>
+      <point x="646" y="156" type="line"/>
+      <point x="46" y="156" type="line"/>
+      <point x="46" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="156" type="line"/>
+      <point x="213" y="156" type="line"/>
+      <point x="213" y="523" type="line"/>
+      <point x="212" y="523" type="line"/>
+      <point x="46" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="216" type="line"/>
+      <point x="479" y="216" type="line"/>
+      <point x="479" y="305" type="line"/>
+      <point x="213" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="382" type="line"/>
+      <point x="646" y="382" type="line"/>
+      <point x="646" y="383" type="line"/>
+      <point x="560" y="523" type="line"/>
+      <point x="213" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="216" type="line"/>
+      <point x="480" y="216" type="line"/>
+      <point x="646" y="302" type="line"/>
+      <point x="646" y="382" type="line"/>
+      <point x="479" y="382" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="630" type="line"/>
+      <point x="520" y="630" type="line"/>
+      <point x="520" y="738" type="line"/>
+      <point x="380" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="630" type="line"/>
+      <point x="320" y="630" type="line"/>
+      <point x="320" y="738" type="line"/>
+      <point x="180" y="738" type="line"/>
+    </contour>
+  </outline>
+</glyph>

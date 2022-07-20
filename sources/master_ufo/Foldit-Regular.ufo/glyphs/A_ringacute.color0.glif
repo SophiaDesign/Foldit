@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="210" y="873" type="line"/>
+      <point x="263" y="873" type="line"/>
+      <point x="336" y="942" type="line"/>
+      <point x="336" y="943" type="line"/>
+      <point x="248" y="943" type="line"/>
+    </contour>
+  </outline>
+</glyph>

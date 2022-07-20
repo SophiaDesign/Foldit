@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="309" y="510" name="_top"/>
+  <outline>
+    <contour>
+      <point x="279" y="576" type="line"/>
+      <point x="339" y="576" type="line"/>
+      <point x="339" y="721" type="line"/>
+      <point x="338" y="721" type="line"/>
+      <point x="279" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

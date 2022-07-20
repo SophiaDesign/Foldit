@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb.case.color0" format="2">
+  <outline>
+    <contour>
+      <point x="348" y="757" type="line"/>
+      <point x="438" y="757" type="line"/>
+      <point x="438" y="758" type="line"/>
+      <point x="346" y="862" type="line"/>
+      <point x="312" y="853" type="line"/>
+      <point x="270" y="844" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

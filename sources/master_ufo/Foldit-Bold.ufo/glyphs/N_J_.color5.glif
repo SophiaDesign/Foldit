@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NJ.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="01CA"/>
+  <outline>
+    <contour>
+      <point x="713" y="564" type="line"/>
+      <point x="949" y="564" type="line"/>
+      <point x="1076" y="723" type="line"/>
+      <point x="713" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

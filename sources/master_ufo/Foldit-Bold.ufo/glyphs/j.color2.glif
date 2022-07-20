@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="59" y="488" type="line"/>
+      <point x="60" y="488" type="line"/>
+      <point x="210" y="574" type="line"/>
+      <point x="210" y="665" type="line"/>
+      <point x="59" y="665" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0169"/>
+  <outline>
+    <contour>
+      <point x="251" y="610" type="line"/>
+      <point x="304" y="606" type="line"/>
+      <point x="304" y="681" type="line"/>
+      <point x="251" y="681" type="line"/>
+    </contour>
+  </outline>
+</glyph>

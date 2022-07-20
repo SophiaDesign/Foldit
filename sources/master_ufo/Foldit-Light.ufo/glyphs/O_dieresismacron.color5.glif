@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresismacron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="022A"/>
+  <outline>
+    <contour>
+      <point x="116" y="807" type="line"/>
+      <point x="166" y="807" type="line"/>
+      <point x="166" y="854" type="line"/>
+      <point x="116" y="854" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edblgrave" format="2">
+  <advance width="570.33333"/>
+  <unicode hex="0205"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="300" y="518" name="top"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="535" y="126" type="line"/>
+      <point x="535" y="127" type="line"/>
+      <point x="47" y="127" type="line"/>
+      <point x="47" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="127" type="line"/>
+      <point x="182" y="127" type="line"/>
+      <point x="182" y="518" type="line"/>
+      <point x="181" y="518" type="line"/>
+      <point x="47" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="213" type="line"/>
+      <point x="400" y="213" type="line"/>
+      <point x="400" y="288" type="line"/>
+      <point x="182" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="403" type="line"/>
+      <point x="535" y="403" type="line"/>
+      <point x="535" y="404" type="line"/>
+      <point x="463" y="518" type="line"/>
+      <point x="182" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="213" type="line"/>
+      <point x="401" y="213" type="line"/>
+      <point x="535" y="285" type="line"/>
+      <point x="535" y="403" type="line"/>
+      <point x="400" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="582" type="line"/>
+      <point x="414" y="582" type="line"/>
+      <point x="383" y="770" type="line"/>
+      <point x="267" y="770" type="line"/>
+      <point x="267" y="769" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="582" type="line"/>
+      <point x="276" y="582" type="line"/>
+      <point x="246" y="770" type="line"/>
+      <point x="130" y="770" type="line"/>
+      <point x="130" y="769" type="line"/>
+    </contour>
+  </outline>
+</glyph>

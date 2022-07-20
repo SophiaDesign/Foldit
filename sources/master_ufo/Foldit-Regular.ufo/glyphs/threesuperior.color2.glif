@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="41" y="684" type="line"/>
+      <point x="189" y="684" type="line"/>
+      <point x="189" y="732" type="line"/>
+      <point x="96" y="732" type="line"/>
+      <point x="41" y="685" type="line"/>
+    </contour>
+  </outline>
+</glyph>

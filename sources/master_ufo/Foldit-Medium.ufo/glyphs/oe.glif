@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe" format="2">
+  <advance width="815"/>
+  <unicode hex="0153"/>
+  <outline>
+    <contour>
+      <point x="464" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="778" y="111" type="line"/>
+      <point x="778" y="112" type="line"/>
+      <point x="345" y="112" type="line"/>
+      <point x="345" y="111" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="114" type="line"/>
+      <point x="38" y="114" type="line"/>
+      <point x="38" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="114" type="line"/>
+      <point x="157" y="114" type="line"/>
+      <point x="157" y="515" type="line"/>
+      <point x="156" y="515" type="line"/>
+      <point x="38" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="413" type="line"/>
+      <point x="778" y="413" type="line"/>
+      <point x="778" y="414" type="line"/>
+      <point x="713" y="515" type="line"/>
+      <point x="465" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="211" type="line"/>
+      <point x="658" y="211" type="line"/>
+      <point x="658" y="277" type="line"/>
+      <point x="465" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="465" y="112" type="line"/>
+      <point x="465" y="401" type="line"/>
+      <point x="345" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="401" type="line"/>
+      <point x="465" y="401" type="line"/>
+      <point x="465" y="402" type="line"/>
+      <point x="400" y="515" type="line"/>
+      <point x="157" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="658" y="211" type="line"/>
+      <point x="659" y="211" type="line"/>
+      <point x="778" y="276" type="line"/>
+      <point x="778" y="413" type="line"/>
+      <point x="658" y="413" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

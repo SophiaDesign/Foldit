@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="555.91667"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="168" y="248" type="line"/>
+      <point x="169" y="248" type="line"/>
+      <point x="297" y="377" type="line"/>
+      <point x="297" y="713" type="line"/>
+      <point x="168" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="-204" type="line"/>
+      <point x="168" y="-204" type="line"/>
+      <point x="168" y="-75" type="line"/>
+      <point x="7" y="-75" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="-204" type="line"/>
+      <point x="297" y="-75" type="line"/>
+      <point x="297" y="248" type="line"/>
+      <point x="168" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="248" type="line"/>
+      <point x="168" y="248" type="line"/>
+      <point x="168" y="377" type="line"/>
+      <point x="57" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="248" type="line"/>
+      <point x="467" y="248" type="line"/>
+      <point x="467" y="377" type="line"/>
+      <point x="297" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="584" type="line"/>
+      <point x="517" y="584" type="line"/>
+      <point x="517" y="713" type="line"/>
+      <point x="297" y="713" type="line"/>
+    </contour>
+  </outline>
+</glyph>

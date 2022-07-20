@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.color0" format="2">
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="302" y="-92" type="line"/>
+      <point x="416" y="-92" type="line"/>
+      <point x="416" y="-91" type="line"/>
+      <point x="367" y="-29" type="line"/>
+      <point x="336" y="-29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

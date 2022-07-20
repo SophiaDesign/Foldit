@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="178" y="774" type="line"/>
+      <point x="298" y="774" type="line"/>
+      <point x="341" y="822" type="line"/>
+      <point x="135" y="822" type="line"/>
+    </contour>
+  </outline>
+</glyph>

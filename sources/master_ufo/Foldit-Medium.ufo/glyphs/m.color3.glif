@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="568" y="-4" type="line"/>
+      <point x="569" y="-4" type="line"/>
+      <point x="688" y="31" type="line"/>
+      <point x="688" y="401" type="line"/>
+      <point x="568" y="401" type="line"/>
+    </contour>
+  </outline>
+</glyph>

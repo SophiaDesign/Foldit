@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idblgrave.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="0208"/>
+  <outline>
+    <contour>
+      <point x="108" y="766" type="line"/>
+      <point x="166" y="766" type="line"/>
+      <point x="137" y="874" type="line"/>
+      <point x="48" y="874" type="line"/>
+      <point x="48" y="873" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="508" y="84" type="line"/>
+      <point x="47" y="84" type="line"/>
+    </contour>
+  </outline>
+</glyph>

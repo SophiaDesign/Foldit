@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="50" y="214" type="line"/>
+      <point x="659" y="215" type="line"/>
+      <point x="659" y="216" type="line"/>
+      <point x="636" y="239" type="line"/>
+      <point x="27" y="238" type="line"/>
+      <point x="27" y="237" type="line"/>
+    </contour>
+  </outline>
+</glyph>

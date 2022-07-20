@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorntilde.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="1EEE"/>
+  <outline>
+    <contour>
+      <point x="376" y="769" type="line"/>
+      <point x="384" y="769" type="line"/>
+      <point x="473" y="814" type="line"/>
+      <point x="473" y="815" type="line"/>
+      <point x="247" y="893" type="line"/>
+      <point x="239" y="893" type="line"/>
+      <point x="150" y="849" type="line"/>
+      <point x="150" y="848" type="line"/>
+    </contour>
+  </outline>
+</glyph>

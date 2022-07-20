@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udblgrave" format="2">
+  <advance width="552.83333"/>
+  <unicode hex="0215"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="501" y="518" name="horn"/>
+  <anchor x="289" y="518" name="top"/>
+  <outline>
+    <contour>
+      <point x="377" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="511" y="518" type="line"/>
+      <point x="377" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="129" type="line"/>
+      <point x="42" y="129" type="line"/>
+      <point x="42" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="129" type="line"/>
+      <point x="176" y="129" type="line"/>
+      <point x="176" y="524" type="line"/>
+      <point x="175" y="524" type="line"/>
+      <point x="42" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="582" type="line"/>
+      <point x="403" y="582" type="line"/>
+      <point x="372" y="770" type="line"/>
+      <point x="256" y="770" type="line"/>
+      <point x="256" y="769" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="582" type="line"/>
+      <point x="265" y="582" type="line"/>
+      <point x="235" y="770" type="line"/>
+      <point x="119" y="770" type="line"/>
+      <point x="119" y="769" type="line"/>
+    </contour>
+  </outline>
+</glyph>

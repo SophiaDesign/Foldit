@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="0153"/>
+  <outline>
+    <contour>
+      <point x="889" y="216" type="line"/>
+      <point x="890" y="216" type="line"/>
+      <point x="1057" y="302" type="line"/>
+      <point x="1057" y="382" type="line"/>
+      <point x="889" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

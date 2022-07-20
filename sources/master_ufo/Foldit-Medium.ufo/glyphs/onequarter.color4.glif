@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="654" y="714" type="line"/>
+      <point x="654" y="715" type="line"/>
+      <point x="526" y="715" type="line"/>
+      <point x="106" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

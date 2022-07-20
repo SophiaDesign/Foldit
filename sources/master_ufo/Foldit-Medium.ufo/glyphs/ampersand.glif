@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand" format="2">
+  <advance width="738"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="231" y="586" type="line"/>
+      <point x="408" y="586" type="line"/>
+      <point x="408" y="700" type="line"/>
+      <point x="231" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="422" type="line"/>
+      <point x="231" y="422" type="line"/>
+      <point x="231" y="700" type="line"/>
+      <point x="230" y="700" type="line"/>
+      <point x="142" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="701" y="4" type="line"/>
+      <point x="701" y="5" type="line"/>
+      <point x="460" y="392" type="line"/>
+      <point x="323" y="392" type="line"/>
+      <point x="311" y="392" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="417" y="114" type="line"/>
+      <point x="143" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="308" type="line"/>
+      <point x="408" y="308" type="line"/>
+      <point x="408" y="422" type="line"/>
+      <point x="143" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="422" type="line"/>
+      <point x="142" y="422" type="line"/>
+      <point x="34" y="311" type="line"/>
+      <point x="34" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="569" y="133" type="line"/>
+      <point x="713" y="392" type="line"/>
+      <point x="713" y="393" type="line"/>
+      <point x="578" y="399" type="line"/>
+      <point x="417" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="308" type="line"/>
+      <point x="409" y="308" type="line"/>
+      <point x="496" y="422" type="line"/>
+      <point x="496" y="626" type="line"/>
+      <point x="409" y="700" type="line"/>
+      <point x="408" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

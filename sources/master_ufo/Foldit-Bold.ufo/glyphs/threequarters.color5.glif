@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="748" y="722" type="line"/>
+      <point x="748" y="723" type="line"/>
+      <point x="568" y="723" type="line"/>
+      <point x="61" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

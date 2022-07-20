@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <anchor x="310" y="710" name="_top"/>
+  <outline>
+    <contour>
+      <point x="354" y="757" type="line"/>
+      <point x="432" y="757" type="line"/>
+      <point x="432" y="758" type="line"/>
+      <point x="352" y="839" type="line"/>
+      <point x="294" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="757" type="line"/>
+      <point x="250" y="757" type="line"/>
+      <point x="352" y="839" type="line"/>
+      <point x="274" y="839" type="line"/>
+      <point x="175" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="869" type="line"/>
+      <point x="252" y="869" type="line"/>
+      <point x="252" y="929" type="line"/>
+      <point x="192" y="928" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="881" type="line"/>
+      <point x="418" y="884" type="line"/>
+      <point x="418" y="946" type="line"/>
+      <point x="360" y="946" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="866" type="line"/>
+      <point x="383" y="866" type="line"/>
+      <point x="418" y="883" type="line"/>
+      <point x="418" y="884" type="line"/>
+      <point x="238" y="948" type="line"/>
+      <point x="237" y="948" type="line"/>
+      <point x="192" y="929" type="line"/>
+      <point x="192" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

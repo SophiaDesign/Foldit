@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorntilde.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EE0"/>
+  <outline>
+    <contour>
+      <point x="491" y="626" type="line"/>
+      <point x="492" y="626" type="line"/>
+      <point x="590" y="691" type="line"/>
+      <point x="590" y="811" type="line"/>
+      <point x="491" y="811" type="line"/>
+    </contour>
+  </outline>
+</glyph>

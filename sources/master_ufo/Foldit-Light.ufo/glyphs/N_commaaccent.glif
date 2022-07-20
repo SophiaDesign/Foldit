@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent" format="2">
+  <advance width="397"/>
+  <unicode hex="0145"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="209" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="347" y="44" type="line"/>
+      <point x="347" y="705" type="line"/>
+      <point x="291" y="705" type="line"/>
+      <point x="291" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="106" y="609" type="line"/>
+      <point x="50" y="664" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="-3" type="line"/>
+      <point x="305" y="-3" type="line"/>
+      <point x="347" y="43" type="line"/>
+      <point x="347" y="44" type="line"/>
+      <point x="96" y="709" type="line"/>
+      <point x="95" y="709" type="line"/>
+      <point x="50" y="665" type="line"/>
+      <point x="50" y="664" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="-164" type="line"/>
+      <point x="230" y="-164" type="line"/>
+      <point x="230" y="-47" type="line"/>
+      <point x="188" y="-47" type="line"/>
+      <point x="188" y="-128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

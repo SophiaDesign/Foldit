@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdieresis.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="379" y="640" type="line"/>
+      <point x="555" y="640" type="line"/>
+      <point x="555" y="772" type="line"/>
+      <point x="379" y="772" type="line"/>
+    </contour>
+  </outline>
+</glyph>

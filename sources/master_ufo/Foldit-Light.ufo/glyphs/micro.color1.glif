@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="106" y="-2" type="line"/>
+      <point x="185" y="-2" type="line"/>
+      <point x="185" y="51" type="line"/>
+      <point x="106" y="52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="012C"/>
+  <outline>
+    <contour>
+      <point x="104" y="846" type="line"/>
+      <point x="245" y="846" type="line"/>
+      <point x="210" y="885" type="line"/>
+      <point x="70" y="885" type="line"/>
+      <point x="70" y="884" type="line"/>
+    </contour>
+  </outline>
+</glyph>

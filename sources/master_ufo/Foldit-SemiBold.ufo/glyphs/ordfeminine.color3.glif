@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="275" y="495" type="line"/>
+      <point x="356" y="495" type="line"/>
+      <point x="356" y="695" type="line"/>
+      <point x="275" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

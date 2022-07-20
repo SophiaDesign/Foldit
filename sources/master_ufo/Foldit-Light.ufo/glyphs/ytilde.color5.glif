@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ytilde.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF9"/>
+  <outline>
+    <contour>
+      <point x="191" y="600" type="line"/>
+      <point x="228" y="598" type="line"/>
+      <point x="228" y="662" type="line"/>
+      <point x="191" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="423" y="26" type="line"/>
+      <point x="582" y="236" type="line"/>
+      <point x="544" y="288" type="line"/>
+      <point x="379" y="63" type="line"/>
+      <point x="379" y="62" type="line"/>
+    </contour>
+  </outline>
+</glyph>

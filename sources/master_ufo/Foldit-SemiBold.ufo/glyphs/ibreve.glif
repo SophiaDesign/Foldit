@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="272"/>
+  <unicode hex="012D"/>
+  <anchor x="142" y="0" name="bottom"/>
+  <anchor x="146" y="518" name="top"/>
+  <outline>
+    <contour>
+      <point x="68" y="595" type="line"/>
+      <point x="203" y="595" type="line"/>
+      <point x="244" y="664" type="line"/>
+      <point x="28" y="664" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="503" type="line"/>
+      <point x="209" y="519" type="line"/>
+      <point x="76" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="664" type="line"/>
+      <point x="118" y="664" type="line"/>
+      <point x="82" y="732" type="line"/>
+      <point x="-8" y="732" type="line"/>
+      <point x="-8" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="664" type="line"/>
+      <point x="244" y="664" type="line"/>
+      <point x="280" y="731" type="line"/>
+      <point x="280" y="732" type="line"/>
+      <point x="195" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

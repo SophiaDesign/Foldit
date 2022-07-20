@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance width="1001"/>
+  <unicode hex="1E80"/>
+  <anchor x="500" y="723" name="top"/>
+  <outline>
+    <contour>
+      <point x="642" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="745" y="147" type="line"/>
+      <point x="580" y="723" type="line"/>
+      <point x="421" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="312" y="147" type="line"/>
+      <point x="194" y="723" type="line"/>
+      <point x="5" y="723" type="line"/>
+      <point x="5" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="580" y="723" type="line"/>
+      <point x="421" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="643" y="0" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="996" y="722" type="line"/>
+      <point x="996" y="723" type="line"/>
+      <point x="808" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="755" type="line"/>
+      <point x="563" y="755" type="line"/>
+      <point x="534" y="890" type="line"/>
+      <point x="373" y="890" type="line"/>
+      <point x="373" y="889" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0177"/>
+  <outline>
+    <contour>
+      <point x="96" y="590" type="line"/>
+      <point x="164" y="590" type="line"/>
+      <point x="238" y="710" type="line"/>
+      <point x="174" y="710" type="line"/>
+      <point x="96" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

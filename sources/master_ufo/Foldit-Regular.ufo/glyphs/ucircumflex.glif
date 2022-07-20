@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="400.33333"/>
+  <unicode hex="00FB"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="339" y="510" name="horn"/>
+  <anchor x="212" y="652" name="top"/>
+  <outline>
+    <contour>
+      <point x="268" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="510" type="line"/>
+      <point x="268" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="84" type="line"/>
+      <point x="45" y="84" type="line"/>
+      <point x="45" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="84" type="line"/>
+      <point x="132" y="84" type="line"/>
+      <point x="132" y="516" type="line"/>
+      <point x="131" y="516" type="line"/>
+      <point x="45" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="590" type="line"/>
+      <point x="312" y="590" type="line"/>
+      <point x="312" y="591" type="line"/>
+      <point x="236" y="710" type="line"/>
+      <point x="180" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="590" type="line"/>
+      <point x="162" y="590" type="line"/>
+      <point x="236" y="710" type="line"/>
+      <point x="172" y="710" type="line"/>
+      <point x="94" y="591" type="line"/>
+    </contour>
+  </outline>
+</glyph>

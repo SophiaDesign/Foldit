@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="199" y="285" type="line"/>
+      <point x="474" y="285" type="line"/>
+      <point x="474" y="444" type="line"/>
+      <point x="199" y="444" type="line"/>
+    </contour>
+  </outline>
+</glyph>

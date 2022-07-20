@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="326" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="322" y="-44" type="line"/>
+      <point x="357" y="-44" type="line"/>
+      <point x="357" y="-43" type="line"/>
+      <point x="339" y="-25" type="line"/>
+      <point x="322" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="-44" type="line"/>
+      <point x="322" y="-44" type="line"/>
+      <point x="337" y="-1" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="301" y="-43" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="-109" type="line"/>
+      <point x="336" y="-109" type="line"/>
+      <point x="336" y="-90" type="line"/>
+      <point x="286" y="-90" type="line"/>
+      <point x="286" y="-91" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="-109" type="line"/>
+      <point x="337" y="-109" type="line"/>
+      <point x="357" y="-91" type="line"/>
+      <point x="357" y="-44" type="line"/>
+      <point x="336" y="-44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

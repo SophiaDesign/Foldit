@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflextilde.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1ED7"/>
+  <outline>
+    <contour>
+      <point x="89" y="678" type="line"/>
+      <point x="126" y="678" type="line"/>
+      <point x="126" y="736" type="line"/>
+      <point x="89" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

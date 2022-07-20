@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1ED3"/>
+  <outline>
+    <contour>
+      <point x="350" y="562" type="line"/>
+      <point x="468" y="562" type="line"/>
+      <point x="468" y="563" type="line"/>
+      <point x="359" y="675" type="line"/>
+      <point x="329" y="675" type="line"/>
+      <point x="260" y="657" type="line"/>
+    </contour>
+  </outline>
+</glyph>

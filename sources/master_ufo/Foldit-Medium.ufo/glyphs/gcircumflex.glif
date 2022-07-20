@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcircumflex" format="2">
+  <advance width="513.5"/>
+  <unicode hex="011D"/>
+  <anchor x="296" y="677" name="top"/>
+  <outline>
+    <contour>
+      <point x="161" y="401" type="line"/>
+      <point x="455" y="401" type="line"/>
+      <point x="508" y="514" type="line"/>
+      <point x="508" y="515" type="line"/>
+      <point x="161" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="-203" type="line"/>
+      <point x="327" y="-203" type="line"/>
+      <point x="327" y="-101" type="line"/>
+      <point x="43" y="-101" type="line"/>
+      <point x="43" y="-102" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="327" y="114" type="line"/>
+      <point x="43" y="114" type="line"/>
+      <point x="43" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="114" type="line"/>
+      <point x="161" y="114" type="line"/>
+      <point x="161" y="515" type="line"/>
+      <point x="160" y="515" type="line"/>
+      <point x="43" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="-203" type="line"/>
+      <point x="328" y="-203" type="line"/>
+      <point x="446" y="-141" type="line"/>
+      <point x="446" y="401" type="line"/>
+      <point x="327" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="591" type="line"/>
+      <point x="420" y="591" type="line"/>
+      <point x="420" y="592" type="line"/>
+      <point x="329" y="725" type="line"/>
+      <point x="256" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="591" type="line"/>
+      <point x="240" y="591" type="line"/>
+      <point x="329" y="725" type="line"/>
+      <point x="245" y="725" type="line"/>
+      <point x="150" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

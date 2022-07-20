@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="751.25"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="719" y="722" type="line"/>
+      <point x="719" y="723" type="line"/>
+      <point x="539" y="723" type="line"/>
+      <point x="32" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="471" type="line"/>
+      <point x="157" y="471" type="line"/>
+      <point x="157" y="690" type="line"/>
+      <point x="30" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="13" type="line"/>
+      <point x="580" y="13" type="line"/>
+      <point x="580" y="231" type="line"/>
+      <point x="455" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="471" type="line"/>
+      <point x="283" y="471" type="line"/>
+      <point x="283" y="581" type="line"/>
+      <point x="157" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="13" type="line"/>
+      <point x="707" y="13" type="line"/>
+      <point x="707" y="121" type="line"/>
+      <point x="580" y="121" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="581" type="line"/>
+      <point x="283" y="581" type="line"/>
+      <point x="283" y="690" type="line"/>
+      <point x="157" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="121" type="line"/>
+      <point x="707" y="121" type="line"/>
+      <point x="707" y="231" type="line"/>
+      <point x="580" y="231" type="line"/>
+    </contour>
+  </outline>
+</glyph>

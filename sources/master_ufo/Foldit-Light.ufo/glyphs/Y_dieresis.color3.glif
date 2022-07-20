@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="195" y="807" type="line"/>
+      <point x="245" y="807" type="line"/>
+      <point x="245" y="854" type="line"/>
+      <point x="195" y="854" type="line"/>
+    </contour>
+  </outline>
+</glyph>

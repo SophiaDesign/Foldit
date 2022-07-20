@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="366" y="747" type="line"/>
+      <point x="441" y="747" type="line"/>
+      <point x="512" y="877" type="line"/>
+      <point x="512" y="878" type="line"/>
+      <point x="394" y="878" type="line"/>
+    </contour>
+  </outline>
+</glyph>

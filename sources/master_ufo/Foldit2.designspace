@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Foldit2-Thin-origin.ufo" name="Foldit2 Thin-origin" familyname="Foldit2" stylename="Thin-origin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Foldit2-Light.ufo" name="Foldit2 Light" familyname="Foldit2" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Foldit2-Regular.ufo" name="Foldit2 Regular" familyname="Foldit2" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Foldit2-Medium.ufo" name="Foldit2 Medium" familyname="Foldit2" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="Foldit2-SemiBold.ufo" name="Foldit2 SemiBold" familyname="Foldit2" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="Foldit2-Bold.ufo" name="Foldit2 Bold" familyname="Foldit2" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="Foldit2-ExtraBold-origin.ufo" name="Foldit2 ExtraBold-origin" familyname="Foldit2" stylename="ExtraBold-origin">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="Foldit2-Black-origin.ufo" name="Foldit2 Black-origin" familyname="Foldit2" stylename="Black-origin">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Foldit2 Thin" familyname="Foldit2" stylename="Thin" filename="../instance_ufo/Foldit2-Thin.ufo" stylemapfamilyname="Foldit2 Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 Light" familyname="Foldit2" stylename="Light" filename="../instance_ufo/Foldit2-Light.ufo" stylemapfamilyname="Foldit2 Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 Regular" familyname="Foldit2" stylename="Regular" filename="../instance_ufo/Foldit2-Regular.ufo" stylemapfamilyname="Foldit2" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 Medium" familyname="Foldit2" stylename="Medium" filename="../instance_ufo/Foldit2-Medium.ufo" stylemapfamilyname="Foldit2 Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 SemiBold" familyname="Foldit2" stylename="SemiBold" filename="../instance_ufo/Foldit2-SemiBold.ufo" stylemapfamilyname="Foldit2 SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 Bold" familyname="Foldit2" stylename="Bold" filename="../instance_ufo/Foldit2-Bold.ufo" stylemapfamilyname="Foldit2 Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 ExtraBold" familyname="Foldit2" stylename="ExtraBold" filename="../instance_ufo/Foldit2-ExtraBold.ufo" stylemapfamilyname="Foldit2 ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit2 Black" familyname="Foldit2" stylename="Black" filename="../instance_ufo/Foldit2-Black.ufo" stylemapfamilyname="Foldit2 Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>33AE93C6-B8B3-427A-A53B-F24970E840CE</key>
+        <dict>
+          <key>HV</key>
+          <string>24</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

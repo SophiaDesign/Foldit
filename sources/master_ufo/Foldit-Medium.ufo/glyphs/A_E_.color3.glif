@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="377" y="114" type="line"/>
+      <point x="496" y="114" type="line"/>
+      <point x="496" y="601" type="line"/>
+      <point x="377" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

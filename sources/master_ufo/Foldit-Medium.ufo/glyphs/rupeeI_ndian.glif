@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="593.5"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="39" y="436" type="line"/>
+      <point x="479" y="436" type="line"/>
+      <point x="592" y="534" type="line"/>
+      <point x="592" y="535" type="line"/>
+      <point x="153" y="535" type="line"/>
+      <point x="39" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="1" type="line"/>
+      <point x="161" y="328" type="line"/>
+      <point x="95" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="260" type="line"/>
+      <point x="268" y="260" type="line"/>
+      <point x="268" y="359" type="line"/>
+      <point x="95" y="359" type="line"/>
+      <point x="95" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="260" type="line"/>
+      <point x="269" y="260" type="line"/>
+      <point x="388" y="376" type="line"/>
+      <point x="388" y="616" type="line"/>
+      <point x="268" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="616" type="line"/>
+      <point x="388" y="616" type="line"/>
+      <point x="295" y="715" type="line"/>
+      <point x="50" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="616" type="line"/>
+      <point x="478" y="616" type="line"/>
+      <point x="592" y="714" type="line"/>
+      <point x="592" y="715" type="line"/>
+      <point x="295" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

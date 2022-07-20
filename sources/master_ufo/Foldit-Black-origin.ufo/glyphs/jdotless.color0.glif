@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="62" y="-206" type="line"/>
+      <point x="63" y="-206" type="line"/>
+      <point x="296" y="-99" type="line"/>
+      <point x="296" y="530" type="line"/>
+      <point x="295" y="530" type="line"/>
+      <point x="62" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+    </dict>
+  </lib>
+</glyph>

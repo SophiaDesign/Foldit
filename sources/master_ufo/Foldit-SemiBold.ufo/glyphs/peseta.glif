@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="670.75"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="718" type="line"/>
+      <point x="208" y="718" type="line"/>
+      <point x="74" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="248" type="line"/>
+      <point x="462" y="248" type="line"/>
+      <point x="462" y="377" type="line"/>
+      <point x="209" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="470" type="line"/>
+      <point x="683" y="471" type="line"/>
+      <point x="683" y="472" type="line"/>
+      <point x="660" y="495" type="line"/>
+      <point x="-2" y="494" type="line"/>
+      <point x="12" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="248" type="line"/>
+      <point x="463" y="248" type="line"/>
+      <point x="598" y="373" type="line"/>
+      <point x="598" y="589" type="line"/>
+      <point x="462" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="589" type="line"/>
+      <point x="598" y="589" type="line"/>
+      <point x="598" y="590" type="line"/>
+      <point x="494" y="718" type="line"/>
+      <point x="209" y="718" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f.color6" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="471" y="377" type="line"/>
+      <point x="605" y="377" type="line"/>
+      <point x="605" y="702" type="line"/>
+      <point x="604" y="702" type="line"/>
+      <point x="471" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

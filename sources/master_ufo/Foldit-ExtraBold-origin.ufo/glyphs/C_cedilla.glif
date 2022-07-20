@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance width="822"/>
+  <unicode hex="00C7"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="436" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="822" y="203" type="line"/>
+      <point x="822" y="204" type="line"/>
+      <point x="25" y="204" type="line"/>
+      <point x="25" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="204" type="line"/>
+      <point x="239" y="204" type="line"/>
+      <point x="239" y="730" type="line"/>
+      <point x="238" y="730" type="line"/>
+      <point x="25" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="526" type="line"/>
+      <point x="822" y="526" type="line"/>
+      <point x="822" y="527" type="line"/>
+      <point x="620" y="730" type="line"/>
+      <point x="239" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="-126" type="line"/>
+      <point x="611" y="-126" type="line"/>
+      <point x="611" y="-125" type="line"/>
+      <point x="541" y="-32" type="line"/>
+      <point x="497" y="-32" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="-126" type="line"/>
+      <point x="441" y="-126" type="line"/>
+      <point x="527" y="-1" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="335" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="-260" type="line"/>
+      <point x="503" y="-260" type="line"/>
+      <point x="503" y="-168" type="line"/>
+      <point x="285" y="-168" type="line"/>
+      <point x="285" y="-169" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="-260" type="line"/>
+      <point x="504" y="-260" type="line"/>
+      <point x="611" y="-204" type="line"/>
+      <point x="611" y="-126" type="line"/>
+      <point x="503" y="-126" type="line"/>
+    </contour>
+  </outline>
+</glyph>

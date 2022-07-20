@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhookabove" format="2">
+  <advance width="654.5"/>
+  <unicode hex="1EE7"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="609" y="523" name="horn"/>
+  <anchor x="342" y="523" name="top"/>
+  <outline>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="615" y="523" type="line"/>
+      <point x="449" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="449" y="159" type="line"/>
+      <point x="39" y="159" type="line"/>
+      <point x="39" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="159" type="line"/>
+      <point x="205" y="159" type="line"/>
+      <point x="205" y="529" type="line"/>
+      <point x="204" y="529" type="line"/>
+      <point x="39" y="488" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="585" type="line"/>
+      <point x="379" y="585" type="line"/>
+      <point x="477" y="716" type="line"/>
+      <point x="477" y="717" type="line"/>
+      <point x="408" y="807" type="line"/>
+      <point x="284" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="716" type="line"/>
+      <point x="477" y="716" type="line"/>
+      <point x="477" y="717" type="line"/>
+      <point x="408" y="807" type="line"/>
+      <point x="212" y="807" type="line"/>
+    </contour>
+  </outline>
+</glyph>

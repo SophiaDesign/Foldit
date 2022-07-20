@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornhookabove.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EED"/>
+  <outline>
+    <contour>
+      <point x="180" y="703" type="line"/>
+      <point x="403" y="703" type="line"/>
+      <point x="403" y="704" type="line"/>
+      <point x="345" y="779" type="line"/>
+      <point x="180" y="779" type="line"/>
+    </contour>
+  </outline>
+</glyph>

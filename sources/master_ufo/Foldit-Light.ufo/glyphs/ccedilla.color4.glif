@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedilla.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <contour>
+      <point x="108" y="-58" type="line"/>
+      <point x="143" y="-58" type="line"/>
+      <point x="170" y="-1" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="108" y="-57" type="line"/>
+    </contour>
+  </outline>
+</glyph>

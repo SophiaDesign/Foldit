@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="408" y="308" type="line"/>
+      <point x="409" y="308" type="line"/>
+      <point x="496" y="422" type="line"/>
+      <point x="496" y="626" type="line"/>
+      <point x="409" y="700" type="line"/>
+      <point x="408" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

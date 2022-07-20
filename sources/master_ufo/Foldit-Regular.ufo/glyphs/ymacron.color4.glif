@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0233"/>
+  <outline>
+    <contour>
+      <point x="96" y="617" type="line"/>
+      <point x="310" y="617" type="line"/>
+      <point x="310" y="670" type="line"/>
+      <point x="96" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

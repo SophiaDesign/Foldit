@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <contour>
+      <point x="644" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="858" y="107" type="line"/>
+      <point x="858" y="326" type="line"/>
+      <point x="644" y="326" type="line"/>
+    </contour>
+  </outline>
+</glyph>

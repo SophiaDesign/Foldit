@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.color9" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB5"/>
+  <outline>
+    <contour>
+      <point x="212" y="681" type="line"/>
+      <point x="215" y="681" type="line"/>
+      <point x="250" y="695" type="line"/>
+      <point x="250" y="699" type="line"/>
+      <point x="141" y="756" type="line"/>
+      <point x="140" y="756" type="line"/>
+      <point x="107" y="740" type="line"/>
+      <point x="107" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

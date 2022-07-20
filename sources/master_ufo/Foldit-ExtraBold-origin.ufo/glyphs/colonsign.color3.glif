@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="287" y="-56" type="line"/>
+      <point x="331" y="-56" type="line"/>
+      <point x="513" y="785" type="line"/>
+      <point x="513" y="786" type="line"/>
+      <point x="469" y="786" type="line"/>
+      <point x="287" y="-55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF8"/>
+  <outline>
+    <contour>
+      <point x="98" y="782" type="line"/>
+      <point x="160" y="782" type="line"/>
+      <point x="160" y="846" type="line"/>
+      <point x="98" y="843" type="line"/>
+    </contour>
+  </outline>
+</glyph>

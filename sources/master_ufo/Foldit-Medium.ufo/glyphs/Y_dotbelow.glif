@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydotbelow" format="2">
+  <advance width="515"/>
+  <unicode hex="1EF4"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="264" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="205" y="317" type="line"/>
+      <point x="206" y="317" type="line"/>
+      <point x="269" y="412" type="line"/>
+      <point x="140" y="715" type="line"/>
+      <point x="11" y="715" type="line"/>
+      <point x="11" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="317" type="line"/>
+      <point x="205" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="317" type="line"/>
+      <point x="324" y="317" type="line"/>
+      <point x="503" y="714" type="line"/>
+      <point x="503" y="715" type="line"/>
+      <point x="374" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="-159" type="line"/>
+      <point x="324" y="-159" type="line"/>
+      <point x="324" y="-61" type="line"/>
+      <point x="207" y="-61" type="line"/>
+    </contour>
+  </outline>
+</glyph>

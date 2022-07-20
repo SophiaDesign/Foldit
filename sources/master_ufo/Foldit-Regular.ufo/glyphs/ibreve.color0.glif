@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="56" y="592" type="line"/>
+      <point x="156" y="592" type="line"/>
+      <point x="184" y="642" type="line"/>
+      <point x="30" y="642" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="61" y="339" type="line"/>
+      <point x="493" y="340" type="line"/>
+      <point x="493" y="341" type="line"/>
+      <point x="440" y="389" type="line"/>
+      <point x="8" y="388" type="line"/>
+      <point x="8" y="387" type="line"/>
+    </contour>
+  </outline>
+</glyph>

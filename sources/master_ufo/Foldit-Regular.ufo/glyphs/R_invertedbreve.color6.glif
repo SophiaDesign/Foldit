@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rinvertedbreve.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="0212"/>
+  <outline>
+    <contour>
+      <point x="94" y="774" type="line"/>
+      <point x="168" y="774" type="line"/>
+      <point x="207" y="818" type="line"/>
+      <point x="133" y="818" type="line"/>
+      <point x="94" y="776" type="line"/>
+    </contour>
+  </outline>
+</glyph>

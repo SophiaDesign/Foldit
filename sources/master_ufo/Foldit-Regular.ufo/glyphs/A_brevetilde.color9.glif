@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde.color9" format="2">
+  <advance width="600"/>
+  <unicode hex="1EB4"/>
+  <outline>
+    <contour>
+      <point x="160" y="761" type="line"/>
+      <point x="280" y="761" type="line"/>
+      <point x="323" y="806" type="line"/>
+      <point x="117" y="806" type="line"/>
+    </contour>
+  </outline>
+</glyph>

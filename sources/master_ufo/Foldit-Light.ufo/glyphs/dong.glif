@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="317.16667"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="199" y="63" type="line"/>
+      <point x="200" y="63" type="line"/>
+      <point x="255" y="100" type="line"/>
+      <point x="255" y="447" type="line"/>
+      <point x="199" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="1" type="line"/>
+      <point x="262" y="24" type="line"/>
+      <point x="49" y="24" type="line"/>
+      <point x="49" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="449" type="line"/>
+      <point x="255" y="449" type="line"/>
+      <point x="255" y="741" type="line"/>
+      <point x="199" y="741" type="line"/>
+      <point x="199" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="447" type="line"/>
+      <point x="255" y="447" type="line"/>
+      <point x="255" y="448" type="line"/>
+      <point x="209" y="501" type="line"/>
+      <point x="107" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="63" type="line"/>
+      <point x="199" y="63" type="line"/>
+      <point x="199" y="117" type="line"/>
+      <point x="51" y="117" type="line"/>
+      <point x="51" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="117" type="line"/>
+      <point x="107" y="117" type="line"/>
+      <point x="107" y="501" type="line"/>
+      <point x="106" y="501" type="line"/>
+      <point x="51" y="464" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="607" type="line"/>
+      <point x="311" y="607" type="line"/>
+      <point x="311" y="608" type="line"/>
+      <point x="288" y="631" type="line"/>
+      <point x="95" y="631" type="line"/>
+      <point x="95" y="630" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="-13" y="631" type="line"/>
+      <point x="281" y="631" type="line"/>
+      <point x="281" y="721" type="line"/>
+      <point x="-13" y="721" type="line"/>
+    </contour>
+  </outline>
+</glyph>

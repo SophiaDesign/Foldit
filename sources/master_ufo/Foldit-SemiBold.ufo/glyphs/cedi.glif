@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="604.08333"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="278" y="-54" type="line"/>
+      <point x="279" y="-54" type="line"/>
+      <point x="406" y="-31" type="line"/>
+      <point x="404" y="774" type="line"/>
+      <point x="403" y="774" type="line"/>
+      <point x="277" y="751" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="595" y="129" type="line"/>
+      <point x="37" y="129" type="line"/>
+      <point x="37" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="129" type="line"/>
+      <point x="172" y="129" type="line"/>
+      <point x="172" y="718" type="line"/>
+      <point x="171" y="718" type="line"/>
+      <point x="37" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="589" type="line"/>
+      <point x="595" y="589" type="line"/>
+      <point x="595" y="590" type="line"/>
+      <point x="467" y="718" type="line"/>
+      <point x="172" y="718" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="157" y="599" type="line"/>
+      <point x="236" y="599" type="line"/>
+      <point x="236" y="680" type="line"/>
+      <point x="157" y="691" type="line"/>
+    </contour>
+  </outline>
+</glyph>

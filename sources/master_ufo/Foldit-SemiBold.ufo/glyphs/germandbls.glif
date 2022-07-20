@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="592"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="37" y="-200" type="line"/>
+      <point x="172" y="-200" type="line"/>
+      <point x="172" y="800" type="line"/>
+      <point x="171" y="800" type="line"/>
+      <point x="37" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="129" type="line"/>
+      <point x="280" y="129" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="671" type="line"/>
+      <point x="269" y="671" type="line"/>
+      <point x="269" y="800" type="line"/>
+      <point x="172" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="408" type="line"/>
+      <point x="405" y="676" type="line"/>
+      <point x="270" y="800" type="line"/>
+      <point x="269" y="800" type="line"/>
+      <point x="269" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="315" type="line"/>
+      <point x="421" y="315" type="line"/>
+      <point x="421" y="461" type="line"/>
+      <point x="269" y="461" type="line"/>
+      <point x="269" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="556" y="122" type="line"/>
+      <point x="556" y="339" type="line"/>
+      <point x="422" y="461" type="line"/>
+      <point x="421" y="461" type="line"/>
+    </contour>
+  </outline>
+</glyph>

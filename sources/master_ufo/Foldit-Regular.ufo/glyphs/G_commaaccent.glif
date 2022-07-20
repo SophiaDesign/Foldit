@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="484.33333"/>
+  <unicode hex="0122"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="253" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="626" type="line"/>
+      <point x="448" y="626" type="line"/>
+      <point x="448" y="627" type="line"/>
+      <point x="365" y="710" type="line"/>
+      <point x="131" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="84" type="line"/>
+      <point x="43" y="84" type="line"/>
+      <point x="43" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="84" type="line"/>
+      <point x="131" y="84" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="130" y="710" type="line"/>
+      <point x="43" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="323" type="line"/>
+      <point x="360" y="323" type="line"/>
+      <point x="360" y="407" type="line"/>
+      <point x="181" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="448" y="82" type="line"/>
+      <point x="448" y="327" type="line"/>
+      <point x="361" y="407" type="line"/>
+      <point x="360" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="-187" type="line"/>
+      <point x="292" y="-187" type="line"/>
+      <point x="292" y="-44" type="line"/>
+      <point x="232" y="-44" type="line"/>
+      <point x="232" y="-138" type="line"/>
+    </contour>
+  </outline>
+</glyph>

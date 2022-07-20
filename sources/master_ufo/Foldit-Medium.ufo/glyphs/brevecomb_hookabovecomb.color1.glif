@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb.color1" format="2">
+  <outline>
+    <contour>
+      <point x="188" y="628" type="line"/>
+      <point x="264" y="628" type="line"/>
+      <point x="226" y="688" type="line"/>
+      <point x="150" y="688" type="line"/>
+      <point x="150" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oinvertedbreve" format="2">
+  <advance width="550"/>
+  <unicode hex="020E"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="439" y="715" name="horn"/>
+  <anchor x="288" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="158" y="601" type="line"/>
+      <point x="511" y="601" type="line"/>
+      <point x="511" y="602" type="line"/>
+      <point x="419" y="715" type="line"/>
+      <point x="158" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="114" type="line"/>
+      <point x="39" y="114" type="line"/>
+      <point x="39" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="114" type="line"/>
+      <point x="158" y="114" type="line"/>
+      <point x="158" y="715" type="line"/>
+      <point x="157" y="715" type="line"/>
+      <point x="39" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="511" y="116" type="line"/>
+      <point x="511" y="601" type="line"/>
+      <point x="392" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="819" type="line"/>
+      <point x="410" y="819" type="line"/>
+      <point x="364" y="870" type="line"/>
+      <point x="213" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="771" type="line"/>
+      <point x="218" y="771" type="line"/>
+      <point x="262" y="819" type="line"/>
+      <point x="166" y="819" type="line"/>
+      <point x="124" y="773" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="771" type="line"/>
+      <point x="453" y="771" type="line"/>
+      <point x="453" y="772" type="line"/>
+      <point x="410" y="819" type="line"/>
+      <point x="315" y="819" type="line"/>
+    </contour>
+  </outline>
+</glyph>

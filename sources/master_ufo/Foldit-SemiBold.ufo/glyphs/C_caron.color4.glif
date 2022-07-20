@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccaron.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="010C"/>
+  <outline>
+    <contour>
+      <point x="264" y="757" type="line"/>
+      <point x="363" y="757" type="line"/>
+      <point x="472" y="874" type="line"/>
+      <point x="472" y="875" type="line"/>
+      <point x="373" y="875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

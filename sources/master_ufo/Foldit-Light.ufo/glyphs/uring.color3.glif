@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="016F"/>
+  <outline>
+    <contour>
+      <point x="125" y="670" type="line"/>
+      <point x="212" y="670" type="line"/>
+      <point x="212" y="671" type="line"/>
+      <point x="187" y="700" type="line"/>
+      <point x="125" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

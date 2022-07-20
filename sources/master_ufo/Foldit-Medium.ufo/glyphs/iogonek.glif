@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="217"/>
+  <unicode hex="012F"/>
+  <anchor x="108" y="0" name="bottom"/>
+  <anchor x="108" y="671" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="503" type="line"/>
+      <point x="167" y="517" type="line"/>
+      <point x="50" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="621" type="line"/>
+      <point x="172" y="621" type="line"/>
+      <point x="172" y="718" type="line"/>
+      <point x="51" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="-60" type="line"/>
+      <point x="115" y="-60" type="line"/>
+      <point x="169" y="-1" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="31" y="-59" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="-154" type="line"/>
+      <point x="115" y="-154" type="line"/>
+      <point x="115" y="-60" type="line"/>
+      <point x="31" y="-60" type="line"/>
+      <point x="31" y="-118" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="-155" type="line"/>
+      <point x="182" y="-155" type="line"/>
+      <point x="221" y="-95" type="line"/>
+      <point x="221" y="-94" type="line"/>
+      <point x="115" y="-94" type="line"/>
+    </contour>
+  </outline>
+</glyph>

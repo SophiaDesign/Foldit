@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <anchor x="305" y="715" name="_top"/>
+  <outline>
+    <contour>
+      <point x="348" y="757" type="line"/>
+      <point x="438" y="757" type="line"/>
+      <point x="438" y="758" type="line"/>
+      <point x="346" y="862" type="line"/>
+      <point x="312" y="853" type="line"/>
+      <point x="270" y="844" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="757" type="line"/>
+      <point x="243" y="757" type="line"/>
+      <point x="345" y="862" type="line"/>
+      <point x="255" y="862" type="line"/>
+      <point x="155" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="885" type="line"/>
+      <point x="515" y="885" type="line"/>
+      <point x="515" y="886" type="line"/>
+      <point x="467" y="940" type="line"/>
+      <point x="333" y="940" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="814" type="line"/>
+      <point x="455" y="814" type="line"/>
+      <point x="515" y="885" type="line"/>
+      <point x="515" y="886" type="line"/>
+      <point x="467" y="940" type="line"/>
+      <point x="399" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

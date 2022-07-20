@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornacute.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="1EE8"/>
+  <outline>
+    <contour>
+      <point x="446" y="642" type="line"/>
+      <point x="447" y="642" type="line"/>
+      <point x="520" y="693" type="line"/>
+      <point x="520" y="796" type="line"/>
+      <point x="446" y="796" type="line"/>
+    </contour>
+  </outline>
+</glyph>

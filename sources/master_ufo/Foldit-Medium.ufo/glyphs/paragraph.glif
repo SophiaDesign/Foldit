@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="671.5"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="164" y="601" type="line"/>
+      <point x="598" y="601" type="line"/>
+      <point x="598" y="715" type="line"/>
+      <point x="164" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="263" type="line"/>
+      <point x="320" y="263" type="line"/>
+      <point x="320" y="377" type="line"/>
+      <point x="44" y="377" type="line"/>
+      <point x="44" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="377" type="line"/>
+      <point x="164" y="377" type="line"/>
+      <point x="164" y="715" type="line"/>
+      <point x="163" y="715" type="line"/>
+      <point x="44" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="601" type="line"/>
+      <point x="320" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="0" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="598" y="601" type="line"/>
+      <point x="478" y="601" type="line"/>
+    </contour>
+  </outline>
+</glyph>

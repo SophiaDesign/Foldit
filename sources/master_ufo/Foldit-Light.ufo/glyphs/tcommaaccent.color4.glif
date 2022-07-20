@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcommaaccent.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="021B"/>
+  <outline>
+    <contour>
+      <point x="159" y="-164" type="line"/>
+      <point x="160" y="-164" type="line"/>
+      <point x="160" y="-47" type="line"/>
+      <point x="118" y="-47" type="line"/>
+      <point x="118" y="-128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

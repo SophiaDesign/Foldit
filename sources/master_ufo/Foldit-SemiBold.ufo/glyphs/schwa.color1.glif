@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="43" y="127" type="line"/>
+      <point x="178" y="127" type="line"/>
+      <point x="178" y="317" type="line"/>
+      <point x="177" y="317" type="line"/>
+      <point x="43" y="245" type="line"/>
+    </contour>
+  </outline>
+</glyph>

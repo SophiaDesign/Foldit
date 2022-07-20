@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="1EAF"/>
+  <outline>
+    <contour>
+      <point x="419" y="659" type="line"/>
+      <point x="520" y="659" type="line"/>
+      <point x="562" y="724" type="line"/>
+      <point x="562" y="725" type="line"/>
+      <point x="461" y="725" type="line"/>
+    </contour>
+  </outline>
+</glyph>

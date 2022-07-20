@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorngrave.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="1EEB"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="84" type="line"/>
+      <point x="45" y="84" type="line"/>
+      <point x="45" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="223" y="384" type="line"/>
+      <point x="296" y="659" type="line"/>
+      <point x="296" y="660" type="line"/>
+      <point x="250" y="705" type="line"/>
+      <point x="249" y="705" type="line"/>
+      <point x="169" y="399" type="line"/>
+    </contour>
+  </outline>
+</glyph>

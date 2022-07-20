@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="117" y="526" type="line"/>
+      <point x="191" y="526" type="line"/>
+      <point x="168" y="550" type="line"/>
+      <point x="117" y="550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

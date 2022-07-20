@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Itilde.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="0128"/>
+  <outline>
+    <contour>
+      <point x="244" y="799" type="line"/>
+      <point x="306" y="805" type="line"/>
+      <point x="306" y="869" type="line"/>
+      <point x="244" y="869" type="line"/>
+    </contour>
+  </outline>
+</glyph>

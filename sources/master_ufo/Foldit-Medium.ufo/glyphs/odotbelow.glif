@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow" format="2">
+  <advance width="517.5"/>
+  <unicode hex="1ECD"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="394" y="515" name="horn"/>
+  <anchor x="276" y="515" name="top"/>
+  <outline>
+    <contour>
+      <point x="157" y="401" type="line"/>
+      <point x="481" y="401" type="line"/>
+      <point x="481" y="402" type="line"/>
+      <point x="416" y="515" type="line"/>
+      <point x="157" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="114" type="line"/>
+      <point x="38" y="114" type="line"/>
+      <point x="38" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="114" type="line"/>
+      <point x="157" y="114" type="line"/>
+      <point x="157" y="515" type="line"/>
+      <point x="156" y="515" type="line"/>
+      <point x="38" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="481" y="65" type="line"/>
+      <point x="481" y="401" type="line"/>
+      <point x="361" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="-159" type="line"/>
+      <point x="321" y="-159" type="line"/>
+      <point x="321" y="-61" type="line"/>
+      <point x="204" y="-61" type="line"/>
+    </contour>
+  </outline>
+</glyph>

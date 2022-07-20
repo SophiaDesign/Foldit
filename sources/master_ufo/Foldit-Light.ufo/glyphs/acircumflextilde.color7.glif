@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflextilde.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="1EAB"/>
+  <outline>
+    <contour>
+      <point x="205" y="692" type="line"/>
+      <point x="241" y="692" type="line"/>
+      <point x="241" y="752" type="line"/>
+      <point x="205" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

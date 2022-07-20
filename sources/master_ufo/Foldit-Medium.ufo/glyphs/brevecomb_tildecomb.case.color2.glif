@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb.case.color2" format="2">
+  <outline>
+    <contour>
+      <point x="426" y="869" type="line"/>
+      <point x="446" y="869" type="line"/>
+      <point x="498" y="893" type="line"/>
+      <point x="498" y="899" type="line"/>
+      <point x="311" y="953" type="line"/>
+      <point x="289" y="953" type="line"/>
+      <point x="222" y="929" type="line"/>
+      <point x="222" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

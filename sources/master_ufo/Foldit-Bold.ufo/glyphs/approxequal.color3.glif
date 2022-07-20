@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="2248"/>
+  <outline>
+    <contour>
+      <point x="451" y="407" type="line"/>
+      <point x="588" y="407" type="line"/>
+      <point x="588" y="592" type="line"/>
+      <point x="451" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

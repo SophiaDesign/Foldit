@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.color1" format="2">
+  <unicode hex="0328"/>
+  <outline>
+    <contour>
+      <point x="308" y="-129" type="line"/>
+      <point x="309" y="-129" type="line"/>
+      <point x="309" y="-52" type="line"/>
+      <point x="246" y="-52" type="line"/>
+      <point x="246" y="-99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

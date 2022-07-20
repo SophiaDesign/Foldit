@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotaccentmacron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0230"/>
+  <outline>
+    <contour>
+      <point x="63" y="901" type="line"/>
+      <point x="213" y="901" type="line"/>
+      <point x="213" y="925" type="line"/>
+      <point x="63" y="925" type="line"/>
+    </contour>
+  </outline>
+</glyph>

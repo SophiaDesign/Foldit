@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1ED0"/>
+  <outline>
+    <contour>
+      <point x="277" y="765" type="line"/>
+      <point x="345" y="765" type="line"/>
+      <point x="345" y="766" type="line"/>
+      <point x="273" y="868" type="line"/>
+      <point x="213" y="858" type="line"/>
+    </contour>
+  </outline>
+</glyph>

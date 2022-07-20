@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="181" y="-73" type="line"/>
+      <point x="298" y="-73" type="line"/>
+      <point x="367" y="-1" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="181" y="-72" type="line"/>
+    </contour>
+  </outline>
+</glyph>

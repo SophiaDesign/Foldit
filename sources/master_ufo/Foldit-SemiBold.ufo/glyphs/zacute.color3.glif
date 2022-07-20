@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="228" y="582" type="line"/>
+      <point x="301" y="582" type="line"/>
+      <point x="375" y="769" type="line"/>
+      <point x="375" y="770" type="line"/>
+      <point x="260" y="770" type="line"/>
+    </contour>
+  </outline>
+</glyph>

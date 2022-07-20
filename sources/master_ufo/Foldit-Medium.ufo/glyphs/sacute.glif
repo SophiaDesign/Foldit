@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance width="420"/>
+  <unicode hex="015B"/>
+  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="220" y="515" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="413" type="line"/>
+      <point x="386" y="413" type="line"/>
+      <point x="386" y="414" type="line"/>
+      <point x="321" y="515" type="line"/>
+      <point x="91" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="87" type="line"/>
+      <point x="392" y="102" type="line"/>
+      <point x="392" y="103" type="line"/>
+      <point x="91" y="515" type="line"/>
+      <point x="34" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="392" y="102" type="line"/>
+      <point x="29" y="102" type="line"/>
+      <point x="29" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="580" type="line"/>
+      <point x="241" y="580" type="line"/>
+      <point x="309" y="759" type="line"/>
+      <point x="309" y="760" type="line"/>
+      <point x="206" y="760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

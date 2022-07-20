@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="658.08333"/>
+  <unicode hex="FB01"/>
+  <anchor x="543" y="0" name="bottom_1"/>
+  <outline>
+    <contour>
+      <point x="176" y="248" type="line"/>
+      <point x="394" y="248" type="line"/>
+      <point x="394" y="377" type="line"/>
+      <point x="43" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="248" type="line"/>
+      <point x="43" y="377" type="line"/>
+      <point x="42" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="377" type="line"/>
+      <point x="176" y="377" type="line"/>
+      <point x="176" y="702" type="line"/>
+      <point x="175" y="702" type="line"/>
+      <point x="42" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="573" type="line"/>
+      <point x="416" y="573" type="line"/>
+      <point x="416" y="574" type="line"/>
+      <point x="393" y="702" type="line"/>
+      <point x="176" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="611" y="503" type="line"/>
+      <point x="610" y="503" type="line"/>
+      <point x="476" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="500" type="line"/>
+      <point x="477" y="500" type="line"/>
+      <point x="611" y="572" type="line"/>
+      <point x="611" y="654" type="line"/>
+      <point x="476" y="654" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

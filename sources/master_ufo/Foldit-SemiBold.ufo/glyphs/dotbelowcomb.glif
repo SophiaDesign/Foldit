@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="318" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="254" y="-166" type="line"/>
+      <point x="386" y="-166" type="line"/>
+      <point x="386" y="-57" type="line"/>
+      <point x="254" y="-57" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

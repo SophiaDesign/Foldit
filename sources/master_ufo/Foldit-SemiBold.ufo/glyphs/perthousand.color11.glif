@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand.color11" format="2">
+  <advance width="600"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="1159" y="138" type="line"/>
+      <point x="1293" y="138" type="line"/>
+      <point x="1293" y="384" type="line"/>
+      <point x="1292" y="384" type="line"/>
+      <point x="1159" y="312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

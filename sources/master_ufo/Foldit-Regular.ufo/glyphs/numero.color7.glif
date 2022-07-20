@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero.color7" format="2">
+  <advance width="600"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="715" y="94" type="line"/>
+      <point x="716" y="94" type="line"/>
+      <point x="801" y="145" type="line"/>
+      <point x="801" y="426" type="line"/>
+      <point x="715" y="426" type="line"/>
+    </contour>
+  </outline>
+</glyph>

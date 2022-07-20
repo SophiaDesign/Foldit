@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="53" y="685" type="line"/>
+      <point x="192" y="685" type="line"/>
+      <point x="192" y="686" type="line"/>
+      <point x="153" y="734" type="line"/>
+      <point x="53" y="734" type="line"/>
+    </contour>
+  </outline>
+</glyph>

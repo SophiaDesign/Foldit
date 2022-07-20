@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case.color0" format="2">
+  <outline>
+    <contour>
+      <point x="359" y="760" type="line"/>
+      <point x="427" y="760" type="line"/>
+      <point x="427" y="761" type="line"/>
+      <point x="345" y="866" type="line"/>
+      <point x="285" y="856" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

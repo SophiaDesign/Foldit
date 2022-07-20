@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="85" y="454" type="line"/>
+      <point x="628" y="454" type="line"/>
+      <point x="670" y="570" type="line"/>
+      <point x="670" y="571" type="line"/>
+      <point x="128" y="571" type="line"/>
+      <point x="85" y="455" type="line"/>
+    </contour>
+  </outline>
+</glyph>

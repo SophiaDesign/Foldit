@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="020C"/>
+  <outline>
+    <contour>
+      <point x="226" y="762" type="line"/>
+      <point x="326" y="762" type="line"/>
+      <point x="293" y="890" type="line"/>
+      <point x="131" y="890" type="line"/>
+      <point x="131" y="889" type="line"/>
+    </contour>
+  </outline>
+</glyph>

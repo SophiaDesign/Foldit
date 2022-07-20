@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="232"/>
+  <unicode hex="0129"/>
+  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="127" y="515" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="503" type="line"/>
+      <point x="183" y="517" type="line"/>
+      <point x="66" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="597" type="line"/>
+      <point x="88" y="597" type="line"/>
+      <point x="88" y="677" type="line"/>
+      <point x="26" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="622" type="line"/>
+      <point x="215" y="622" type="line"/>
+      <point x="215" y="705" type="line"/>
+      <point x="153" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="597" type="line"/>
+      <point x="161" y="597" type="line"/>
+      <point x="214" y="621" type="line"/>
+      <point x="214" y="622" type="line"/>
+      <point x="80" y="705" type="line"/>
+      <point x="79" y="705" type="line"/>
+      <point x="26" y="681" type="line"/>
+      <point x="26" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

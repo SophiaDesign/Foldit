@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb.color0" format="2">
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="330" y="-170" type="line"/>
+      <point x="506" y="-170" type="line"/>
+      <point x="506" y="-38" type="line"/>
+      <point x="330" y="-38" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

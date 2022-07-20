@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="139" y="695" type="line"/>
+      <point x="255" y="695" type="line"/>
+      <point x="221" y="753" type="line"/>
+      <point x="105" y="753" type="line"/>
+      <point x="105" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

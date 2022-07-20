@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornacute" format="2">
+  <advance width="729.75"/>
+  <unicode hex="1EE8"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="555" y="718" name="horn"/>
+  <anchor x="314" y="718" name="top"/>
+  <outline>
+    <contour>
+      <point x="425" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="560" y="131" type="line"/>
+      <point x="560" y="718" type="line"/>
+      <point x="425" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="425" y="129" type="line"/>
+      <point x="43" y="129" type="line"/>
+      <point x="43" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="129" type="line"/>
+      <point x="178" y="129" type="line"/>
+      <point x="178" y="718" type="line"/>
+      <point x="43" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="618" type="line"/>
+      <point x="612" y="618" type="line"/>
+      <point x="722" y="690" type="line"/>
+      <point x="722" y="818" type="line"/>
+      <point x="611" y="818" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="618" type="line"/>
+      <point x="611" y="618" type="line"/>
+      <point x="611" y="718" type="line"/>
+      <point x="449" y="718" type="line"/>
+      <point x="449" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="750" type="line"/>
+      <point x="341" y="750" type="line"/>
+      <point x="420" y="882" type="line"/>
+      <point x="420" y="883" type="line"/>
+      <point x="287" y="883" type="line"/>
+    </contour>
+  </outline>
+</glyph>

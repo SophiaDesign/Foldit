@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EBB"/>
+  <outline>
+    <contour>
+      <point x="175" y="696" type="line"/>
+      <point x="377" y="696" type="line"/>
+      <point x="377" y="697" type="line"/>
+      <point x="324" y="765" type="line"/>
+      <point x="175" y="765" type="line"/>
+    </contour>
+  </outline>
+</glyph>

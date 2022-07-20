@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex" format="2">
+  <advance width="294"/>
+  <unicode hex="0177"/>
+  <anchor x="150" y="-200" name="bottom"/>
+  <anchor x="161" y="627" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="-201" type="line"/>
+      <point x="192" y="-201" type="line"/>
+      <point x="246" y="-165" type="line"/>
+      <point x="247" y="505" type="line"/>
+      <point x="191" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="-201" type="line"/>
+      <point x="191" y="-201" type="line"/>
+      <point x="191" y="-151" type="line"/>
+      <point x="48" y="-151" type="line"/>
+      <point x="48" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="191" y="0" type="line"/>
+      <point x="191" y="54" type="line"/>
+      <point x="48" y="54" type="line"/>
+      <point x="48" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="54" type="line"/>
+      <point x="103" y="54" type="line"/>
+      <point x="103" y="509" type="line"/>
+      <point x="102" y="509" type="line"/>
+      <point x="48" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="590" type="line"/>
+      <point x="236" y="590" type="line"/>
+      <point x="236" y="591" type="line"/>
+      <point x="176" y="695" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="590" type="line"/>
+      <point x="116" y="590" type="line"/>
+      <point x="176" y="695" type="line"/>
+      <point x="132" y="695" type="line"/>
+      <point x="70" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

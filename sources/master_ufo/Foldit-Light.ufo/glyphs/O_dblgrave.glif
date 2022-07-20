@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave" format="2">
+  <advance width="365.33333"/>
+  <unicode hex="020C"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <anchor x="278" y="705" name="horn"/>
+  <anchor x="188" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="104" y="651" type="line"/>
+      <point x="317" y="651" type="line"/>
+      <point x="317" y="652" type="line"/>
+      <point x="271" y="705" type="line"/>
+      <point x="104" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="54" type="line"/>
+      <point x="48" y="54" type="line"/>
+      <point x="48" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="54" type="line"/>
+      <point x="104" y="54" type="line"/>
+      <point x="104" y="705" type="line"/>
+      <point x="103" y="705" type="line"/>
+      <point x="48" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="317" y="54" type="line"/>
+      <point x="317" y="651" type="line"/>
+      <point x="261" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="768" type="line"/>
+      <point x="254" y="768" type="line"/>
+      <point x="227" y="867" type="line"/>
+      <point x="167" y="867" type="line"/>
+      <point x="167" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="768" type="line"/>
+      <point x="168" y="768" type="line"/>
+      <point x="141" y="867" type="line"/>
+      <point x="81" y="867" type="line"/>
+      <point x="81" y="866" type="line"/>
+    </contour>
+  </outline>
+</glyph>

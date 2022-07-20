@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="369" y="392" type="line"/>
+      <point x="535" y="392" type="line"/>
+      <point x="535" y="647" type="line"/>
+      <point x="534" y="647" type="line"/>
+      <point x="369" y="561" type="line"/>
+    </contour>
+  </outline>
+</glyph>

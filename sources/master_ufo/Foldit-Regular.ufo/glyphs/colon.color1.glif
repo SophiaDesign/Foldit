@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="47" y="370" type="line"/>
+      <point x="146" y="370" type="line"/>
+      <point x="146" y="454" type="line"/>
+      <point x="47" y="454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

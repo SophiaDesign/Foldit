@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="249" y="283" type="line"/>
+      <point x="658" y="283" type="line"/>
+      <point x="658" y="447" type="line"/>
+      <point x="249" y="447" type="line"/>
+    </contour>
+  </outline>
+</glyph>

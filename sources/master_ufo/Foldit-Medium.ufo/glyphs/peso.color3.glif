@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="25" y="505" type="line"/>
+      <point x="629" y="505" type="line"/>
+      <point x="629" y="506" type="line"/>
+      <point x="606" y="529" type="line"/>
+      <point x="2" y="529" type="line"/>
+      <point x="2" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

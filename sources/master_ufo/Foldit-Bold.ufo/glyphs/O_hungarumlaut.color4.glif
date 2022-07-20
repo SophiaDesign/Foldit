@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohungarumlaut.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0150"/>
+  <outline>
+    <contour>
+      <point x="378" y="762" type="line"/>
+      <point x="478" y="762" type="line"/>
+      <point x="572" y="889" type="line"/>
+      <point x="572" y="890" type="line"/>
+      <point x="411" y="890" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimemod.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="02BA"/>
+  <outline>
+    <contour>
+      <point x="206" y="472" type="line"/>
+      <point x="290" y="472" type="line"/>
+      <point x="381" y="717" type="line"/>
+      <point x="381" y="718" type="line"/>
+      <point x="253" y="718" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="133" y="589" type="line"/>
+      <point x="173" y="594" type="line"/>
+      <point x="119" y="692" type="line"/>
+      <point x="73" y="692" type="line"/>
+      <point x="73" y="691" type="line"/>
+    </contour>
+  </outline>
+</glyph>

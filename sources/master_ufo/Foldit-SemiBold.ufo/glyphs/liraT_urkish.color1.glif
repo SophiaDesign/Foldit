@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="20" y="234" type="line"/>
+      <point x="23" y="234" type="line"/>
+      <point x="460" y="643" type="line"/>
+      <point x="460" y="682" type="line"/>
+      <point x="459" y="682" type="line"/>
+      <point x="20" y="272" type="line"/>
+    </contour>
+  </outline>
+</glyph>

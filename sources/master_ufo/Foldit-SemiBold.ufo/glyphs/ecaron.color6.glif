@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecaron.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="011B"/>
+  <outline>
+    <contour>
+      <point x="242" y="586" type="line"/>
+      <point x="336" y="586" type="line"/>
+      <point x="438" y="721" type="line"/>
+      <point x="438" y="722" type="line"/>
+      <point x="338" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

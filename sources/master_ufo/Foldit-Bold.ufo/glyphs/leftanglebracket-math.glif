@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="536.5"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="40" y="358" type="line"/>
+      <point x="236" y="358" type="line"/>
+      <point x="497" y="722" type="line"/>
+      <point x="497" y="723" type="line"/>
+      <point x="302" y="723" type="line"/>
+      <point x="40" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="4" type="line"/>
+      <point x="236" y="358" type="line"/>
+      <point x="40" y="358" type="line"/>
+      <point x="40" y="357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

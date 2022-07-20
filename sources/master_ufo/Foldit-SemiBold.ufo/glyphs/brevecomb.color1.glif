@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.color1" format="2">
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="168" y="679" type="line"/>
+      <point x="264" y="679" type="line"/>
+      <point x="231" y="735" type="line"/>
+      <point x="135" y="735" type="line"/>
+      <point x="135" y="734" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

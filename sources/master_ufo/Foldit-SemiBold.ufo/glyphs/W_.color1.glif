@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="275" y="117" type="line"/>
+      <point x="161" y="718" type="line"/>
+      <point x="8" y="718" type="line"/>
+      <point x="8" y="717" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

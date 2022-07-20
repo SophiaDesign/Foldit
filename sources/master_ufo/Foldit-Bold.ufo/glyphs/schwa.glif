@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="678.5"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="40" y="382" type="line"/>
+      <point x="639" y="382" type="line"/>
+      <point x="639" y="383" type="line"/>
+      <point x="553" y="523" type="line"/>
+      <point x="120" y="523" type="line"/>
+      <point x="40" y="383" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="156" type="line"/>
+      <point x="206" y="156" type="line"/>
+      <point x="206" y="322" type="line"/>
+      <point x="205" y="322" type="line"/>
+      <point x="40" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="156" type="line"/>
+      <point x="40" y="156" type="line"/>
+      <point x="40" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="234" type="line"/>
+      <point x="473" y="234" type="line"/>
+      <point x="473" y="323" type="line"/>
+      <point x="206" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="639" y="86" type="line"/>
+      <point x="639" y="382" type="line"/>
+      <point x="473" y="382" type="line"/>
+    </contour>
+  </outline>
+</glyph>

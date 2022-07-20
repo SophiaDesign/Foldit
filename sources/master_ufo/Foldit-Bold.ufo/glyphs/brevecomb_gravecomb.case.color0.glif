@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb.case.color0" format="2">
+  <outline>
+    <contour>
+      <point x="210" y="755" type="line"/>
+      <point x="408" y="755" type="line"/>
+      <point x="481" y="830" type="line"/>
+      <point x="137" y="830" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

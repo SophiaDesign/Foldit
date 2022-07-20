@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="69" y="507" type="line"/>
+      <point x="96" y="507" type="line"/>
+      <point x="96" y="509" type="line"/>
+      <point x="115" y="561" type="line"/>
+      <point x="37" y="645" type="line"/>
+    </contour>
+  </outline>
+</glyph>

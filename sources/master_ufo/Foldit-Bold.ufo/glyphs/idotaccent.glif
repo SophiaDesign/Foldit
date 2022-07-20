@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotaccent" format="2">
+  <advance width="260.5"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="131" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="213" y="503" type="line"/>
+      <point x="212" y="523" type="line"/>
+      <point x="47" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="630" type="line"/>
+      <point x="219" y="630" type="line"/>
+      <point x="219" y="759" type="line"/>
+      <point x="51" y="759" type="line"/>
+    </contour>
+  </outline>
+</glyph>

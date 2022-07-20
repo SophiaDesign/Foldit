@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0218"/>
+  <outline>
+    <contour>
+      <point x="125" y="626" type="line"/>
+      <point x="390" y="626" type="line"/>
+      <point x="390" y="627" type="line"/>
+      <point x="308" y="710" type="line"/>
+      <point x="125" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

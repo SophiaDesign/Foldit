@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scedilla.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="015E"/>
+  <outline>
+    <contour>
+      <point x="407" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="541" y="122" type="line"/>
+      <point x="541" y="304" type="line"/>
+      <point x="408" y="429" type="line"/>
+      <point x="407" y="429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

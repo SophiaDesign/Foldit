@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorndotbelow.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF0"/>
+  <outline>
+    <contour>
+      <point x="611" y="618" type="line"/>
+      <point x="612" y="618" type="line"/>
+      <point x="722" y="690" type="line"/>
+      <point x="722" y="818" type="line"/>
+      <point x="611" y="818" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="01CC"/>
+  <outline>
+    <contour>
+      <point x="196" y="-3" type="line"/>
+      <point x="197" y="-3" type="line"/>
+      <point x="252" y="24" type="line"/>
+      <point x="252" y="451" type="line"/>
+      <point x="196" y="451" type="line"/>
+    </contour>
+  </outline>
+</glyph>

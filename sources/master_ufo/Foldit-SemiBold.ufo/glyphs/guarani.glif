@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="666.16667"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="178" y="589" type="line"/>
+      <point x="624" y="589" type="line"/>
+      <point x="624" y="590" type="line"/>
+      <point x="497" y="718" type="line"/>
+      <point x="178" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="129" type="line"/>
+      <point x="43" y="129" type="line"/>
+      <point x="43" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="-48" type="line"/>
+      <point x="294" y="-48" type="line"/>
+      <point x="499" y="773" type="line"/>
+      <point x="498" y="774" type="line"/>
+      <point x="375" y="774" type="line"/>
+      <point x="168" y="-47" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="129" type="line"/>
+      <point x="178" y="129" type="line"/>
+      <point x="178" y="718" type="line"/>
+      <point x="177" y="718" type="line"/>
+      <point x="43" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="300" type="line"/>
+      <point x="490" y="300" type="line"/>
+      <point x="490" y="429" type="line"/>
+      <point x="242" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="624" y="125" type="line"/>
+      <point x="624" y="296" type="line"/>
+      <point x="491" y="429" type="line"/>
+      <point x="490" y="429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

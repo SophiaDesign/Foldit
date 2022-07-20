@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="346" y="462" type="line"/>
+      <point x="592" y="462" type="line"/>
+      <point x="592" y="463" type="line"/>
+      <point x="278" y="675" type="line"/>
+      <point x="32" y="675" type="line"/>
+      <point x="32" y="674" type="line"/>
+    </contour>
+  </outline>
+</glyph>

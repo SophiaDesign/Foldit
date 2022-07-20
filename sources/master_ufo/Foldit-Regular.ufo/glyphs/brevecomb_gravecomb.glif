@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="313" y="510" name="_top"/>
+  <outline>
+    <contour>
+      <point x="244" y="564" type="line"/>
+      <point x="374" y="564" type="line"/>
+      <point x="403" y="615" type="line"/>
+      <point x="215" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="615" type="line"/>
+      <point x="274" y="615" type="line"/>
+      <point x="239" y="672" type="line"/>
+      <point x="180" y="672" type="line"/>
+      <point x="180" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="665" type="line"/>
+      <point x="337" y="665" type="line"/>
+      <point x="306" y="802" type="line"/>
+      <point x="230" y="802" type="line"/>
+      <point x="230" y="801" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="615" type="line"/>
+      <point x="403" y="615" type="line"/>
+      <point x="438" y="671" type="line"/>
+      <point x="438" y="672" type="line"/>
+      <point x="378" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

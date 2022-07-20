@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.color1" format="2">
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="162" y="608" type="line"/>
+      <point x="237" y="608" type="line"/>
+      <point x="275" y="673" type="line"/>
+      <point x="200" y="673" type="line"/>
+      <point x="162" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

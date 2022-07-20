@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF7"/>
+  <outline>
+    <contour>
+      <point x="241" y="585" type="line"/>
+      <point x="320" y="585" type="line"/>
+      <point x="404" y="703" type="line"/>
+      <point x="404" y="704" type="line"/>
+      <point x="346" y="779" type="line"/>
+      <point x="241" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

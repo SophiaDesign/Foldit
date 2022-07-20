@@ -1,24 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
   </axes>
   <sources>
-    <source filename="Foldit-Thin-Condensed.ufo" name="Foldit Thin-Condensed" familyname="Foldit" stylename="Thin-Condensed">
+    <source filename="Foldit-Thin-origin.ufo" name="Foldit Thin-origin" familyname="Foldit" stylename="Thin-origin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Foldit-Light.ufo" name="Foldit Light" familyname="Foldit" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Foldit-Regular.ufo" name="Foldit Regular" familyname="Foldit" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Foldit-ExtraBold-Expanded.ufo" name="Foldit ExtraBold-Expanded" familyname="Foldit" stylename="ExtraBold-Expanded">
+    <source filename="Foldit-Medium.ufo" name="Foldit Medium" familyname="Foldit" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="Foldit-SemiBold.ufo" name="Foldit SemiBold" familyname="Foldit" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="Foldit-Bold.ufo" name="Foldit Bold" familyname="Foldit" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
       </location>
     </source>
-    <source filename="Foldit-Black-Expanded.ufo" name="Foldit Black-Expanded" familyname="Foldit" stylename="Black-Expanded">
+    <source filename="Foldit-ExtraBold-origin.ufo" name="Foldit ExtraBold-origin" familyname="Foldit" stylename="ExtraBold-origin">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="Foldit-Black-origin.ufo" name="Foldit Black-origin" familyname="Foldit" stylename="Black-origin">
       <location>
         <dimension name="Weight" xvalue="900"/>
       </location>
@@ -57,9 +82,9 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Thin-Fallback" familyname="Foldit" stylename="Thin-Fallback" filename="../instance_ufo/Foldit-Thin-Fallback.ufo" stylemapfamilyname="Foldit Thin-Fallback" stylemapstylename="regular">
+    <instance name="Foldit Light" familyname="Foldit" stylename="Light" filename="../instance_ufo/Foldit-Light.ufo" stylemapfamilyname="Foldit Light" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="300"/>
       </location>
       <lib>
         <dict>
@@ -67,7 +92,7 @@
           <array>
             <array>
               <string>Color Layers to SVG</string>
-              <integer>0</integer>
+              <integer>1</integer>
             </array>
             <array>
               <string>Color Palette for SVG</string>
@@ -79,11 +104,11 @@
             </array>
             <array>
               <string>Export COLR Table</string>
-              <integer>0</integer>
+              <integer>1</integer>
             </array>
             <array>
               <string>Export SVG Table</string>
-              <integer>0</integer>
+              <integer>1</integer>
             </array>
           </array>
         </dict>
@@ -92,6 +117,102 @@
     <instance name="Foldit Regular" familyname="Foldit" stylename="Regular" filename="../instance_ufo/Foldit-Regular.ufo" stylemapfamilyname="Foldit" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit Medium" familyname="Foldit" stylename="Medium" filename="../instance_ufo/Foldit-Medium.ufo" stylemapfamilyname="Foldit Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit SemiBold" familyname="Foldit" stylename="SemiBold" filename="../instance_ufo/Foldit-SemiBold.ufo" stylemapfamilyname="Foldit SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Color Layers to SVG</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Color Palette for SVG</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Color Palette for CPAL</string>
+              <integer>0</integer>
+            </array>
+            <array>
+              <string>Export COLR Table</string>
+              <integer>1</integer>
+            </array>
+            <array>
+              <string>Export SVG Table</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Foldit Bold" familyname="Foldit" stylename="Bold" filename="../instance_ufo/Foldit-Bold.ufo" stylemapfamilyname="Foldit Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
       </location>
       <lib>
         <dict>
@@ -195,6 +316,8 @@
           <key>HV</key>
           <string>24</string>
         </dict>
+        <key>m003</key>
+        <dict/>
       </dict>
     </dict>
   </lib>

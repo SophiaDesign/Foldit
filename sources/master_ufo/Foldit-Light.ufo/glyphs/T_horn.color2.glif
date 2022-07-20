@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="262" y="176" type="line"/>
+      <point x="263" y="176" type="line"/>
+      <point x="318" y="228" type="line"/>
+      <point x="318" y="504" type="line"/>
+      <point x="262" y="504" type="line"/>
+    </contour>
+  </outline>
+</glyph>

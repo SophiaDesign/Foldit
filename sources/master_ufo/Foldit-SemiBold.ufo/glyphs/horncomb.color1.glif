@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.color1" format="2">
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="284" y="418" type="line"/>
+      <point x="312" y="418" type="line"/>
+      <point x="312" y="518" type="line"/>
+      <point x="150" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0119"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="480" y="111" type="line"/>
+      <point x="480" y="112" type="line"/>
+      <point x="47" y="112" type="line"/>
+      <point x="47" y="111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

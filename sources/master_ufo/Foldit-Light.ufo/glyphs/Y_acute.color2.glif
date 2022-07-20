@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="147" y="339" type="line"/>
+      <point x="202" y="339" type="line"/>
+      <point x="319" y="704" type="line"/>
+      <point x="319" y="705" type="line"/>
+      <point x="260" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

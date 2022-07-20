@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="336" y="243" type="line"/>
+      <point x="337" y="243" type="line"/>
+      <point x="337" y="708" type="line"/>
+      <point x="201" y="718" type="line"/>
+      <point x="201" y="365" type="line"/>
+    </contour>
+  </outline>
+</glyph>

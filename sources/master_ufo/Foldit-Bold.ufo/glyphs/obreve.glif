@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve" format="2">
+  <advance width="677.25"/>
+  <unicode hex="014F"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="529" y="523" name="horn"/>
+  <anchor x="364" y="523" name="top"/>
+  <outline>
+    <contour>
+      <point x="198" y="364" type="line"/>
+      <point x="646" y="364" type="line"/>
+      <point x="646" y="365" type="line"/>
+      <point x="560" y="523" type="line"/>
+      <point x="198" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="159" type="line"/>
+      <point x="32" y="159" type="line"/>
+      <point x="32" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="159" type="line"/>
+      <point x="198" y="159" type="line"/>
+      <point x="198" y="523" type="line"/>
+      <point x="197" y="523" type="line"/>
+      <point x="32" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="646" y="86" type="line"/>
+      <point x="646" y="364" type="line"/>
+      <point x="480" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="695" type="line"/>
+      <point x="503" y="695" type="line"/>
+      <point x="539" y="752" type="line"/>
+      <point x="539" y="753" type="line"/>
+      <point x="430" y="753" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="695" type="line"/>
+      <point x="302" y="695" type="line"/>
+      <point x="268" y="753" type="line"/>
+      <point x="152" y="753" type="line"/>
+      <point x="152" y="752" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="599" type="line"/>
+      <point x="447" y="599" type="line"/>
+      <point x="503" y="695" type="line"/>
+      <point x="186" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

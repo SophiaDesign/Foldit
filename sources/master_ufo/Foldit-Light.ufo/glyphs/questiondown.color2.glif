@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="110" y="-30" type="line"/>
+      <point x="111" y="-30" type="line"/>
+      <point x="111" y="317" type="line"/>
+      <point x="53" y="317" type="line"/>
+      <point x="53" y="24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

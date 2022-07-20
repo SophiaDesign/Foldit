@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.lf" format="2">
+  <advance width="545"/>
+  <outline>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="114" type="line"/>
+      <point x="44" y="114" type="line"/>
+      <point x="44" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="114" type="line"/>
+      <point x="164" y="114" type="line"/>
+      <point x="164" y="308" type="line"/>
+      <point x="44" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="308" type="line"/>
+      <point x="393" y="308" type="line"/>
+      <point x="393" y="422" type="line"/>
+      <point x="44" y="422" type="line"/>
+      <point x="44" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="422" type="line"/>
+      <point x="164" y="422" type="line"/>
+      <point x="164" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="44" y="585" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="511" y="108" type="line"/>
+      <point x="511" y="311" type="line"/>
+      <point x="394" y="422" type="line"/>
+      <point x="393" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="586" type="line"/>
+      <point x="487" y="586" type="line"/>
+      <point x="487" y="587" type="line"/>
+      <point x="375" y="700" type="line"/>
+      <point x="164" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

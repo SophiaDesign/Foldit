@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="0134"/>
+  <outline>
+    <contour>
+      <point x="330" y="760" type="line"/>
+      <point x="432" y="760" type="line"/>
+      <point x="432" y="761" type="line"/>
+      <point x="322" y="879" type="line"/>
+      <point x="234" y="860" type="line"/>
+    </contour>
+  </outline>
+</glyph>

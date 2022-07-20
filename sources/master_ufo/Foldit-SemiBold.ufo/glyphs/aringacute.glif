@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="565.33333"/>
+  <unicode hex="01FB"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="306" y="518" name="top"/>
+  <outline>
+    <contour>
+      <point x="257" y="654" type="line"/>
+      <point x="416" y="654" type="line"/>
+      <point x="416" y="655" type="line"/>
+      <point x="373" y="711" type="line"/>
+      <point x="257" y="711" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="389" type="line"/>
+      <point x="524" y="389" type="line"/>
+      <point x="524" y="390" type="line"/>
+      <point x="452" y="518" type="line"/>
+      <point x="176" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="129" type="line"/>
+      <point x="42" y="129" type="line"/>
+      <point x="42" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="129" type="line"/>
+      <point x="176" y="129" type="line"/>
+      <point x="176" y="518" type="line"/>
+      <point x="175" y="518" type="line"/>
+      <point x="42" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="389" type="line"/>
+      <point x="389" y="389" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="558" type="line"/>
+      <point x="352" y="558" type="line"/>
+      <point x="352" y="613" type="line"/>
+      <point x="193" y="613" type="line"/>
+      <point x="193" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="613" type="line"/>
+      <point x="257" y="613" type="line"/>
+      <point x="257" y="711" type="line"/>
+      <point x="256" y="711" type="line"/>
+      <point x="193" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="558" type="line"/>
+      <point x="353" y="558" type="line"/>
+      <point x="416" y="597" type="line"/>
+      <point x="416" y="654" type="line"/>
+      <point x="352" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="740" type="line"/>
+      <point x="338" y="740" type="line"/>
+      <point x="403" y="846" type="line"/>
+      <point x="403" y="847" type="line"/>
+      <point x="300" y="847" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
+</glyph>

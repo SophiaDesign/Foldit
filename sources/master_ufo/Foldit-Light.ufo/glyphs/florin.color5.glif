@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="171" y="671" type="line"/>
+      <point x="272" y="671" type="line"/>
+      <point x="272" y="725" type="line"/>
+      <point x="171" y="725" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="503" type="line"/>
+      <point x="146" y="512" type="line"/>
+      <point x="61" y="496" type="line"/>
+    </contour>
+  </outline>
+</glyph>

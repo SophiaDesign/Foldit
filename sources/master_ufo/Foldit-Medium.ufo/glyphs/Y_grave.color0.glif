@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ygrave.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF2"/>
+  <outline>
+    <contour>
+      <point x="205" y="317" type="line"/>
+      <point x="206" y="317" type="line"/>
+      <point x="269" y="412" type="line"/>
+      <point x="140" y="715" type="line"/>
+      <point x="11" y="715" type="line"/>
+      <point x="11" y="714" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <contour>
+      <point x="304" y="585" type="line"/>
+      <point x="391" y="585" type="line"/>
+      <point x="477" y="789" type="line"/>
+      <point x="477" y="790" type="line"/>
+      <point x="338" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="484.33333"/>
+  <unicode hex="0120"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="253" y="834" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="626" type="line"/>
+      <point x="448" y="626" type="line"/>
+      <point x="448" y="627" type="line"/>
+      <point x="365" y="710" type="line"/>
+      <point x="131" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="84" type="line"/>
+      <point x="43" y="84" type="line"/>
+      <point x="43" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="84" type="line"/>
+      <point x="131" y="84" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="130" y="710" type="line"/>
+      <point x="43" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="323" type="line"/>
+      <point x="360" y="323" type="line"/>
+      <point x="360" y="407" type="line"/>
+      <point x="181" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="448" y="82" type="line"/>
+      <point x="448" y="327" type="line"/>
+      <point x="361" y="407" type="line"/>
+      <point x="360" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="797" type="line"/>
+      <point x="292" y="797" type="line"/>
+      <point x="292" y="863" type="line"/>
+      <point x="214" y="863" type="line"/>
+    </contour>
+  </outline>
+</glyph>

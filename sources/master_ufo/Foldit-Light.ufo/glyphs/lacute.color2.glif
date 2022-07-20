@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="57" y="775" type="line"/>
+      <point x="98" y="775" type="line"/>
+      <point x="140" y="898" type="line"/>
+      <point x="140" y="899" type="line"/>
+      <point x="80" y="899" type="line"/>
+    </contour>
+  </outline>
+</glyph>

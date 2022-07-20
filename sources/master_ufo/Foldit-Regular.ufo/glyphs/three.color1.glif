@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="84" type="line"/>
+      <point x="29" y="84" type="line"/>
+      <point x="29" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

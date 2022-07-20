@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex.color3" format="2">
+  <advance width="600"/>
+  <unicode hex="011C"/>
+  <outline>
+    <contour>
+      <point x="181" y="323" type="line"/>
+      <point x="360" y="323" type="line"/>
+      <point x="360" y="407" type="line"/>
+      <point x="181" y="407" type="line"/>
+    </contour>
+  </outline>
+</glyph>

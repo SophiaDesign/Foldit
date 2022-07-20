@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="373.66667"/>
+  <unicode hex="0044"/>
+  <anchor x="82" y="364" name="stroke"/>
+  <anchor x="186" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="106" y="651" type="line"/>
+      <point x="325" y="651" type="line"/>
+      <point x="325" y="652" type="line"/>
+      <point x="279" y="705" type="line"/>
+      <point x="106" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-1" type="line"/>
+      <point x="270" y="-1" type="line"/>
+      <point x="270" y="53" type="line"/>
+      <point x="50" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="53" type="line"/>
+      <point x="106" y="53" type="line"/>
+      <point x="106" y="705" type="line"/>
+      <point x="50" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="-1" type="line"/>
+      <point x="271" y="-1" type="line"/>
+      <point x="325" y="51" type="line"/>
+      <point x="325" y="651" type="line"/>
+      <point x="270" y="651" type="line"/>
+    </contour>
+  </outline>
+</glyph>

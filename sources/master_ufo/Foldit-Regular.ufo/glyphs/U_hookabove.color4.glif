@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhookabove.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EE6"/>
+  <outline>
+    <contour>
+      <point x="153" y="845" type="line"/>
+      <point x="327" y="845" type="line"/>
+      <point x="327" y="846" type="line"/>
+      <point x="280" y="895" type="line"/>
+      <point x="153" y="895" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="357" y="-192" type="line"/>
+      <point x="444" y="-192" type="line"/>
+      <point x="493" y="-112" type="line"/>
+      <point x="493" y="-111" type="line"/>
+      <point x="357" y="-111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

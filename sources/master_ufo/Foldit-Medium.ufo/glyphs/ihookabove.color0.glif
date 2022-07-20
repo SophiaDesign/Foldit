@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihookabove.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="1EC9"/>
+  <outline>
+    <contour>
+      <point x="69" y="585" type="line"/>
+      <point x="81" y="585" type="line"/>
+      <point x="146" y="621" type="line"/>
+      <point x="186" y="700" type="line"/>
+      <point x="177" y="713" type="line"/>
+      <point x="109" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

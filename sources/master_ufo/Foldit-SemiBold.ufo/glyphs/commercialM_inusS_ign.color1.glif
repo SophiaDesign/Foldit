@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="40" y="487" type="line"/>
+      <point x="146" y="487" type="line"/>
+      <point x="146" y="677" type="line"/>
+      <point x="40" y="677" type="line"/>
+    </contour>
+  </outline>
+</glyph>

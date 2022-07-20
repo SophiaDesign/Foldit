@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="206" y="233" type="line"/>
+      <point x="498" y="233" type="line"/>
+      <point x="498" y="392" type="line"/>
+      <point x="206" y="392" type="line"/>
+    </contour>
+  </outline>
+</glyph>

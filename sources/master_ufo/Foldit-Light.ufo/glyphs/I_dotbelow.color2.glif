@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotbelow.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="54" type="line"/>
+      <point x="181" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

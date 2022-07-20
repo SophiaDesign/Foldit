@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="24" y="564" type="line"/>
+      <point x="266" y="564" type="line"/>
+      <point x="392" y="723" type="line"/>
+      <point x="24" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

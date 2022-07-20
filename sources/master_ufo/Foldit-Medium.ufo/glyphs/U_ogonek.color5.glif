@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="294" y="-155" type="line"/>
+      <point x="361" y="-155" type="line"/>
+      <point x="400" y="-95" type="line"/>
+      <point x="400" y="-94" type="line"/>
+      <point x="294" y="-94" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="341" y="793" type="line"/>
+      <point x="458" y="793" type="line"/>
+      <point x="458" y="886" type="line"/>
+      <point x="341" y="886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

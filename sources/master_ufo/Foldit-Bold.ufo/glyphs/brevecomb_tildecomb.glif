@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="309" y="523" name="_top"/>
+  <anchor x="320" y="820" name="top"/>
+  <outline>
+    <contour>
+      <point x="147" y="659" type="line"/>
+      <point x="248" y="659" type="line"/>
+      <point x="205" y="725" type="line"/>
+      <point x="105" y="725" type="line"/>
+      <point x="105" y="723" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="573" type="line"/>
+      <point x="423" y="573" type="line"/>
+      <point x="472" y="659" type="line"/>
+      <point x="147" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="715" type="line"/>
+      <point x="332" y="715" type="line"/>
+      <point x="332" y="804" type="line"/>
+      <point x="244" y="818" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="659" type="line"/>
+      <point x="472" y="659" type="line"/>
+      <point x="505" y="712" type="line"/>
+      <point x="505" y="713" type="line"/>
+      <point x="404" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="783" type="line"/>
+      <point x="538" y="769" type="line"/>
+      <point x="538" y="871" type="line"/>
+      <point x="443" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="737" type="line"/>
+      <point x="450" y="737" type="line"/>
+      <point x="538" y="769" type="line"/>
+      <point x="538" y="784" type="line"/>
+      <point x="325" y="858" type="line"/>
+      <point x="324" y="858" type="line"/>
+      <point x="244" y="818" type="line"/>
+      <point x="244" y="817" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

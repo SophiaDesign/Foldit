@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="1EDB"/>
+  <outline>
+    <contour>
+      <point x="431" y="426" type="line"/>
+      <point x="432" y="426" type="line"/>
+      <point x="530" y="491" type="line"/>
+      <point x="530" y="611" type="line"/>
+      <point x="431" y="611" type="line"/>
+    </contour>
+  </outline>
+</glyph>

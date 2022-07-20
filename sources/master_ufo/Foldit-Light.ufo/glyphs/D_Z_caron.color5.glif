@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DZcaron.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="01C4"/>
+  <outline>
+    <contour>
+      <point x="434" y="38" type="line"/>
+      <point x="629" y="650" type="line"/>
+      <point x="586" y="705" type="line"/>
+      <point x="381" y="55" type="line"/>
+      <point x="381" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

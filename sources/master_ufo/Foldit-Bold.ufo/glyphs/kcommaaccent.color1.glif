@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="455" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="621" y="233" type="line"/>
+      <point x="455" y="233" type="line"/>
+    </contour>
+  </outline>
+</glyph>

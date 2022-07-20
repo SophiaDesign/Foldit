@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="178" y="601" type="line"/>
+      <point x="408" y="601" type="line"/>
+      <point x="520" y="714" type="line"/>
+      <point x="520" y="715" type="line"/>
+      <point x="178" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

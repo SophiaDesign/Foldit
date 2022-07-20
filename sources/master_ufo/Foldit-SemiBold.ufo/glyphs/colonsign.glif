@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="617.41667"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="269" y="-55" type="line"/>
+      <point x="306" y="-55" type="line"/>
+      <point x="450" y="773" type="line"/>
+      <point x="450" y="774" type="line"/>
+      <point x="414" y="774" type="line"/>
+      <point x="269" y="-54" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="596" y="129" type="line"/>
+      <point x="39" y="129" type="line"/>
+      <point x="39" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="129" type="line"/>
+      <point x="173" y="129" type="line"/>
+      <point x="173" y="718" type="line"/>
+      <point x="172" y="718" type="line"/>
+      <point x="39" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="-55" type="line"/>
+      <point x="217" y="-55" type="line"/>
+      <point x="361" y="773" type="line"/>
+      <point x="361" y="774" type="line"/>
+      <point x="326" y="774" type="line"/>
+      <point x="181" y="-54" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="589" type="line"/>
+      <point x="596" y="589" type="line"/>
+      <point x="596" y="590" type="line"/>
+      <point x="469" y="718" type="line"/>
+      <point x="173" y="718" type="line"/>
+    </contour>
+  </outline>
+</glyph>

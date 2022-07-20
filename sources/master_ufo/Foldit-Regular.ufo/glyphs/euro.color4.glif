@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="190" y="626" type="line"/>
+      <point x="479" y="626" type="line"/>
+      <point x="479" y="627" type="line"/>
+      <point x="397" y="710" type="line"/>
+      <point x="190" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

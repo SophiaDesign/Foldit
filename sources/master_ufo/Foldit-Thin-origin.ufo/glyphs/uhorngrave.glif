@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorngrave" format="2">
+  <advance width="197"/>
+  <unicode hex="1EEB"/>
+  <anchor x="102" y="0" name="bottom"/>
+  <anchor x="123" y="500" name="horn"/>
+  <anchor x="100" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="123" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="500" type="line"/>
+      <point x="123" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="24" type="line"/>
+      <point x="50" y="24" type="line"/>
+      <point x="50" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="24" type="line"/>
+      <point x="74" y="24" type="line"/>
+      <point x="74" y="506" type="line"/>
+      <point x="73" y="506" type="line"/>
+      <point x="50" y="483" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="476" type="line"/>
+      <point x="155" y="476" type="line"/>
+      <point x="178" y="499" type="line"/>
+      <point x="178" y="567" type="line"/>
+      <point x="154" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="476" type="line"/>
+      <point x="154" y="476" type="line"/>
+      <point x="154" y="500" type="line"/>
+      <point x="123" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="570" type="line"/>
+      <point x="116" y="570" type="line"/>
+      <point x="91" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

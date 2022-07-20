@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="129" type="line"/>
+      <point x="231" y="129" type="line"/>
+    </contour>
+  </outline>
+</glyph>

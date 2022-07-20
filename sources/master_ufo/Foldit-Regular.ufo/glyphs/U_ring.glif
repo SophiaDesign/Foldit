@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="461"/>
+  <unicode hex="016E"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="401" y="710" name="horn"/>
+  <anchor x="241" y="711" name="top"/>
+  <outline>
+    <contour>
+      <point x="326" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="414" y="85" type="line"/>
+      <point x="414" y="710" type="line"/>
+      <point x="326" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="84" type="line"/>
+      <point x="47" y="84" type="line"/>
+      <point x="47" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="84" type="line"/>
+      <point x="135" y="84" type="line"/>
+      <point x="135" y="710" type="line"/>
+      <point x="47" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="746" type="line"/>
+      <point x="270" y="746" type="line"/>
+      <point x="317" y="777" type="line"/>
+      <point x="317" y="846" type="line"/>
+      <point x="269" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="746" type="line"/>
+      <point x="269" y="746" type="line"/>
+      <point x="269" y="788" type="line"/>
+      <point x="156" y="788" type="line"/>
+      <point x="156" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="788" type="line"/>
+      <point x="203" y="788" type="line"/>
+      <point x="203" y="888" type="line"/>
+      <point x="202" y="888" type="line"/>
+      <point x="156" y="856" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="846" type="line"/>
+      <point x="317" y="846" type="line"/>
+      <point x="317" y="847" type="line"/>
+      <point x="285" y="888" type="line"/>
+      <point x="203" y="888" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft.color1" format="2">
+  <advance width="600"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="24" y="613" type="line"/>
+      <point x="123" y="613" type="line"/>
+      <point x="148" y="752" type="line"/>
+      <point x="148" y="753" type="line"/>
+      <point x="73" y="753" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ytilde.color6" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF9"/>
+  <outline>
+    <contour>
+      <point x="337" y="592" type="line"/>
+      <point x="338" y="592" type="line"/>
+      <point x="421" y="618" type="line"/>
+      <point x="421" y="619" type="line"/>
+      <point x="232" y="719" type="line"/>
+      <point x="231" y="719" type="line"/>
+      <point x="147" y="692" type="line"/>
+      <point x="147" y="691" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

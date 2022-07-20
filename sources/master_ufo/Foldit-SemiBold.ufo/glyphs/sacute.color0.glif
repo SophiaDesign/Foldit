@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="015B"/>
+  <outline>
+    <contour>
+      <point x="112" y="403" type="line"/>
+      <point x="429" y="403" type="line"/>
+      <point x="429" y="404" type="line"/>
+      <point x="357" y="518" type="line"/>
+      <point x="96" y="518" type="line"/>
+    </contour>
+  </outline>
+</glyph>

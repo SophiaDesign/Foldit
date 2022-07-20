@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="40" y="159" type="line"/>
+      <point x="206" y="159" type="line"/>
+      <point x="206" y="723" type="line"/>
+      <point x="40" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

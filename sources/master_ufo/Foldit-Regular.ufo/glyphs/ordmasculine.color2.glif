@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="51" y="551" type="line"/>
+      <point x="107" y="551" type="line"/>
+      <point x="107" y="754" type="line"/>
+      <point x="106" y="754" type="line"/>
+      <point x="51" y="703" type="line"/>
+    </contour>
+  </outline>
+</glyph>
