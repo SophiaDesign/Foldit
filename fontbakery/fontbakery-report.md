@@ -381,11 +381,9 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: one	Contours detected: 2	Expected: 1
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: thorn	Contours detected: 3	Expected: 2
 Glyph name: uni20A6	Contours detected: 2	Expected: 1, 3 or 5
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: one	Contours detected: 2	Expected: 1
 Glyph name: thorn	Contours detected: 3	Expected: 2
@@ -509,7 +507,7 @@ lines.</pre>
  * Gcaron (U+01E6): L<<299.0,466.0>--<728.0,467.0>>
  * Gcircumflex (U+011C): L<<299.0,466.0>--<728.0,467.0>>
  * Gdotaccent (U+0120): L<<299.0,466.0>--<728.0,467.0>>
- * T (U+0054): L<<305.0,0.0>--<306.0,486.0>> and 62 more. [code: found-semi-vertical]
+ * T (U+0054): L<<305.0,0.0>--<306.0,486.0>> and 63 more. [code: found-semi-vertical]
 
 </details>
 <br>
@@ -654,9 +652,7 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: section	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: section	Contours detected: 1	Expected: 2 [code: contour-count]
 
@@ -767,12 +763,12 @@ lines.</pre>
  * Euro (U+20AC): L<<190.0,436.0>--<442.0,437.0>>
  * Euro (U+20AC): L<<465.0,324.0>--<190.0,323.0>>
  * Euro (U+20AC): L<<465.0,413.0>--<190.0,412.0>>
+ * M (U+004D): L<<598.0,698.0>--<594.0,0.0>>
  * dollar (U+0024): L<<263.0,626.0>--<264.0,407.0>>
  * dollar (U+0024): L<<264.0,323.0>--<265.0,84.0>>
  * kgreenlandic (U+0138): L<<134.0,664.0>--<135.0,0.0>>
  * lira (U+20A4): L<<201.0,347.0>--<418.0,348.0>>
- * lira (U+20A4): L<<201.0,436.0>--<418.0,437.0>>
- * lira (U+20A4): L<<441.0,324.0>--<201.0,323.0>> and 12 more. [code: found-semi-vertical]
+ * lira (U+20A4): L<<201.0,436.0>--<418.0,437.0>> and 14 more. [code: found-semi-vertical]
 
 </details>
 <br>
@@ -919,7 +915,6 @@ The following glyphs do not have the recommended number of contours:
 Glyph name: one	Contours detected: 2	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: I	Contours detected: 2	Expected: 1
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: y	Contours detected: 2	Expected: 1
 Glyph name: Igrave	Contours detected: 3	Expected: 2
@@ -952,7 +947,6 @@ Glyph name: Idotaccent	Contours detected: 3	Expected: 2
 Glyph name: Igrave	Contours detected: 3	Expected: 2
 Glyph name: Imacron	Contours detected: 3	Expected: 2
 Glyph name: Itilde	Contours detected: 3	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: one	Contours detected: 2	Expected: 1
@@ -1113,7 +1107,7 @@ lines.</pre>
  * Ibreve (U+012C): L<<246.0,204.0>--<245.0,0.0>>
  * Icircumflex (U+00CE): L<<246.0,204.0>--<245.0,0.0>>
  * Idieresis (U+00CF): L<<246.0,204.0>--<245.0,0.0>>
- * Idotaccent (U+0130): L<<246.0,204.0>--<245.0,0.0>> and 71 more. [code: found-semi-vertical]
+ * Idotaccent (U+0130): L<<246.0,204.0>--<245.0,0.0>> and 72 more. [code: found-semi-vertical]
 
 </details>
 <br>
@@ -1309,7 +1303,6 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: y	Contours detected: 2	Expected: 1
 Glyph name: yacute	Contours detected: 3	Expected: 2
@@ -1322,7 +1315,6 @@ Glyph name: uni1EF5	Contours detected: 3	Expected: 2
 Glyph name: uni1EF7	Contours detected: 3	Expected: 2
 Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: thorn	Contours detected: 3	Expected: 2
@@ -1594,10 +1586,8 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5 [code: contour-count]
@@ -1859,8 +1849,6 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2 [code: contour-count]
 
 </details>
@@ -1993,12 +1981,12 @@ lines.</pre>
  * Euro (U+20AC): L<<161.0,439.0>--<347.0,440.0>>
  * Euro (U+20AC): L<<370.0,327.0>--<161.0,326.0>>
  * Euro (U+20AC): L<<370.0,416.0>--<161.0,415.0>>
+ * M (U+004D): L<<482.0,689.0>--<480.0,0.0>>
  * dollar (U+0024): L<<200.0,651.0>--<201.0,392.0>>
  * dollar (U+0024): L<<201.0,338.0>--<202.0,54.0>>
  * g (U+0067): L<<247.0,451.0>--<246.0,-165.0>>
  * gbreve (U+011F): L<<247.0,451.0>--<246.0,-165.0>>
- * gcaron (U+01E7): L<<247.0,451.0>--<246.0,-165.0>>
- * gcircumflex (U+011D): L<<247.0,451.0>--<246.0,-165.0>> and 23 more. [code: found-semi-vertical]
+ * gcaron (U+01E7): L<<247.0,451.0>--<246.0,-165.0>> and 25 more. [code: found-semi-vertical]
 
 </details>
 <br>
@@ -2143,8 +2131,6 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2 [code: contour-count]
 
 </details>
@@ -2258,6 +2244,8 @@ cases such as extreme ink traps, so should be regarded as advisory and backed up
 by manual inspection.</pre>
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
+	* M (U+004D): L<<196.0,-3.0>--<77.0,565.0>>/L<<77.0,565.0>--<77.0,0.0>> = 11.83272501030298
+	* M (U+004D): L<<342.0,0.0>--<342.0,570.0>>/L<<342.0,570.0>--<222.0,-3.0>> = 11.828171622918351
 	* V (U+0056): L<<47.0,700.0>--<119.0,103.0>>/L<<119.0,103.0>--<183.0,700.0>> = 12.995722982421416
 	* colonmonetary (U+20A1): L<<82.0,676.0>--<82.0,377.0>>/L<<82.0,377.0>--<116.0,676.0>> = 6.4873732411041445
 	* oslash (U+00F8): L<<124.0,24.0>--<124.0,298.0>>/L<<124.0,298.0>--<74.0,79.0>> = 12.860793059094537
@@ -2288,7 +2276,7 @@ lines.</pre>
  * gbreve (U+011F): L<<147.0,476.0>--<146.0,-177.0>>
  * gcaron (U+01E7): L<<147.0,476.0>--<146.0,-177.0>>
  * gcircumflex (U+011D): L<<147.0,476.0>--<146.0,-177.0>>
- * gdotaccent (U+0121): L<<147.0,476.0>--<146.0,-177.0>> and 16 more. [code: found-semi-vertical]
+ * gdotaccent (U+0121): L<<147.0,476.0>--<146.0,-177.0>> and 17 more. [code: found-semi-vertical]
 
 </details>
 <br>
@@ -2433,9 +2421,7 @@ optimized for the typical construction of glyphs in static fonts.</pre>
 The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
-Glyph name: M	Contours detected: 0	Expected: 1
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5 [code: contour-count]
 
@@ -2546,12 +2532,12 @@ lines.</pre>
  * Euro (U+20AC): L<<219.0,433.0>--<538.0,434.0>>
  * Euro (U+20AC): L<<561.0,321.0>--<219.0,320.0>>
  * Euro (U+20AC): L<<561.0,410.0>--<219.0,409.0>>
+ * M (U+004D): L<<714.0,708.0>--<708.0,0.0>>
  * dollar (U+0024): L<<327.0,601.0>--<328.0,422.0>>
  * dollar (U+0024): L<<328.0,308.0>--<329.0,114.0>>
  * kgreenlandic (U+0138): L<<163.0,697.0>--<164.0,0.0>>
  * lira (U+20A4): L<<238.0,246.0>--<237.0,114.0>>
- * lira (U+20A4): L<<238.0,344.0>--<521.0,345.0>>
- * lira (U+20A4): L<<238.0,433.0>--<521.0,434.0>> and 16 more. [code: found-semi-vertical]
+ * lira (U+20A4): L<<238.0,344.0>--<521.0,345.0>> and 17 more. [code: found-semi-vertical]
 
 </details>
 <br>
