@@ -515,6 +515,13 @@
       <key>public.kern2.T</key>
       <integer>-10</integer>
     </dict>
+    <key>ecircumflexhookabove</key>
+    <dict>
+      <key>public.kern2.T</key>
+      <integer>-15</integer>
+      <key>public.kern2.Y</key>
+      <integer>-5</integer>
+    </dict>
     <key>ecircumflextilde</key>
     <dict>
       <key>public.kern2.T</key>

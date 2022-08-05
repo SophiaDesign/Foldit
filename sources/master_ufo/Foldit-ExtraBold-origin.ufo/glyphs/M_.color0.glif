@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="532" y="160" type="line"/>
+      <point x="649" y="-6" type="line"/>
+      <point x="946" y="465" type="line"/>
+      <point x="836" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

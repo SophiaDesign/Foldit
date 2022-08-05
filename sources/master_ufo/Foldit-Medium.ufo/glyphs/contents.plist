@@ -1390,6 +1390,14 @@
     <string>L_slash.color2.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>M.color0</key>
+    <string>M_.color0.glif</string>
+    <key>M.color1</key>
+    <string>M_.color1.glif</string>
+    <key>M.color2</key>
+    <string>M_.color2.glif</string>
+    <key>M.color3</key>
+    <string>M_.color3.glif</string>
     <key>N</key>
     <string>N_.glif</string>
     <key>N.color0</key>
@@ -2902,6 +2910,24 @@
     <string>acircumflexgrave.color5.glif</string>
     <key>acircumflexgrave.color6</key>
     <string>acircumflexgrave.color6.glif</string>
+    <key>acircumflexhookabove</key>
+    <string>acircumflexhookabove.glif</string>
+    <key>acircumflexhookabove.color0</key>
+    <string>acircumflexhookabove.color0.glif</string>
+    <key>acircumflexhookabove.color1</key>
+    <string>acircumflexhookabove.color1.glif</string>
+    <key>acircumflexhookabove.color2</key>
+    <string>acircumflexhookabove.color2.glif</string>
+    <key>acircumflexhookabove.color3</key>
+    <string>acircumflexhookabove.color3.glif</string>
+    <key>acircumflexhookabove.color4</key>
+    <string>acircumflexhookabove.color4.glif</string>
+    <key>acircumflexhookabove.color5</key>
+    <string>acircumflexhookabove.color5.glif</string>
+    <key>acircumflexhookabove.color6</key>
+    <string>acircumflexhookabove.color6.glif</string>
+    <key>acircumflexhookabove.color7</key>
+    <string>acircumflexhookabove.color7.glif</string>
     <key>acircumflextilde</key>
     <string>acircumflextilde.glif</string>
     <key>acircumflextilde.color0</key>
@@ -3608,6 +3634,8 @@
     <string>circumflexcomb_gravecomb.color1.glif</string>
     <key>circumflexcomb_gravecomb.color2</key>
     <string>circumflexcomb_gravecomb.color2.glif</string>
+    <key>circumflexcomb_hookabovecomb</key>
+    <string>circumflexcomb_hookabovecomb.glif</string>
     <key>circumflexcomb_hookabovecomb.case</key>
     <string>circumflexcomb_hookabovecomb.case.glif</string>
     <key>circumflexcomb_hookabovecomb.case.color0</key>
@@ -3618,6 +3646,14 @@
     <string>circumflexcomb_hookabovecomb.case.color2.glif</string>
     <key>circumflexcomb_hookabovecomb.case.color3</key>
     <string>circumflexcomb_hookabovecomb.case.color3.glif</string>
+    <key>circumflexcomb_hookabovecomb.color0</key>
+    <string>circumflexcomb_hookabovecomb.color0.glif</string>
+    <key>circumflexcomb_hookabovecomb.color1</key>
+    <string>circumflexcomb_hookabovecomb.color1.glif</string>
+    <key>circumflexcomb_hookabovecomb.color2</key>
+    <string>circumflexcomb_hookabovecomb.color2.glif</string>
+    <key>circumflexcomb_hookabovecomb.color3</key>
+    <string>circumflexcomb_hookabovecomb.color3.glif</string>
     <key>circumflexcomb_tildecomb</key>
     <string>circumflexcomb_tildecomb.glif</string>
     <key>circumflexcomb_tildecomb.case</key>
@@ -4038,6 +4074,26 @@
     <string>ecircumflexgrave.color6.glif</string>
     <key>ecircumflexgrave.color7</key>
     <string>ecircumflexgrave.color7.glif</string>
+    <key>ecircumflexhookabove</key>
+    <string>ecircumflexhookabove.glif</string>
+    <key>ecircumflexhookabove.color0</key>
+    <string>ecircumflexhookabove.color0.glif</string>
+    <key>ecircumflexhookabove.color1</key>
+    <string>ecircumflexhookabove.color1.glif</string>
+    <key>ecircumflexhookabove.color2</key>
+    <string>ecircumflexhookabove.color2.glif</string>
+    <key>ecircumflexhookabove.color3</key>
+    <string>ecircumflexhookabove.color3.glif</string>
+    <key>ecircumflexhookabove.color4</key>
+    <string>ecircumflexhookabove.color4.glif</string>
+    <key>ecircumflexhookabove.color5</key>
+    <string>ecircumflexhookabove.color5.glif</string>
+    <key>ecircumflexhookabove.color6</key>
+    <string>ecircumflexhookabove.color6.glif</string>
+    <key>ecircumflexhookabove.color7</key>
+    <string>ecircumflexhookabove.color7.glif</string>
+    <key>ecircumflexhookabove.color8</key>
+    <string>ecircumflexhookabove.color8.glif</string>
     <key>ecircumflextilde</key>
     <string>ecircumflextilde.glif</string>
     <key>ecircumflextilde.color0</key>
@@ -5316,6 +5372,24 @@
     <string>ocircumflexgrave.color5.glif</string>
     <key>ocircumflexgrave.color6</key>
     <string>ocircumflexgrave.color6.glif</string>
+    <key>ocircumflexhookabove</key>
+    <string>ocircumflexhookabove.glif</string>
+    <key>ocircumflexhookabove.color0</key>
+    <string>ocircumflexhookabove.color0.glif</string>
+    <key>ocircumflexhookabove.color1</key>
+    <string>ocircumflexhookabove.color1.glif</string>
+    <key>ocircumflexhookabove.color2</key>
+    <string>ocircumflexhookabove.color2.glif</string>
+    <key>ocircumflexhookabove.color3</key>
+    <string>ocircumflexhookabove.color3.glif</string>
+    <key>ocircumflexhookabove.color4</key>
+    <string>ocircumflexhookabove.color4.glif</string>
+    <key>ocircumflexhookabove.color5</key>
+    <string>ocircumflexhookabove.color5.glif</string>
+    <key>ocircumflexhookabove.color6</key>
+    <string>ocircumflexhookabove.color6.glif</string>
+    <key>ocircumflexhookabove.color7</key>
+    <string>ocircumflexhookabove.color7.glif</string>
     <key>ocircumflextilde</key>
     <string>ocircumflextilde.glif</string>
     <key>ocircumflextilde.color0</key>
@@ -6472,6 +6546,22 @@
     <string>tildecomb.color1.glif</string>
     <key>tildecomb.color2</key>
     <string>tildecomb.color2.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
+    <key>trademark.color0</key>
+    <string>trademark.color0.glif</string>
+    <key>trademark.color1</key>
+    <string>trademark.color1.glif</string>
+    <key>trademark.color2</key>
+    <string>trademark.color2.glif</string>
+    <key>trademark.color3</key>
+    <string>trademark.color3.glif</string>
+    <key>trademark.color4</key>
+    <string>trademark.color4.glif</string>
+    <key>trademark.color5</key>
+    <string>trademark.color5.glif</string>
+    <key>trademark.color6</key>
+    <string>trademark.color6.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.color0</key>

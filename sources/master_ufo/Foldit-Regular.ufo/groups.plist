@@ -80,6 +80,7 @@
     </array>
     <key>public.kern1.H</key>
     <array>
+      <string>M</string>
       <string>idotaccent</string>
       <string>igrave</string>
       <string>umacron</string>
@@ -340,6 +341,7 @@
       <string>acircumflexacute</string>
       <string>acircumflexdotbelow</string>
       <string>acircumflexgrave</string>
+      <string>acircumflexhookabove</string>
       <string>acircumflextilde</string>
       <string>adblgrave</string>
       <string>adieresis</string>
@@ -373,6 +375,7 @@
       <string>ocircumflexacute</string>
       <string>ocircumflexdotbelow</string>
       <string>ocircumflexgrave</string>
+      <string>ocircumflexhookabove</string>
       <string>ocircumflextilde</string>
       <string>odblgrave</string>
       <string>odieresis</string>
@@ -517,6 +520,7 @@
       <string>Hcircumflex</string>
       <string>K</string>
       <string>Kcommaaccent</string>
+      <string>M</string>
       <string>P</string>
       <string>Thorn</string>
       <string>R</string>
@@ -773,6 +777,7 @@
       <string>acircumflexacute</string>
       <string>acircumflexdotbelow</string>
       <string>acircumflexgrave</string>
+      <string>acircumflexhookabove</string>
       <string>acircumflextilde</string>
       <string>adblgrave</string>
       <string>adieresis</string>
@@ -805,6 +810,7 @@
       <string>ecircumflexacute</string>
       <string>ecircumflexdotbelow</string>
       <string>ecircumflexgrave</string>
+      <string>ecircumflexhookabove</string>
       <string>edieresis</string>
       <string>edotaccent</string>
       <string>edotbelow</string>
@@ -820,6 +826,7 @@
       <string>ocircumflexacute</string>
       <string>ocircumflexdotbelow</string>
       <string>ocircumflexgrave</string>
+      <string>ocircumflexhookabove</string>
       <string>ocircumflextilde</string>
       <string>odblgrave</string>
       <string>odieresis</string>

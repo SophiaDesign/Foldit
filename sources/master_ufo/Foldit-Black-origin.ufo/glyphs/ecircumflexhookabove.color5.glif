@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexhookabove.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="1EC3"/>
+  <outline>
+    <contour>
+      <point x="525" y="578" type="line"/>
+      <point x="709" y="578" type="line"/>
+      <point x="709" y="579" type="line"/>
+      <point x="554" y="706" type="line"/>
+      <point x="503" y="706" type="line"/>
+      <point x="401" y="675" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
