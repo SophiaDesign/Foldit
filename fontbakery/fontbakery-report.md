@@ -20,7 +20,7 @@ the files from a single family spreaded in several separate directories).</pre>
 <br>
 </details>
 <details>
-<summary><b>[13] Foldit-decomposed[wght].ttf</b></summary>
+<summary><b>[12] Foldit-decomposed[wght].ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -109,17 +109,6 @@ and separated by commas:
 - Familyname-Italic[wght].ttf</pre>
 
 * 🔥 **FAIL** The file 'Foldit-decomposed[wght].ttf' must be renamed to 'Foldit[wght].ttf' according to the Google Fonts naming policy for variable fonts. [code: bad-varfont-filename]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
 
 </details>
 <details>
@@ -242,7 +231,7 @@ data. This makes the solution much more portable and universal.</pre>
 <br>
 </details>
 <details>
-<summary><b>[15] Foldit-Black.ttf</b></summary>
+<summary><b>[14] Foldit-Black.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -317,17 +306,6 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
@@ -384,10 +362,12 @@ Glyph name: one	Contours detected: 2	Expected: 1
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: thorn	Contours detected: 3	Expected: 2
 Glyph name: uni20A6	Contours detected: 2	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: one	Contours detected: 2	Expected: 1
 Glyph name: thorn	Contours detected: 3	Expected: 2
-Glyph name: uni20A6	Contours detected: 2	Expected: 1, 3 or 5 [code: contour-count]
+Glyph name: uni20A6	Contours detected: 2	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7 [code: contour-count]
 
 </details>
 <details>
@@ -513,7 +493,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[15] Foldit-Regular.ttf</b></summary>
+<summary><b>[14] Foldit-Regular.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -588,17 +568,6 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
@@ -653,8 +622,10 @@ The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: section	Contours detected: 1	Expected: 2
+Glyph name: uni20A9	Contours detected: 6	Expected: 1, 3, 4 or 7
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: section	Contours detected: 1	Expected: 2 [code: contour-count]
+Glyph name: section	Contours detected: 1	Expected: 2
+Glyph name: uni20A9	Contours detected: 6	Expected: 1, 3, 4 or 7 [code: contour-count]
 
 </details>
 <details>
@@ -774,7 +745,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[16] Foldit-ExtraBold.ttf</b></summary>
+<summary><b>[15] Foldit-ExtraBold.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -846,17 +817,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
 
 </details>
 <details>
@@ -938,6 +898,7 @@ Glyph name: ygrave	Contours detected: 3	Expected: 2
 Glyph name: uni1EF5	Contours detected: 3	Expected: 2
 Glyph name: uni1EF7	Contours detected: 3	Expected: 2
 Glyph name: uni1EF9	Contours detected: 3	Expected: 2
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: I	Contours detected: 2	Expected: 1
 Glyph name: Iacute	Contours detected: 3	Expected: 2
 Glyph name: Ibreve	Contours detected: 3	Expected: 2
@@ -957,6 +918,7 @@ Glyph name: uni1ECA	Contours detected: 3	Expected: 2
 Glyph name: uni1EF5	Contours detected: 3	Expected: 2
 Glyph name: uni1EF7	Contours detected: 3	Expected: 2
 Glyph name: uni1EF9	Contours detected: 3	Expected: 2
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: y	Contours detected: 2	Expected: 1
 Glyph name: yacute	Contours detected: 3	Expected: 2
 Glyph name: ycircumflex	Contours detected: 3	Expected: 2
@@ -1113,7 +1075,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[20] Foldit-Bold.ttf</b></summary>
+<summary><b>[19] Foldit-Bold.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -1185,17 +1147,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
 
 </details>
 <details>
@@ -1315,6 +1266,7 @@ Glyph name: uni1EF5	Contours detected: 3	Expected: 2
 Glyph name: uni1EF7	Contours detected: 3	Expected: 2
 Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: thorn	Contours detected: 3	Expected: 2
@@ -1323,6 +1275,7 @@ Glyph name: uni1EF5	Contours detected: 3	Expected: 2
 Glyph name: uni1EF7	Contours detected: 3	Expected: 2
 Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: y	Contours detected: 2	Expected: 1
 Glyph name: yacute	Contours detected: 3	Expected: 2
 Glyph name: ycircumflex	Contours detected: 3	Expected: 2
@@ -1447,7 +1400,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[15] Foldit-SemiBold.ttf</b></summary>
+<summary><b>[14] Foldit-SemiBold.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -1522,17 +1475,6 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
@@ -1588,9 +1530,11 @@ The following glyphs do not have the recommended number of contours:
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: b	Contours detected: 1	Expected: 2
-Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5 [code: contour-count]
+Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7 [code: contour-count]
 
 </details>
 <details>
@@ -1710,7 +1654,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[16] Foldit-Light.ttf</b></summary>
+<summary><b>[15] Foldit-Light.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -1782,17 +1726,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
 
 </details>
 <details>
@@ -1992,7 +1925,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[16] Foldit-Thin.ttf</b></summary>
+<summary><b>[15] Foldit-Thin.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -2064,17 +1997,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
 
 </details>
 <details>
@@ -2282,7 +2204,7 @@ lines.</pre>
 <br>
 </details>
 <details>
-<summary><b>[15] Foldit-Medium.ttf</b></summary>
+<summary><b>[14] Foldit-Medium.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -2357,17 +2279,6 @@ Google Fonts.</pre>
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check `Google Fonts Latin Core` glyph coverage.</summary>
-
-* [com.google.fonts/check/glyph_coverage](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage)
-<pre>--- Rationale ---
-Google Fonts expects that fonts in its collection support at least the minimal
-set of characters defined in the `GF-latin-core` glyph-set.</pre>
-
-* 🔥 **FAIL** Missing required codepoints: 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK) [code: missing-codepoints]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
@@ -2422,8 +2333,10 @@ The following glyphs do not have the recommended number of contours:
 
 Glyph name: at	Contours detected: 1	Expected: 2
 Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7
 Glyph name: at	Contours detected: 1	Expected: 2
-Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5 [code: contour-count]
+Glyph name: uni20A6	Contours detected: 4	Expected: 1, 3 or 5
+Glyph name: uni20A9	Contours detected: 5	Expected: 1, 3, 4 or 7 [code: contour-count]
 
 </details>
 <details>
@@ -2547,8 +2460,8 @@ lines.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 54 | 17 | 71 | 844 | 56 | 792 | 0 |
-| 3% | 1% | 4% | 46% | 3% | 43% | 0% |
+| 54 | 8 | 71 | 844 | 56 | 801 | 0 |
+| 3% | 0% | 4% | 46% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
