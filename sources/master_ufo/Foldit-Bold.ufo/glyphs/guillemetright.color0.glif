@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="432" y="265" type="line"/>
+      <point x="432" y="266" type="line"/>
+      <point x="215" y="511" type="line"/>
+      <point x="30" y="511" type="line"/>
+      <point x="30" y="510" type="line"/>
+      <point x="247" y="265" type="line"/>
+    </contour>
+  </outline>
+</glyph>

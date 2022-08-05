@@ -4696,6 +4696,16 @@
     <string>guillemetleft.color2.glif</string>
     <key>guillemetleft.color3</key>
     <string>guillemetleft.color3.glif</string>
+    <key>guillemetright</key>
+    <string>guillemetright.glif</string>
+    <key>guillemetright.color0</key>
+    <string>guillemetright.color0.glif</string>
+    <key>guillemetright.color1</key>
+    <string>guillemetright.color1.glif</string>
+    <key>guillemetright.color2</key>
+    <string>guillemetright.color2.glif</string>
+    <key>guillemetright.color3</key>
+    <string>guillemetright.color3.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
     <key>guilsinglleft.color0</key>
@@ -6936,6 +6946,20 @@
     <string>wgrave.color4.glif</string>
     <key>wgrave.color5</key>
     <string>wgrave.color5.glif</string>
+    <key>won</key>
+    <string>won.glif</string>
+    <key>won.color0</key>
+    <string>won.color0.glif</string>
+    <key>won.color1</key>
+    <string>won.color1.glif</string>
+    <key>won.color2</key>
+    <string>won.color2.glif</string>
+    <key>won.color3</key>
+    <string>won.color3.glif</string>
+    <key>won.color4</key>
+    <string>won.color4.glif</string>
+    <key>won.color5</key>
+    <string>won.color5.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>x.color0</key>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won.color2" format="2">
+  <advance width="600"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="34" y="414" type="line"/>
+      <point x="795" y="415" type="line"/>
+      <point x="795" y="416" type="line"/>
+      <point x="772" y="439" type="line"/>
+      <point x="11" y="438" type="line"/>
+      <point x="11" y="437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>
