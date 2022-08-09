@@ -14,7 +14,7 @@
 
 Foldit is a variable-gradient COLRv1 font which uses gradients to play with dimension and sense of space. Styles run along weight and width axes with two masters: Thin Condensed and Extrabold Expanded. First version is available in GF Latin Plus character set. Concept of this design was, as the name suggest, based on a folded paper strip.
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/foldit--squares-combined.png)
 
 ## Project Author
 
@@ -39,11 +39,15 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
+**26 September 2022. Version 1.00**
+
 - MAJOR Font turned to a variable font.
 - SIGNIFICANT New Stylistic sets added.
+- First release. Latin Plus character set. COLRv1 variable-gradient.
 
 ## Make a contribution
+
+(Last updated: 08 August 2022)
 
 Guide for making your contribution to this project:
 
@@ -52,6 +56,7 @@ Guide for making your contribution to this project:
 2. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
 3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters, and clear background on all masters (for which you can use [use Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
 4. Generate font files locally using [fontmake](https://github.com/googlefonts/fontmake)
+
 
 
 ## Repository Layout
@@ -63,4 +68,4 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at
-https://scripts.sil.org/OFL
+[https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
