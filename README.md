@@ -57,14 +57,12 @@ Guide for making your contribution to this project:
 3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters and clear background on all masters (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
 4. Generate font files locally using [fontmake](https://github.com/googlefonts/fontmake)
 
-
-## Repository Layout
-
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
-
-
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at
 [https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
+
+## Repository Layout
+
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
