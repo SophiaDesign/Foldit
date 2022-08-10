@@ -11,7 +11,8 @@ DisplayStrings = (
 M,
 ALPHABETTES,
 "™/circumflexcomb_hookabovecomb",
-"«»₩"
+"«»₩",
+"₩"
 );
 axes = (
 {
@@ -212199,7 +212200,7 @@ unicode = 163;
 },
 {
 glyphname = won;
-lastChange = "2022-08-08 10:35:21 +0000";
+lastChange = "2022-08-10 09:02:10 +0000";
 layers = (
 {
 attr = {
@@ -212961,7 +212962,7 @@ attr = {
 gradient = {
 colors = (
 (
-(81,255),
+(64,255),
 0
 ),
 (
@@ -213164,7 +213165,7 @@ attr = {
 gradient = {
 colors = (
 (
-(81,255),
+(64,255),
 0
 ),
 (
@@ -213367,7 +213368,7 @@ attr = {
 gradient = {
 colors = (
 (
-(81,255),
+(64,255),
 0
 ),
 (
@@ -213570,7 +213571,7 @@ attr = {
 gradient = {
 colors = (
 (
-(81,255),
+(64,255),
 0
 ),
 (
@@ -213773,7 +213774,7 @@ attr = {
 gradient = {
 colors = (
 (
-(81,255),
+(64,255),
 0
 ),
 (
