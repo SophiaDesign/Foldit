@@ -14,7 +14,7 @@
 
 Foldit is a variable-gradient COLRv1 font which uses gradients to play with dimension and sense of space. Styles run along weight and width axes with two masters: Thin Condensed and Extrabold Expanded. First version is available in GF Latin Plus character set. Concept of this design was, as the name suggest, based on a folded paper strip.
 
-![Sample Image](documentation/foldit--squares-combined.png)
+![Sample Image](documentation/image1.png)
 
 ## Project Author
 
