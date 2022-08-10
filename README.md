@@ -54,9 +54,8 @@ Guide for making your contribution to this project:
 1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in `Foldit-origin.glyphs` source file to keep an editable version.
 2. For COLRv1 feature make sure you only have [native Color layer type](https://glyphsapp.com/learn/creating-an-svg-color-font) selected and no others. 
 2. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
-3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters, and clear background on all masters (for which you can use [use Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
+3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters and clear background on all masters (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
 4. Generate font files locally using [fontmake](https://github.com/googlefonts/fontmake)
-
 
 
 ## Repository Layout
