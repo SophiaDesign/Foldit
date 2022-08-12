@@ -2,51 +2,31 @@
 <glyph name="Odblgrave" format="2">
   <advance width="596.16667"/>
   <unicode hex="020C"/>
-  <anchor x="300" y="0" name="bottom"/>
-  <anchor x="479" y="718" name="horn"/>
-  <anchor x="313" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="172" y="589" type="line"/>
-      <point x="560" y="589" type="line"/>
-      <point x="560" y="590" type="line"/>
-      <point x="456" y="718" type="line"/>
-      <point x="172" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="425" y="129" type="line"/>
-      <point x="37" y="129" type="line"/>
-      <point x="37" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="37" y="129" type="line"/>
-      <point x="172" y="129" type="line"/>
-      <point x="172" y="718" type="line"/>
-      <point x="171" y="718" type="line"/>
-      <point x="37" y="587" type="line"/>
-    </contour>
-    <contour>
-      <point x="425" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="560" y="131" type="line"/>
-      <point x="560" y="589" type="line"/>
-      <point x="425" y="589" type="line"/>
-    </contour>
-    <contour>
-      <point x="356" y="764" type="line"/>
-      <point x="440" y="764" type="line"/>
-      <point x="408" y="884" type="line"/>
-      <point x="275" y="884" type="line"/>
-      <point x="275" y="883" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="764" type="line"/>
-      <point x="281" y="764" type="line"/>
-      <point x="250" y="884" type="line"/>
-      <point x="117" y="884" type="line"/>
-      <point x="117" y="883" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="dblgravecomb.case" xOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dblgravecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

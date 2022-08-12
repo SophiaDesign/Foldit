@@ -2,27 +2,31 @@
 <glyph name="Ldot" format="2">
   <advance width="338.83333"/>
   <unicode hex="013F"/>
-  <anchor x="194" y="0" name="bottom"/>
-  <anchor x="90" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="335" y="0" type="line"/>
-      <point x="335" y="54" type="line"/>
-      <point x="50" y="54" type="line"/>
-      <point x="50" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="54" type="line"/>
-      <point x="106" y="54" type="line"/>
-      <point x="106" y="705" type="line"/>
-      <point x="50" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="338" type="line"/>
-      <point x="247" y="338" type="line"/>
-      <point x="247" y="392" type="line"/>
-      <point x="182" y="392" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="149" yOffset="35"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>periodcentered</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

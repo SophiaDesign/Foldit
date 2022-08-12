@@ -2,56 +2,31 @@
 <glyph name="wcircumflex" format="2">
   <advance width="960"/>
   <unicode hex="0175"/>
-  <anchor x="489" y="713" name="top"/>
   <outline>
-    <contour>
-      <point x="754" y="0" type="line"/>
-      <point x="755" y="0" type="line"/>
-      <point x="922" y="159" type="line"/>
-      <point x="922" y="523" type="line"/>
-      <point x="754" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="404" y="0" type="line"/>
-      <point x="404" y="159" type="line"/>
-      <point x="39" y="159" type="line"/>
-      <point x="39" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="159" type="line"/>
-      <point x="205" y="159" type="line"/>
-      <point x="205" y="529" type="line"/>
-      <point x="204" y="529" type="line"/>
-      <point x="39" y="488" type="line"/>
-    </contour>
-    <contour>
-      <point x="461" y="0" type="line"/>
-      <point x="754" y="0" type="line"/>
-      <point x="754" y="159" type="line"/>
-      <point x="404" y="159" type="line"/>
-      <point x="404" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="404" y="159" type="line"/>
-      <point x="556" y="159" type="line"/>
-      <point x="556" y="524" type="line"/>
-      <point x="555" y="524" type="line"/>
-      <point x="404" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="527" y="591" type="line"/>
-      <point x="650" y="591" type="line"/>
-      <point x="650" y="592" type="line"/>
-      <point x="535" y="748" type="line"/>
-      <point x="438" y="725" type="line"/>
-    </contour>
-    <contour>
-      <point x="302" y="591" type="line"/>
-      <point x="424" y="591" type="line"/>
-      <point x="535" y="748" type="line"/>
-      <point x="421" y="748" type="line"/>
-      <point x="302" y="592" type="line"/>
-    </contour>
+    <component base="w"/>
+    <component base="circumflexcomb" xOffset="184"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>w</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

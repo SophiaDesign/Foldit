@@ -2,68 +2,31 @@
 <glyph name="Dzcaron" format="2">
   <advance width="1356.75"/>
   <unicode hex="01C5"/>
-  <anchor x="141" y="362" name="stroke"/>
-  <anchor x="1053" y="523" name="top"/>
   <outline>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="687" y="564" type="line"/>
-      <point x="687" y="565" type="line"/>
-      <point x="559" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="-3" type="line"/>
-      <point x="521" y="-3" type="line"/>
-      <point x="521" y="156" type="line"/>
-      <point x="40" y="156" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="156" type="line"/>
-      <point x="206" y="156" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="40" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="521" y="-3" type="line"/>
-      <point x="522" y="-3" type="line"/>
-      <point x="687" y="150" type="line"/>
-      <point x="687" y="564" type="line"/>
-      <point x="521" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="751" y="382" type="line"/>
-      <point x="1235" y="382" type="line"/>
-      <point x="1255" y="523" type="line"/>
-      <point x="832" y="523" type="line"/>
-      <point x="751" y="383" type="line"/>
-    </contour>
-    <contour>
-      <point x="936" y="118" type="line"/>
-      <point x="1328" y="391" type="line"/>
-      <point x="1255" y="523" type="line"/>
-      <point x="747" y="142" type="line"/>
-      <point x="747" y="141" type="line"/>
-    </contour>
-    <contour>
-      <point x="833" y="0" type="line"/>
-      <point x="1324" y="0" type="line"/>
-      <point x="1324" y="141" type="line"/>
-      <point x="747" y="141" type="line"/>
-    </contour>
-    <contour>
-      <point x="982" y="584" type="line"/>
-      <point x="1079" y="608" type="line"/>
-      <point x="990" y="733" type="line"/>
-      <point x="867" y="733" type="line"/>
-      <point x="867" y="732" type="line"/>
-    </contour>
-    <contour>
-      <point x="982" y="584" type="line"/>
-      <point x="1096" y="584" type="line"/>
-      <point x="1215" y="732" type="line"/>
-      <point x="1215" y="733" type="line"/>
-      <point x="1093" y="733" type="line"/>
-    </contour>
+    <component base="D"/>
+    <component base="zcaron" xOffset="719"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>zcaron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

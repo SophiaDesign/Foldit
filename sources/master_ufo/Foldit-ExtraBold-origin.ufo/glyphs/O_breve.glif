@@ -2,57 +2,8 @@
 <glyph name="Obreve" format="2">
   <advance width="827"/>
   <unicode hex="014E"/>
-  <anchor x="412" y="0" name="bottom"/>
-  <anchor x="680" y="730" name="horn"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="239" y="526" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="802" y="527" type="line"/>
-      <point x="640" y="730" type="line"/>
-      <point x="239" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-      <point x="25" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="204" type="line"/>
-      <point x="239" y="204" type="line"/>
-      <point x="239" y="730" type="line"/>
-      <point x="238" y="730" type="line"/>
-      <point x="25" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="802" y="207" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="588" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="304" y="760" type="line"/>
-      <point x="549" y="760" type="line"/>
-      <point x="643" y="860" type="line"/>
-      <point x="210" y="860" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="860" type="line"/>
-      <point x="389" y="860" type="line"/>
-      <point x="352" y="900" type="line"/>
-      <point x="176" y="900" type="line"/>
-      <point x="176" y="898" type="line"/>
-    </contour>
-    <contour>
-      <point x="464" y="860" type="line"/>
-      <point x="643" y="860" type="line"/>
-      <point x="677" y="899" type="line"/>
-      <point x="677" y="900" type="line"/>
-      <point x="501" y="900" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="brevecomb.case" xOffset="117"/>
   </outline>
 </glyph>

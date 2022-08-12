@@ -2,51 +2,8 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="827"/>
   <unicode hex="0150"/>
-  <anchor x="412" y="0" name="bottom"/>
-  <anchor x="680" y="730" name="horn"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="239" y="526" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="802" y="527" type="line"/>
-      <point x="640" y="730" type="line"/>
-      <point x="239" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-      <point x="25" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="204" type="line"/>
-      <point x="239" y="204" type="line"/>
-      <point x="239" y="730" type="line"/>
-      <point x="238" y="730" type="line"/>
-      <point x="25" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="802" y="207" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="588" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="453" y="760" type="line"/>
-      <point x="579" y="760" type="line"/>
-      <point x="694" y="899" type="line"/>
-      <point x="694" y="900" type="line"/>
-      <point x="488" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="223" y="760" type="line"/>
-      <point x="349" y="760" type="line"/>
-      <point x="464" y="899" type="line"/>
-      <point x="464" y="900" type="line"/>
-      <point x="258" y="900" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="hungarumlautcomb.case" xOffset="137"/>
   </outline>
 </glyph>

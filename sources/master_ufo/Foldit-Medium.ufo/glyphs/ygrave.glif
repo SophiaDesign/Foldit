@@ -2,44 +2,9 @@
 <glyph name="ygrave" format="2">
   <advance width="488"/>
   <unicode hex="1EF3"/>
-  <anchor x="251" y="-200" name="bottom"/>
-  <anchor x="262" y="515" name="top"/>
   <outline>
-    <contour>
-      <point x="327" y="-203" type="line"/>
-      <point x="328" y="-203" type="line"/>
-      <point x="446" y="-141" type="line"/>
-      <point x="446" y="515" type="line"/>
-      <point x="327" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="94" y="-203" type="line"/>
-      <point x="327" y="-203" type="line"/>
-      <point x="327" y="-101" type="line"/>
-      <point x="43" y="-101" type="line"/>
-      <point x="43" y="-102" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="327" y="0" type="line"/>
-      <point x="327" y="114" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="43" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-      <point x="161" y="520" type="line"/>
-      <point x="160" y="520" type="line"/>
-      <point x="43" y="483" type="line"/>
-    </contour>
-    <contour>
-      <point x="234" y="580" type="line"/>
-      <point x="299" y="580" type="line"/>
-      <point x="269" y="760" type="line"/>
-      <point x="165" y="760" type="line"/>
-      <point x="165" y="759" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="gravecomb" xOffset="-62"/>
   </outline>
   <lib>
     <dict>

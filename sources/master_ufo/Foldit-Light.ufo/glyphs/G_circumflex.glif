@@ -2,57 +2,31 @@
 <glyph name="Gcircumflex" format="2">
   <advance width="373.66667"/>
   <unicode hex="011C"/>
-  <anchor x="204" y="0" name="bottom"/>
-  <anchor x="196" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="104" y="651" type="line"/>
-      <point x="334" y="651" type="line"/>
-      <point x="334" y="652" type="line"/>
-      <point x="281" y="705" type="line"/>
-      <point x="104" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="101" y="0" type="line"/>
-      <point x="278" y="0" type="line"/>
-      <point x="278" y="54" type="line"/>
-      <point x="48" y="54" type="line"/>
-      <point x="48" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="54" type="line"/>
-      <point x="104" y="54" type="line"/>
-      <point x="104" y="705" type="line"/>
-      <point x="103" y="705" type="line"/>
-      <point x="48" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="152" y="338" type="line"/>
-      <point x="278" y="338" type="line"/>
-      <point x="278" y="392" type="line"/>
-      <point x="152" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="278" y="0" type="line"/>
-      <point x="279" y="0" type="line"/>
-      <point x="334" y="53" type="line"/>
-      <point x="334" y="340" type="line"/>
-      <point x="279" y="392" type="line"/>
-      <point x="278" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="234" y="760" type="line"/>
-      <point x="280" y="760" type="line"/>
-      <point x="280" y="761" type="line"/>
-      <point x="217" y="858" type="line"/>
-      <point x="175" y="853" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="760" type="line"/>
-      <point x="153" y="760" type="line"/>
-      <point x="217" y="858" type="line"/>
-      <point x="172" y="858" type="line"/>
-      <point x="108" y="761" type="line"/>
-    </contour>
+    <component base="G"/>
+    <component base="circumflexcomb.case" xOffset="-117"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

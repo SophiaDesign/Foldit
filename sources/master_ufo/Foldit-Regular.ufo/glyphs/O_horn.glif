@@ -2,51 +2,31 @@
 <glyph name="Ohorn" format="2">
   <advance width="490.33333"/>
   <unicode hex="01A0"/>
-  <anchor x="232" y="0" name="bottom"/>
-  <anchor x="358" y="710" name="horn"/>
-  <anchor x="238" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="131" y="626" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="414" y="627" type="line"/>
-      <point x="345" y="710" type="line"/>
-      <point x="131" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="0" type="line"/>
-      <point x="326" y="0" type="line"/>
-      <point x="326" y="84" type="line"/>
-      <point x="43" y="84" type="line"/>
-      <point x="43" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="84" type="line"/>
-      <point x="131" y="84" type="line"/>
-      <point x="131" y="710" type="line"/>
-      <point x="130" y="710" type="line"/>
-      <point x="43" y="625" type="line"/>
-    </contour>
-    <contour>
-      <point x="326" y="0" type="line"/>
-      <point x="327" y="0" type="line"/>
-      <point x="414" y="85" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="326" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="403" y="642" type="line"/>
-      <point x="404" y="642" type="line"/>
-      <point x="477" y="693" type="line"/>
-      <point x="477" y="796" type="line"/>
-      <point x="403" y="796" type="line"/>
-    </contour>
-    <contour>
-      <point x="373" y="642" type="line"/>
-      <point x="403" y="642" type="line"/>
-      <point x="403" y="710" type="line"/>
-      <point x="297" y="710" type="line"/>
-      <point x="297" y="709" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="horncomb.case" xOffset="59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>horncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

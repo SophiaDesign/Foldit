@@ -2,42 +2,31 @@
 <glyph name="rinvertedbreve" format="2">
   <advance width="418.91667"/>
   <unicode hex="0213"/>
-  <anchor x="104" y="0" name="bottom"/>
-  <anchor x="241" y="518" name="top"/>
   <outline>
-    <contour>
-      <point x="42" y="0" type="line"/>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="518" type="line"/>
-      <point x="175" y="518" type="line"/>
-      <point x="42" y="446" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="389" type="line"/>
-      <point x="413" y="389" type="line"/>
-      <point x="413" y="390" type="line"/>
-      <point x="341" y="518" type="line"/>
-      <point x="176" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="120" y="677" type="line"/>
-      <point x="343" y="677" type="line"/>
-      <point x="302" y="747" type="line"/>
-      <point x="161" y="747" type="line"/>
-    </contour>
-    <contour>
-      <point x="80" y="610" type="line"/>
-      <point x="164" y="610" type="line"/>
-      <point x="203" y="677" type="line"/>
-      <point x="120" y="677" type="line"/>
-      <point x="80" y="612" type="line"/>
-    </contour>
-    <contour>
-      <point x="304" y="610" type="line"/>
-      <point x="382" y="610" type="line"/>
-      <point x="382" y="611" type="line"/>
-      <point x="343" y="677" type="line"/>
-      <point x="264" y="677" type="line"/>
-    </contour>
+    <component base="r"/>
+    <component base="breveinvertedcomb" xOffset="-68"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>r</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breveinvertedcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

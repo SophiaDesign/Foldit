@@ -2,55 +2,31 @@
 <glyph name="abreve" format="2">
   <advance width="669.5"/>
   <unicode hex="0103"/>
-  <anchor x="356" y="0" name="bottom"/>
-  <anchor x="364" y="523" name="top"/>
   <outline>
-    <contour>
-      <point x="205" y="364" type="line"/>
-      <point x="631" y="364" type="line"/>
-      <point x="631" y="365" type="line"/>
-      <point x="545" y="523" type="line"/>
-      <point x="205" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="465" y="0" type="line"/>
-      <point x="465" y="159" type="line"/>
-      <point x="39" y="159" type="line"/>
-      <point x="39" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="159" type="line"/>
-      <point x="205" y="159" type="line"/>
-      <point x="205" y="523" type="line"/>
-      <point x="204" y="523" type="line"/>
-      <point x="39" y="437" type="line"/>
-    </contour>
-    <contour>
-      <point x="465" y="0" type="line"/>
-      <point x="631" y="0" type="line"/>
-      <point x="631" y="364" type="line"/>
-      <point x="465" y="364" type="line"/>
-    </contour>
-    <contour>
-      <point x="396" y="695" type="line"/>
-      <point x="504" y="695" type="line"/>
-      <point x="540" y="752" type="line"/>
-      <point x="540" y="753" type="line"/>
-      <point x="431" y="753" type="line"/>
-    </contour>
-    <contour>
-      <point x="187" y="695" type="line"/>
-      <point x="303" y="695" type="line"/>
-      <point x="269" y="753" type="line"/>
-      <point x="153" y="753" type="line"/>
-      <point x="153" y="752" type="line"/>
-    </contour>
-    <contour>
-      <point x="244" y="599" type="line"/>
-      <point x="448" y="599" type="line"/>
-      <point x="504" y="695" type="line"/>
-      <point x="187" y="695" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="48"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

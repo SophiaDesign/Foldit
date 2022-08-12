@@ -2,36 +2,8 @@
 <glyph name="Yacute" format="2">
   <advance width="840"/>
   <unicode hex="00DD"/>
-  <anchor x="417" y="0" name="bottom"/>
-  <anchor x="443" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="288" y="285" type="line"/>
-      <point x="289" y="285" type="line"/>
-      <point x="436" y="467" type="line"/>
-      <point x="273" y="730" type="line"/>
-      <point x="0" y="730" type="line"/>
-      <point x="0" y="729" type="line"/>
-    </contour>
-    <contour>
-      <point x="288" y="0" type="line"/>
-      <point x="552" y="0" type="line"/>
-      <point x="552" y="285" type="line"/>
-      <point x="288" y="285" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="285" type="line"/>
-      <point x="552" y="285" type="line"/>
-      <point x="840" y="729" type="line"/>
-      <point x="840" y="730" type="line"/>
-      <point x="566" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="339" y="760" type="line"/>
-      <point x="505" y="760" type="line"/>
-      <point x="620" y="899" type="line"/>
-      <point x="620" y="900" type="line"/>
-      <point x="374" y="900" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="acutecomb.case" xOffset="173"/>
   </outline>
 </glyph>

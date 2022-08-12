@@ -2,14 +2,22 @@
 <glyph name="grave" format="2">
   <advance width="600"/>
   <unicode hex="0060"/>
-  <anchor x="314" y="505" name="_top"/>
   <outline>
-    <contour>
-      <point x="299" y="573" type="line"/>
-      <point x="337" y="573" type="line"/>
-      <point x="310" y="720" type="line"/>
-      <point x="255" y="720" type="line"/>
-      <point x="255" y="719" type="line"/>
-    </contour>
+    <component base="gravecomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

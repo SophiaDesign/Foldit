@@ -3,24 +3,30 @@
   <advance width="259"/>
   <unicode hex="003B"/>
   <outline>
-    <contour>
-      <point x="34" y="284" type="line"/>
-      <point x="217" y="284" type="line"/>
-      <point x="217" y="443" type="line"/>
-      <point x="34" y="443" type="line"/>
-    </contour>
-    <contour>
-      <point x="65" y="13" type="line"/>
-      <point x="255" y="13" type="line"/>
-      <point x="169" y="172" type="line"/>
-      <point x="65" y="172" type="line"/>
-    </contour>
-    <contour>
-      <point x="118" y="-160" type="line"/>
-      <point x="119" y="-160" type="line"/>
-      <point x="255" y="-74" type="line"/>
-      <point x="255" y="13" type="line"/>
-      <point x="118" y="13" type="line"/>
-    </contour>
+    <component base="period" yOffset="284"/>
+    <component base="comma" xOffset="31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

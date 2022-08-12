@@ -2,59 +2,9 @@
 <glyph name="ytilde" format="2">
   <advance width="634"/>
   <unicode hex="1EF9"/>
-  <anchor x="326" y="-200" name="bottom"/>
-  <anchor x="342" y="523" name="top"/>
   <outline>
-    <contour>
-      <point x="429" y="-204" type="line"/>
-      <point x="430" y="-204" type="line"/>
-      <point x="595" y="-123" type="line"/>
-      <point x="595" y="523" type="line"/>
-      <point x="429" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="115" y="-204" type="line"/>
-      <point x="429" y="-204" type="line"/>
-      <point x="429" y="-63" type="line"/>
-      <point x="39" y="-63" type="line"/>
-      <point x="39" y="-64" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="428" y="0" type="line"/>
-      <point x="428" y="159" type="line"/>
-      <point x="39" y="159" type="line"/>
-      <point x="39" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="159" type="line"/>
-      <point x="205" y="159" type="line"/>
-      <point x="205" y="528" type="line"/>
-      <point x="204" y="528" type="line"/>
-      <point x="39" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="174" y="604" type="line"/>
-      <point x="269" y="604" type="line"/>
-      <point x="269" y="693" type="line"/>
-      <point x="174" y="707" type="line"/>
-    </contour>
-    <contour>
-      <point x="403" y="635" type="line"/>
-      <point x="497" y="627" type="line"/>
-      <point x="497" y="730" type="line"/>
-      <point x="403" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="595" type="line"/>
-      <point x="396" y="595" type="line"/>
-      <point x="497" y="626" type="line"/>
-      <point x="497" y="627" type="line"/>
-      <point x="277" y="740" type="line"/>
-      <point x="276" y="740" type="line"/>
-      <point x="174" y="708" type="line"/>
-      <point x="174" y="707" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="tildecomb" xOffset="42"/>
   </outline>
   <lib>
     <dict>

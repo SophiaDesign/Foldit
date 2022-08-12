@@ -2,49 +2,31 @@
 <glyph name="Ahookabove" format="2">
   <advance width="703.5"/>
   <unicode hex="1EA2"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="369" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="205" y="723" type="line"/>
-      <point x="40" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="498" y="233" type="line"/>
-      <point x="498" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="664" y="0" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="498" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="664" y="565" type="line"/>
-      <point x="537" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="305" y="755" type="line"/>
-      <point x="399" y="755" type="line"/>
-      <point x="513" y="840" type="line"/>
-      <point x="513" y="841" type="line"/>
-      <point x="428" y="923" type="line"/>
-      <point x="305" y="756" type="line"/>
-    </contour>
-    <contour>
-      <point x="218" y="840" type="line"/>
-      <point x="513" y="840" type="line"/>
-      <point x="513" y="841" type="line"/>
-      <point x="428" y="923" type="line"/>
-      <point x="218" y="923" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="hookabovecomb.case" xOffset="30"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

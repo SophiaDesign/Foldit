@@ -2,40 +2,21 @@
 <glyph name="three.lf" format="2">
   <advance width="460"/>
   <outline>
-    <contour>
-      <point x="35" y="606" type="line"/>
-      <point x="313" y="606" type="line"/>
-      <point x="313" y="690" type="line"/>
-      <point x="118" y="690" type="line"/>
-      <point x="35" y="607" type="line"/>
-    </contour>
-    <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="313" y="0" type="line"/>
-      <point x="313" y="84" type="line"/>
-      <point x="29" y="84" type="line"/>
-      <point x="29" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="82" y="363" type="line"/>
-      <point x="313" y="363" type="line"/>
-      <point x="313" y="433" type="line"/>
-      <point x="82" y="433" type="line"/>
-    </contour>
-    <contour>
-      <point x="313" y="407" type="line"/>
-      <point x="399" y="407" type="line"/>
-      <point x="399" y="599" type="line"/>
-      <point x="314" y="690" type="line"/>
-      <point x="313" y="690" type="line"/>
-    </contour>
-    <contour>
-      <point x="313" y="0" type="line"/>
-      <point x="314" y="0" type="line"/>
-      <point x="399" y="80" type="line"/>
-      <point x="399" y="359" type="line"/>
-      <point x="314" y="433" type="line"/>
-      <point x="313" y="433" type="line"/>
-    </contour>
+    <component base="three"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>three</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

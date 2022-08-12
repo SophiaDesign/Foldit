@@ -2,55 +2,31 @@
 <glyph name="Rcaron" format="2">
   <advance width="472.66667"/>
   <unicode hex="0158"/>
-  <anchor x="232" y="0" name="bottom"/>
-  <anchor x="230" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="47" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="335" y="0" type="line"/>
-      <point x="443" y="0" type="line"/>
-      <point x="443" y="1" type="line"/>
-      <point x="315" y="359" type="line"/>
-      <point x="241" y="305" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="299" type="line"/>
-      <point x="326" y="299" type="line"/>
-      <point x="326" y="383" type="line"/>
-      <point x="135" y="383" type="line"/>
-    </contour>
-    <contour>
-      <point x="326" y="299" type="line"/>
-      <point x="327" y="299" type="line"/>
-      <point x="414" y="374" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="326" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="414" y="627" type="line"/>
-      <point x="331" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="754" type="line"/>
-      <point x="258" y="764" type="line"/>
-      <point x="184" y="860" type="line"/>
-      <point x="116" y="860" type="line"/>
-      <point x="116" y="859" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="754" type="line"/>
-      <point x="264" y="754" type="line"/>
-      <point x="346" y="859" type="line"/>
-      <point x="346" y="860" type="line"/>
-      <point x="280" y="860" type="line"/>
-    </contour>
+    <component base="R"/>
+    <component base="caroncomb.case" xOffset="-81"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

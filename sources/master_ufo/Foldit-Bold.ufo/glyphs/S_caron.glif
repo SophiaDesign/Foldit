@@ -2,58 +2,31 @@
 <glyph name="Scaron" format="2">
   <advance width="671"/>
   <unicode hex="0160"/>
-  <anchor x="339" y="0" name="bottom"/>
-  <anchor x="344" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="196" y="564" type="line"/>
-      <point x="641" y="564" type="line"/>
-      <point x="641" y="565" type="line"/>
-      <point x="484" y="723" type="line"/>
-      <point x="196" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="187" y="0" type="line"/>
-      <point x="475" y="0" type="line"/>
-      <point x="475" y="159" type="line"/>
-      <point x="30" y="159" type="line"/>
-      <point x="30" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="187" y="285" type="line"/>
-      <point x="475" y="285" type="line"/>
-      <point x="475" y="444" type="line"/>
-      <point x="30" y="444" type="line"/>
-      <point x="30" y="443" type="line"/>
-    </contour>
-    <contour>
-      <point x="30" y="444" type="line"/>
-      <point x="196" y="444" type="line"/>
-      <point x="196" y="723" type="line"/>
-      <point x="195" y="723" type="line"/>
-      <point x="30" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="475" y="0" type="line"/>
-      <point x="476" y="0" type="line"/>
-      <point x="641" y="150" type="line"/>
-      <point x="641" y="290" type="line"/>
-      <point x="476" y="444" type="line"/>
-      <point x="475" y="444" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="758" type="line"/>
-      <point x="391" y="782" type="line"/>
-      <point x="280" y="885" type="line"/>
-      <point x="156" y="885" type="line"/>
-      <point x="156" y="884" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="758" type="line"/>
-      <point x="406" y="758" type="line"/>
-      <point x="533" y="884" type="line"/>
-      <point x="533" y="885" type="line"/>
-      <point x="412" y="885" type="line"/>
-    </contour>
+    <component base="S"/>
+    <component base="caroncomb.case" xOffset="30"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

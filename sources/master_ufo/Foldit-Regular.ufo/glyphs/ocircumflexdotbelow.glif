@@ -2,57 +2,40 @@
 <glyph name="ocircumflexdotbelow" format="2">
   <advance width="411"/>
   <unicode hex="1ED9"/>
-  <anchor x="207" y="0" name="bottom"/>
-  <anchor x="304" y="510" name="horn"/>
-  <anchor x="222" y="652" name="top"/>
   <outline>
-    <contour>
-      <point x="129" y="426" type="line"/>
-      <point x="370" y="426" type="line"/>
-      <point x="370" y="427" type="line"/>
-      <point x="319" y="510" type="line"/>
-      <point x="129" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="93" y="0" type="line"/>
-      <point x="282" y="0" type="line"/>
-      <point x="282" y="84" type="line"/>
-      <point x="42" y="84" type="line"/>
-      <point x="42" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="42" y="84" type="line"/>
-      <point x="129" y="84" type="line"/>
-      <point x="129" y="510" type="line"/>
-      <point x="128" y="510" type="line"/>
-      <point x="42" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="282" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="370" y="51" type="line"/>
-      <point x="370" y="426" type="line"/>
-      <point x="282" y="426" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="-146" type="line"/>
-      <point x="252" y="-146" type="line"/>
-      <point x="252" y="-69" type="line"/>
-      <point x="164" y="-69" type="line"/>
-    </contour>
-    <contour>
-      <point x="254" y="590" type="line"/>
-      <point x="322" y="590" type="line"/>
-      <point x="322" y="591" type="line"/>
-      <point x="246" y="710" type="line"/>
-      <point x="190" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="104" y="590" type="line"/>
-      <point x="172" y="590" type="line"/>
-      <point x="246" y="710" type="line"/>
-      <point x="182" y="710" type="line"/>
-      <point x="104" y="591" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="-116"/>
+    <component base="circumflexcomb" xOffset="-89"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

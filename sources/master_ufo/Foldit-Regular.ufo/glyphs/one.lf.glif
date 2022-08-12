@@ -2,31 +2,21 @@
 <glyph name="one.lf" format="2">
   <advance width="460"/>
   <outline>
-    <contour>
-      <point x="202" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="290" y="84" type="line"/>
-      <point x="290" y="690" type="line"/>
-      <point x="271" y="690" type="line"/>
-      <point x="202" y="606" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="202" y="0" type="line"/>
-      <point x="202" y="84" type="line"/>
-      <point x="48" y="84" type="line"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="line"/>
-      <point x="413" y="0" type="line"/>
-      <point x="413" y="84" type="line"/>
-      <point x="290" y="84" type="line"/>
-    </contour>
-    <contour>
-      <point x="83" y="606" type="line"/>
-      <point x="202" y="606" type="line"/>
-      <point x="271" y="690" type="line"/>
-      <point x="83" y="690" type="line"/>
-    </contour>
+    <component base="one"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

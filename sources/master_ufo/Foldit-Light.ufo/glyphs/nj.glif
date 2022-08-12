@@ -2,50 +2,31 @@
 <glyph name="nj" format="2">
   <advance width="462.16667"/>
   <unicode hex="01CC"/>
-  <anchor x="154" y="0" name="bottom"/>
-  <anchor x="158" y="505" name="top"/>
   <outline>
-    <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="103" y="0" type="line"/>
-      <point x="103" y="505" type="line"/>
-      <point x="102" y="505" type="line"/>
-      <point x="48" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="196" y="-3" type="line"/>
-      <point x="197" y="-3" type="line"/>
-      <point x="252" y="24" type="line"/>
-      <point x="252" y="451" type="line"/>
-      <point x="196" y="451" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="451" type="line"/>
-      <point x="252" y="451" type="line"/>
-      <point x="252" y="452" type="line"/>
-      <point x="215" y="505" type="line"/>
-      <point x="103" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="339" y="-201" type="line"/>
-      <point x="340" y="-201" type="line"/>
-      <point x="391" y="-164" type="line"/>
-      <point x="391" y="503" type="line"/>
-      <point x="390" y="503" type="line"/>
-      <point x="339" y="466" type="line"/>
-    </contour>
-    <contour>
-      <point x="252" y="-201" type="line"/>
-      <point x="339" y="-201" type="line"/>
-      <point x="339" y="-151" type="line"/>
-      <point x="252" y="-151" type="line"/>
-    </contour>
-    <contour>
-      <point x="339" y="530" type="line"/>
-      <point x="340" y="530" type="line"/>
-      <point x="391" y="567" type="line"/>
-      <point x="391" y="626" type="line"/>
-      <point x="339" y="626" type="line"/>
-    </contour>
+    <component base="n"/>
+    <component base="j" xOffset="287"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

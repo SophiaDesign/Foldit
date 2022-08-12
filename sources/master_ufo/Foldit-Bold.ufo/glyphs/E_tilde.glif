@@ -2,56 +2,31 @@
 <glyph name="Etilde" format="2">
   <advance width="654"/>
   <unicode hex="1EBC"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="354" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="197" y="0" type="line"/>
-      <point x="625" y="0" type="line"/>
-      <point x="625" y="159" type="line"/>
-      <point x="40" y="159" type="line"/>
-      <point x="40" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="159" type="line"/>
-      <point x="206" y="159" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="40" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="300" type="line"/>
-      <point x="543" y="300" type="line"/>
-      <point x="543" y="430" type="line"/>
-      <point x="206" y="430" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="507" y="564" type="line"/>
-      <point x="664" y="722" type="line"/>
-      <point x="664" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="776" type="line"/>
-      <point x="271" y="776" type="line"/>
-      <point x="271" y="857" type="line"/>
-      <point x="161" y="849" type="line"/>
-    </contour>
-    <contour>
-      <point x="432" y="804" type="line"/>
-      <point x="542" y="819" type="line"/>
-      <point x="542" y="898" type="line"/>
-      <point x="432" y="898" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="763" type="line"/>
-      <point x="433" y="763" type="line"/>
-      <point x="542" y="818" type="line"/>
-      <point x="542" y="819" type="line"/>
-      <point x="279" y="904" type="line"/>
-      <point x="269" y="904" type="line"/>
-      <point x="161" y="850" type="line"/>
-      <point x="161" y="849" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="62"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -29,36 +29,21 @@
       <point x="208" y="701" type="line"/>
       <point x="103" y="701" type="line"/>
     </contour>
-    <contour>
-      <point x="354" y="323" type="line"/>
-      <point x="455" y="323" type="line"/>
-      <point x="455" y="377" type="line"/>
-      <point x="300" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="299" y="0" type="line"/>
-      <point x="354" y="0" type="line"/>
-      <point x="354" y="323" type="line"/>
-      <point x="300" y="377" type="line"/>
-      <point x="299" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="299" y="377" type="line"/>
-      <point x="354" y="377" type="line"/>
-      <point x="354" y="701" type="line"/>
-      <point x="353" y="701" type="line"/>
-      <point x="299" y="664" type="line"/>
-    </contour>
-    <contour>
-      <point x="354" y="647" type="line"/>
-      <point x="478" y="647" type="line"/>
-      <point x="478" y="648" type="line"/>
-      <point x="455" y="701" type="line"/>
-      <point x="354" y="701" type="line"/>
-    </contour>
+    <component base="f" xOffset="251"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>f</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

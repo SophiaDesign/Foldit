@@ -2,16 +2,7 @@
 <glyph name="itilde" format="2">
   <advance width="198"/>
   <unicode hex="0129"/>
-  <anchor x="103" y="0" name="bottom"/>
-  <anchor x="105" y="510" name="top"/>
   <outline>
-    <contour>
-      <point x="61" y="0" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="147" y="503" type="line"/>
-      <point x="146" y="512" type="line"/>
-      <point x="61" y="496" type="line"/>
-    </contour>
     <contour>
       <point x="25" y="591" type="line"/>
       <point x="73" y="591" type="line"/>
@@ -34,5 +25,21 @@
       <point x="25" y="664" type="line"/>
       <point x="25" y="663" type="line"/>
     </contour>
+    <component base="idotless" xOffset="10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

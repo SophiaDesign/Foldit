@@ -2,42 +2,31 @@
 <glyph name="lj" format="2">
   <advance width="583.25"/>
   <unicode hex="01C9"/>
-  <anchor x="190" y="0" name="bottom"/>
-  <anchor x="118" y="768" name="top"/>
   <outline>
-    <contour>
-      <point x="175" y="0" type="line"/>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="768" type="line"/>
-      <point x="42" y="768" type="line"/>
-      <point x="42" y="72" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="0" type="line"/>
-      <point x="325" y="0" type="line"/>
-      <point x="325" y="129" type="line"/>
-      <point x="176" y="129" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="-203" type="line"/>
-      <point x="396" y="-203" type="line"/>
-      <point x="518" y="-131" type="line"/>
-      <point x="518" y="503" type="line"/>
-      <point x="517" y="503" type="line"/>
-      <point x="395" y="430" type="line"/>
-    </contour>
-    <contour>
-      <point x="246" y="-203" type="line"/>
-      <point x="395" y="-203" type="line"/>
-      <point x="395" y="-88" type="line"/>
-      <point x="246" y="-88" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="500" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="518" y="572" type="line"/>
-      <point x="518" y="654" type="line"/>
-      <point x="395" y="654" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="j" xOffset="338"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

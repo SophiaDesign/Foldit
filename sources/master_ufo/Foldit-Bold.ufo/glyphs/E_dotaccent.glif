@@ -2,40 +2,31 @@
 <glyph name="Edotaccent" format="2">
   <advance width="654"/>
   <unicode hex="0116"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="354" y="875" name="top"/>
   <outline>
-    <contour>
-      <point x="197" y="0" type="line"/>
-      <point x="625" y="0" type="line"/>
-      <point x="625" y="159" type="line"/>
-      <point x="40" y="159" type="line"/>
-      <point x="40" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="159" type="line"/>
-      <point x="206" y="159" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="40" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="300" type="line"/>
-      <point x="543" y="300" type="line"/>
-      <point x="543" y="430" type="line"/>
-      <point x="206" y="430" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="507" y="564" type="line"/>
-      <point x="664" y="722" type="line"/>
-      <point x="664" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="779" type="line"/>
-      <point x="423" y="779" type="line"/>
-      <point x="423" y="886" type="line"/>
-      <point x="285" y="886" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="dotaccentcomb.case" xOffset="45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

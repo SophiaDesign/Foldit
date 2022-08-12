@@ -18,12 +18,6 @@
       <point x="296" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="209" y="84" type="line"/>
-      <point x="110" y="84" type="line"/>
-    </contour>
-    <contour>
       <point x="206" y="309" type="line"/>
       <point x="305" y="309" type="line"/>
       <point x="388" y="379" type="line"/>
@@ -37,5 +31,21 @@
       <point x="205" y="380" type="line"/>
       <point x="119" y="299" type="line"/>
     </contour>
+    <component base="period" xOffset="77"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

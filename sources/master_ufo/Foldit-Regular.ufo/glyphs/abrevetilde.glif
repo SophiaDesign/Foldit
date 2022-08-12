@@ -2,77 +2,31 @@
 <glyph name="abrevetilde" format="2">
   <advance width="407"/>
   <unicode hex="1EB5"/>
-  <anchor x="215" y="0" name="bottom"/>
-  <anchor x="223" y="754" name="top"/>
   <outline>
-    <contour>
-      <point x="132" y="426" type="line"/>
-      <point x="362" y="426" type="line"/>
-      <point x="362" y="427" type="line"/>
-      <point x="311" y="510" type="line"/>
-      <point x="132" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="96" y="0" type="line"/>
-      <point x="275" y="0" type="line"/>
-      <point x="275" y="84" type="line"/>
-      <point x="45" y="84" type="line"/>
-      <point x="45" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="84" type="line"/>
-      <point x="132" y="84" type="line"/>
-      <point x="132" y="510" type="line"/>
-      <point x="131" y="510" type="line"/>
-      <point x="45" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="275" y="0" type="line"/>
-      <point x="362" y="0" type="line"/>
-      <point x="362" y="426" type="line"/>
-      <point x="275" y="426" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="615" type="line"/>
-      <point x="183" y="615" type="line"/>
-      <point x="148" y="672" type="line"/>
-      <point x="89" y="672" type="line"/>
-      <point x="89" y="671" type="line"/>
-    </contour>
-    <contour>
-      <point x="153" y="564" type="line"/>
-      <point x="283" y="564" type="line"/>
-      <point x="312" y="615" type="line"/>
-      <point x="124" y="615" type="line"/>
-    </contour>
-    <contour>
-      <point x="162" y="688" type="line"/>
-      <point x="212" y="688" type="line"/>
-      <point x="212" y="756" type="line"/>
-      <point x="162" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="252" y="615" type="line"/>
-      <point x="312" y="615" type="line"/>
-      <point x="343" y="666" type="line"/>
-      <point x="343" y="667" type="line"/>
-      <point x="283" y="667" type="line"/>
-    </contour>
-    <contour>
-      <point x="295" y="723" type="line"/>
-      <point x="348" y="717" type="line"/>
-      <point x="348" y="791" type="line"/>
-      <point x="295" y="791" type="line"/>
-    </contour>
-    <contour>
-      <point x="293" y="697" type="line"/>
-      <point x="298" y="697" type="line"/>
-      <point x="348" y="716" type="line"/>
-      <point x="348" y="723" type="line"/>
-      <point x="209" y="785" type="line"/>
-      <point x="208" y="785" type="line"/>
-      <point x="162" y="762" type="line"/>
-      <point x="162" y="761" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="brevecomb_tildecomb" xOffset="-91"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb_tildecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

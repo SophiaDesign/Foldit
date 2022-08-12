@@ -2,52 +2,31 @@
 <glyph name="Idieresis" format="2">
   <advance width="477.41667"/>
   <unicode hex="00CF"/>
-  <anchor x="245" y="0" name="bottom"/>
-  <anchor x="247" y="859" name="top"/>
   <outline>
-    <contour>
-      <point x="185" y="0" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="321" y="129" type="line"/>
-      <point x="321" y="718" type="line"/>
-      <point x="290" y="718" type="line"/>
-      <point x="185" y="589" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="0" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="185" y="129" type="line"/>
-      <point x="24" y="129" type="line"/>
-    </contour>
-    <contour>
-      <point x="217" y="0" type="line"/>
-      <point x="455" y="0" type="line"/>
-      <point x="455" y="129" type="line"/>
-      <point x="321" y="129" type="line"/>
-    </contour>
-    <contour>
-      <point x="23" y="589" type="line"/>
-      <point x="185" y="589" type="line"/>
-      <point x="290" y="718" type="line"/>
-      <point x="23" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="321" y="589" type="line"/>
-      <point x="454" y="589" type="line"/>
-      <point x="454" y="718" type="line"/>
-      <point x="321" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="797" type="line"/>
-      <point x="383" y="797" type="line"/>
-      <point x="383" y="877" type="line"/>
-      <point x="285" y="877" type="line"/>
-    </contour>
-    <contour>
-      <point x="114" y="797" type="line"/>
-      <point x="212" y="797" type="line"/>
-      <point x="212" y="877" type="line"/>
-      <point x="114" y="877" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="dieresiscomb.case" xOffset="-55"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

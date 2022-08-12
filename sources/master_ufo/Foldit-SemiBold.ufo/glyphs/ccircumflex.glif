@@ -2,44 +2,31 @@
 <glyph name="ccircumflex" format="2">
   <advance width="511.16667"/>
   <unicode hex="0109"/>
-  <anchor x="282" y="0" name="bottom"/>
-  <anchor x="295" y="689" name="top"/>
   <outline>
-    <contour>
-      <point x="116" y="0" type="line"/>
-      <point x="421" y="0" type="line"/>
-      <point x="493" y="128" type="line"/>
-      <point x="493" y="129" type="line"/>
-      <point x="44" y="129" type="line"/>
-      <point x="44" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="44" y="129" type="line"/>
-      <point x="179" y="129" type="line"/>
-      <point x="179" y="518" type="line"/>
-      <point x="178" y="518" type="line"/>
-      <point x="44" y="446" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="389" type="line"/>
-      <point x="497" y="389" type="line"/>
-      <point x="497" y="390" type="line"/>
-      <point x="425" y="518" type="line"/>
-      <point x="179" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="591" type="line"/>
-      <point x="431" y="591" type="line"/>
-      <point x="431" y="592" type="line"/>
-      <point x="332" y="733" type="line"/>
-      <point x="251" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="591" type="line"/>
-      <point x="236" y="591" type="line"/>
-      <point x="332" y="733" type="line"/>
-      <point x="238" y="733" type="line"/>
-      <point x="135" y="592" type="line"/>
-    </contour>
+    <component base="c"/>
+    <component base="circumflexcomb" xOffset="-13"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

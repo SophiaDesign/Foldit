@@ -2,61 +2,31 @@
 <glyph name="Abreveacute" format="2">
   <advance width="560"/>
   <unicode hex="1EAE"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="292" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="44" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="715" type="line"/>
-      <point x="163" y="715" type="line"/>
-      <point x="44" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="273" type="line"/>
-      <point x="397" y="273" type="line"/>
-      <point x="397" y="387" type="line"/>
-      <point x="164" y="387" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="397" y="601" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="601" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="517" y="602" type="line"/>
-      <point x="424" y="715" type="line"/>
-      <point x="164" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="217" y="761" type="line"/>
-      <point x="368" y="761" type="line"/>
-      <point x="423" y="818" type="line"/>
-      <point x="162" y="818" type="line"/>
-    </contour>
-    <contour>
-      <point x="162" y="818" type="line"/>
-      <point x="251" y="818" type="line"/>
-      <point x="213" y="856" type="line"/>
-      <point x="128" y="856" type="line"/>
-      <point x="128" y="855" type="line"/>
-    </contour>
-    <contour>
-      <point x="252" y="842" type="line"/>
-      <point x="311" y="842" type="line"/>
-      <point x="381" y="939" type="line"/>
-      <point x="381" y="940" type="line"/>
-      <point x="281" y="940" type="line"/>
-    </contour>
-    <contour>
-      <point x="334" y="818" type="line"/>
-      <point x="423" y="818" type="line"/>
-      <point x="457" y="855" type="line"/>
-      <point x="457" y="856" type="line"/>
-      <point x="373" y="856" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="brevecomb_acutecomb.case" xOffset="-17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb_acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

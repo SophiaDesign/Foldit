@@ -2,21 +2,22 @@
 <glyph name="caron" format="2">
   <advance width="600"/>
   <unicode hex="02C7"/>
-  <anchor x="305" y="518" name="_top"/>
   <outline>
-    <contour>
-      <point x="248" y="586" type="line"/>
-      <point x="328" y="604" type="line"/>
-      <point x="249" y="722" type="line"/>
-      <point x="148" y="722" type="line"/>
-      <point x="148" y="721" type="line"/>
-    </contour>
-    <contour>
-      <point x="248" y="586" type="line"/>
-      <point x="342" y="586" type="line"/>
-      <point x="444" y="721" type="line"/>
-      <point x="444" y="722" type="line"/>
-      <point x="344" y="722" type="line"/>
-    </contour>
+    <component base="caroncomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>caroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,43 +2,31 @@
 <glyph name="scircumflex" format="2">
   <advance width="462.33333"/>
   <unicode hex="015D"/>
-  <anchor x="236" y="0" name="bottom"/>
-  <anchor x="245" y="689" name="top"/>
   <outline>
-    <contour>
-      <point x="112" y="403" type="line"/>
-      <point x="429" y="403" type="line"/>
-      <point x="429" y="404" type="line"/>
-      <point x="357" y="518" type="line"/>
-      <point x="96" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="269" y="97" type="line"/>
-      <point x="435" y="115" type="line"/>
-      <point x="435" y="116" type="line"/>
-      <point x="96" y="518" type="line"/>
-      <point x="34" y="408" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="363" y="0" type="line"/>
-      <point x="435" y="115" type="line"/>
-      <point x="28" y="115" type="line"/>
-      <point x="28" y="114" type="line"/>
-    </contour>
-    <contour>
-      <point x="280" y="591" type="line"/>
-      <point x="381" y="591" type="line"/>
-      <point x="381" y="592" type="line"/>
-      <point x="282" y="733" type="line"/>
-      <point x="201" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="85" y="591" type="line"/>
-      <point x="186" y="591" type="line"/>
-      <point x="282" y="733" type="line"/>
-      <point x="188" y="733" type="line"/>
-      <point x="85" y="592" type="line"/>
-    </contour>
+    <component base="s"/>
+    <component base="circumflexcomb" xOffset="-63"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>s</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

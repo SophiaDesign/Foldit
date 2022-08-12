@@ -2,73 +2,8 @@
 <glyph name="Ocircumflextilde" format="2">
   <advance width="273"/>
   <unicode hex="1ED6"/>
-  <anchor x="142" y="0" name="bottom"/>
-  <anchor x="197" y="700" name="horn"/>
-  <anchor x="138" y="700" name="top"/>
   <outline>
-    <contour>
-      <point x="77" y="676" type="line"/>
-      <point x="220" y="676" type="line"/>
-      <point x="220" y="677" type="line"/>
-      <point x="197" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="196" y="0" type="line"/>
-      <point x="196" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="24" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="76" y="700" type="line"/>
-      <point x="53" y="677" type="line"/>
-    </contour>
-    <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="220" y="23" type="line"/>
-      <point x="220" y="676" type="line"/>
-      <point x="196" y="676" type="line"/>
-    </contour>
-    <contour>
-      <point x="174" y="757" type="line"/>
-      <point x="204" y="757" type="line"/>
-      <point x="204" y="758" type="line"/>
-      <point x="150" y="832" type="line"/>
-      <point x="120" y="832" type="line"/>
-    </contour>
-    <contour>
-      <point x="64" y="757" type="line"/>
-      <point x="94" y="757" type="line"/>
-      <point x="150" y="832" type="line"/>
-      <point x="120" y="832" type="line"/>
-      <point x="64" y="758" type="line"/>
-    </contour>
-    <contour>
-      <point x="72" y="869" type="line"/>
-      <point x="96" y="869" type="line"/>
-      <point x="96" y="921" type="line"/>
-      <point x="72" y="920" type="line"/>
-    </contour>
-    <contour>
-      <point x="168" y="878" type="line"/>
-      <point x="192" y="878" type="line"/>
-      <point x="192" y="930" type="line"/>
-      <point x="168" y="930" type="line"/>
-    </contour>
-    <contour>
-      <point x="168" y="868" type="line"/>
-      <point x="169" y="868" type="line"/>
-      <point x="191" y="877" type="line"/>
-      <point x="191" y="878" type="line"/>
-      <point x="95" y="930" type="line"/>
-      <point x="94" y="930" type="line"/>
-      <point x="72" y="921" type="line"/>
-      <point x="72" y="920" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="circumflexcomb_tildecomb.case" xOffset="-172"/>
   </outline>
 </glyph>

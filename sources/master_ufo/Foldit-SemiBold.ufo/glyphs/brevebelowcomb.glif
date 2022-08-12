@@ -3,29 +3,21 @@
   <unicode hex="032E"/>
   <anchor x="329" y="0" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="362" y="-79" type="line"/>
-      <point x="452" y="-79" type="line"/>
-      <point x="487" y="-24" type="line"/>
-      <point x="487" y="-23" type="line"/>
-      <point x="396" y="-23" type="line"/>
-    </contour>
-    <contour>
-      <point x="188" y="-79" type="line"/>
-      <point x="284" y="-79" type="line"/>
-      <point x="251" y="-23" type="line"/>
-      <point x="155" y="-23" type="line"/>
-      <point x="155" y="-24" type="line"/>
-    </contour>
-    <contour>
-      <point x="235" y="-158" type="line"/>
-      <point x="406" y="-158" type="line"/>
-      <point x="452" y="-79" type="line"/>
-      <point x="188" y="-79" type="line"/>
-    </contour>
+    <component base="brevecomb" xOffset="20" yOffset="-758"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>600</integer>
     </dict>

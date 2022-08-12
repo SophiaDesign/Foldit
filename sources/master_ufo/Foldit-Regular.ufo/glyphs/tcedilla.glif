@@ -2,64 +2,31 @@
 <glyph name="tcedilla" format="2">
   <advance width="312"/>
   <unicode hex="0163"/>
-  <anchor x="178" y="0" name="bottom"/>
-  <anchor x="112" y="712" name="top"/>
   <outline>
-    <contour>
-      <point x="45" y="426" type="line"/>
-      <point x="46" y="426" type="line"/>
-      <point x="132" y="510" type="line"/>
-      <point x="132" y="681" type="line"/>
-      <point x="45" y="681" type="line"/>
-    </contour>
-    <contour>
-      <point x="46" y="426" type="line"/>
-      <point x="259" y="426" type="line"/>
-      <point x="259" y="510" type="line"/>
-      <point x="132" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="132" y="426" type="line"/>
-      <point x="45" y="426" type="line"/>
-      <point x="45" y="51" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="289" y="0" type="line"/>
-      <point x="312" y="83" type="line"/>
-      <point x="312" y="84" type="line"/>
-      <point x="132" y="84" type="line"/>
-    </contour>
-    <contour>
-      <point x="162" y="-72" type="line"/>
-      <point x="243" y="-72" type="line"/>
-      <point x="243" y="-71" type="line"/>
-      <point x="207" y="-27" type="line"/>
-      <point x="182" y="-27" type="line"/>
-    </contour>
-    <contour>
-      <point x="113" y="-72" type="line"/>
-      <point x="162" y="-72" type="line"/>
-      <point x="201" y="-1" type="line"/>
-      <point x="201" y="0" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="113" y="-71" type="line"/>
-    </contour>
-    <contour>
-      <point x="118" y="-159" type="line"/>
-      <point x="192" y="-159" type="line"/>
-      <point x="192" y="-116" type="line"/>
-      <point x="86" y="-116" type="line"/>
-      <point x="86" y="-117" type="line"/>
-    </contour>
-    <contour>
-      <point x="192" y="-159" type="line"/>
-      <point x="193" y="-159" type="line"/>
-      <point x="243" y="-129" type="line"/>
-      <point x="243" y="-72" type="line"/>
-      <point x="192" y="-72" type="line"/>
-    </contour>
+    <component base="t"/>
+    <component base="cedillacomb" xOffset="-148"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedillacomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

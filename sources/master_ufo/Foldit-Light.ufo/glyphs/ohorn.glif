@@ -2,54 +2,31 @@
 <glyph name="ohorn" format="2">
   <advance width="342"/>
   <unicode hex="01A1"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="214" y="505" name="horn"/>
-  <anchor x="158" y="505" name="top"/>
   <outline>
-    <contour>
-      <point x="102" y="451" type="line"/>
-      <point x="259" y="451" type="line"/>
-      <point x="259" y="452" type="line"/>
-      <point x="222" y="505" type="line"/>
-      <point x="102" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="83" y="0" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="203" y="54" type="line"/>
-      <point x="46" y="54" type="line"/>
-      <point x="46" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="46" y="54" type="line"/>
-      <point x="102" y="54" type="line"/>
-      <point x="102" y="505" type="line"/>
-      <point x="101" y="505" type="line"/>
-      <point x="46" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="203" y="0" type="line"/>
-      <point x="204" y="0" type="line"/>
-      <point x="259" y="37" type="line"/>
-      <point x="259" y="451" type="line"/>
-      <point x="203" y="451" type="line"/>
-    </contour>
-    <contour>
-      <point x="247" y="459" type="line"/>
-      <point x="248" y="459" type="line"/>
-      <point x="296" y="496" type="line"/>
-      <point x="296" y="582" type="line"/>
-      <point x="247" y="582" type="line"/>
-    </contour>
-    <contour>
-      <point x="233" y="459" type="line"/>
-      <point x="247" y="459" type="line"/>
-      <point x="247" y="505" type="line"/>
-      <point x="179" y="505" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="horncomb" xOffset="-85"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>horncomb</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
     </dict>

@@ -2,54 +2,8 @@
 <glyph name="Ebreve" format="2">
   <advance width="832"/>
   <unicode hex="0114"/>
-  <anchor x="442" y="0" name="bottom"/>
-  <anchor x="456" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="237" y="0" type="line"/>
-      <point x="801" y="0" type="line"/>
-      <point x="801" y="244" type="line"/>
-      <point x="35" y="244" type="line"/>
-      <point x="35" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="244" type="line"/>
-      <point x="289" y="244" type="line"/>
-      <point x="289" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="263" type="line"/>
-      <point x="698" y="263" type="line"/>
-      <point x="698" y="467" type="line"/>
-      <point x="289" y="467" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="486" type="line"/>
-      <point x="650" y="486" type="line"/>
-      <point x="852" y="729" type="line"/>
-      <point x="852" y="730" type="line"/>
-      <point x="289" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="760" type="line"/>
-      <point x="569" y="760" type="line"/>
-      <point x="663" y="860" type="line"/>
-      <point x="230" y="860" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="860" type="line"/>
-      <point x="409" y="860" type="line"/>
-      <point x="372" y="900" type="line"/>
-      <point x="196" y="900" type="line"/>
-      <point x="196" y="898" type="line"/>
-    </contour>
-    <contour>
-      <point x="484" y="860" type="line"/>
-      <point x="663" y="860" type="line"/>
-      <point x="697" y="899" type="line"/>
-      <point x="697" y="900" type="line"/>
-      <point x="521" y="900" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="brevecomb.case" xOffset="137"/>
   </outline>
 </glyph>

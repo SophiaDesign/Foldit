@@ -2,69 +2,31 @@
 <glyph name="Abrevehookabove" format="2">
   <advance width="703.5"/>
   <unicode hex="1EB2"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="369" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="205" y="723" type="line"/>
-      <point x="40" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="498" y="233" type="line"/>
-      <point x="498" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="664" y="0" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="498" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="664" y="565" type="line"/>
-      <point x="537" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="270" y="761" type="line"/>
-      <point x="469" y="761" type="line"/>
-      <point x="542" y="835" type="line"/>
-      <point x="197" y="835" type="line"/>
-    </contour>
-    <contour>
-      <point x="197" y="835" type="line"/>
-      <point x="315" y="835" type="line"/>
-      <point x="272" y="874" type="line"/>
-      <point x="162" y="874" type="line"/>
-      <point x="162" y="873" type="line"/>
-    </contour>
-    <contour>
-      <point x="278" y="921" type="line"/>
-      <point x="491" y="921" type="line"/>
-      <point x="491" y="922" type="line"/>
-      <point x="436" y="989" type="line"/>
-      <point x="278" y="989" type="line"/>
-    </contour>
-    <contour>
-      <point x="332" y="860" type="line"/>
-      <point x="410" y="860" type="line"/>
-      <point x="491" y="921" type="line"/>
-      <point x="491" y="922" type="line"/>
-      <point x="436" y="989" type="line"/>
-      <point x="332" y="861" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="835" type="line"/>
-      <point x="542" y="835" type="line"/>
-      <point x="577" y="873" type="line"/>
-      <point x="577" y="874" type="line"/>
-      <point x="467" y="874" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="brevecomb_hookabovecomb.case" xOffset="60"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb_hookabovecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

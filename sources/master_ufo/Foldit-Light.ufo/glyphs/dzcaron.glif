@@ -2,81 +2,31 @@
 <glyph name="dzcaron" format="2">
   <advance width="537"/>
   <unicode hex="01C6"/>
-  <anchor x="175" y="591" name="stroke"/>
-  <anchor x="401" y="505" name="top"/>
   <outline>
-    <contour>
-      <point x="252" y="452" type="line"/>
-      <point x="253" y="452" type="line"/>
-      <point x="253" y="741" type="line"/>
-      <point x="197" y="741" type="line"/>
-      <point x="197" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="451" type="line"/>
-      <point x="253" y="451" type="line"/>
-      <point x="253" y="452" type="line"/>
-      <point x="207" y="505" type="line"/>
-      <point x="105" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="85" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="197" y="54" type="line"/>
-      <point x="49" y="54" type="line"/>
-      <point x="49" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="49" y="54" type="line"/>
-      <point x="105" y="54" type="line"/>
-      <point x="105" y="505" type="line"/>
-      <point x="104" y="505" type="line"/>
-      <point x="49" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="197" y="0" type="line"/>
-      <point x="198" y="0" type="line"/>
-      <point x="253" y="37" type="line"/>
-      <point x="253" y="451" type="line"/>
-      <point x="197" y="451" type="line"/>
-    </contour>
-    <contour>
-      <point x="287" y="455" type="line"/>
-      <point x="472" y="455" type="line"/>
-      <point x="479" y="505" type="line"/>
-      <point x="305" y="505" type="line"/>
-      <point x="287" y="456" type="line"/>
-    </contour>
-    <contour>
-      <point x="346" y="45" type="line"/>
-      <point x="513" y="450" type="line"/>
-      <point x="479" y="505" type="line"/>
-      <point x="286" y="51" type="line"/>
-      <point x="286" y="50" type="line"/>
-    </contour>
-    <contour>
-      <point x="323" y="0" type="line"/>
-      <point x="512" y="0" type="line"/>
-      <point x="512" y="50" type="line"/>
-      <point x="286" y="50" type="line"/>
-    </contour>
-    <contour>
-      <point x="376" y="589" type="line"/>
-      <point x="416" y="594" type="line"/>
-      <point x="362" y="692" type="line"/>
-      <point x="316" y="692" type="line"/>
-      <point x="316" y="691" type="line"/>
-    </contour>
-    <contour>
-      <point x="377" y="589" type="line"/>
-      <point x="420" y="589" type="line"/>
-      <point x="482" y="691" type="line"/>
-      <point x="482" y="692" type="line"/>
-      <point x="436" y="692" type="line"/>
-    </contour>
+    <component base="d"/>
+    <component base="zcaron" xOffset="262"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>zcaron</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

@@ -2,58 +2,31 @@
 <glyph name="Scircumflex" format="2">
   <advance width="525"/>
   <unicode hex="015C"/>
-  <anchor x="267" y="0" name="bottom"/>
-  <anchor x="272" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="154" y="601" type="line"/>
-      <point x="491" y="601" type="line"/>
-      <point x="491" y="602" type="line"/>
-      <point x="379" y="715" type="line"/>
-      <point x="154" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="147" y="0" type="line"/>
-      <point x="373" y="0" type="line"/>
-      <point x="373" y="114" type="line"/>
-      <point x="34" y="114" type="line"/>
-      <point x="34" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="147" y="308" type="line"/>
-      <point x="373" y="308" type="line"/>
-      <point x="373" y="422" type="line"/>
-      <point x="34" y="422" type="line"/>
-      <point x="34" y="421" type="line"/>
-    </contour>
-    <contour>
-      <point x="34" y="422" type="line"/>
-      <point x="154" y="422" type="line"/>
-      <point x="154" y="715" type="line"/>
-      <point x="153" y="715" type="line"/>
-      <point x="34" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="373" y="0" type="line"/>
-      <point x="374" y="0" type="line"/>
-      <point x="491" y="108" type="line"/>
-      <point x="491" y="311" type="line"/>
-      <point x="374" y="422" type="line"/>
-      <point x="373" y="422" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="760" type="line"/>
-      <point x="420" y="760" type="line"/>
-      <point x="420" y="761" type="line"/>
-      <point x="319" y="875" type="line"/>
-      <point x="240" y="859" type="line"/>
-    </contour>
-    <contour>
-      <point x="131" y="760" type="line"/>
-      <point x="219" y="760" type="line"/>
-      <point x="319" y="875" type="line"/>
-      <point x="231" y="875" type="line"/>
-      <point x="131" y="761" type="line"/>
-    </contour>
+    <component base="S"/>
+    <component base="circumflexcomb.case" xOffset="-38"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

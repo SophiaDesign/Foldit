@@ -2,37 +2,31 @@
 <glyph name="Cacute" format="2">
   <advance width="577.41667"/>
   <unicode hex="0106"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="313" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="164" y="0" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="571" y="128" type="line"/>
-      <point x="571" y="129" type="line"/>
-      <point x="37" y="129" type="line"/>
-      <point x="37" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="37" y="129" type="line"/>
-      <point x="172" y="129" type="line"/>
-      <point x="172" y="718" type="line"/>
-      <point x="171" y="718" type="line"/>
-      <point x="37" y="587" type="line"/>
-    </contour>
-    <contour>
-      <point x="172" y="589" type="line"/>
-      <point x="571" y="589" type="line"/>
-      <point x="571" y="590" type="line"/>
-      <point x="444" y="718" type="line"/>
-      <point x="172" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="256" y="749" type="line"/>
-      <point x="339" y="749" type="line"/>
-      <point x="418" y="881" type="line"/>
-      <point x="418" y="882" type="line"/>
-      <point x="285" y="882" type="line"/>
-    </contour>
+    <component base="C"/>
+    <component base="acutecomb.case" xOffset="23"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>C</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,21 +2,12 @@
 <glyph name="ibreve" format="2">
   <advance width="272"/>
   <unicode hex="012D"/>
-  <anchor x="142" y="0" name="bottom"/>
-  <anchor x="146" y="518" name="top"/>
   <outline>
     <contour>
       <point x="68" y="595" type="line"/>
       <point x="203" y="595" type="line"/>
       <point x="244" y="664" type="line"/>
       <point x="28" y="664" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="210" y="0" type="line"/>
-      <point x="210" y="503" type="line"/>
-      <point x="209" y="519" type="line"/>
-      <point x="76" y="509" type="line"/>
     </contour>
     <contour>
       <point x="28" y="664" type="line"/>
@@ -32,9 +23,21 @@
       <point x="280" y="732" type="line"/>
       <point x="195" y="732" type="line"/>
     </contour>
+    <component base="idotless" xOffset="27"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
     </dict>

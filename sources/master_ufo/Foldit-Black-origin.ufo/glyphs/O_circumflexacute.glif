@@ -2,58 +2,23 @@
 <glyph name="Ocircumflexacute" format="2">
   <advance width="907"/>
   <unicode hex="1ED0"/>
-  <anchor x="452" y="0" name="bottom"/>
-  <anchor x="680" y="730" name="horn"/>
-  <anchor x="476" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="279" y="486" type="line"/>
-      <point x="882" y="486" type="line"/>
-      <point x="882" y="487" type="line"/>
-      <point x="680" y="730" type="line"/>
-      <point x="279" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="628" y="0" type="line"/>
-      <point x="628" y="244" type="line"/>
-      <point x="25" y="244" type="line"/>
-      <point x="25" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="244" type="line"/>
-      <point x="279" y="244" type="line"/>
-      <point x="279" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="25" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="628" y="0" type="line"/>
-      <point x="629" y="0" type="line"/>
-      <point x="882" y="197" type="line"/>
-      <point x="882" y="486" type="line"/>
-      <point x="628" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="529" y="755" type="line"/>
-      <point x="686" y="755" type="line"/>
-      <point x="686" y="756" type="line"/>
-      <point x="558" y="883" type="line"/>
-      <point x="425" y="852" type="line"/>
-    </contour>
-    <contour>
-      <point x="260" y="755" type="line"/>
-      <point x="414" y="755" type="line"/>
-      <point x="558" y="883" type="line"/>
-      <point x="394" y="883" type="line"/>
-      <point x="260" y="756" type="line"/>
-    </contour>
-    <contour>
-      <point x="642" y="808" type="line"/>
-      <point x="758" y="808" type="line"/>
-      <point x="851" y="949" type="line"/>
-      <point x="851" y="950" type="line"/>
-      <point x="685" y="950" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="187"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

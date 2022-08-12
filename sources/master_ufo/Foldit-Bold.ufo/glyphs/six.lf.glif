@@ -2,47 +2,21 @@
 <glyph name="six.lf" format="2">
   <advance width="672.5"/>
   <outline>
-    <contour>
-      <point x="197" y="0" type="line"/>
-      <point x="482" y="0" type="line"/>
-      <point x="482" y="159" type="line"/>
-      <point x="40" y="159" type="line"/>
-      <point x="40" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="159" type="line"/>
-      <point x="206" y="159" type="line"/>
-      <point x="206" y="285" type="line"/>
-      <point x="40" y="443" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="285" type="line"/>
-      <point x="482" y="285" type="line"/>
-      <point x="482" y="444" type="line"/>
-      <point x="40" y="444" type="line"/>
-      <point x="40" y="443" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="444" type="line"/>
-      <point x="206" y="444" type="line"/>
-      <point x="206" y="715" type="line"/>
-      <point x="205" y="715" type="line"/>
-      <point x="40" y="554" type="line"/>
-    </contour>
-    <contour>
-      <point x="482" y="0" type="line"/>
-      <point x="483" y="0" type="line"/>
-      <point x="648" y="150" type="line"/>
-      <point x="648" y="290" type="line"/>
-      <point x="483" y="444" type="line"/>
-      <point x="482" y="444" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="556" type="line"/>
-      <point x="621" y="556" type="line"/>
-      <point x="621" y="557" type="line"/>
-      <point x="464" y="715" type="line"/>
-      <point x="206" y="715" type="line"/>
-    </contour>
+    <component base="six"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>six</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

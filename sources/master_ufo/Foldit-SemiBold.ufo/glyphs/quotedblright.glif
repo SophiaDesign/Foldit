@@ -3,35 +3,21 @@
   <advance width="396"/>
   <unicode hex="201D"/>
   <outline>
-    <contour>
-      <point x="34" y="623" type="line"/>
-      <point x="193" y="623" type="line"/>
-      <point x="121" y="757" type="line"/>
-      <point x="34" y="757" type="line"/>
-    </contour>
-    <contour>
-      <point x="54" y="473" type="line"/>
-      <point x="54" y="473" type="line"/>
-      <point x="138" y="473" type="line"/>
-      <point x="193" y="623" type="line"/>
-      <point x="81" y="623" type="line"/>
-    </contour>
-    <contour>
-      <point x="204" y="623" type="line"/>
-      <point x="363" y="623" type="line"/>
-      <point x="291" y="757" type="line"/>
-      <point x="204" y="757" type="line"/>
-    </contour>
-    <contour>
-      <point x="224" y="473" type="line"/>
-      <point x="224" y="473" type="line"/>
-      <point x="308" y="473" type="line"/>
-      <point x="363" y="623" type="line"/>
-      <point x="251" y="623" type="line"/>
-    </contour>
+    <component base="quotedblbase" yOffset="627"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quotedblbase</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

@@ -2,62 +2,31 @@
 <glyph name="Aring" format="2">
   <advance width="560"/>
   <unicode hex="00C5"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="292" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="44" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="715" type="line"/>
-      <point x="163" y="715" type="line"/>
-      <point x="44" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="273" type="line"/>
-      <point x="397" y="273" type="line"/>
-      <point x="397" y="387" type="line"/>
-      <point x="164" y="387" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="397" y="601" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="601" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="517" y="602" type="line"/>
-      <point x="424" y="715" type="line"/>
-      <point x="164" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="741" type="line"/>
-      <point x="329" y="741" type="line"/>
-      <point x="389" y="779" type="line"/>
-      <point x="389" y="850" type="line"/>
-      <point x="329" y="850" type="line"/>
-    </contour>
-    <contour>
-      <point x="225" y="741" type="line"/>
-      <point x="329" y="741" type="line"/>
-      <point x="329" y="793" type="line"/>
-      <point x="186" y="793" type="line"/>
-      <point x="186" y="792" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="793" type="line"/>
-      <point x="246" y="793" type="line"/>
-      <point x="246" y="902" type="line"/>
-      <point x="245" y="902" type="line"/>
-      <point x="186" y="863" type="line"/>
-    </contour>
-    <contour>
-      <point x="246" y="850" type="line"/>
-      <point x="389" y="850" type="line"/>
-      <point x="389" y="851" type="line"/>
-      <point x="350" y="902" type="line"/>
-      <point x="246" y="902" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="-17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

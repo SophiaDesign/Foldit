@@ -2,63 +2,8 @@
 <glyph name="einvertedbreve" format="2">
   <advance width="197"/>
   <unicode hex="0207"/>
-  <anchor x="101" y="0" name="bottom"/>
-  <anchor x="100" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="147" y="23" type="line"/>
-      <point x="147" y="24" type="line"/>
-      <point x="50" y="24" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-      <point x="74" y="500" type="line"/>
-      <point x="73" y="500" type="line"/>
-      <point x="50" y="477" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="202" type="line"/>
-      <point x="123" y="202" type="line"/>
-      <point x="123" y="226" type="line"/>
-      <point x="74" y="226" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="476" type="line"/>
-      <point x="147" y="476" type="line"/>
-      <point x="147" y="477" type="line"/>
-      <point x="124" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="202" type="line"/>
-      <point x="124" y="202" type="line"/>
-      <point x="147" y="225" type="line"/>
-      <point x="147" y="476" type="line"/>
-      <point x="123" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="64" y="648" type="line"/>
-      <point x="142" y="648" type="line"/>
-      <point x="129" y="670" type="line"/>
-      <point x="77" y="670" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="598" type="line"/>
-      <point x="61" y="598" type="line"/>
-      <point x="90" y="648" type="line"/>
-      <point x="64" y="648" type="line"/>
-      <point x="35" y="599" type="line"/>
-    </contour>
-    <contour>
-      <point x="145" y="598" type="line"/>
-      <point x="171" y="598" type="line"/>
-      <point x="171" y="599" type="line"/>
-      <point x="142" y="648" type="line"/>
-      <point x="116" y="648" type="line"/>
-    </contour>
+    <component base="e"/>
+    <component base="breveinvertedcomb" xOffset="-209"/>
   </outline>
 </glyph>

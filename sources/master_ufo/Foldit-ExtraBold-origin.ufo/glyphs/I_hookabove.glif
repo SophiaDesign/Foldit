@@ -2,55 +2,8 @@
 <glyph name="Ihookabove" format="2">
   <advance width="657"/>
   <unicode hex="1EC8"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="341" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="246" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="460" y="204" type="line"/>
-      <point x="460" y="730" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="246" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="246" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="632" y="204" type="line"/>
-      <point x="460" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="526" type="line"/>
-      <point x="246" y="526" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="25" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="460" y="526" type="line"/>
-      <point x="631" y="526" type="line"/>
-      <point x="631" y="730" type="line"/>
-      <point x="460" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="260" y="760" type="line"/>
-      <point x="378" y="760" type="line"/>
-      <point x="519" y="838" type="line"/>
-      <point x="519" y="839" type="line"/>
-      <point x="412" y="940" type="line"/>
-      <point x="260" y="761" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="838" type="line"/>
-      <point x="519" y="838" type="line"/>
-      <point x="519" y="839" type="line"/>
-      <point x="412" y="940" type="line"/>
-      <point x="151" y="940" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="hookabovecomb.case" xOffset="-8"/>
   </outline>
 </glyph>

@@ -2,54 +2,31 @@
 <glyph name="Idblgrave" format="2">
   <advance width="549.25"/>
   <unicode hex="0208"/>
-  <anchor x="283" y="0" name="bottom"/>
-  <anchor x="285" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="377" y="159" type="line"/>
-      <point x="377" y="723" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="209" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="209" y="159" type="line"/>
-      <point x="24" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="line"/>
-      <point x="526" y="0" type="line"/>
-      <point x="526" y="159" type="line"/>
-      <point x="377" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="564" type="line"/>
-      <point x="209" y="564" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="24" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="377" y="564" type="line"/>
-      <point x="525" y="564" type="line"/>
-      <point x="525" y="723" type="line"/>
-      <point x="377" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="335" y="762" type="line"/>
-      <point x="436" y="762" type="line"/>
-      <point x="403" y="890" type="line"/>
-      <point x="241" y="890" type="line"/>
-      <point x="241" y="889" type="line"/>
-    </contour>
-    <contour>
-      <point x="149" y="762" type="line"/>
-      <point x="249" y="762" type="line"/>
-      <point x="216" y="890" type="line"/>
-      <point x="54" y="890" type="line"/>
-      <point x="54" y="889" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="dblgravecomb.case" xOffset="-29"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dblgravecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

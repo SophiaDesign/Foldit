@@ -3,8 +3,6 @@
   <advance width="402.33333"/>
   <unicode hex="0127"/>
   <anchor x="157" y="599" name="_stroke"/>
-  <anchor x="156" y="599" name="stroke"/>
-  <anchor x="262" y="510" name="top"/>
   <outline>
     <contour>
       <point x="5" y="561" type="line"/>
@@ -12,25 +10,21 @@
       <point x="310" y="623" type="line"/>
       <point x="5" y="623" type="line"/>
     </contour>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="132" y="752" type="line"/>
-      <point x="45" y="752" type="line"/>
-    </contour>
-    <contour>
-      <point x="268" y="-4" type="line"/>
-      <point x="269" y="-4" type="line"/>
-      <point x="355" y="27" type="line"/>
-      <point x="355" y="426" type="line"/>
-      <point x="268" y="426" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="426" type="line"/>
-      <point x="355" y="426" type="line"/>
-      <point x="355" y="427" type="line"/>
-      <point x="304" y="510" type="line"/>
-      <point x="132" y="510" type="line"/>
-    </contour>
+    <component base="h"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

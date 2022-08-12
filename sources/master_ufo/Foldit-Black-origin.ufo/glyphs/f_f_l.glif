@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
   <advance width="1830"/>
-  <anchor x="1573" y="0" name="bottom_1"/>
-  <anchor x="1463" y="794" name="top_1"/>
   <outline>
     <contour>
       <point x="936" y="173" type="line"/>
@@ -58,19 +56,7 @@
       <point x="1266" y="703" type="line"/>
       <point x="936" y="703" type="line"/>
     </contour>
-    <contour>
-      <point x="1582" y="0" type="line"/>
-      <point x="1583" y="0" type="line"/>
-      <point x="1583" y="794" type="line"/>
-      <point x="1329" y="794" type="line"/>
-      <point x="1329" y="107" type="line"/>
-    </contour>
-    <contour>
-      <point x="1583" y="0" type="line"/>
-      <point x="1795" y="0" type="line"/>
-      <point x="1795" y="244" type="line"/>
-      <point x="1583" y="244" type="line"/>
-    </contour>
+    <component base="l" xOffset="1294"/>
   </outline>
   <lib>
     <dict>

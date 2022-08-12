@@ -2,8 +2,6 @@
 <glyph name="Aringacute" format="2">
   <advance width="642.83333"/>
   <unicode hex="01FA"/>
-  <anchor x="326" y="0" name="bottom"/>
-  <anchor x="318" y="718" name="top"/>
   <outline>
     <contour>
       <point x="279" y="898" type="line"/>
@@ -11,32 +9,6 @@
       <point x="456" y="975" type="line"/>
       <point x="456" y="976" type="line"/>
       <point x="323" y="976" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="0" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="177" y="718" type="line"/>
-      <point x="43" y="587" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="260" type="line"/>
-      <point x="431" y="260" type="line"/>
-      <point x="431" y="389" type="line"/>
-      <point x="178" y="389" type="line"/>
-    </contour>
-    <contour>
-      <point x="431" y="0" type="line"/>
-      <point x="566" y="0" type="line"/>
-      <point x="566" y="589" type="line"/>
-      <point x="431" y="589" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="589" type="line"/>
-      <point x="566" y="589" type="line"/>
-      <point x="566" y="590" type="line"/>
-      <point x="462" y="718" type="line"/>
-      <point x="178" y="718" type="line"/>
     </contour>
     <contour>
       <point x="259" y="745" type="line"/>
@@ -66,5 +38,21 @@
       <point x="394" y="876" type="line"/>
       <point x="273" y="876" type="line"/>
     </contour>
+    <component base="A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

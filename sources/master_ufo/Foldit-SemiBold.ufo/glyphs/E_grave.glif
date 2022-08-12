@@ -2,41 +2,31 @@
 <glyph name="Egrave" format="2">
   <advance width="562"/>
   <unicode hex="00C8"/>
-  <anchor x="326" y="0" name="bottom"/>
-  <anchor x="306" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="171" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
-      <point x="535" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-      <point x="43" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="129" type="line"/>
-      <point x="178" y="129" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="43" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="312" type="line"/>
-      <point x="466" y="312" type="line"/>
-      <point x="466" y="419" type="line"/>
-      <point x="178" y="419" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="589" type="line"/>
-      <point x="438" y="589" type="line"/>
-      <point x="566" y="717" type="line"/>
-      <point x="566" y="718" type="line"/>
-      <point x="178" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="275" y="752" type="line"/>
-      <point x="358" y="752" type="line"/>
-      <point x="333" y="884" type="line"/>
-      <point x="201" y="884" type="line"/>
-      <point x="201" y="883" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="gravecomb.case" xOffset="27"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

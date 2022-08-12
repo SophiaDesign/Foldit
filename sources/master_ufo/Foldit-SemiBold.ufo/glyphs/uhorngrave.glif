@@ -2,50 +2,31 @@
 <glyph name="uhorngrave" format="2">
   <advance width="657.83333"/>
   <unicode hex="1EEB"/>
-  <anchor x="289" y="0" name="bottom"/>
-  <anchor x="501" y="518" name="horn"/>
-  <anchor x="289" y="518" name="top"/>
   <outline>
-    <contour>
-      <point x="377" y="0" type="line"/>
-      <point x="378" y="0" type="line"/>
-      <point x="511" y="0" type="line"/>
-      <point x="511" y="518" type="line"/>
-      <point x="377" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="114" y="0" type="line"/>
-      <point x="377" y="0" type="line"/>
-      <point x="377" y="129" type="line"/>
-      <point x="42" y="129" type="line"/>
-      <point x="42" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="42" y="129" type="line"/>
-      <point x="176" y="129" type="line"/>
-      <point x="176" y="524" type="line"/>
-      <point x="175" y="524" type="line"/>
-      <point x="42" y="487" type="line"/>
-    </contour>
-    <contour>
-      <point x="539" y="418" type="line"/>
-      <point x="540" y="418" type="line"/>
-      <point x="650" y="490" type="line"/>
-      <point x="650" y="618" type="line"/>
-      <point x="539" y="618" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="418" type="line"/>
-      <point x="539" y="418" type="line"/>
-      <point x="539" y="518" type="line"/>
-      <point x="377" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="256" y="582" type="line"/>
-      <point x="328" y="582" type="line"/>
-      <point x="297" y="770" type="line"/>
-      <point x="181" y="770" type="line"/>
-      <point x="181" y="769" type="line"/>
-    </contour>
+    <component base="uhorn"/>
+    <component base="gravecomb" xOffset="-39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uhorn</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

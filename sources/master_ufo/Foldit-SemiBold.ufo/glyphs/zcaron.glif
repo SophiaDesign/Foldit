@@ -2,41 +2,31 @@
 <glyph name="zcaron" format="2">
   <advance width="534.25"/>
   <unicode hex="017E"/>
-  <anchor x="279" y="518" name="top"/>
   <outline>
-    <contour>
-      <point x="30" y="403" type="line"/>
-      <point x="429" y="403" type="line"/>
-      <point x="445" y="518" type="line"/>
-      <point x="93" y="518" type="line"/>
-      <point x="30" y="404" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="97" type="line"/>
-      <point x="507" y="408" type="line"/>
-      <point x="445" y="518" type="line"/>
-      <point x="27" y="116" type="line"/>
-      <point x="27" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="99" y="0" type="line"/>
-      <point x="504" y="0" type="line"/>
-      <point x="504" y="115" type="line"/>
-      <point x="27" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="221" y="586" type="line"/>
-      <point x="301" y="604" type="line"/>
-      <point x="222" y="722" type="line"/>
-      <point x="121" y="722" type="line"/>
-      <point x="121" y="721" type="line"/>
-    </contour>
-    <contour>
-      <point x="221" y="586" type="line"/>
-      <point x="315" y="586" type="line"/>
-      <point x="417" y="721" type="line"/>
-      <point x="417" y="722" type="line"/>
-      <point x="317" y="722" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="caroncomb" xOffset="-27"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -3,19 +3,30 @@
   <advance width="250.66667"/>
   <unicode hex="2033"/>
   <outline>
-    <contour>
-      <point x="59" y="542" type="line"/>
-      <point x="60" y="542" type="line"/>
-      <point x="108" y="579" type="line"/>
-      <point x="108" y="705" type="line"/>
-      <point x="59" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="136" y="542" type="line"/>
-      <point x="137" y="542" type="line"/>
-      <point x="185" y="579" type="line"/>
-      <point x="185" y="705" type="line"/>
-      <point x="136" y="705" type="line"/>
-    </contour>
+    <component base="minute"/>
+    <component base="minute" xOffset="77"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>minute</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>minute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

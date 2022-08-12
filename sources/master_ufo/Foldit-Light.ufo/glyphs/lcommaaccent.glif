@@ -2,28 +2,31 @@
 <glyph name="lcommaaccent" format="2">
   <advance width="217.66667"/>
   <unicode hex="013C"/>
-  <anchor x="120" y="0" name="bottom"/>
-  <anchor x="87" y="741" name="top"/>
   <outline>
-    <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="103" y="0" type="line"/>
-      <point x="103" y="741" type="line"/>
-      <point x="48" y="741" type="line"/>
-      <point x="48" y="37" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="54" type="line"/>
-      <point x="103" y="54" type="line"/>
-    </contour>
-    <contour>
-      <point x="140" y="-164" type="line"/>
-      <point x="141" y="-164" type="line"/>
-      <point x="141" y="-47" type="line"/>
-      <point x="99" y="-47" type="line"/>
-      <point x="99" y="-128" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="commaaccentcomb" xOffset="-209"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

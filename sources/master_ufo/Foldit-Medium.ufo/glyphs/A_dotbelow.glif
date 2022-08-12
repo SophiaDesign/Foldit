@@ -2,40 +2,31 @@
 <glyph name="Adotbelow" format="2">
   <advance width="560"/>
   <unicode hex="1EA0"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="292" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="44" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="715" type="line"/>
-      <point x="163" y="715" type="line"/>
-      <point x="44" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="273" type="line"/>
-      <point x="397" y="273" type="line"/>
-      <point x="397" y="387" type="line"/>
-      <point x="164" y="387" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="397" y="601" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="601" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="517" y="602" type="line"/>
-      <point x="424" y="715" type="line"/>
-      <point x="164" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="243" y="-159" type="line"/>
-      <point x="360" y="-159" type="line"/>
-      <point x="360" y="-61" type="line"/>
-      <point x="243" y="-61" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="dotbelowcomb" xOffset="-20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

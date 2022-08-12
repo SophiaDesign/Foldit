@@ -2,49 +2,31 @@
 <glyph name="edotbelow" format="2">
   <advance width="570.33333"/>
   <unicode hex="1EB9"/>
-  <anchor x="294" y="0" name="bottom"/>
-  <anchor x="300" y="518" name="top"/>
   <outline>
-    <contour>
-      <point x="119" y="0" type="line"/>
-      <point x="463" y="0" type="line"/>
-      <point x="535" y="126" type="line"/>
-      <point x="535" y="127" type="line"/>
-      <point x="47" y="127" type="line"/>
-      <point x="47" y="126" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="127" type="line"/>
-      <point x="182" y="127" type="line"/>
-      <point x="182" y="518" type="line"/>
-      <point x="181" y="518" type="line"/>
-      <point x="47" y="446" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="213" type="line"/>
-      <point x="400" y="213" type="line"/>
-      <point x="400" y="288" type="line"/>
-      <point x="182" y="288" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="403" type="line"/>
-      <point x="535" y="403" type="line"/>
-      <point x="535" y="404" type="line"/>
-      <point x="463" y="518" type="line"/>
-      <point x="182" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="400" y="213" type="line"/>
-      <point x="401" y="213" type="line"/>
-      <point x="535" y="285" type="line"/>
-      <point x="535" y="403" type="line"/>
-      <point x="400" y="403" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="-166" type="line"/>
-      <point x="362" y="-166" type="line"/>
-      <point x="362" y="-57" type="line"/>
-      <point x="230" y="-57" type="line"/>
-    </contour>
+    <component base="e"/>
+    <component base="dotbelowcomb" xOffset="-24"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

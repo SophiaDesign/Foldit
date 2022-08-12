@@ -2,40 +2,21 @@
 <glyph name="nine.lf" format="2">
   <advance width="587.5"/>
   <outline>
-    <contour>
-      <point x="158" y="276" type="line"/>
-      <point x="403" y="276" type="line"/>
-      <point x="403" y="405" type="line"/>
-      <point x="158" y="405" type="line"/>
-    </contour>
-    <contour>
-      <point x="403" y="0" type="line"/>
-      <point x="404" y="0" type="line"/>
-      <point x="537" y="131" type="line"/>
-      <point x="537" y="576" type="line"/>
-      <point x="403" y="576" type="line"/>
-    </contour>
-    <contour>
-      <point x="169" y="0" type="line"/>
-      <point x="403" y="0" type="line"/>
-      <point x="403" y="129" type="line"/>
-      <point x="41" y="129" type="line"/>
-      <point x="41" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="276" type="line"/>
-      <point x="158" y="276" type="line"/>
-      <point x="158" y="705" type="line"/>
-      <point x="157" y="705" type="line"/>
-      <point x="23" y="580" type="line"/>
-      <point x="23" y="381" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="576" type="line"/>
-      <point x="537" y="576" type="line"/>
-      <point x="537" y="577" type="line"/>
-      <point x="410" y="705" type="line"/>
-      <point x="158" y="705" type="line"/>
-    </contour>
+    <component base="nine"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>nine</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

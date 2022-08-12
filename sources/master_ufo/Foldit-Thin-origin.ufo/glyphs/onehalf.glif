@@ -3,59 +3,23 @@
   <advance width="464"/>
   <unicode hex="00BD"/>
   <outline>
-    <contour>
-      <point x="103" y="430" type="line"/>
-      <point x="104" y="430" type="line"/>
-      <point x="127" y="454" type="line"/>
-      <point x="127" y="700" type="line"/>
-      <point x="126" y="700" type="line"/>
-      <point x="103" y="676" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="430" type="line"/>
-      <point x="103" y="430" type="line"/>
-      <point x="103" y="454" type="line"/>
-      <point x="53" y="454" type="line"/>
-    </contour>
-    <contour>
-      <point x="104" y="430" type="line"/>
-      <point x="176" y="430" type="line"/>
-      <point x="176" y="454" type="line"/>
-      <point x="127" y="454" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="676" type="line"/>
-      <point x="103" y="676" type="line"/>
-      <point x="126" y="700" type="line"/>
-      <point x="62" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="0" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="377" y="699" type="line"/>
-      <point x="377" y="700" type="line"/>
-      <point x="354" y="700" type="line"/>
-      <point x="109" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="246" type="line"/>
-      <point x="385" y="246" type="line"/>
-      <point x="388" y="270" type="line"/>
-      <point x="308" y="270" type="line"/>
-      <point x="285" y="247" type="line"/>
-    </contour>
-    <contour>
-      <point x="311" y="24" type="line"/>
-      <point x="404" y="246" type="line"/>
-      <point x="388" y="270" type="line"/>
-      <point x="285" y="25" type="line"/>
-      <point x="285" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="0" type="line"/>
-      <point x="411" y="0" type="line"/>
-      <point x="411" y="24" type="line"/>
-      <point x="285" y="24" type="line"/>
-    </contour>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="56"/>
+    <component base="twosuperior" xOffset="232" yOffset="-430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

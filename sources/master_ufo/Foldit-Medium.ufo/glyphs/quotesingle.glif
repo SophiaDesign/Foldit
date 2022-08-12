@@ -3,22 +3,21 @@
   <advance width="209.5"/>
   <unicode hex="0027"/>
   <outline>
-    <contour>
-      <point x="34" y="628" type="line"/>
-      <point x="176" y="628" type="line"/>
-      <point x="111" y="748" type="line"/>
-      <point x="34" y="748" type="line"/>
-    </contour>
-    <contour>
-      <point x="52" y="488" type="line"/>
-      <point x="52" y="488" type="line"/>
-      <point x="127" y="488" type="line"/>
-      <point x="176" y="628" type="line"/>
-      <point x="77" y="628" type="line"/>
-    </contour>
+    <component base="quoteright"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quoteright</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

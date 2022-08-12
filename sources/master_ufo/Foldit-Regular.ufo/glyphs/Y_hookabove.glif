@@ -2,44 +2,31 @@
 <glyph name="Yhookabove" format="2">
   <advance width="426.66667"/>
   <unicode hex="1EF6"/>
-  <anchor x="219" y="0" name="bottom"/>
-  <anchor x="218" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="175" y="328" type="line"/>
-      <point x="176" y="328" type="line"/>
-      <point x="226" y="393" type="line"/>
-      <point x="109" y="710" type="line"/>
-      <point x="15" y="710" type="line"/>
-      <point x="15" y="709" type="line"/>
-    </contour>
-    <contour>
-      <point x="175" y="0" type="line"/>
-      <point x="263" y="0" type="line"/>
-      <point x="263" y="328" type="line"/>
-      <point x="175" y="328" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="328" type="line"/>
-      <point x="263" y="328" type="line"/>
-      <point x="411" y="709" type="line"/>
-      <point x="411" y="710" type="line"/>
-      <point x="317" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="746" type="line"/>
-      <point x="236" y="746" type="line"/>
-      <point x="305" y="844" type="line"/>
-      <point x="305" y="845" type="line"/>
-      <point x="258" y="894" type="line"/>
-      <point x="182" y="747" type="line"/>
-    </contour>
-    <contour>
-      <point x="131" y="844" type="line"/>
-      <point x="305" y="844" type="line"/>
-      <point x="305" y="845" type="line"/>
-      <point x="258" y="894" type="line"/>
-      <point x="131" y="894" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="hookabovecomb.case" xOffset="-104"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

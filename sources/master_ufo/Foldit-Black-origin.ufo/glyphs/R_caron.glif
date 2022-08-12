@@ -2,55 +2,8 @@
 <glyph name="Rcaron" format="2">
   <advance width="926"/>
   <unicode hex="0158"/>
-  <anchor x="424" y="0" name="bottom"/>
-  <anchor x="416" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="289" y="0" type="line"/>
-      <point x="289" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="590" y="0" type="line"/>
-      <point x="901" y="0" type="line"/>
-      <point x="901" y="1" type="line"/>
-      <point x="699" y="329" type="line"/>
-      <point x="499" y="173" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="173" type="line"/>
-      <point x="628" y="173" type="line"/>
-      <point x="628" y="417" type="line"/>
-      <point x="289" y="417" type="line"/>
-    </contour>
-    <contour>
-      <point x="628" y="173" type="line"/>
-      <point x="629" y="173" type="line"/>
-      <point x="882" y="370" type="line"/>
-      <point x="882" y="486" type="line"/>
-      <point x="628" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="486" type="line"/>
-      <point x="882" y="486" type="line"/>
-      <point x="882" y="487" type="line"/>
-      <point x="680" y="730" type="line"/>
-      <point x="289" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="332" y="760" type="line"/>
-      <point x="485" y="793" type="line"/>
-      <point x="341" y="900" type="line"/>
-      <point x="164" y="900" type="line"/>
-      <point x="164" y="899" type="line"/>
-    </contour>
-    <contour>
-      <point x="332" y="760" type="line"/>
-      <point x="506" y="760" type="line"/>
-      <point x="670" y="899" type="line"/>
-      <point x="670" y="900" type="line"/>
-      <point x="496" y="900" type="line"/>
-    </contour>
+    <component base="R"/>
+    <component base="caroncomb.case" xOffset="101"/>
   </outline>
 </glyph>

@@ -2,47 +2,31 @@
 <glyph name="adieresis" format="2">
   <advance width="512"/>
   <unicode hex="00E4"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="274" y="671" name="top"/>
   <outline>
-    <contour>
-      <point x="161" y="401" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="470" y="402" type="line"/>
-      <point x="405" y="515" type="line"/>
-      <point x="161" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="351" y="114" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="43" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-      <point x="161" y="515" type="line"/>
-      <point x="160" y="515" type="line"/>
-      <point x="43" y="450" type="line"/>
-    </contour>
-    <contour>
-      <point x="351" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="351" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="296" y="621" type="line"/>
-      <point x="400" y="621" type="line"/>
-      <point x="400" y="704" type="line"/>
-      <point x="296" y="704" type="line"/>
-    </contour>
-    <contour>
-      <point x="144" y="621" type="line"/>
-      <point x="248" y="621" type="line"/>
-      <point x="248" y="704" type="line"/>
-      <point x="144" y="704" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="dieresiscomb" xOffset="-30"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

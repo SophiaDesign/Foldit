@@ -3,11 +3,21 @@
   <advance width="221.58333"/>
   <unicode hex="00B7"/>
   <outline>
-    <contour>
-      <point x="34" y="238" type="line"/>
-      <point x="183" y="238" type="line"/>
-      <point x="183" y="367" type="line"/>
-      <point x="34" y="367" type="line"/>
-    </contour>
+    <component base="period" yOffset="238"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

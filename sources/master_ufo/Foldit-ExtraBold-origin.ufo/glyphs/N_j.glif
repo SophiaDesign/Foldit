@@ -2,51 +2,8 @@
 <glyph name="Nj" format="2">
   <advance width="1118"/>
   <unicode hex="01CB"/>
-  <anchor x="433" y="0" name="bottom"/>
-  <anchor x="416" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="782" y="152" type="line"/>
-      <point x="782" y="730" type="line"/>
-      <point x="568" y="730" type="line"/>
-      <point x="568" y="362" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="249" y="381" type="line"/>
-      <point x="35" y="591" type="line"/>
-    </contour>
-    <contour>
-      <point x="642" y="-6" type="line"/>
-      <point x="643" y="-6" type="line"/>
-      <point x="782" y="151" type="line"/>
-      <point x="782" y="152" type="line"/>
-      <point x="188" y="736" type="line"/>
-      <point x="187" y="736" type="line"/>
-      <point x="35" y="592" type="line"/>
-      <point x="35" y="591" type="line"/>
-    </contour>
-    <contour>
-      <point x="879" y="-206" type="line"/>
-      <point x="880" y="-206" type="line"/>
-      <point x="1073" y="-99" type="line"/>
-      <point x="1073" y="503" type="line"/>
-      <point x="1072" y="503" type="line"/>
-      <point x="879" y="393" type="line"/>
-    </contour>
-    <contour>
-      <point x="667" y="-206" type="line"/>
-      <point x="879" y="-206" type="line"/>
-      <point x="879" y="-26" type="line"/>
-      <point x="667" y="-26" type="line"/>
-    </contour>
-    <contour>
-      <point x="879" y="469" type="line"/>
-      <point x="880" y="469" type="line"/>
-      <point x="1073" y="576" type="line"/>
-      <point x="1073" y="682" type="line"/>
-      <point x="879" y="682" type="line"/>
-    </contour>
+    <component base="N"/>
+    <component base="j" xOffset="817"/>
   </outline>
 </glyph>

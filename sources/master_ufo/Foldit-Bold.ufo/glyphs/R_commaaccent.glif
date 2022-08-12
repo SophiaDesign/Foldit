@@ -2,48 +2,31 @@
 <glyph name="Rcommaaccent" format="2">
   <advance width="706"/>
   <unicode hex="0156"/>
-  <anchor x="346" y="0" name="bottom"/>
-  <anchor x="346" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="40" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="470" y="0" type="line"/>
-      <point x="679" y="0" type="line"/>
-      <point x="679" y="1" type="line"/>
-      <point x="505" y="340" type="line"/>
-      <point x="365" y="246" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="490" y="233" type="line"/>
-      <point x="490" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="233" type="line"/>
-      <point x="491" y="233" type="line"/>
-      <point x="657" y="372" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="490" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="657" y="565" type="line"/>
-      <point x="499" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="398" y="-245" type="line"/>
-      <point x="399" y="-245" type="line"/>
-      <point x="399" y="-35" type="line"/>
-      <point x="294" y="-35" type="line"/>
-      <point x="294" y="-163" type="line"/>
-    </contour>
+    <component base="R"/>
+    <component base="commaaccentcomb" xOffset="16"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

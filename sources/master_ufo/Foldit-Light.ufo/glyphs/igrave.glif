@@ -2,22 +2,31 @@
 <glyph name="igrave" format="2">
   <advance width="159"/>
   <unicode hex="00EC"/>
-  <anchor x="79" y="0" name="bottom"/>
-  <anchor x="79" y="505" name="top"/>
   <outline>
-    <contour>
-      <point x="52" y="0" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="107" y="503" type="line"/>
-      <point x="106" y="508" type="line"/>
-      <point x="52" y="488" type="line"/>
-    </contour>
-    <contour>
-      <point x="64" y="573" type="line"/>
-      <point x="102" y="573" type="line"/>
-      <point x="75" y="720" type="line"/>
-      <point x="20" y="720" type="line"/>
-      <point x="20" y="719" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="gravecomb" xOffset="-235"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

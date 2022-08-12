@@ -2,56 +2,31 @@
 <glyph name="Aogonek" format="2">
   <advance width="464.33333"/>
   <unicode hex="0104"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="240" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="134" y="710" type="line"/>
-      <point x="47" y="625" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="299" type="line"/>
-      <point x="330" y="299" type="line"/>
-      <point x="330" y="383" type="line"/>
-      <point x="135" y="383" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="0" type="line"/>
-      <point x="418" y="0" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="330" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="418" y="627" type="line"/>
-      <point x="348" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="305" y="-52" type="line"/>
-      <point x="368" y="-52" type="line"/>
-      <point x="412" y="-1" type="line"/>
-      <point x="412" y="0" type="line"/>
-      <point x="340" y="0" type="line"/>
-      <point x="305" y="-51" type="line"/>
-    </contour>
-    <contour>
-      <point x="367" y="-129" type="line"/>
-      <point x="368" y="-129" type="line"/>
-      <point x="368" y="-52" type="line"/>
-      <point x="305" y="-52" type="line"/>
-      <point x="305" y="-99" type="line"/>
-    </contour>
-    <contour>
-      <point x="368" y="-130" type="line"/>
-      <point x="421" y="-130" type="line"/>
-      <point x="453" y="-84" type="line"/>
-      <point x="453" y="-83" type="line"/>
-      <point x="368" y="-83" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ogonekcomb" xOffset="59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

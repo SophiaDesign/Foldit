@@ -2,60 +2,8 @@
 <glyph name="Iinvertedbreve" format="2">
   <advance width="697"/>
   <unicode hex="020A"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="351" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="246" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="500" y="244" type="line"/>
-      <point x="500" y="730" type="line"/>
-      <point x="448" y="730" type="line"/>
-      <point x="246" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="246" y="0" type="line"/>
-      <point x="246" y="244" type="line"/>
-      <point x="25" y="244" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="672" y="0" type="line"/>
-      <point x="672" y="244" type="line"/>
-      <point x="500" y="244" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="486" type="line"/>
-      <point x="246" y="486" type="line"/>
-      <point x="448" y="730" type="line"/>
-      <point x="25" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="500" y="486" type="line"/>
-      <point x="671" y="486" type="line"/>
-      <point x="671" y="730" type="line"/>
-      <point x="500" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="155" y="820" type="line"/>
-      <point x="548" y="820" type="line"/>
-      <point x="474" y="900" type="line"/>
-      <point x="229" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="101" y="760" type="line"/>
-      <point x="257" y="760" type="line"/>
-      <point x="314" y="820" type="line"/>
-      <point x="155" y="820" type="line"/>
-      <point x="101" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="446" y="760" type="line"/>
-      <point x="602" y="760" type="line"/>
-      <point x="602" y="761" type="line"/>
-      <point x="548" y="820" type="line"/>
-      <point x="389" y="820" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="breveinvertedcomb.case" xOffset="42"/>
   </outline>
 </glyph>

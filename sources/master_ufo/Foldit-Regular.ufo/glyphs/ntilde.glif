@@ -2,51 +2,31 @@
 <glyph name="ntilde" format="2">
   <advance width="401"/>
   <unicode hex="00F1"/>
-  <anchor x="206" y="0" name="bottom"/>
-  <anchor x="216" y="510" name="top"/>
   <outline>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="132" y="510" type="line"/>
-      <point x="131" y="510" type="line"/>
-      <point x="45" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="268" y="-4" type="line"/>
-      <point x="269" y="-4" type="line"/>
-      <point x="356" y="27" type="line"/>
-      <point x="356" y="426" type="line"/>
-      <point x="268" y="426" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="426" type="line"/>
-      <point x="356" y="426" type="line"/>
-      <point x="356" y="427" type="line"/>
-      <point x="305" y="510" type="line"/>
-      <point x="132" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="113" y="591" type="line"/>
-      <point x="166" y="591" type="line"/>
-      <point x="166" y="659" type="line"/>
-      <point x="113" y="666" type="line"/>
-    </contour>
-    <contour>
-      <point x="259" y="610" type="line"/>
-      <point x="312" y="606" type="line"/>
-      <point x="312" y="681" type="line"/>
-      <point x="259" y="681" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="586" type="line"/>
-      <point x="256" y="586" type="line"/>
-      <point x="312" y="605" type="line"/>
-      <point x="312" y="606" type="line"/>
-      <point x="170" y="686" type="line"/>
-      <point x="169" y="686" type="line"/>
-      <point x="113" y="667" type="line"/>
-      <point x="113" y="666" type="line"/>
-    </contour>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="-82"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

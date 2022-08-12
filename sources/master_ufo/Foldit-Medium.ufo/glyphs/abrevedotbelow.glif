@@ -2,61 +2,40 @@
 <glyph name="abrevedotbelow" format="2">
   <advance width="512"/>
   <unicode hex="1EB7"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="277" y="515" name="top"/>
   <outline>
-    <contour>
-      <point x="161" y="401" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="470" y="402" type="line"/>
-      <point x="405" y="515" type="line"/>
-      <point x="161" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="351" y="114" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="43" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-      <point x="161" y="515" type="line"/>
-      <point x="160" y="515" type="line"/>
-      <point x="43" y="450" type="line"/>
-    </contour>
-    <contour>
-      <point x="351" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="351" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="216" y="-159" type="line"/>
-      <point x="333" y="-159" type="line"/>
-      <point x="333" y="-61" type="line"/>
-      <point x="216" y="-61" type="line"/>
-    </contour>
-    <contour>
-      <point x="303" y="671" type="line"/>
-      <point x="384" y="671" type="line"/>
-      <point x="418" y="725" type="line"/>
-      <point x="418" y="726" type="line"/>
-      <point x="336" y="726" type="line"/>
-    </contour>
-    <contour>
-      <point x="146" y="671" type="line"/>
-      <point x="232" y="671" type="line"/>
-      <point x="200" y="726" type="line"/>
-      <point x="114" y="726" type="line"/>
-      <point x="114" y="725" type="line"/>
-    </contour>
-    <contour>
-      <point x="189" y="600" type="line"/>
-      <point x="343" y="600" type="line"/>
-      <point x="384" y="671" type="line"/>
-      <point x="146" y="671" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="-47"/>
+    <component base="brevecomb" xOffset="-36"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

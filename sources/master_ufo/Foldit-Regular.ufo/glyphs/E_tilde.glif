@@ -2,56 +2,31 @@
 <glyph name="Etilde" format="2">
   <advance width="424"/>
   <unicode hex="1EBC"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="234" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="400" y="0" type="line"/>
-      <point x="400" y="84" type="line"/>
-      <point x="47" y="84" type="line"/>
-      <point x="47" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="84" type="line"/>
-      <point x="135" y="84" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="47" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="329" type="line"/>
-      <point x="350" y="329" type="line"/>
-      <point x="350" y="401" type="line"/>
-      <point x="135" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="335" y="626" type="line"/>
-      <point x="418" y="709" type="line"/>
-      <point x="418" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="115" y="782" type="line"/>
-      <point x="177" y="782" type="line"/>
-      <point x="177" y="846" type="line"/>
-      <point x="115" y="843" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="799" type="line"/>
-      <point x="351" y="805" type="line"/>
-      <point x="351" y="869" type="line"/>
-      <point x="289" y="869" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="775" type="line"/>
-      <point x="290" y="775" type="line"/>
-      <point x="350" y="804" type="line"/>
-      <point x="350" y="805" type="line"/>
-      <point x="180" y="873" type="line"/>
-      <point x="175" y="873" type="line"/>
-      <point x="115" y="844" type="line"/>
-      <point x="115" y="843" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="-67"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

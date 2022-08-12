@@ -2,59 +2,31 @@
 <glyph name="ccedilla" format="2">
   <advance width="265.33333"/>
   <unicode hex="00E7"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="155" y="505" name="top"/>
   <outline>
-    <contour>
-      <point x="85" y="0" type="line"/>
-      <point x="201" y="0" type="line"/>
-      <point x="238" y="53" type="line"/>
-      <point x="238" y="54" type="line"/>
-      <point x="48" y="54" type="line"/>
-      <point x="48" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="54" type="line"/>
-      <point x="104" y="54" type="line"/>
-      <point x="104" y="505" type="line"/>
-      <point x="103" y="505" type="line"/>
-      <point x="48" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="104" y="451" type="line"/>
-      <point x="247" y="451" type="line"/>
-      <point x="247" y="452" type="line"/>
-      <point x="210" y="505" type="line"/>
-      <point x="104" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="143" y="-58" type="line"/>
-      <point x="201" y="-58" type="line"/>
-      <point x="201" y="-57" type="line"/>
-      <point x="174" y="-26" type="line"/>
-      <point x="153" y="-26" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="-58" type="line"/>
-      <point x="143" y="-58" type="line"/>
-      <point x="170" y="-1" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="133" y="0" type="line"/>
-      <point x="108" y="-57" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="-134" type="line"/>
-      <point x="165" y="-134" type="line"/>
-      <point x="165" y="-103" type="line"/>
-      <point x="87" y="-103" type="line"/>
-      <point x="87" y="-104" type="line"/>
-    </contour>
-    <contour>
-      <point x="165" y="-134" type="line"/>
-      <point x="166" y="-134" type="line"/>
-      <point x="201" y="-110" type="line"/>
-      <point x="201" y="-58" type="line"/>
-      <point x="165" y="-58" type="line"/>
-    </contour>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="-173"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedillacomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

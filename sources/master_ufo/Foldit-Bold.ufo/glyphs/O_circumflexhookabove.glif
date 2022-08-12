@@ -2,67 +2,31 @@
 <glyph name="Ocircumflexhookabove" format="2">
   <advance width="688.5"/>
   <unicode hex="1ED4"/>
-  <anchor x="345" y="0" name="bottom"/>
-  <anchor x="559" y="723" name="horn"/>
-  <anchor x="362" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="199" y="564" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="657" y="565" type="line"/>
-      <point x="530" y="723" type="line"/>
-      <point x="199" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="490" y="159" type="line"/>
-      <point x="32" y="159" type="line"/>
-      <point x="32" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="159" type="line"/>
-      <point x="199" y="159" type="line"/>
-      <point x="199" y="723" type="line"/>
-      <point x="198" y="723" type="line"/>
-      <point x="32" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="0" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="657" y="161" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="490" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="756" type="line"/>
-      <point x="547" y="756" type="line"/>
-      <point x="547" y="757" type="line"/>
-      <point x="431" y="868" type="line"/>
-      <point x="379" y="853" type="line"/>
-      <point x="328" y="841" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="756" type="line"/>
-      <point x="300" y="756" type="line"/>
-      <point x="430" y="868" type="line"/>
-      <point x="306" y="868" type="line"/>
-      <point x="179" y="757" type="line"/>
-    </contour>
-    <contour>
-      <point x="401" y="888" type="line"/>
-      <point x="636" y="888" type="line"/>
-      <point x="636" y="889" type="line"/>
-      <point x="573" y="960" type="line"/>
-      <point x="401" y="960" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="819" type="line"/>
-      <point x="563" y="819" type="line"/>
-      <point x="636" y="888" type="line"/>
-      <point x="636" y="889" type="line"/>
-      <point x="573" y="960" type="line"/>
-      <point x="490" y="820" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="circumflexcomb_hookabovecomb.case" xOffset="70"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_hookabovecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,55 +2,9 @@
 <glyph name="odieresismacron" format="2">
   <advance width="837"/>
   <unicode hex="022B"/>
-  <anchor x="422" y="0" name="bottom"/>
-  <anchor x="665" y="530" name="horn"/>
-  <anchor x="452" y="750" name="top"/>
   <outline>
-    <contour>
-      <point x="239" y="326" type="line"/>
-      <point x="812" y="326" type="line"/>
-      <point x="812" y="327" type="line"/>
-      <point x="705" y="530" type="line"/>
-      <point x="239" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="598" y="0" type="line"/>
-      <point x="598" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-      <point x="25" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="204" type="line"/>
-      <point x="239" y="204" type="line"/>
-      <point x="239" y="530" type="line"/>
-      <point x="238" y="530" type="line"/>
-      <point x="25" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="598" y="0" type="line"/>
-      <point x="599" y="0" type="line"/>
-      <point x="812" y="107" type="line"/>
-      <point x="812" y="326" type="line"/>
-      <point x="598" y="326" type="line"/>
-    </contour>
-    <contour>
-      <point x="478" y="640" type="line"/>
-      <point x="654" y="640" type="line"/>
-      <point x="654" y="772" type="line"/>
-      <point x="478" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="640" type="line"/>
-      <point x="406" y="640" type="line"/>
-      <point x="406" y="772" type="line"/>
-      <point x="230" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="224" y="848" type="line"/>
-      <point x="650" y="848" type="line"/>
-      <point x="650" y="960" type="line"/>
-      <point x="224" y="960" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="dieresiscomb" xOffset="148"/>
+    <component base="macroncomb" xOffset="143" yOffset="220"/>
   </outline>
 </glyph>

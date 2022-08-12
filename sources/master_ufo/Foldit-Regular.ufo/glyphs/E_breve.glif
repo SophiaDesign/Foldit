@@ -2,54 +2,31 @@
 <glyph name="Ebreve" format="2">
   <advance width="424"/>
   <unicode hex="0114"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="234" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="400" y="0" type="line"/>
-      <point x="400" y="84" type="line"/>
-      <point x="47" y="84" type="line"/>
-      <point x="47" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="84" type="line"/>
-      <point x="135" y="84" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="47" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="329" type="line"/>
-      <point x="350" y="329" type="line"/>
-      <point x="350" y="401" type="line"/>
-      <point x="135" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="335" y="626" type="line"/>
-      <point x="418" y="709" type="line"/>
-      <point x="418" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="774" type="line"/>
-      <point x="290" y="774" type="line"/>
-      <point x="333" y="822" type="line"/>
-      <point x="127" y="822" type="line"/>
-    </contour>
-    <contour>
-      <point x="127" y="822" type="line"/>
-      <point x="207" y="822" type="line"/>
-      <point x="174" y="860" type="line"/>
-      <point x="94" y="860" type="line"/>
-      <point x="94" y="859" type="line"/>
-    </contour>
-    <contour>
-      <point x="253" y="822" type="line"/>
-      <point x="333" y="822" type="line"/>
-      <point x="366" y="859" type="line"/>
-      <point x="366" y="860" type="line"/>
-      <point x="286" y="860" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="brevecomb.case" xOffset="-79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

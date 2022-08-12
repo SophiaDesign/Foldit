@@ -2,54 +2,8 @@
 <glyph name="wdieresis" format="2">
   <advance width="270"/>
   <unicode hex="1E85"/>
-  <anchor x="135" y="590" name="top"/>
   <outline>
-    <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="220" y="23" type="line"/>
-      <point x="220" y="500" type="line"/>
-      <point x="196" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="123" y="0" type="line"/>
-      <point x="123" y="24" type="line"/>
-      <point x="50" y="24" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-      <point x="74" y="503" type="line"/>
-      <point x="73" y="503" type="line"/>
-      <point x="50" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="146" y="0" type="line"/>
-      <point x="196" y="0" type="line"/>
-      <point x="196" y="24" type="line"/>
-      <point x="123" y="24" type="line"/>
-      <point x="123" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="24" type="line"/>
-      <point x="147" y="24" type="line"/>
-      <point x="147" y="503" type="line"/>
-      <point x="146" y="503" type="line"/>
-      <point x="123" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="152" y="601" type="line"/>
-      <point x="183" y="601" type="line"/>
-      <point x="183" y="635" type="line"/>
-      <point x="152" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="601" type="line"/>
-      <point x="128" y="601" type="line"/>
-      <point x="128" y="635" type="line"/>
-      <point x="97" y="635" type="line"/>
-    </contour>
+    <component base="w"/>
+    <component base="dieresiscomb" xOffset="-169"/>
   </outline>
 </glyph>

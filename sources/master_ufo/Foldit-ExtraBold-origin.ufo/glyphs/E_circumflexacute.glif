@@ -2,55 +2,8 @@
 <glyph name="Ecircumflexacute" format="2">
   <advance width="792"/>
   <unicode hex="1EBE"/>
-  <anchor x="462" y="0" name="bottom"/>
-  <anchor x="426" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="237" y="0" type="line"/>
-      <point x="761" y="0" type="line"/>
-      <point x="761" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="35" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="204" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="249" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="283" type="line"/>
-      <point x="658" y="283" type="line"/>
-      <point x="658" y="447" type="line"/>
-      <point x="249" y="447" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="526" type="line"/>
-      <point x="610" y="526" type="line"/>
-      <point x="812" y="729" type="line"/>
-      <point x="812" y="730" type="line"/>
-      <point x="249" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="459" y="755" type="line"/>
-      <point x="616" y="755" type="line"/>
-      <point x="616" y="756" type="line"/>
-      <point x="488" y="883" type="line"/>
-      <point x="355" y="852" type="line"/>
-    </contour>
-    <contour>
-      <point x="190" y="755" type="line"/>
-      <point x="344" y="755" type="line"/>
-      <point x="488" y="883" type="line"/>
-      <point x="324" y="883" type="line"/>
-      <point x="190" y="756" type="line"/>
-    </contour>
-    <contour>
-      <point x="572" y="808" type="line"/>
-      <point x="688" y="808" type="line"/>
-      <point x="781" y="949" type="line"/>
-      <point x="781" y="950" type="line"/>
-      <point x="615" y="950" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="117"/>
   </outline>
 </glyph>

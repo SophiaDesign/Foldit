@@ -2,48 +2,31 @@
 <glyph name="Acircumflex" format="2">
   <advance width="703.5"/>
   <unicode hex="00C2"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="369" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="205" y="723" type="line"/>
-      <point x="40" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="498" y="233" type="line"/>
-      <point x="498" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="664" y="0" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="498" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="664" y="565" type="line"/>
-      <point x="537" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="438" y="760" type="line"/>
-      <point x="562" y="760" type="line"/>
-      <point x="562" y="761" type="line"/>
-      <point x="433" y="887" type="line"/>
-      <point x="327" y="863" type="line"/>
-    </contour>
-    <contour>
-      <point x="185" y="760" type="line"/>
-      <point x="306" y="760" type="line"/>
-      <point x="433" y="887" type="line"/>
-      <point x="312" y="887" type="line"/>
-      <point x="185" y="761" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

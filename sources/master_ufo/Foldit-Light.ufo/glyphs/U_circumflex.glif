@@ -2,43 +2,31 @@
 <glyph name="Ucircumflex" format="2">
   <advance width="367"/>
   <unicode hex="00DB"/>
-  <anchor x="184" y="0" name="bottom"/>
-  <anchor x="299" y="705" name="horn"/>
-  <anchor x="192" y="706" name="top"/>
   <outline>
-    <contour>
-      <point x="261" y="0" type="line"/>
-      <point x="262" y="0" type="line"/>
-      <point x="317" y="54" type="line"/>
-      <point x="317" y="705" type="line"/>
-      <point x="261" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="261" y="0" type="line"/>
-      <point x="261" y="54" type="line"/>
-      <point x="50" y="54" type="line"/>
-      <point x="50" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="54" type="line"/>
-      <point x="106" y="54" type="line"/>
-      <point x="106" y="705" type="line"/>
-      <point x="50" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="761" type="line"/>
-      <point x="277" y="761" type="line"/>
-      <point x="277" y="762" type="line"/>
-      <point x="214" y="859" type="line"/>
-      <point x="172" y="854" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="761" type="line"/>
-      <point x="150" y="761" type="line"/>
-      <point x="214" y="859" type="line"/>
-      <point x="169" y="859" type="line"/>
-      <point x="105" y="762" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="circumflexcomb.case" xOffset="-120" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

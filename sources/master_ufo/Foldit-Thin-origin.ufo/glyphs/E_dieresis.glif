@@ -2,46 +2,8 @@
 <glyph name="Edieresis" format="2">
   <advance width="240"/>
   <unicode hex="00CB"/>
-  <anchor x="135" y="0" name="bottom"/>
-  <anchor x="138" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="77" y="0" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="220" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="24" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="53" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="353" type="line"/>
-      <point x="196" y="353" type="line"/>
-      <point x="196" y="377" type="line"/>
-      <point x="77" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="676" type="line"/>
-      <point x="197" y="676" type="line"/>
-      <point x="220" y="699" type="line"/>
-      <point x="220" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="155" y="811" type="line"/>
-      <point x="186" y="811" type="line"/>
-      <point x="186" y="845" type="line"/>
-      <point x="155" y="845" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="811" type="line"/>
-      <point x="121" y="811" type="line"/>
-      <point x="121" y="845" type="line"/>
-      <point x="90" y="845" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="-171"/>
   </outline>
 </glyph>

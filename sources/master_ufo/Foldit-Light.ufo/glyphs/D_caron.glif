@@ -2,48 +2,31 @@
 <glyph name="Dcaron" format="2">
   <advance width="373.66667"/>
   <unicode hex="010E"/>
-  <anchor x="82" y="364" name="stroke"/>
-  <anchor x="186" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="106" y="651" type="line"/>
-      <point x="325" y="651" type="line"/>
-      <point x="325" y="652" type="line"/>
-      <point x="279" y="705" type="line"/>
-      <point x="106" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="-1" type="line"/>
-      <point x="270" y="-1" type="line"/>
-      <point x="270" y="53" type="line"/>
-      <point x="50" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="53" type="line"/>
-      <point x="106" y="53" type="line"/>
-      <point x="106" y="705" type="line"/>
-      <point x="50" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="270" y="-1" type="line"/>
-      <point x="271" y="-1" type="line"/>
-      <point x="325" y="51" type="line"/>
-      <point x="325" y="651" type="line"/>
-      <point x="270" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="163" y="752" type="line"/>
-      <point x="205" y="757" type="line"/>
-      <point x="146" y="850" type="line"/>
-      <point x="100" y="850" type="line"/>
-      <point x="100" y="849" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="752" type="line"/>
-      <point x="208" y="752" type="line"/>
-      <point x="272" y="849" type="line"/>
-      <point x="272" y="850" type="line"/>
-      <point x="227" y="850" type="line"/>
-    </contour>
+    <component base="D"/>
+    <component base="caroncomb.case" xOffset="-125"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,38 +2,7 @@
 <glyph name="otildemacron" format="2">
   <advance width="204"/>
   <unicode hex="022D"/>
-  <anchor x="99" y="0" name="bottom"/>
-  <anchor x="124" y="500" name="horn"/>
-  <anchor x="99" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="74" y="476" type="line"/>
-      <point x="148" y="476" type="line"/>
-      <point x="148" y="477" type="line"/>
-      <point x="125" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="24" type="line"/>
-      <point x="50" y="24" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-      <point x="74" y="500" type="line"/>
-      <point x="73" y="500" type="line"/>
-      <point x="50" y="477" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="148" y="23" type="line"/>
-      <point x="148" y="476" type="line"/>
-      <point x="124" y="476" type="line"/>
-    </contour>
     <contour>
       <point x="52" y="581" type="line"/>
       <point x="72" y="581" type="line"/>
@@ -62,5 +31,6 @@
       <point x="157" y="700" type="line"/>
       <point x="47" y="700" type="line"/>
     </contour>
+    <component base="o"/>
   </outline>
 </glyph>

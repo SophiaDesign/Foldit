@@ -2,7 +2,6 @@
 <glyph name="Hbar" format="2">
   <advance width="1017"/>
   <unicode hex="0126"/>
-  <anchor x="521" y="730" name="top"/>
   <outline>
     <contour>
       <point x="20" y="519" type="line"/>
@@ -10,23 +9,6 @@
       <point x="997" y="693" type="line"/>
       <point x="20" y="693" type="line"/>
     </contour>
-    <contour>
-      <point x="693" y="0" type="line"/>
-      <point x="947" y="0" type="line"/>
-      <point x="947" y="730" type="line"/>
-      <point x="693" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="344" y="0" type="line"/>
-      <point x="344" y="730" type="line"/>
-      <point x="90" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="344" y="243" type="line"/>
-      <point x="693" y="243" type="line"/>
-      <point x="693" y="487" type="line"/>
-      <point x="344" y="487" type="line"/>
-    </contour>
+    <component base="H" xOffset="55"/>
   </outline>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="fi" format="2">
   <advance width="991"/>
   <unicode hex="FB01"/>
-  <anchor x="818" y="0" name="bottom_1"/>
   <outline>
     <contour>
       <point x="289" y="173" type="line"/>
@@ -31,20 +30,7 @@
       <point x="619" y="703" type="line"/>
       <point x="289" y="703" type="line"/>
     </contour>
-    <contour>
-      <point x="692" y="0" type="line"/>
-      <point x="946" y="0" type="line"/>
-      <point x="946" y="503" type="line"/>
-      <point x="945" y="503" type="line"/>
-      <point x="692" y="393" type="line"/>
-    </contour>
-    <contour>
-      <point x="692" y="469" type="line"/>
-      <point x="693" y="469" type="line"/>
-      <point x="946" y="576" type="line"/>
-      <point x="946" y="682" type="line"/>
-      <point x="692" y="682" type="line"/>
-    </contour>
+    <component base="i" xOffset="647"/>
   </outline>
   <lib>
     <dict>

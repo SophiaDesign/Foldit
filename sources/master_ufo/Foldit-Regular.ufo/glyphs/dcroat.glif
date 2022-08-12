@@ -2,8 +2,6 @@
 <glyph name="dcroat" format="2">
   <advance width="404"/>
   <unicode hex="0111"/>
-  <anchor x="247" y="604" name="stroke"/>
-  <anchor x="325" y="752" name="top"/>
   <outline>
     <contour>
       <point x="63" y="572" type="line"/>
@@ -11,40 +9,21 @@
       <point x="352" y="634" type="line"/>
       <point x="63" y="634" type="line"/>
     </contour>
-    <contour>
-      <point x="358" y="427" type="line"/>
-      <point x="359" y="427" type="line"/>
-      <point x="359" y="752" type="line"/>
-      <point x="271" y="752" type="line"/>
-      <point x="271" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="136" y="426" type="line"/>
-      <point x="359" y="426" type="line"/>
-      <point x="359" y="427" type="line"/>
-      <point x="290" y="510" type="line"/>
-      <point x="136" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="0" type="line"/>
-      <point x="271" y="0" type="line"/>
-      <point x="271" y="84" type="line"/>
-      <point x="48" y="84" type="line"/>
-      <point x="48" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="84" type="line"/>
-      <point x="136" y="84" type="line"/>
-      <point x="136" y="510" type="line"/>
-      <point x="135" y="510" type="line"/>
-      <point x="48" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="0" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="359" y="51" type="line"/>
-      <point x="359" y="426" type="line"/>
-      <point x="271" y="426" type="line"/>
-    </contour>
+    <component base="d"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

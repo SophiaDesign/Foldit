@@ -2,35 +2,31 @@
 <glyph name="Ydotbelow" format="2">
   <advance width="647.5"/>
   <unicode hex="1EF4"/>
-  <anchor x="330" y="0" name="bottom"/>
-  <anchor x="332" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="249" y="301" type="line"/>
-      <point x="250" y="301" type="line"/>
-      <point x="332" y="439" type="line"/>
-      <point x="187" y="723" type="line"/>
-      <point x="5" y="723" type="line"/>
-      <point x="5" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="line"/>
-      <point x="416" y="0" type="line"/>
-      <point x="416" y="301" type="line"/>
-      <point x="249" y="301" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="301" type="line"/>
-      <point x="416" y="301" type="line"/>
-      <point x="641" y="722" type="line"/>
-      <point x="641" y="723" type="line"/>
-      <point x="460" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="252" y="-180" type="line"/>
-      <point x="413" y="-180" type="line"/>
-      <point x="413" y="-49" type="line"/>
-      <point x="252" y="-49" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="dotbelowcomb" xOffset="16"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -3,23 +3,21 @@
   <advance width="224"/>
   <unicode hex="2022"/>
   <outline>
-    <contour>
-      <point x="37" y="241" type="line"/>
-      <point x="112" y="241" type="line"/>
-      <point x="112" y="387" type="line"/>
-      <point x="37" y="387" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="241" type="line"/>
-      <point x="187" y="241" type="line"/>
-      <point x="187" y="315" type="line"/>
-      <point x="112" y="315" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="315" type="line"/>
-      <point x="187" y="315" type="line"/>
-      <point x="187" y="387" type="line"/>
-      <point x="112" y="387" type="line"/>
-    </contour>
+    <component base="bulletoperator"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bulletoperator</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

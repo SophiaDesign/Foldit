@@ -2,70 +2,31 @@
 <glyph name="Ecircumflextilde" format="2">
   <advance width="562"/>
   <unicode hex="1EC4"/>
-  <anchor x="326" y="0" name="bottom"/>
-  <anchor x="306" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="171" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
-      <point x="535" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-      <point x="43" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="129" type="line"/>
-      <point x="178" y="129" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="43" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="312" type="line"/>
-      <point x="466" y="312" type="line"/>
-      <point x="466" y="419" type="line"/>
-      <point x="178" y="419" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="589" type="line"/>
-      <point x="438" y="589" type="line"/>
-      <point x="566" y="717" type="line"/>
-      <point x="566" y="718" type="line"/>
-      <point x="178" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="356" y="757" type="line"/>
-      <point x="470" y="757" type="line"/>
-      <point x="470" y="758" type="line"/>
-      <point x="370" y="845" type="line"/>
-      <point x="291" y="812" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="757" type="line"/>
-      <point x="234" y="757" type="line"/>
-      <point x="370" y="845" type="line"/>
-      <point x="256" y="845" type="line"/>
-      <point x="126" y="758" type="line"/>
-    </contour>
-    <contour>
-      <point x="149" y="869" type="line"/>
-      <point x="236" y="869" type="line"/>
-      <point x="236" y="935" type="line"/>
-      <point x="149" y="934" type="line"/>
-    </contour>
-    <contour>
-      <point x="371" y="884" type="line"/>
-      <point x="456" y="889" type="line"/>
-      <point x="456" y="959" type="line"/>
-      <point x="371" y="959" type="line"/>
-    </contour>
-    <contour>
-      <point x="409" y="864" type="line"/>
-      <point x="410" y="864" type="line"/>
-      <point x="456" y="888" type="line"/>
-      <point x="456" y="889" type="line"/>
-      <point x="213" y="962" type="line"/>
-      <point x="212" y="962" type="line"/>
-      <point x="149" y="935" type="line"/>
-      <point x="149" y="934" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="circumflexcomb_tildecomb.case" xOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_tildecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

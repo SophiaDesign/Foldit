@@ -2,38 +2,7 @@
 <glyph name="Otildemacron" format="2">
   <advance width="748.5"/>
   <unicode hex="022C"/>
-  <anchor x="345" y="0" name="bottom"/>
-  <anchor x="559" y="723" name="horn"/>
-  <anchor x="362" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="199" y="564" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="657" y="565" type="line"/>
-      <point x="530" y="723" type="line"/>
-      <point x="199" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="490" y="159" type="line"/>
-      <point x="32" y="159" type="line"/>
-      <point x="32" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="159" type="line"/>
-      <point x="199" y="159" type="line"/>
-      <point x="199" y="723" type="line"/>
-      <point x="198" y="723" type="line"/>
-      <point x="32" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="0" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="657" y="161" type="line"/>
-      <point x="657" y="564" type="line"/>
-      <point x="490" y="564" type="line"/>
-    </contour>
     <contour>
       <point x="167" y="756" type="line"/>
       <point x="263" y="756" type="line"/>
@@ -62,5 +31,21 @@
       <point x="524" y="953" type="line"/>
       <point x="164" y="953" type="line"/>
     </contour>
+    <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

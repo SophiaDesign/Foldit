@@ -2,41 +2,31 @@
 <glyph name="Ydieresis" format="2">
   <advance width="647.5"/>
   <unicode hex="0178"/>
-  <anchor x="330" y="0" name="bottom"/>
-  <anchor x="331" y="875" name="top"/>
   <outline>
-    <contour>
-      <point x="249" y="301" type="line"/>
-      <point x="250" y="301" type="line"/>
-      <point x="332" y="439" type="line"/>
-      <point x="187" y="723" type="line"/>
-      <point x="5" y="723" type="line"/>
-      <point x="5" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="line"/>
-      <point x="416" y="0" type="line"/>
-      <point x="416" y="301" type="line"/>
-      <point x="249" y="301" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="301" type="line"/>
-      <point x="416" y="301" type="line"/>
-      <point x="641" y="722" type="line"/>
-      <point x="641" y="723" type="line"/>
-      <point x="460" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="375" y="793" type="line"/>
-      <point x="492" y="793" type="line"/>
-      <point x="492" y="886" type="line"/>
-      <point x="375" y="886" type="line"/>
-    </contour>
-    <contour>
-      <point x="173" y="793" type="line"/>
-      <point x="290" y="793" type="line"/>
-      <point x="290" y="886" type="line"/>
-      <point x="173" y="886" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="dieresiscomb.case" xOffset="31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

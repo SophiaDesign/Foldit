@@ -2,44 +2,8 @@
 <glyph name="Ncaron" format="2">
   <advance width="897"/>
   <unicode hex="0147"/>
-  <anchor x="445" y="0" name="bottom"/>
-  <anchor x="456" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="862" y="172" type="line"/>
-      <point x="862" y="730" type="line"/>
-      <point x="608" y="730" type="line"/>
-      <point x="608" y="397" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="289" y="0" type="line"/>
-      <point x="289" y="345" type="line"/>
-      <point x="35" y="571" type="line"/>
-    </contour>
-    <contour>
-      <point x="682" y="-6" type="line"/>
-      <point x="683" y="-6" type="line"/>
-      <point x="862" y="171" type="line"/>
-      <point x="862" y="172" type="line"/>
-      <point x="228" y="736" type="line"/>
-      <point x="227" y="736" type="line"/>
-      <point x="35" y="572" type="line"/>
-      <point x="35" y="571" type="line"/>
-    </contour>
-    <contour>
-      <point x="372" y="760" type="line"/>
-      <point x="525" y="793" type="line"/>
-      <point x="381" y="900" type="line"/>
-      <point x="204" y="900" type="line"/>
-      <point x="204" y="899" type="line"/>
-    </contour>
-    <contour>
-      <point x="372" y="760" type="line"/>
-      <point x="546" y="760" type="line"/>
-      <point x="710" y="899" type="line"/>
-      <point x="710" y="900" type="line"/>
-      <point x="536" y="900" type="line"/>
-    </contour>
+    <component base="N"/>
+    <component base="caroncomb.case" xOffset="141"/>
   </outline>
 </glyph>

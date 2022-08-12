@@ -2,55 +2,31 @@
 <glyph name="Acircumflexacute" format="2">
   <advance width="464.33333"/>
   <unicode hex="1EA4"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="240" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="134" y="710" type="line"/>
-      <point x="47" y="625" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="299" type="line"/>
-      <point x="330" y="299" type="line"/>
-      <point x="330" y="383" type="line"/>
-      <point x="135" y="383" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="0" type="line"/>
-      <point x="418" y="0" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="330" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="418" y="627" type="line"/>
-      <point x="348" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="274" y="765" type="line"/>
-      <point x="342" y="765" type="line"/>
-      <point x="342" y="766" type="line"/>
-      <point x="270" y="868" type="line"/>
-      <point x="210" y="858" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="765" type="line"/>
-      <point x="192" y="765" type="line"/>
-      <point x="269" y="868" type="line"/>
-      <point x="200" y="868" type="line"/>
-      <point x="124" y="766" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="810" type="line"/>
-      <point x="376" y="810" type="line"/>
-      <point x="429" y="915" type="line"/>
-      <point x="429" y="916" type="line"/>
-      <point x="355" y="916" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="-73"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

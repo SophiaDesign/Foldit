@@ -2,36 +2,22 @@
 <glyph name="ring" format="2">
   <advance width="600"/>
   <unicode hex="02DA"/>
-  <anchor x="308" y="505" name="_top"/>
-  <anchor x="307" y="666" name="top"/>
   <outline>
-    <contour>
-      <point x="279" y="670" type="line"/>
-      <point x="366" y="670" type="line"/>
-      <point x="366" y="671" type="line"/>
-      <point x="341" y="700" type="line"/>
-      <point x="279" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="272" y="577" type="line"/>
-      <point x="334" y="577" type="line"/>
-      <point x="334" y="607" type="line"/>
-      <point x="247" y="607" type="line"/>
-      <point x="247" y="606" type="line"/>
-    </contour>
-    <contour>
-      <point x="247" y="607" type="line"/>
-      <point x="279" y="607" type="line"/>
-      <point x="279" y="700" type="line"/>
-      <point x="278" y="700" type="line"/>
-      <point x="247" y="675" type="line"/>
-    </contour>
-    <contour>
-      <point x="334" y="577" type="line"/>
-      <point x="335" y="577" type="line"/>
-      <point x="366" y="601" type="line"/>
-      <point x="366" y="670" type="line"/>
-      <point x="334" y="670" type="line"/>
-    </contour>
+    <component base="ringcomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ringcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

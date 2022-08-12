@@ -2,40 +2,6 @@
 <glyph name="three.lf" format="2">
   <advance width="800"/>
   <outline>
-    <contour>
-      <point x="15" y="526" type="line"/>
-      <point x="551" y="526" type="line"/>
-      <point x="551" y="730" type="line"/>
-      <point x="217" y="730" type="line"/>
-      <point x="15" y="527" type="line"/>
-    </contour>
-    <contour>
-      <point x="217" y="0" type="line"/>
-      <point x="551" y="0" type="line"/>
-      <point x="551" y="204" type="line"/>
-      <point x="15" y="204" type="line"/>
-      <point x="15" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="282" type="line"/>
-      <point x="551" y="282" type="line"/>
-      <point x="551" y="446" type="line"/>
-      <point x="116" y="446" type="line"/>
-    </contour>
-    <contour>
-      <point x="551" y="366" type="line"/>
-      <point x="765" y="366" type="line"/>
-      <point x="765" y="523" type="line"/>
-      <point x="552" y="730" type="line"/>
-      <point x="551" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="551" y="0" type="line"/>
-      <point x="552" y="0" type="line"/>
-      <point x="765" y="193" type="line"/>
-      <point x="765" y="269" type="line"/>
-      <point x="552" y="446" type="line"/>
-      <point x="551" y="446" type="line"/>
-    </contour>
+    <component base="three"/>
   </outline>
 </glyph>

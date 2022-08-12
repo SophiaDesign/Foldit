@@ -2,42 +2,31 @@
 <glyph name="Wgrave" format="2">
   <advance width="889.66667"/>
   <unicode hex="1E80"/>
-  <anchor x="445" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="580" y="0" type="line"/>
-      <point x="581" y="0" type="line"/>
-      <point x="665" y="117" type="line"/>
-      <point x="510" y="718" type="line"/>
-      <point x="381" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="181" y="0" type="line"/>
-      <point x="188" y="0" type="line"/>
-      <point x="275" y="117" type="line"/>
-      <point x="161" y="718" type="line"/>
-      <point x="8" y="718" type="line"/>
-      <point x="8" y="717" type="line"/>
-    </contour>
-    <contour>
-      <point x="188" y="0" type="line"/>
-      <point x="304" y="0" type="line"/>
-      <point x="510" y="718" type="line"/>
-      <point x="381" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="581" y="0" type="line"/>
-      <point x="694" y="0" type="line"/>
-      <point x="882" y="717" type="line"/>
-      <point x="882" y="718" type="line"/>
-      <point x="731" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="414" y="752" type="line"/>
-      <point x="497" y="752" type="line"/>
-      <point x="472" y="884" type="line"/>
-      <point x="340" y="884" type="line"/>
-      <point x="340" y="883" type="line"/>
-    </contour>
+    <component base="W"/>
+    <component base="gravecomb.case" xOffset="166"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>W</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

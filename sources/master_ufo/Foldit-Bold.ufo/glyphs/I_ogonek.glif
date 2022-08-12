@@ -2,62 +2,31 @@
 <glyph name="Iogonek" format="2">
   <advance width="549.25"/>
   <unicode hex="012E"/>
-  <anchor x="283" y="0" name="bottom"/>
-  <anchor x="285" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="377" y="159" type="line"/>
-      <point x="377" y="723" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="209" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="209" y="159" type="line"/>
-      <point x="24" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="line"/>
-      <point x="526" y="0" type="line"/>
-      <point x="526" y="159" type="line"/>
-      <point x="377" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="564" type="line"/>
-      <point x="209" y="564" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="24" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="377" y="564" type="line"/>
-      <point x="525" y="564" type="line"/>
-      <point x="525" y="723" type="line"/>
-      <point x="377" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="181" y="-73" type="line"/>
-      <point x="298" y="-73" type="line"/>
-      <point x="367" y="-1" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="236" y="0" type="line"/>
-      <point x="181" y="-72" type="line"/>
-    </contour>
-    <contour>
-      <point x="297" y="-192" type="line"/>
-      <point x="298" y="-192" type="line"/>
-      <point x="298" y="-73" type="line"/>
-      <point x="181" y="-73" type="line"/>
-      <point x="181" y="-146" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="-192" type="line"/>
-      <point x="385" y="-192" type="line"/>
-      <point x="434" y="-112" type="line"/>
-      <point x="434" y="-111" type="line"/>
-      <point x="298" y="-111" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="ogonekcomb" xOffset="-6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

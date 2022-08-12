@@ -2,49 +2,8 @@
 <glyph name="Uinvertedbreve" format="2">
   <advance width="837"/>
   <unicode hex="0216"/>
-  <anchor x="442" y="0" name="bottom"/>
-  <anchor x="811" y="730" name="horn"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="802" y="207" type="line"/>
-      <point x="802" y="730" type="line"/>
-      <point x="588" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="237" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="35" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="204" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="249" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="240" y="820" type="line"/>
-      <point x="633" y="820" type="line"/>
-      <point x="559" y="900" type="line"/>
-      <point x="314" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="760" type="line"/>
-      <point x="342" y="760" type="line"/>
-      <point x="399" y="820" type="line"/>
-      <point x="240" y="820" type="line"/>
-      <point x="186" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="531" y="760" type="line"/>
-      <point x="687" y="760" type="line"/>
-      <point x="687" y="761" type="line"/>
-      <point x="633" y="820" type="line"/>
-      <point x="474" y="820" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="breveinvertedcomb.case" xOffset="127"/>
   </outline>
 </glyph>

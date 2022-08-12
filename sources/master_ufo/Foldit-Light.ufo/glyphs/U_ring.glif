@@ -2,57 +2,31 @@
 <glyph name="Uring" format="2">
   <advance width="367"/>
   <unicode hex="016E"/>
-  <anchor x="184" y="0" name="bottom"/>
-  <anchor x="299" y="705" name="horn"/>
-  <anchor x="192" y="706" name="top"/>
   <outline>
-    <contour>
-      <point x="261" y="0" type="line"/>
-      <point x="262" y="0" type="line"/>
-      <point x="317" y="54" type="line"/>
-      <point x="317" y="705" type="line"/>
-      <point x="261" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="261" y="0" type="line"/>
-      <point x="261" y="54" type="line"/>
-      <point x="50" y="54" type="line"/>
-      <point x="50" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="54" type="line"/>
-      <point x="106" y="54" type="line"/>
-      <point x="106" y="705" type="line"/>
-      <point x="50" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="212" y="750" type="line"/>
-      <point x="213" y="750" type="line"/>
-      <point x="247" y="775" type="line"/>
-      <point x="247" y="841" type="line"/>
-      <point x="212" y="841" type="line"/>
-    </contour>
-    <contour>
-      <point x="153" y="750" type="line"/>
-      <point x="212" y="750" type="line"/>
-      <point x="212" y="782" type="line"/>
-      <point x="128" y="782" type="line"/>
-      <point x="128" y="781" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="782" type="line"/>
-      <point x="162" y="782" type="line"/>
-      <point x="162" y="873" type="line"/>
-      <point x="161" y="873" type="line"/>
-      <point x="128" y="848" type="line"/>
-    </contour>
-    <contour>
-      <point x="162" y="841" type="line"/>
-      <point x="247" y="841" type="line"/>
-      <point x="247" y="842" type="line"/>
-      <point x="222" y="873" type="line"/>
-      <point x="162" y="873" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="ringcomb.case" xOffset="-123" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

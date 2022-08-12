@@ -2,42 +2,8 @@
 <glyph name="Tcaron" format="2">
   <advance width="846"/>
   <unicode hex="0164"/>
-  <anchor x="413" y="0" name="bottom"/>
-  <anchor x="433" y="365" name="stroke"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="305" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="520" y="730" type="line"/>
-      <point x="468" y="730" type="line"/>
-      <point x="306" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="526" type="line"/>
-      <point x="306" y="526" type="line"/>
-      <point x="468" y="730" type="line"/>
-      <point x="25" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="520" y="526" type="line"/>
-      <point x="821" y="526" type="line"/>
-      <point x="821" y="730" type="line"/>
-      <point x="520" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="362" y="760" type="line"/>
-      <point x="495" y="793" type="line"/>
-      <point x="361" y="900" type="line"/>
-      <point x="204" y="900" type="line"/>
-      <point x="204" y="899" type="line"/>
-    </contour>
-    <contour>
-      <point x="362" y="760" type="line"/>
-      <point x="516" y="760" type="line"/>
-      <point x="670" y="899" type="line"/>
-      <point x="670" y="900" type="line"/>
-      <point x="516" y="900" type="line"/>
-    </contour>
+    <component base="T"/>
+    <component base="caroncomb.case" xOffset="121"/>
   </outline>
 </glyph>

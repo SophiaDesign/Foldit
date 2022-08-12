@@ -2,65 +2,31 @@
 <glyph name="ecircumflexacute" format="2">
   <advance width="517"/>
   <unicode hex="1EBF"/>
-  <anchor x="266" y="0" name="bottom"/>
-  <anchor x="271" y="515" name="top"/>
   <outline>
-    <contour>
-      <point x="112" y="0" type="line"/>
-      <point x="415" y="0" type="line"/>
-      <point x="480" y="111" type="line"/>
-      <point x="480" y="112" type="line"/>
-      <point x="47" y="112" type="line"/>
-      <point x="47" y="111" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="112" type="line"/>
-      <point x="167" y="112" type="line"/>
-      <point x="167" y="515" type="line"/>
-      <point x="166" y="515" type="line"/>
-      <point x="47" y="450" type="line"/>
-    </contour>
-    <contour>
-      <point x="167" y="211" type="line"/>
-      <point x="360" y="211" type="line"/>
-      <point x="360" y="279" type="line"/>
-      <point x="167" y="279" type="line"/>
-    </contour>
-    <contour>
-      <point x="167" y="413" type="line"/>
-      <point x="480" y="413" type="line"/>
-      <point x="480" y="414" type="line"/>
-      <point x="415" y="515" type="line"/>
-      <point x="167" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="211" type="line"/>
-      <point x="361" y="211" type="line"/>
-      <point x="480" y="276" type="line"/>
-      <point x="480" y="413" type="line"/>
-      <point x="360" y="413" type="line"/>
-    </contour>
-    <contour>
-      <point x="314" y="559" type="line"/>
-      <point x="419" y="559" type="line"/>
-      <point x="419" y="560" type="line"/>
-      <point x="319" y="669" type="line"/>
-      <point x="293" y="669" type="line"/>
-      <point x="231" y="653" type="line"/>
-    </contour>
-    <contour>
-      <point x="110" y="559" type="line"/>
-      <point x="209" y="559" type="line"/>
-      <point x="319" y="669" type="line"/>
-      <point x="216" y="669" type="line"/>
-      <point x="110" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="225" y="702" type="line"/>
-      <point x="285" y="702" type="line"/>
-      <point x="364" y="835" type="line"/>
-      <point x="364" y="836" type="line"/>
-      <point x="265" y="836" type="line"/>
-    </contour>
+    <component base="e"/>
+    <component base="circumflexcomb_acutecomb" xOffset="-38"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

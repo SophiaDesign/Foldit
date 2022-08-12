@@ -2,49 +2,31 @@
 <glyph name="Ubreve" format="2">
   <advance width="602"/>
   <unicode hex="016C"/>
-  <anchor x="314" y="0" name="bottom"/>
-  <anchor x="555" y="718" name="horn"/>
-  <anchor x="314" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="425" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="560" y="131" type="line"/>
-      <point x="560" y="718" type="line"/>
-      <point x="425" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="425" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-      <point x="43" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="129" type="line"/>
-      <point x="178" y="129" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="43" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="225" y="770" type="line"/>
-      <point x="392" y="770" type="line"/>
-      <point x="454" y="838" type="line"/>
-      <point x="163" y="838" type="line"/>
-    </contour>
-    <contour>
-      <point x="163" y="838" type="line"/>
-      <point x="280" y="838" type="line"/>
-      <point x="246" y="876" type="line"/>
-      <point x="130" y="876" type="line"/>
-      <point x="130" y="875" type="line"/>
-    </contour>
-    <contour>
-      <point x="337" y="838" type="line"/>
-      <point x="454" y="838" type="line"/>
-      <point x="487" y="875" type="line"/>
-      <point x="487" y="876" type="line"/>
-      <point x="371" y="876" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="brevecomb.case" xOffset="-1" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

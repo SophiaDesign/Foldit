@@ -2,8 +2,6 @@
 <glyph name="euro" format="2">
   <advance width="432"/>
   <unicode hex="20AC"/>
-  <anchor x="254" y="0" name="bottom"/>
-  <anchor x="245" y="705" name="top"/>
   <outline>
     <contour>
       <point x="71" y="415" type="line"/>
@@ -21,27 +19,21 @@
       <point x="48" y="350" type="line"/>
       <point x="48" y="349" type="line"/>
     </contour>
-    <contour>
-      <point x="158" y="0" type="line"/>
-      <point x="325" y="0" type="line"/>
-      <point x="377" y="53" type="line"/>
-      <point x="377" y="54" type="line"/>
-      <point x="105" y="54" type="line"/>
-      <point x="105" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="54" type="line"/>
-      <point x="161" y="54" type="line"/>
-      <point x="161" y="705" type="line"/>
-      <point x="160" y="705" type="line"/>
-      <point x="105" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="651" type="line"/>
-      <point x="377" y="651" type="line"/>
-      <point x="377" y="652" type="line"/>
-      <point x="325" y="705" type="line"/>
-      <point x="161" y="705" type="line"/>
-    </contour>
+    <component base="C" xOffset="57"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>C</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

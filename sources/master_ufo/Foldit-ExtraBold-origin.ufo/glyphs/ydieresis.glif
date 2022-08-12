@@ -2,49 +2,9 @@
 <glyph name="ydieresis" format="2">
   <advance width="779"/>
   <unicode hex="00FF"/>
-  <anchor x="402" y="-200" name="bottom"/>
-  <anchor x="422" y="750" name="top"/>
   <outline>
-    <contour>
-      <point x="530" y="-206" type="line"/>
-      <point x="531" y="-206" type="line"/>
-      <point x="744" y="-104" type="line"/>
-      <point x="744" y="530" type="line"/>
-      <point x="530" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="-206" type="line"/>
-      <point x="530" y="-206" type="line"/>
-      <point x="530" y="-26" type="line"/>
-      <point x="35" y="-26" type="line"/>
-      <point x="35" y="-27" type="line"/>
-    </contour>
-    <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="529" y="0" type="line"/>
-      <point x="529" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="35" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="204" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="249" y="536" type="line"/>
-      <point x="248" y="536" type="line"/>
-      <point x="35" y="489" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="640" type="line"/>
-      <point x="624" y="640" type="line"/>
-      <point x="624" y="772" type="line"/>
-      <point x="448" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="200" y="640" type="line"/>
-      <point x="376" y="640" type="line"/>
-      <point x="376" y="772" type="line"/>
-      <point x="200" y="772" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="118"/>
   </outline>
   <lib>
     <dict>

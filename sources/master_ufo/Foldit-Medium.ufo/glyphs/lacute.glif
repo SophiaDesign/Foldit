@@ -2,28 +2,31 @@
 <glyph name="lacute" format="2">
   <advance width="321"/>
   <unicode hex="013A"/>
-  <anchor x="176" y="0" name="bottom"/>
-  <anchor x="112" y="763" name="top"/>
   <outline>
-    <contour>
-      <point x="160" y="0" type="line"/>
-      <point x="161" y="0" type="line"/>
-      <point x="161" y="763" type="line"/>
-      <point x="43" y="763" type="line"/>
-      <point x="43" y="65" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-    </contour>
-    <contour>
-      <point x="60" y="795" type="line"/>
-      <point x="135" y="795" type="line"/>
-      <point x="206" y="925" type="line"/>
-      <point x="206" y="926" type="line"/>
-      <point x="88" y="926" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="acutecomb.case" xOffset="-182" yOffset="48"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

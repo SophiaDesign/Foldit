@@ -2,11 +2,21 @@
 <glyph name="periodcentered.loclCAT" format="2">
   <advance width="40.33333"/>
   <outline>
-    <contour>
-      <point x="-65" y="329" type="line"/>
-      <point x="0" y="329" type="line"/>
-      <point x="0" y="383" type="line"/>
-      <point x="-65" y="383" type="line"/>
-    </contour>
+    <component base="periodcentered" xOffset="-98" yOffset="26"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>periodcentered</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

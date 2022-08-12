@@ -2,61 +2,9 @@
 <glyph name="abrevedotbelow" format="2">
   <advance width="827"/>
   <unicode hex="1EB7"/>
-  <anchor x="441" y="0" name="bottom"/>
-  <anchor x="452" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="249" y="326" type="line"/>
-      <point x="792" y="326" type="line"/>
-      <point x="792" y="327" type="line"/>
-      <point x="685" y="530" type="line"/>
-      <point x="249" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="578" y="0" type="line"/>
-      <point x="578" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="35" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="204" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="249" y="530" type="line"/>
-      <point x="248" y="530" type="line"/>
-      <point x="35" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="578" y="0" type="line"/>
-      <point x="792" y="0" type="line"/>
-      <point x="792" y="326" type="line"/>
-      <point x="578" y="326" type="line"/>
-    </contour>
-    <contour>
-      <point x="342" y="-200" type="line"/>
-      <point x="546" y="-200" type="line"/>
-      <point x="546" y="-38" type="line"/>
-      <point x="342" y="-38" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="720" type="line"/>
-      <point x="626" y="720" type="line"/>
-      <point x="663" y="779" type="line"/>
-      <point x="663" y="780" type="line"/>
-      <point x="527" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="229" y="720" type="line"/>
-      <point x="375" y="720" type="line"/>
-      <point x="338" y="780" type="line"/>
-      <point x="192" y="780" type="line"/>
-      <point x="192" y="778" type="line"/>
-    </contour>
-    <contour>
-      <point x="300" y="598" type="line"/>
-      <point x="555" y="598" type="line"/>
-      <point x="626" y="720" type="line"/>
-      <point x="229" y="720" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="132"/>
+    <component base="brevecomb" xOffset="133"/>
   </outline>
 </glyph>

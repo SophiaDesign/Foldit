@@ -2,29 +2,22 @@
 <glyph name="tilde" format="2">
   <advance width="600"/>
   <unicode hex="02DC"/>
-  <anchor x="300" y="523" name="_top"/>
   <outline>
-    <contour>
-      <point x="132" y="604" type="line"/>
-      <point x="227" y="604" type="line"/>
-      <point x="227" y="693" type="line"/>
-      <point x="132" y="707" type="line"/>
-    </contour>
-    <contour>
-      <point x="361" y="635" type="line"/>
-      <point x="455" y="627" type="line"/>
-      <point x="455" y="730" type="line"/>
-      <point x="361" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="353" y="595" type="line"/>
-      <point x="354" y="595" type="line"/>
-      <point x="455" y="626" type="line"/>
-      <point x="455" y="627" type="line"/>
-      <point x="235" y="740" type="line"/>
-      <point x="234" y="740" type="line"/>
-      <point x="132" y="708" type="line"/>
-      <point x="132" y="707" type="line"/>
-    </contour>
+    <component base="tildecomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

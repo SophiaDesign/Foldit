@@ -3,23 +3,6 @@
   <advance width="154"/>
   <unicode hex="2022"/>
   <outline>
-    <contour>
-      <point x="43" y="275" type="line"/>
-      <point x="77" y="275" type="line"/>
-      <point x="77" y="363" type="line"/>
-      <point x="43" y="363" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="275" type="line"/>
-      <point x="111" y="275" type="line"/>
-      <point x="111" y="319" type="line"/>
-      <point x="77" y="319" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="319" type="line"/>
-      <point x="111" y="319" type="line"/>
-      <point x="111" y="363" type="line"/>
-      <point x="77" y="363" type="line"/>
-    </contour>
+    <component base="bulletoperator"/>
   </outline>
 </glyph>

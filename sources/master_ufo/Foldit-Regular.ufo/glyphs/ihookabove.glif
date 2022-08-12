@@ -2,8 +2,6 @@
 <glyph name="ihookabove" format="2">
   <advance width="181.33333"/>
   <unicode hex="1EC9"/>
-  <anchor x="93" y="0" name="bottom"/>
-  <anchor x="95" y="510" name="top"/>
   <outline>
     <contour>
       <point x="62" y="584" type="line"/>
@@ -14,18 +12,27 @@
       <point x="89" y="676" type="line"/>
     </contour>
     <contour>
-      <point x="51" y="0" type="line"/>
-      <point x="137" y="0" type="line"/>
-      <point x="137" y="503" type="line"/>
-      <point x="136" y="512" type="line"/>
-      <point x="51" y="496" type="line"/>
-    </contour>
-    <contour>
       <point x="25" y="684" type="line"/>
       <point x="159" y="684" type="line"/>
       <point x="159" y="685" type="line"/>
       <point x="115" y="738" type="line"/>
       <point x="25" y="738" type="line"/>
     </contour>
+    <component base="idotless"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

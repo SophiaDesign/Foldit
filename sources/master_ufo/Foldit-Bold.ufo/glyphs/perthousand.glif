@@ -11,70 +11,6 @@
       <point x="1538" y="402" type="line"/>
     </contour>
     <contour>
-      <point x="346" y="0" type="line"/>
-      <point x="527" y="0" type="line"/>
-      <point x="1034" y="722" type="line"/>
-      <point x="1034" y="723" type="line"/>
-      <point x="853" y="723" type="line"/>
-      <point x="346" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="118" y="305" type="line"/>
-      <point x="413" y="305" type="line"/>
-      <point x="413" y="464" type="line"/>
-      <point x="32" y="464" type="line"/>
-      <point x="32" y="463" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="464" type="line"/>
-      <point x="199" y="464" type="line"/>
-      <point x="199" y="703" type="line"/>
-      <point x="198" y="703" type="line"/>
-      <point x="32" y="617" type="line"/>
-    </contour>
-    <contour>
-      <point x="413" y="305" type="line"/>
-      <point x="414" y="305" type="line"/>
-      <point x="579" y="391" type="line"/>
-      <point x="579" y="544" type="line"/>
-      <point x="413" y="544" type="line"/>
-    </contour>
-    <contour>
-      <point x="199" y="544" type="line"/>
-      <point x="579" y="544" type="line"/>
-      <point x="579" y="545" type="line"/>
-      <point x="493" y="703" type="line"/>
-      <point x="199" y="703" type="line"/>
-    </contour>
-    <contour>
-      <point x="872" y="5" type="line"/>
-      <point x="1167" y="5" type="line"/>
-      <point x="1167" y="164" type="line"/>
-      <point x="786" y="164" type="line"/>
-      <point x="786" y="163" type="line"/>
-    </contour>
-    <contour>
-      <point x="786" y="164" type="line"/>
-      <point x="952" y="164" type="line"/>
-      <point x="952" y="402" type="line"/>
-      <point x="951" y="402" type="line"/>
-      <point x="786" y="316" type="line"/>
-    </contour>
-    <contour>
-      <point x="1167" y="5" type="line"/>
-      <point x="1168" y="5" type="line"/>
-      <point x="1333" y="91" type="line"/>
-      <point x="1333" y="243" type="line"/>
-      <point x="1167" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="952" y="243" type="line"/>
-      <point x="1333" y="243" type="line"/>
-      <point x="1333" y="244" type="line"/>
-      <point x="1247" y="402" type="line"/>
-      <point x="952" y="402" type="line"/>
-    </contour>
-    <contour>
       <point x="1458" y="5" type="line"/>
       <point x="1753" y="5" type="line"/>
       <point x="1753" y="164" type="line"/>
@@ -95,5 +31,21 @@
       <point x="1919" y="243" type="line"/>
       <point x="1753" y="243" type="line"/>
     </contour>
+    <component base="percent"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>percent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,43 +2,9 @@
 <glyph name="iogonek" format="2">
   <advance width="130"/>
   <unicode hex="012F"/>
-  <anchor x="65" y="0" name="bottom"/>
-  <anchor x="63" y="590" name="top"/>
   <outline>
-    <contour>
-      <point x="53" y="0" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="77" y="503" type="line"/>
-      <point x="76" y="503" type="line"/>
-      <point x="53" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="601" type="line"/>
-      <point x="78" y="601" type="line"/>
-      <point x="78" y="635" type="line"/>
-      <point x="48" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="-34" type="line"/>
-      <point x="53" y="-34" type="line"/>
-      <point x="77" y="-1" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="53" y="0" type="line"/>
-      <point x="32" y="-33" type="line"/>
-    </contour>
-    <contour>
-      <point x="52" y="-79" type="line"/>
-      <point x="53" y="-79" type="line"/>
-      <point x="53" y="-34" type="line"/>
-      <point x="32" y="-34" type="line"/>
-      <point x="32" y="-61" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="-80" type="line"/>
-      <point x="78" y="-80" type="line"/>
-      <point x="96" y="-62" type="line"/>
-      <point x="96" y="-61" type="line"/>
-      <point x="53" y="-61" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="-246"/>
+    <component base="ogonekcomb" xOffset="-260"/>
   </outline>
 </glyph>

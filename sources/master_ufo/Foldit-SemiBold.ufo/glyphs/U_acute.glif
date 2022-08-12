@@ -2,36 +2,31 @@
 <glyph name="Uacute" format="2">
   <advance width="602"/>
   <unicode hex="00DA"/>
-  <anchor x="314" y="0" name="bottom"/>
-  <anchor x="555" y="718" name="horn"/>
-  <anchor x="314" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="425" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="560" y="131" type="line"/>
-      <point x="560" y="718" type="line"/>
-      <point x="425" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="425" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-      <point x="43" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="129" type="line"/>
-      <point x="178" y="129" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="43" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="258" y="750" type="line"/>
-      <point x="341" y="750" type="line"/>
-      <point x="420" y="882" type="line"/>
-      <point x="420" y="883" type="line"/>
-      <point x="287" y="883" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="acutecomb.case" xOffset="25" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

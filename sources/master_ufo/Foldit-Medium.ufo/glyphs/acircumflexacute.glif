@@ -2,57 +2,31 @@
 <glyph name="acircumflexacute" format="2">
   <advance width="512"/>
   <unicode hex="1EA5"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="277" y="515" name="top"/>
   <outline>
-    <contour>
-      <point x="161" y="401" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="470" y="402" type="line"/>
-      <point x="405" y="515" type="line"/>
-      <point x="161" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="351" y="114" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="43" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-      <point x="161" y="515" type="line"/>
-      <point x="160" y="515" type="line"/>
-      <point x="43" y="450" type="line"/>
-    </contour>
-    <contour>
-      <point x="351" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="470" y="401" type="line"/>
-      <point x="351" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="320" y="559" type="line"/>
-      <point x="425" y="559" type="line"/>
-      <point x="425" y="560" type="line"/>
-      <point x="325" y="669" type="line"/>
-      <point x="299" y="669" type="line"/>
-      <point x="237" y="653" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="559" type="line"/>
-      <point x="215" y="559" type="line"/>
-      <point x="325" y="669" type="line"/>
-      <point x="222" y="669" type="line"/>
-      <point x="116" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="702" type="line"/>
-      <point x="291" y="702" type="line"/>
-      <point x="370" y="835" type="line"/>
-      <point x="370" y="836" type="line"/>
-      <point x="271" y="836" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="circumflexcomb_acutecomb" xOffset="-32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb_acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

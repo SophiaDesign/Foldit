@@ -2,60 +2,31 @@
 <glyph name="Ibreve" format="2">
   <advance width="549.25"/>
   <unicode hex="012C"/>
-  <anchor x="283" y="0" name="bottom"/>
-  <anchor x="285" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="377" y="159" type="line"/>
-      <point x="377" y="723" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="209" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="209" y="159" type="line"/>
-      <point x="24" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="0" type="line"/>
-      <point x="526" y="0" type="line"/>
-      <point x="526" y="159" type="line"/>
-      <point x="377" y="159" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="564" type="line"/>
-      <point x="209" y="564" type="line"/>
-      <point x="337" y="723" type="line"/>
-      <point x="24" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="377" y="564" type="line"/>
-      <point x="525" y="564" type="line"/>
-      <point x="525" y="723" type="line"/>
-      <point x="377" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="765" type="line"/>
-      <point x="377" y="765" type="line"/>
-      <point x="451" y="846" type="line"/>
-      <point x="104" y="846" type="line"/>
-    </contour>
-    <contour>
-      <point x="104" y="846" type="line"/>
-      <point x="245" y="846" type="line"/>
-      <point x="210" y="885" type="line"/>
-      <point x="70" y="885" type="line"/>
-      <point x="70" y="884" type="line"/>
-    </contour>
-    <contour>
-      <point x="310" y="846" type="line"/>
-      <point x="451" y="846" type="line"/>
-      <point x="485" y="884" type="line"/>
-      <point x="485" y="885" type="line"/>
-      <point x="345" y="885" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="brevecomb.case" xOffset="-32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

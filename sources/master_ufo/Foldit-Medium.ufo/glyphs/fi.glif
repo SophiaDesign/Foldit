@@ -2,7 +2,6 @@
 <glyph name="fi" format="2">
   <advance width="607"/>
   <unicode hex="FB01"/>
-  <anchor x="500" y="0" name="bottom_1"/>
   <outline>
     <contour>
       <point x="161" y="263" type="line"/>
@@ -31,23 +30,21 @@
       <point x="356" y="702" type="line"/>
       <point x="161" y="702" type="line"/>
     </contour>
-    <contour>
-      <point x="440" y="0" type="line"/>
-      <point x="560" y="0" type="line"/>
-      <point x="560" y="503" type="line"/>
-      <point x="559" y="503" type="line"/>
-      <point x="440" y="437" type="line"/>
-    </contour>
-    <contour>
-      <point x="440" y="506" type="line"/>
-      <point x="441" y="506" type="line"/>
-      <point x="560" y="571" type="line"/>
-      <point x="560" y="648" type="line"/>
-      <point x="440" y="648" type="line"/>
-    </contour>
+    <component base="i" xOffset="393"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

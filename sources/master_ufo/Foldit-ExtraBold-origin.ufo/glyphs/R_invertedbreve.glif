@@ -2,61 +2,8 @@
 <glyph name="Rinvertedbreve" format="2">
   <advance width="846"/>
   <unicode hex="0212"/>
-  <anchor x="414" y="0" name="bottom"/>
-  <anchor x="416" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="249" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="550" y="0" type="line"/>
-      <point x="821" y="0" type="line"/>
-      <point x="821" y="1" type="line"/>
-      <point x="619" y="329" type="line"/>
-      <point x="439" y="211" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="193" type="line"/>
-      <point x="588" y="193" type="line"/>
-      <point x="588" y="397" type="line"/>
-      <point x="249" y="397" type="line"/>
-    </contour>
-    <contour>
-      <point x="588" y="193" type="line"/>
-      <point x="589" y="193" type="line"/>
-      <point x="802" y="370" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="588" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="526" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="802" y="527" type="line"/>
-      <point x="600" y="730" type="line"/>
-      <point x="249" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="220" y="820" type="line"/>
-      <point x="613" y="820" type="line"/>
-      <point x="539" y="900" type="line"/>
-      <point x="294" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="166" y="760" type="line"/>
-      <point x="322" y="760" type="line"/>
-      <point x="379" y="820" type="line"/>
-      <point x="220" y="820" type="line"/>
-      <point x="166" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="760" type="line"/>
-      <point x="667" y="760" type="line"/>
-      <point x="667" y="761" type="line"/>
-      <point x="613" y="820" type="line"/>
-      <point x="454" y="820" type="line"/>
-    </contour>
+    <component base="R"/>
+    <component base="breveinvertedcomb.case" xOffset="107"/>
   </outline>
 </glyph>

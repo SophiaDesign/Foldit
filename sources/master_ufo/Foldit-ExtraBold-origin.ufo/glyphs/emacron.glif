@@ -2,49 +2,8 @@
 <glyph name="emacron" format="2">
   <advance width="837"/>
   <unicode hex="0113"/>
-  <anchor x="431" y="0" name="bottom"/>
-  <anchor x="442" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="152" y="0" type="line"/>
-      <point x="705" y="0" type="line"/>
-      <point x="812" y="199" type="line"/>
-      <point x="812" y="200" type="line"/>
-      <point x="45" y="200" type="line"/>
-      <point x="45" y="199" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="200" type="line"/>
-      <point x="259" y="200" type="line"/>
-      <point x="259" y="530" type="line"/>
-      <point x="258" y="530" type="line"/>
-      <point x="45" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="259" y="220" type="line"/>
-      <point x="598" y="221" type="line"/>
-      <point x="598" y="331" type="line"/>
-      <point x="259" y="331" type="line"/>
-    </contour>
-    <contour>
-      <point x="259" y="351" type="line"/>
-      <point x="812" y="351" type="line"/>
-      <point x="812" y="352" type="line"/>
-      <point x="705" y="530" type="line"/>
-      <point x="259" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="598" y="221" type="line"/>
-      <point x="599" y="221" type="line"/>
-      <point x="812" y="328" type="line"/>
-      <point x="812" y="351" type="line"/>
-      <point x="598" y="351" type="line"/>
-    </contour>
-    <contour>
-      <point x="214" y="628" type="line"/>
-      <point x="640" y="628" type="line"/>
-      <point x="640" y="740" type="line"/>
-      <point x="214" y="740" type="line"/>
-    </contour>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="133"/>
   </outline>
 </glyph>

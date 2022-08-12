@@ -2,62 +2,8 @@
 <glyph name="Iogonek" format="2">
   <advance width="657"/>
   <unicode hex="012E"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="341" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="246" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="460" y="204" type="line"/>
-      <point x="460" y="730" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="246" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="246" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="632" y="204" type="line"/>
-      <point x="460" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="526" type="line"/>
-      <point x="246" y="526" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="25" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="460" y="526" type="line"/>
-      <point x="631" y="526" type="line"/>
-      <point x="631" y="730" type="line"/>
-      <point x="460" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="216" y="-86" type="line"/>
-      <point x="364" y="-86" type="line"/>
-      <point x="448" y="-1" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="216" y="-85" type="line"/>
-    </contour>
-    <contour>
-      <point x="363" y="-230" type="line"/>
-      <point x="364" y="-230" type="line"/>
-      <point x="364" y="-86" type="line"/>
-      <point x="216" y="-86" type="line"/>
-      <point x="216" y="-174" type="line"/>
-    </contour>
-    <contour>
-      <point x="364" y="-230" type="line"/>
-      <point x="472" y="-230" type="line"/>
-      <point x="532" y="-129" type="line"/>
-      <point x="532" y="-128" type="line"/>
-      <point x="364" y="-128" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="ogonekcomb" xOffset="64"/>
   </outline>
 </glyph>

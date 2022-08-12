@@ -2,21 +2,12 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="367"/>
   <unicode hex="020B"/>
-  <anchor x="192" y="0" name="bottom"/>
-  <anchor x="200" y="530" name="top"/>
   <outline>
     <contour>
       <point x="25" y="678" type="line"/>
       <point x="342" y="678" type="line"/>
       <point x="281" y="780" type="line"/>
       <point x="86" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="86" y="0" type="line"/>
-      <point x="300" y="0" type="line"/>
-      <point x="300" y="503" type="line"/>
-      <point x="299" y="530" type="line"/>
-      <point x="86" y="530" type="line"/>
     </contour>
     <contour>
       <point x="-22" y="598" type="line"/>
@@ -32,5 +23,6 @@
       <point x="342" y="678" type="line"/>
       <point x="216" y="678" type="line"/>
     </contour>
+    <component base="idotless" xOffset="41"/>
   </outline>
 </glyph>

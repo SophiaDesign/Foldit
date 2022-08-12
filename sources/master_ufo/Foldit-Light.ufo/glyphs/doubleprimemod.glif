@@ -3,19 +3,30 @@
   <advance width="279.33333"/>
   <unicode hex="02BA"/>
   <outline>
-    <contour>
-      <point x="53" y="553" type="line"/>
-      <point x="92" y="553" type="line"/>
-      <point x="138" y="704" type="line"/>
-      <point x="138" y="705" type="line"/>
-      <point x="77" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="142" y="553" type="line"/>
-      <point x="181" y="553" type="line"/>
-      <point x="227" y="704" type="line"/>
-      <point x="227" y="705" type="line"/>
-      <point x="166" y="705" type="line"/>
-    </contour>
+    <component base="primemod"/>
+    <component base="primemod" xOffset="89"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>primemod</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>primemod</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,27 +2,23 @@
 <glyph name="ldot" format="2">
   <advance width="182"/>
   <unicode hex="0140"/>
-  <anchor x="92" y="0" name="bottom"/>
-  <anchor x="74" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="74" y="730" type="line"/>
-      <point x="50" y="730" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="0" type="line"/>
-      <point x="136" y="0" type="line"/>
-      <point x="136" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="329" type="line"/>
-      <point x="128" y="329" type="line"/>
-      <point x="128" y="353" type="line"/>
-      <point x="97" y="353" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="periodcentered" xOffset="64"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

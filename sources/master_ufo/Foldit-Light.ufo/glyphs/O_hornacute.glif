@@ -2,58 +2,31 @@
 <glyph name="Ohornacute" format="2">
   <advance width="381.66667"/>
   <unicode hex="1EDA"/>
-  <anchor x="187" y="0" name="bottom"/>
-  <anchor x="278" y="705" name="horn"/>
-  <anchor x="188" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="104" y="651" type="line"/>
-      <point x="317" y="651" type="line"/>
-      <point x="317" y="652" type="line"/>
-      <point x="271" y="705" type="line"/>
-      <point x="104" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="101" y="0" type="line"/>
-      <point x="261" y="0" type="line"/>
-      <point x="261" y="54" type="line"/>
-      <point x="48" y="54" type="line"/>
-      <point x="48" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="54" type="line"/>
-      <point x="104" y="54" type="line"/>
-      <point x="104" y="705" type="line"/>
-      <point x="103" y="705" type="line"/>
-      <point x="48" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="261" y="0" type="line"/>
-      <point x="262" y="0" type="line"/>
-      <point x="317" y="54" type="line"/>
-      <point x="317" y="651" type="line"/>
-      <point x="261" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="316" y="659" type="line"/>
-      <point x="317" y="659" type="line"/>
-      <point x="365" y="696" type="line"/>
-      <point x="365" y="782" type="line"/>
-      <point x="316" y="782" type="line"/>
-    </contour>
-    <contour>
-      <point x="297" y="659" type="line"/>
-      <point x="316" y="659" type="line"/>
-      <point x="316" y="705" type="line"/>
-      <point x="248" y="705" type="line"/>
-      <point x="248" y="704" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="739" type="line"/>
-      <point x="198" y="739" type="line"/>
-      <point x="240" y="862" type="line"/>
-      <point x="240" y="863" type="line"/>
-      <point x="180" y="863" type="line"/>
-    </contour>
+    <component base="Ohorn"/>
+    <component base="acutecomb.case" xOffset="-122"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ohorn</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

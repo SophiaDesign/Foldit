@@ -2,21 +2,12 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="268.25"/>
   <unicode hex="020B"/>
-  <anchor x="139" y="0" name="bottom"/>
-  <anchor x="143" y="518" name="top"/>
   <outline>
     <contour>
       <point x="26" y="662" type="line"/>
       <point x="241" y="662" type="line"/>
       <point x="200" y="732" type="line"/>
       <point x="65" y="732" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="207" y="0" type="line"/>
-      <point x="207" y="503" type="line"/>
-      <point x="206" y="519" type="line"/>
-      <point x="73" y="509" type="line"/>
     </contour>
     <contour>
       <point x="-10" y="595" type="line"/>
@@ -32,5 +23,21 @@
       <point x="241" y="662" type="line"/>
       <point x="158" y="662" type="line"/>
     </contour>
+    <component base="idotless" xOffset="24"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

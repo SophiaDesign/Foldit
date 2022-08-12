@@ -2,8 +2,6 @@
 <glyph name="Lslash" format="2">
   <advance width="743.25"/>
   <unicode hex="0141"/>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="234" y="723" name="top"/>
   <outline>
     <contour>
       <point x="71" y="278" type="line"/>
@@ -13,18 +11,21 @@
       <point x="11" y="388" type="line"/>
       <point x="11" y="387" type="line"/>
     </contour>
-    <contour>
-      <point x="283" y="0" type="line"/>
-      <point x="696" y="0" type="line"/>
-      <point x="696" y="159" type="line"/>
-      <point x="126" y="159" type="line"/>
-      <point x="126" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="159" type="line"/>
-      <point x="292" y="159" type="line"/>
-      <point x="292" y="723" type="line"/>
-      <point x="126" y="723" type="line"/>
-    </contour>
+    <component base="L" xOffset="86"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,14 +2,7 @@
 <glyph name="acute" format="2">
   <advance width="600"/>
   <unicode hex="00B4"/>
-  <anchor x="259" y="530" name="_top"/>
   <outline>
-    <contour>
-      <point x="186" y="590" type="line"/>
-      <point x="292" y="590" type="line"/>
-      <point x="397" y="819" type="line"/>
-      <point x="397" y="820" type="line"/>
-      <point x="221" y="820" type="line"/>
-    </contour>
+    <component base="acutecomb"/>
   </outline>
 </glyph>

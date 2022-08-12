@@ -2,8 +2,6 @@
 <glyph name="cent" format="2">
   <advance width="626"/>
   <unicode hex="00A2"/>
-  <anchor x="329" y="0" name="bottom"/>
-  <anchor x="341" y="523" name="top"/>
   <outline>
     <contour>
       <point x="273" y="479" type="line"/>
@@ -19,27 +17,21 @@
       <point x="439" y="30" type="line"/>
       <point x="273" y="30" type="line"/>
     </contour>
-    <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="505" y="0" type="line"/>
-      <point x="591" y="158" type="line"/>
-      <point x="591" y="159" type="line"/>
-      <point x="38" y="159" type="line"/>
-      <point x="38" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="38" y="159" type="line"/>
-      <point x="205" y="159" type="line"/>
-      <point x="205" y="523" type="line"/>
-      <point x="204" y="523" type="line"/>
-      <point x="38" y="437" type="line"/>
-    </contour>
-    <contour>
-      <point x="205" y="364" type="line"/>
-      <point x="593" y="364" type="line"/>
-      <point x="593" y="365" type="line"/>
-      <point x="507" y="523" type="line"/>
-      <point x="205" y="523" type="line"/>
-    </contour>
+    <component base="c" xOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

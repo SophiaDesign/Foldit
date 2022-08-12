@@ -3,23 +3,39 @@
   <advance width="559.5"/>
   <unicode hex="2026"/>
   <outline>
-    <contour>
-      <point x="214" y="0" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="346" y="114" type="line"/>
-      <point x="214" y="114" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="0" type="line"/>
-      <point x="527" y="0" type="line"/>
-      <point x="527" y="114" type="line"/>
-      <point x="395" y="114" type="line"/>
-    </contour>
-    <contour>
-      <point x="34" y="0" type="line"/>
-      <point x="166" y="0" type="line"/>
-      <point x="166" y="114" type="line"/>
-      <point x="34" y="114" type="line"/>
-    </contour>
+    <component base="period" xOffset="180"/>
+    <component base="period" xOffset="361"/>
+    <component base="period"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

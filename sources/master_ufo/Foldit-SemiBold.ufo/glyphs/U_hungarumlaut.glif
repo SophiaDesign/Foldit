@@ -2,43 +2,31 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="602"/>
   <unicode hex="0170"/>
-  <anchor x="314" y="0" name="bottom"/>
-  <anchor x="555" y="718" name="horn"/>
-  <anchor x="314" y="718" name="top"/>
   <outline>
-    <contour>
-      <point x="425" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="560" y="131" type="line"/>
-      <point x="560" y="718" type="line"/>
-      <point x="425" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="425" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-      <point x="43" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="129" type="line"/>
-      <point x="178" y="129" type="line"/>
-      <point x="178" y="718" type="line"/>
-      <point x="43" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="332" y="765" type="line"/>
-      <point x="415" y="765" type="line"/>
-      <point x="495" y="884" type="line"/>
-      <point x="495" y="885" type="line"/>
-      <point x="363" y="885" type="line"/>
-    </contour>
-    <contour>
-      <point x="174" y="765" type="line"/>
-      <point x="258" y="765" type="line"/>
-      <point x="338" y="884" type="line"/>
-      <point x="338" y="885" type="line"/>
-      <point x="204" y="885" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="hungarumlautcomb.case" xOffset="19" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hungarumlautcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

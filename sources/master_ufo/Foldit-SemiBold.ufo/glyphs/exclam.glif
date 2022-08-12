@@ -10,15 +10,21 @@
       <point x="182" y="723" type="line"/>
       <point x="49" y="651" type="line"/>
     </contour>
-    <contour>
-      <point x="43" y="0" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="192" y="129" type="line"/>
-      <point x="43" y="129" type="line"/>
-    </contour>
+    <component base="period" xOffset="9"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

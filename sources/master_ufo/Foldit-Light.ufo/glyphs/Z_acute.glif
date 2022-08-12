@@ -2,33 +2,31 @@
 <glyph name="Zacute" format="2">
   <advance width="315.83333"/>
   <unicode hex="0179"/>
-  <anchor x="163" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="33" y="651" type="line"/>
-      <point x="232" y="651" type="line"/>
-      <point x="239" y="705" type="line"/>
-      <point x="33" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="87" y="38" type="line"/>
-      <point x="282" y="650" type="line"/>
-      <point x="239" y="705" type="line"/>
-      <point x="34" y="55" type="line"/>
-      <point x="34" y="54" type="line"/>
-    </contour>
-    <contour>
-      <point x="54" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="283" y="54" type="line"/>
-      <point x="34" y="54" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="739" type="line"/>
-      <point x="174" y="739" type="line"/>
-      <point x="216" y="862" type="line"/>
-      <point x="216" y="863" type="line"/>
-      <point x="156" y="863" type="line"/>
-    </contour>
+    <component base="Z"/>
+    <component base="acutecomb.case" xOffset="-146"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

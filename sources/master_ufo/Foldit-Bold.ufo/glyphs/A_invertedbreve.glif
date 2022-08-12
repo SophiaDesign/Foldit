@@ -2,54 +2,31 @@
 <glyph name="Ainvertedbreve" format="2">
   <advance width="703.5"/>
   <unicode hex="0202"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="369" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="205" y="723" type="line"/>
-      <point x="40" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="498" y="233" type="line"/>
-      <point x="498" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="664" y="0" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="498" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="664" y="565" type="line"/>
-      <point x="537" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="819" type="line"/>
-      <point x="529" y="819" type="line"/>
-      <point x="469" y="885" type="line"/>
-      <point x="270" y="885" type="line"/>
-    </contour>
-    <contour>
-      <point x="162" y="765" type="line"/>
-      <point x="287" y="765" type="line"/>
-      <point x="337" y="819" type="line"/>
-      <point x="210" y="819" type="line"/>
-      <point x="162" y="767" type="line"/>
-    </contour>
-    <contour>
-      <point x="451" y="765" type="line"/>
-      <point x="577" y="765" type="line"/>
-      <point x="577" y="766" type="line"/>
-      <point x="529" y="819" type="line"/>
-      <point x="402" y="819" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="breveinvertedcomb.case" xOffset="60"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breveinvertedcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,36 +2,31 @@
 <glyph name="umacron" format="2">
   <advance width="654.5"/>
   <unicode hex="016B"/>
-  <anchor x="342" y="0" name="bottom"/>
-  <anchor x="609" y="523" name="horn"/>
-  <anchor x="342" y="523" name="top"/>
   <outline>
-    <contour>
-      <point x="449" y="0" type="line"/>
-      <point x="450" y="0" type="line"/>
-      <point x="615" y="0" type="line"/>
-      <point x="615" y="523" type="line"/>
-      <point x="449" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="449" y="0" type="line"/>
-      <point x="449" y="159" type="line"/>
-      <point x="39" y="159" type="line"/>
-      <point x="39" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="159" type="line"/>
-      <point x="205" y="159" type="line"/>
-      <point x="205" y="529" type="line"/>
-      <point x="204" y="529" type="line"/>
-      <point x="39" y="488" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="624" type="line"/>
-      <point x="503" y="624" type="line"/>
-      <point x="503" y="714" type="line"/>
-      <point x="157" y="714" type="line"/>
-    </contour>
+    <component base="u"/>
+    <component base="macroncomb" xOffset="33"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

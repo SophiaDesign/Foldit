@@ -2,8 +2,6 @@
 <glyph name="idblgrave" format="2">
   <advance width="239.41667"/>
   <unicode hex="0209"/>
-  <anchor x="129" y="0" name="bottom"/>
-  <anchor x="133" y="518" name="top"/>
   <outline>
     <contour>
       <point x="175" y="582" type="line"/>
@@ -13,18 +11,27 @@
       <point x="100" y="769" type="line"/>
     </contour>
     <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="197" y="503" type="line"/>
-      <point x="196" y="519" type="line"/>
-      <point x="63" y="509" type="line"/>
-    </contour>
-    <contour>
       <point x="55" y="582" type="line"/>
       <point x="124" y="582" type="line"/>
       <point x="86" y="770" type="line"/>
       <point x="-20" y="770" type="line"/>
       <point x="-20" y="769" type="line"/>
     </contour>
+    <component base="idotless" xOffset="14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

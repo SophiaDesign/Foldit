@@ -2,42 +2,31 @@
 <glyph name="Wacute" format="2">
   <advance width="834"/>
   <unicode hex="1E82"/>
-  <anchor x="417" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="549" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="625" y="102" type="line"/>
-      <point x="475" y="715" type="line"/>
-      <point x="361" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="173" y="0" type="line"/>
-      <point x="179" y="0" type="line"/>
-      <point x="256" y="102" type="line"/>
-      <point x="144" y="715" type="line"/>
-      <point x="9" y="715" type="line"/>
-      <point x="9" y="714" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="0" type="line"/>
-      <point x="281" y="0" type="line"/>
-      <point x="475" y="715" type="line"/>
-      <point x="361" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="550" y="0" type="line"/>
-      <point x="650" y="0" type="line"/>
-      <point x="825" y="714" type="line"/>
-      <point x="825" y="715" type="line"/>
-      <point x="692" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="366" y="747" type="line"/>
-      <point x="441" y="747" type="line"/>
-      <point x="512" y="877" type="line"/>
-      <point x="512" y="878" type="line"/>
-      <point x="394" y="878" type="line"/>
-    </contour>
+    <component base="W"/>
+    <component base="acutecomb.case" xOffset="124"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>W</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

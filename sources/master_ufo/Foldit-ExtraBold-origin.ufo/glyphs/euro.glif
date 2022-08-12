@@ -2,8 +2,6 @@
 <glyph name="euro" format="2">
   <advance width="952"/>
   <unicode hex="20AC"/>
-  <anchor x="547" y="0" name="bottom"/>
-  <anchor x="501" y="730" name="top"/>
   <outline>
     <contour>
       <point x="48" y="398" type="line"/>
@@ -21,27 +19,6 @@
       <point x="25" y="333" type="line"/>
       <point x="25" y="332" type="line"/>
     </contour>
-    <contour>
-      <point x="292" y="0" type="line"/>
-      <point x="685" y="0" type="line"/>
-      <point x="887" y="203" type="line"/>
-      <point x="887" y="204" type="line"/>
-      <point x="90" y="204" type="line"/>
-      <point x="90" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="204" type="line"/>
-      <point x="304" y="204" type="line"/>
-      <point x="304" y="730" type="line"/>
-      <point x="303" y="730" type="line"/>
-      <point x="90" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="304" y="526" type="line"/>
-      <point x="887" y="526" type="line"/>
-      <point x="887" y="527" type="line"/>
-      <point x="685" y="730" type="line"/>
-      <point x="304" y="730" type="line"/>
-    </contour>
+    <component base="C" xOffset="65"/>
   </outline>
 </glyph>

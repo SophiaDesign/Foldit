@@ -2,47 +2,31 @@
 <glyph name="Iacute" format="2">
   <advance width="297.83333"/>
   <unicode hex="00CD"/>
-  <anchor x="150" y="0" name="bottom"/>
-  <anchor x="153" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="181" y="54" type="line"/>
-      <point x="181" y="705" type="line"/>
-      <point x="171" y="705" type="line"/>
-      <point x="125" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="22" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="125" y="54" type="line"/>
-      <point x="22" y="54" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="54" type="line"/>
-      <point x="181" y="54" type="line"/>
-    </contour>
-    <contour>
-      <point x="21" y="651" type="line"/>
-      <point x="125" y="651" type="line"/>
-      <point x="171" y="705" type="line"/>
-      <point x="21" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="181" y="651" type="line"/>
-      <point x="276" y="651" type="line"/>
-      <point x="276" y="705" type="line"/>
-      <point x="181" y="705" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="739" type="line"/>
-      <point x="164" y="739" type="line"/>
-      <point x="206" y="862" type="line"/>
-      <point x="206" y="863" type="line"/>
-      <point x="146" y="863" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="-156"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,43 +2,8 @@
 <glyph name="Ucircumflex" format="2">
   <advance width="837"/>
   <unicode hex="00DB"/>
-  <anchor x="442" y="0" name="bottom"/>
-  <anchor x="811" y="730" name="horn"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="802" y="207" type="line"/>
-      <point x="802" y="730" type="line"/>
-      <point x="588" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="237" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="204" type="line"/>
-      <point x="35" y="204" type="line"/>
-      <point x="35" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="204" type="line"/>
-      <point x="249" y="204" type="line"/>
-      <point x="249" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="519" y="760" type="line"/>
-      <point x="676" y="760" type="line"/>
-      <point x="676" y="761" type="line"/>
-      <point x="518" y="900" type="line"/>
-      <point x="385" y="867" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="760" type="line"/>
-      <point x="364" y="760" type="line"/>
-      <point x="518" y="900" type="line"/>
-      <point x="364" y="900" type="line"/>
-      <point x="210" y="761" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="circumflexcomb.case" xOffset="127"/>
   </outline>
 </glyph>

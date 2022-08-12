@@ -2,9 +2,6 @@
 <glyph name="oslash" format="2">
   <advance width="451.66667"/>
   <unicode hex="00F8"/>
-  <anchor x="223" y="0" name="bottom"/>
-  <anchor x="320" y="510" name="horn"/>
-  <anchor x="233" y="510" name="top"/>
   <outline>
     <contour>
       <point x="33" y="0" type="line"/>
@@ -14,33 +11,21 @@
       <point x="365" y="510" type="line"/>
       <point x="33" y="1" type="line"/>
     </contour>
-    <contour>
-      <point x="145" y="426" type="line"/>
-      <point x="386" y="426" type="line"/>
-      <point x="386" y="427" type="line"/>
-      <point x="335" y="510" type="line"/>
-      <point x="145" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="84" type="line"/>
-      <point x="58" y="84" type="line"/>
-      <point x="58" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="58" y="84" type="line"/>
-      <point x="145" y="84" type="line"/>
-      <point x="145" y="510" type="line"/>
-      <point x="144" y="510" type="line"/>
-      <point x="58" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="299" y="0" type="line"/>
-      <point x="386" y="51" type="line"/>
-      <point x="386" y="426" type="line"/>
-      <point x="298" y="426" type="line"/>
-    </contour>
+    <component base="o" xOffset="16"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

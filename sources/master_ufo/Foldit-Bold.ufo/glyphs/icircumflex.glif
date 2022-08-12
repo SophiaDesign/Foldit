@@ -2,29 +2,31 @@
 <glyph name="icircumflex" format="2">
   <advance width="260.5"/>
   <unicode hex="00EE"/>
-  <anchor x="129" y="0" name="bottom"/>
-  <anchor x="139" y="713" name="top"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="213" y="0" type="line"/>
-      <point x="213" y="503" type="line"/>
-      <point x="212" y="523" type="line"/>
-      <point x="47" y="517" type="line"/>
-    </contour>
-    <contour>
-      <point x="177" y="591" type="line"/>
-      <point x="300" y="591" type="line"/>
-      <point x="300" y="592" type="line"/>
-      <point x="185" y="748" type="line"/>
-      <point x="88" y="725" type="line"/>
-    </contour>
-    <contour>
-      <point x="-48" y="591" type="line"/>
-      <point x="74" y="591" type="line"/>
-      <point x="185" y="748" type="line"/>
-      <point x="71" y="748" type="line"/>
-      <point x="-48" y="592" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="circumflexcomb" xOffset="-166"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

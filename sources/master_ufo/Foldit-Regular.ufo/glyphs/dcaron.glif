@@ -2,54 +2,31 @@
 <glyph name="dcaron" format="2">
   <advance width="515"/>
   <unicode hex="010F"/>
-  <anchor x="247" y="604" name="stroke"/>
-  <anchor x="325" y="752" name="top"/>
   <outline>
-    <contour>
-      <point x="358" y="427" type="line"/>
-      <point x="359" y="427" type="line"/>
-      <point x="359" y="752" type="line"/>
-      <point x="271" y="752" type="line"/>
-      <point x="271" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="136" y="426" type="line"/>
-      <point x="359" y="426" type="line"/>
-      <point x="359" y="427" type="line"/>
-      <point x="290" y="510" type="line"/>
-      <point x="136" y="510" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="0" type="line"/>
-      <point x="271" y="0" type="line"/>
-      <point x="271" y="84" type="line"/>
-      <point x="48" y="84" type="line"/>
-      <point x="48" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="84" type="line"/>
-      <point x="136" y="84" type="line"/>
-      <point x="136" y="510" type="line"/>
-      <point x="135" y="510" type="line"/>
-      <point x="48" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="0" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="359" y="51" type="line"/>
-      <point x="359" y="426" type="line"/>
-      <point x="271" y="426" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="587" type="line"/>
-      <point x="439" y="587" type="line"/>
-      <point x="481" y="749" type="line"/>
-      <point x="462" y="750" type="line"/>
-      <point x="403" y="750" type="line"/>
-    </contour>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="56" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>comma</string>
     </dict>

@@ -2,42 +2,31 @@
 <glyph name="udieresis" format="2">
   <advance width="502"/>
   <unicode hex="00FC"/>
-  <anchor x="262" y="0" name="bottom"/>
-  <anchor x="447" y="515" name="horn"/>
-  <anchor x="259" y="671" name="top"/>
   <outline>
-    <contour>
-      <point x="341" y="0" type="line"/>
-      <point x="342" y="0" type="line"/>
-      <point x="459" y="0" type="line"/>
-      <point x="459" y="515" type="line"/>
-      <point x="341" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="341" y="114" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="43" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="114" type="line"/>
-      <point x="161" y="114" type="line"/>
-      <point x="161" y="521" type="line"/>
-      <point x="160" y="521" type="line"/>
-      <point x="43" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="281" y="621" type="line"/>
-      <point x="385" y="621" type="line"/>
-      <point x="385" y="704" type="line"/>
-      <point x="281" y="704" type="line"/>
-    </contour>
-    <contour>
-      <point x="129" y="621" type="line"/>
-      <point x="233" y="621" type="line"/>
-      <point x="233" y="704" type="line"/>
-      <point x="129" y="704" type="line"/>
-    </contour>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="-45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="Hbar" format="2">
   <advance width="668.66667"/>
   <unicode hex="0126"/>
-  <anchor x="342" y="718" name="top"/>
   <outline>
     <contour>
       <point x="17" y="511" type="line"/>
@@ -10,23 +9,21 @@
       <point x="654" y="592" type="line"/>
       <point x="17" y="592" type="line"/>
     </contour>
-    <contour>
-      <point x="472" y="0" type="line"/>
-      <point x="606" y="0" type="line"/>
-      <point x="606" y="718" type="line"/>
-      <point x="472" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="210" y="0" type="line"/>
-      <point x="210" y="718" type="line"/>
-      <point x="75" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="301" type="line"/>
-      <point x="472" y="301" type="line"/>
-      <point x="472" y="430" type="line"/>
-      <point x="210" y="430" type="line"/>
-    </contour>
+    <component base="H" xOffset="32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -11,31 +11,21 @@
       <point x="-20" y="188" type="line"/>
       <point x="-20" y="187" type="line"/>
     </contour>
-    <contour>
-      <point x="149" y="626" type="line"/>
-      <point x="342" y="626" type="line"/>
-      <point x="424" y="709" type="line"/>
-      <point x="424" y="710" type="line"/>
-      <point x="149" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="61" y="0" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="149" y="299" type="line"/>
-      <point x="61" y="382" type="line"/>
-    </contour>
-    <contour>
-      <point x="149" y="299" type="line"/>
-      <point x="358" y="299" type="line"/>
-      <point x="358" y="383" type="line"/>
-      <point x="61" y="383" type="line"/>
-      <point x="61" y="382" type="line"/>
-    </contour>
-    <contour>
-      <point x="61" y="383" type="line"/>
-      <point x="149" y="383" type="line"/>
-      <point x="149" y="710" type="line"/>
-      <point x="61" y="710" type="line"/>
-    </contour>
+    <component base="F" xOffset="14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>F</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

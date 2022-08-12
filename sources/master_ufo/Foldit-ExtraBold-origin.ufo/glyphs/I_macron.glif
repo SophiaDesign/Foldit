@@ -2,46 +2,8 @@
 <glyph name="Imacron" format="2">
   <advance width="657"/>
   <unicode hex="012A"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="341" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="246" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="460" y="204" type="line"/>
-      <point x="460" y="730" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="246" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="246" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="632" y="204" type="line"/>
-      <point x="460" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="526" type="line"/>
-      <point x="246" y="526" type="line"/>
-      <point x="408" y="730" type="line"/>
-      <point x="25" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="460" y="526" type="line"/>
-      <point x="631" y="526" type="line"/>
-      <point x="631" y="730" type="line"/>
-      <point x="460" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="143" y="798" type="line"/>
-      <point x="539" y="798" type="line"/>
-      <point x="539" y="900" type="line"/>
-      <point x="143" y="900" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="macroncomb.case" xOffset="32"/>
   </outline>
 </glyph>

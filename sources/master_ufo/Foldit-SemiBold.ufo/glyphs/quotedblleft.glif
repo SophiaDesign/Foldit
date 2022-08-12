@@ -3,31 +3,30 @@
   <advance width="396.58333"/>
   <unicode hex="201C"/>
   <outline>
-    <contour>
-      <point x="97" y="477" type="line"/>
-      <point x="183" y="477" type="line"/>
-      <point x="183" y="611" type="line"/>
-      <point x="25" y="611" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="611" type="line"/>
-      <point x="136" y="611" type="line"/>
-      <point x="164" y="760" type="line"/>
-      <point x="163" y="761" type="line"/>
-      <point x="80" y="761" type="line"/>
-    </contour>
-    <contour>
-      <point x="267" y="477" type="line"/>
-      <point x="353" y="477" type="line"/>
-      <point x="353" y="611" type="line"/>
-      <point x="195" y="611" type="line"/>
-    </contour>
-    <contour>
-      <point x="195" y="611" type="line"/>
-      <point x="306" y="611" type="line"/>
-      <point x="334" y="760" type="line"/>
-      <point x="333" y="761" type="line"/>
-      <point x="250" y="761" type="line"/>
-    </contour>
+    <component base="quoteleft" xOffset="-18" yOffset="2"/>
+    <component base="quoteleft" xOffset="152" yOffset="2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quoteleft</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>quoteleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

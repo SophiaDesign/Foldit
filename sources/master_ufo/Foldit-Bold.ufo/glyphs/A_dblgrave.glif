@@ -2,48 +2,31 @@
 <glyph name="Adblgrave" format="2">
   <advance width="703.5"/>
   <unicode hex="0200"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="369" y="723" name="top"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="206" y="723" type="line"/>
-      <point x="205" y="723" type="line"/>
-      <point x="40" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="233" type="line"/>
-      <point x="498" y="233" type="line"/>
-      <point x="498" y="392" type="line"/>
-      <point x="206" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="664" y="0" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="498" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="564" type="line"/>
-      <point x="664" y="564" type="line"/>
-      <point x="664" y="565" type="line"/>
-      <point x="537" y="723" type="line"/>
-      <point x="206" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="419" y="762" type="line"/>
-      <point x="520" y="762" type="line"/>
-      <point x="487" y="890" type="line"/>
-      <point x="325" y="890" type="line"/>
-      <point x="325" y="889" type="line"/>
-    </contour>
-    <contour>
-      <point x="233" y="762" type="line"/>
-      <point x="333" y="762" type="line"/>
-      <point x="300" y="890" type="line"/>
-      <point x="138" y="890" type="line"/>
-      <point x="138" y="889" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="dblgravecomb.case" xOffset="55"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dblgravecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

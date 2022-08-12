@@ -2,27 +2,31 @@
 <glyph name="idotbelow" format="2">
   <advance width="214"/>
   <unicode hex="1ECB"/>
-  <anchor x="107" y="0" name="bottom"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="167" y="0" type="line"/>
-      <point x="167" y="503" type="line"/>
-      <point x="166" y="503" type="line"/>
-      <point x="47" y="437" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="506" type="line"/>
-      <point x="48" y="506" type="line"/>
-      <point x="167" y="571" type="line"/>
-      <point x="167" y="648" type="line"/>
-      <point x="47" y="648" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="-159" type="line"/>
-      <point x="167" y="-159" type="line"/>
-      <point x="167" y="-61" type="line"/>
-      <point x="50" y="-61" type="line"/>
-    </contour>
+    <component base="i"/>
+    <component base="dotbelowcomb" xOffset="-213"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

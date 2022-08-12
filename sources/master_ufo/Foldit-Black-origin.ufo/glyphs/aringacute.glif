@@ -2,8 +2,6 @@
 <glyph name="aringacute" format="2">
   <advance width="907"/>
   <unicode hex="01FB"/>
-  <anchor x="431" y="0" name="bottom"/>
-  <anchor x="492" y="530" name="top"/>
   <outline>
     <contour>
       <point x="380" y="676" type="line"/>
@@ -11,33 +9,6 @@
       <point x="610" y="677" type="line"/>
       <point x="550" y="760" type="line"/>
       <point x="380" y="760" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="286" type="line"/>
-      <point x="862" y="286" type="line"/>
-      <point x="862" y="287" type="line"/>
-      <point x="755" y="530" type="line"/>
-      <point x="279" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="608" y="244" type="line"/>
-      <point x="25" y="244" type="line"/>
-      <point x="25" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="244" type="line"/>
-      <point x="279" y="244" type="line"/>
-      <point x="279" y="530" type="line"/>
-      <point x="278" y="530" type="line"/>
-      <point x="25" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="608" y="0" type="line"/>
-      <point x="862" y="0" type="line"/>
-      <point x="862" y="286" type="line"/>
-      <point x="608" y="286" type="line"/>
     </contour>
     <contour>
       <point x="344" y="572" type="line"/>
@@ -67,6 +38,7 @@
       <point x="584" y="900" type="line"/>
       <point x="428" y="900" type="line"/>
     </contour>
+    <component base="a"/>
   </outline>
   <lib>
     <dict>

@@ -2,36 +2,8 @@
 <glyph name="rdblgrave" format="2">
   <advance width="157"/>
   <unicode hex="0211"/>
-  <anchor x="62" y="0" name="bottom"/>
-  <anchor x="100" y="500" name="top"/>
   <outline>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="74" y="500" type="line"/>
-      <point x="73" y="500" type="line"/>
-      <point x="50" y="477" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="476" type="line"/>
-      <point x="147" y="476" type="line"/>
-      <point x="147" y="477" type="line"/>
-      <point x="124" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="570" type="line"/>
-      <point x="140" y="570" type="line"/>
-      <point x="115" y="700" type="line"/>
-      <point x="84" y="700" type="line"/>
-      <point x="84" y="699" type="line"/>
-    </contour>
-    <contour>
-      <point x="64" y="570" type="line"/>
-      <point x="88" y="570" type="line"/>
-      <point x="63" y="700" type="line"/>
-      <point x="32" y="700" type="line"/>
-      <point x="32" y="699" type="line"/>
-    </contour>
+    <component base="r"/>
+    <component base="dblgravecomb" xOffset="-229"/>
   </outline>
 </glyph>

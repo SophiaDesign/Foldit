@@ -2,63 +2,8 @@
 <glyph name="Gbreve" format="2">
   <advance width="927"/>
   <unicode hex="011E"/>
-  <anchor x="495" y="0" name="bottom"/>
-  <anchor x="483" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="239" y="526" type="line"/>
-      <point x="902" y="526" type="line"/>
-      <point x="902" y="527" type="line"/>
-      <point x="700" y="730" type="line"/>
-      <point x="239" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
-      <point x="688" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-      <point x="25" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="204" type="line"/>
-      <point x="239" y="204" type="line"/>
-      <point x="239" y="730" type="line"/>
-      <point x="238" y="730" type="line"/>
-      <point x="25" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="263" type="line"/>
-      <point x="688" y="263" type="line"/>
-      <point x="688" y="467" type="line"/>
-      <point x="298" y="467" type="line"/>
-    </contour>
-    <contour>
-      <point x="688" y="0" type="line"/>
-      <point x="689" y="0" type="line"/>
-      <point x="902" y="197" type="line"/>
-      <point x="902" y="274" type="line"/>
-      <point x="689" y="467" type="line"/>
-      <point x="688" y="467" type="line"/>
-    </contour>
-    <contour>
-      <point x="351" y="760" type="line"/>
-      <point x="596" y="760" type="line"/>
-      <point x="690" y="860" type="line"/>
-      <point x="257" y="860" type="line"/>
-    </contour>
-    <contour>
-      <point x="257" y="860" type="line"/>
-      <point x="436" y="860" type="line"/>
-      <point x="399" y="900" type="line"/>
-      <point x="223" y="900" type="line"/>
-      <point x="223" y="898" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="860" type="line"/>
-      <point x="690" y="860" type="line"/>
-      <point x="724" y="899" type="line"/>
-      <point x="724" y="900" type="line"/>
-      <point x="548" y="900" type="line"/>
-    </contour>
+    <component base="G"/>
+    <component base="brevecomb.case" xOffset="164"/>
   </outline>
 </glyph>

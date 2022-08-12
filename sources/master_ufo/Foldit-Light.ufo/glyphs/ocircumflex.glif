@@ -2,51 +2,31 @@
 <glyph name="ocircumflex" format="2">
   <advance width="304.5"/>
   <unicode hex="00F4"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="214" y="505" name="horn"/>
-  <anchor x="165" y="627" name="top"/>
   <outline>
-    <contour>
-      <point x="102" y="451" type="line"/>
-      <point x="259" y="451" type="line"/>
-      <point x="259" y="452" type="line"/>
-      <point x="222" y="505" type="line"/>
-      <point x="102" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="83" y="0" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="203" y="54" type="line"/>
-      <point x="46" y="54" type="line"/>
-      <point x="46" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="46" y="54" type="line"/>
-      <point x="102" y="54" type="line"/>
-      <point x="102" y="505" type="line"/>
-      <point x="101" y="505" type="line"/>
-      <point x="46" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="203" y="0" type="line"/>
-      <point x="204" y="0" type="line"/>
-      <point x="259" y="37" type="line"/>
-      <point x="259" y="451" type="line"/>
-      <point x="203" y="451" type="line"/>
-    </contour>
-    <contour>
-      <point x="194" y="590" type="line"/>
-      <point x="240" y="590" type="line"/>
-      <point x="240" y="591" type="line"/>
-      <point x="180" y="695" type="line"/>
-      <point x="140" y="690" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="590" type="line"/>
-      <point x="120" y="590" type="line"/>
-      <point x="180" y="695" type="line"/>
-      <point x="136" y="695" type="line"/>
-      <point x="74" y="591" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="circumflexcomb" xOffset="-149"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

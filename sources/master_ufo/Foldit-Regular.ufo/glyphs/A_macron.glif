@@ -2,40 +2,31 @@
 <glyph name="Amacron" format="2">
   <advance width="464.33333"/>
   <unicode hex="0100"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="240" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="47" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="135" y="710" type="line"/>
-      <point x="134" y="710" type="line"/>
-      <point x="47" y="625" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="299" type="line"/>
-      <point x="330" y="299" type="line"/>
-      <point x="330" y="383" type="line"/>
-      <point x="135" y="383" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="0" type="line"/>
-      <point x="418" y="0" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="330" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="135" y="626" type="line"/>
-      <point x="418" y="626" type="line"/>
-      <point x="418" y="627" type="line"/>
-      <point x="348" y="710" type="line"/>
-      <point x="135" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="800" type="line"/>
-      <point x="357" y="800" type="line"/>
-      <point x="357" y="850" type="line"/>
-      <point x="125" y="850" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="macroncomb.case" xOffset="-66"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macroncomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,59 +2,31 @@
 <glyph name="Otilde" format="2">
   <advance width="457.66667"/>
   <unicode hex="00D5"/>
-  <anchor x="232" y="0" name="bottom"/>
-  <anchor x="358" y="710" name="horn"/>
-  <anchor x="238" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="131" y="626" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="414" y="627" type="line"/>
-      <point x="345" y="710" type="line"/>
-      <point x="131" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="0" type="line"/>
-      <point x="326" y="0" type="line"/>
-      <point x="326" y="84" type="line"/>
-      <point x="43" y="84" type="line"/>
-      <point x="43" y="83" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="84" type="line"/>
-      <point x="131" y="84" type="line"/>
-      <point x="131" y="710" type="line"/>
-      <point x="130" y="710" type="line"/>
-      <point x="43" y="625" type="line"/>
-    </contour>
-    <contour>
-      <point x="326" y="0" type="line"/>
-      <point x="327" y="0" type="line"/>
-      <point x="414" y="85" type="line"/>
-      <point x="414" y="626" type="line"/>
-      <point x="326" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="117" y="782" type="line"/>
-      <point x="179" y="782" type="line"/>
-      <point x="179" y="846" type="line"/>
-      <point x="117" y="843" type="line"/>
-    </contour>
-    <contour>
-      <point x="291" y="799" type="line"/>
-      <point x="353" y="805" type="line"/>
-      <point x="353" y="869" type="line"/>
-      <point x="291" y="869" type="line"/>
-    </contour>
-    <contour>
-      <point x="287" y="775" type="line"/>
-      <point x="292" y="775" type="line"/>
-      <point x="352" y="804" type="line"/>
-      <point x="352" y="805" type="line"/>
-      <point x="182" y="873" type="line"/>
-      <point x="177" y="873" type="line"/>
-      <point x="117" y="844" type="line"/>
-      <point x="117" y="843" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="tildecomb.case" xOffset="-65"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

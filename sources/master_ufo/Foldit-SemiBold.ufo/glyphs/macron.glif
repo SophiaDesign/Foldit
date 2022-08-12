@@ -2,13 +2,22 @@
 <glyph name="macron" format="2">
   <advance width="600"/>
   <unicode hex="00AF"/>
-  <anchor x="308" y="518" name="_top"/>
   <outline>
-    <contour>
-      <point x="153" y="621" type="line"/>
-      <point x="446" y="621" type="line"/>
-      <point x="446" y="697" type="line"/>
-      <point x="153" y="697" type="line"/>
-    </contour>
+    <component base="macroncomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>macroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

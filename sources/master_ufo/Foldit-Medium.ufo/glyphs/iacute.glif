@@ -2,22 +2,31 @@
 <glyph name="iacute" format="2">
   <advance width="217"/>
   <unicode hex="00ED"/>
-  <anchor x="108" y="0" name="bottom"/>
-  <anchor x="111" y="515" name="top"/>
   <outline>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="168" y="503" type="line"/>
-      <point x="167" y="517" type="line"/>
-      <point x="50" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="66" y="580" type="line"/>
-      <point x="132" y="580" type="line"/>
-      <point x="200" y="759" type="line"/>
-      <point x="200" y="760" type="line"/>
-      <point x="97" y="760" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="-173"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

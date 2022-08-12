@@ -2,40 +2,31 @@
 <glyph name="kcommaaccent" format="2">
   <advance width="638.25"/>
   <unicode hex="0137"/>
-  <anchor x="324" y="0" name="bottom"/>
   <outline>
-    <contour>
-      <point x="39" y="0" type="line"/>
-      <point x="205" y="0" type="line"/>
-      <point x="205" y="778" type="line"/>
-      <point x="39" y="778" type="line"/>
-    </contour>
-    <contour>
-      <point x="455" y="0" type="line"/>
-      <point x="621" y="0" type="line"/>
-      <point x="621" y="233" type="line"/>
-      <point x="455" y="233" type="line"/>
-    </contour>
-    <contour>
-      <point x="205" y="233" type="line"/>
-      <point x="621" y="233" type="line"/>
-      <point x="621" y="234" type="line"/>
-      <point x="535" y="392" type="line"/>
-      <point x="205" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="369" y="392" type="line"/>
-      <point x="535" y="392" type="line"/>
-      <point x="535" y="647" type="line"/>
-      <point x="534" y="647" type="line"/>
-      <point x="369" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="376" y="-245" type="line"/>
-      <point x="377" y="-245" type="line"/>
-      <point x="377" y="-35" type="line"/>
-      <point x="272" y="-35" type="line"/>
-      <point x="272" y="-163" type="line"/>
-    </contour>
+    <component base="k"/>
+    <component base="commaaccentcomb" xOffset="-6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>k</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

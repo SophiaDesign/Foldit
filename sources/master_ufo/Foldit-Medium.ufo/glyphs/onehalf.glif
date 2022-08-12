@@ -3,59 +3,39 @@
   <advance width="726.5"/>
   <unicode hex="00BD"/>
   <outline>
-    <contour>
-      <point x="142" y="451" type="line"/>
-      <point x="167" y="451" type="line"/>
-      <point x="230" y="529" type="line"/>
-      <point x="230" y="748" type="line"/>
-      <point x="204" y="748" type="line"/>
-      <point x="142" y="668" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="451" type="line"/>
-      <point x="142" y="451" type="line"/>
-      <point x="142" y="529" type="line"/>
-      <point x="39" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="167" y="451" type="line"/>
-      <point x="316" y="451" type="line"/>
-      <point x="316" y="529" type="line"/>
-      <point x="230" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="83" y="668" type="line"/>
-      <point x="142" y="668" type="line"/>
-      <point x="204" y="748" type="line"/>
-      <point x="83" y="748" type="line"/>
-    </contour>
-    <contour>
-      <point x="106" y="0" type="line"/>
-      <point x="234" y="0" type="line"/>
-      <point x="654" y="714" type="line"/>
-      <point x="654" y="715" type="line"/>
-      <point x="526" y="715" type="line"/>
-      <point x="106" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="217" type="line"/>
-      <point x="623" y="217" type="line"/>
-      <point x="622" y="297" type="line"/>
-      <point x="476" y="297" type="line"/>
-      <point x="424" y="218" type="line"/>
-    </contour>
-    <contour>
-      <point x="480" y="27" type="line"/>
-      <point x="671" y="231" type="line"/>
-      <point x="622" y="297" type="line"/>
-      <point x="427" y="82" type="line"/>
-      <point x="427" y="81" type="line"/>
-    </contour>
-    <contour>
-      <point x="427" y="1" type="line"/>
-      <point x="682" y="1" type="line"/>
-      <point x="682" y="81" type="line"/>
-      <point x="427" y="81" type="line"/>
-    </contour>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="67"/>
+    <component base="twosuperior" xOffset="385" yOffset="-451"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>onesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twosuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

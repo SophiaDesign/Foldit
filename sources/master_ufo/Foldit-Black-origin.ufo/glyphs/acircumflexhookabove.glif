@@ -2,65 +2,8 @@
 <glyph name="acircumflexhookabove" format="2">
   <advance width="907"/>
   <unicode hex="1EA9"/>
-  <anchor x="431" y="0" name="bottom"/>
-  <anchor x="492" y="530" name="top"/>
   <outline>
-    <contour>
-      <point x="279" y="286" type="line"/>
-      <point x="862" y="286" type="line"/>
-      <point x="862" y="287" type="line"/>
-      <point x="755" y="530" type="line"/>
-      <point x="279" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="608" y="244" type="line"/>
-      <point x="25" y="244" type="line"/>
-      <point x="25" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="244" type="line"/>
-      <point x="279" y="244" type="line"/>
-      <point x="279" y="530" type="line"/>
-      <point x="278" y="530" type="line"/>
-      <point x="25" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="608" y="0" type="line"/>
-      <point x="862" y="0" type="line"/>
-      <point x="862" y="286" type="line"/>
-      <point x="608" y="286" type="line"/>
-    </contour>
-    <contour>
-      <point x="545" y="578" type="line"/>
-      <point x="729" y="578" type="line"/>
-      <point x="729" y="579" type="line"/>
-      <point x="574" y="706" type="line"/>
-      <point x="523" y="706" type="line"/>
-      <point x="421" y="675" type="line"/>
-    </contour>
-    <contour>
-      <point x="226" y="578" type="line"/>
-      <point x="400" y="578" type="line"/>
-      <point x="574" y="706" type="line"/>
-      <point x="390" y="706" type="line"/>
-      <point x="226" y="579" type="line"/>
-    </contour>
-    <contour>
-      <point x="342" y="811" type="line"/>
-      <point x="650" y="811" type="line"/>
-      <point x="650" y="812" type="line"/>
-      <point x="563" y="900" type="line"/>
-      <point x="342" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="421" y="736" type="line"/>
-      <point x="537" y="736" type="line"/>
-      <point x="650" y="811" type="line"/>
-      <point x="650" y="812" type="line"/>
-      <point x="563" y="900" type="line"/>
-      <point x="421" y="737" type="line"/>
-    </contour>
+    <component base="a"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="183"/>
   </outline>
 </glyph>

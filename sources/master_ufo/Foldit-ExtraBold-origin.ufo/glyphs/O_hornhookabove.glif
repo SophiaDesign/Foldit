@@ -2,66 +2,8 @@
 <glyph name="Ohornhookabove" format="2">
   <advance width="925"/>
   <unicode hex="1EDE"/>
-  <anchor x="412" y="0" name="bottom"/>
-  <anchor x="680" y="730" name="horn"/>
-  <anchor x="436" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="239" y="526" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="802" y="527" type="line"/>
-      <point x="640" y="730" type="line"/>
-      <point x="239" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="204" type="line"/>
-      <point x="25" y="204" type="line"/>
-      <point x="25" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="204" type="line"/>
-      <point x="239" y="204" type="line"/>
-      <point x="239" y="730" type="line"/>
-      <point x="238" y="730" type="line"/>
-      <point x="25" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="802" y="207" type="line"/>
-      <point x="802" y="526" type="line"/>
-      <point x="588" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="751" y="576" type="line"/>
-      <point x="752" y="576" type="line"/>
-      <point x="925" y="683" type="line"/>
-      <point x="925" y="854" type="line"/>
-      <point x="751" y="854" type="line"/>
-    </contour>
-    <contour>
-      <point x="680" y="576" type="line"/>
-      <point x="751" y="576" type="line"/>
-      <point x="751" y="730" type="line"/>
-      <point x="497" y="730" type="line"/>
-      <point x="497" y="729" type="line"/>
-    </contour>
-    <contour>
-      <point x="355" y="760" type="line"/>
-      <point x="473" y="760" type="line"/>
-      <point x="614" y="838" type="line"/>
-      <point x="614" y="839" type="line"/>
-      <point x="507" y="940" type="line"/>
-      <point x="355" y="761" type="line"/>
-    </contour>
-    <contour>
-      <point x="246" y="838" type="line"/>
-      <point x="614" y="838" type="line"/>
-      <point x="614" y="839" type="line"/>
-      <point x="507" y="940" type="line"/>
-      <point x="246" y="940" type="line"/>
-    </contour>
+    <component base="Ohorn"/>
+    <component base="hookabovecomb.case" xOffset="87"/>
   </outline>
 </glyph>

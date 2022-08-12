@@ -1,21 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
   <advance width="304"/>
-  <anchor x="151" y="0" name="bottom"/>
-  <anchor x="154" y="750" name="top"/>
   <outline>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="259" y="0" type="line"/>
-      <point x="259" y="503" type="line"/>
-      <point x="258" y="530" type="line"/>
-      <point x="45" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="52" y="640" type="line"/>
-      <point x="266" y="640" type="line"/>
-      <point x="266" y="800" type="line"/>
-      <point x="52" y="800" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="-150"/>
   </outline>
 </glyph>

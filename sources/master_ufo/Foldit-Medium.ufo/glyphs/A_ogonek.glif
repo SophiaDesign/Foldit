@@ -2,56 +2,31 @@
 <glyph name="Aogonek" format="2">
   <advance width="560"/>
   <unicode hex="0104"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="292" y="715" name="top"/>
   <outline>
-    <contour>
-      <point x="44" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="715" type="line"/>
-      <point x="163" y="715" type="line"/>
-      <point x="44" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="273" type="line"/>
-      <point x="397" y="273" type="line"/>
-      <point x="397" y="387" type="line"/>
-      <point x="164" y="387" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="397" y="601" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="601" type="line"/>
-      <point x="517" y="601" type="line"/>
-      <point x="517" y="602" type="line"/>
-      <point x="424" y="715" type="line"/>
-      <point x="164" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="370" y="-60" type="line"/>
-      <point x="454" y="-60" type="line"/>
-      <point x="508" y="-1" type="line"/>
-      <point x="508" y="0" type="line"/>
-      <point x="413" y="0" type="line"/>
-      <point x="370" y="-59" type="line"/>
-    </contour>
-    <contour>
-      <point x="453" y="-154" type="line"/>
-      <point x="454" y="-154" type="line"/>
-      <point x="454" y="-60" type="line"/>
-      <point x="370" y="-60" type="line"/>
-      <point x="370" y="-118" type="line"/>
-    </contour>
-    <contour>
-      <point x="454" y="-155" type="line"/>
-      <point x="521" y="-155" type="line"/>
-      <point x="560" y="-95" type="line"/>
-      <point x="560" y="-94" type="line"/>
-      <point x="454" y="-94" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ogonekcomb" xOffset="147"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

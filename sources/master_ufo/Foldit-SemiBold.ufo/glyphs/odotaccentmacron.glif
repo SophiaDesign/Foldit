@@ -2,49 +2,40 @@
 <glyph name="odotaccentmacron" format="2">
   <advance width="570.75"/>
   <unicode hex="0231"/>
-  <anchor x="288" y="0" name="bottom"/>
-  <anchor x="439" y="518" name="horn"/>
-  <anchor x="302" y="684" name="top"/>
   <outline>
-    <contour>
-      <point x="171" y="389" type="line"/>
-      <point x="536" y="389" type="line"/>
-      <point x="536" y="390" type="line"/>
-      <point x="464" y="518" type="line"/>
-      <point x="171" y="518" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="401" y="0" type="line"/>
-      <point x="401" y="129" type="line"/>
-      <point x="36" y="129" type="line"/>
-      <point x="36" y="128" type="line"/>
-    </contour>
-    <contour>
-      <point x="36" y="129" type="line"/>
-      <point x="171" y="129" type="line"/>
-      <point x="171" y="518" type="line"/>
-      <point x="170" y="518" type="line"/>
-      <point x="36" y="446" type="line"/>
-    </contour>
-    <contour>
-      <point x="401" y="0" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="536" y="72" type="line"/>
-      <point x="536" y="389" type="line"/>
-      <point x="401" y="389" type="line"/>
-    </contour>
-    <contour>
-      <point x="237" y="624" type="line"/>
-      <point x="374" y="624" type="line"/>
-      <point x="374" y="732" type="line"/>
-      <point x="237" y="732" type="line"/>
-    </contour>
-    <contour>
-      <point x="148" y="788" type="line"/>
-      <point x="441" y="788" type="line"/>
-      <point x="441" y="864" type="line"/>
-      <point x="148" y="864" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="dotaccentcomb" xOffset="-4"/>
+    <component base="macroncomb" xOffset="-5" yOffset="167"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>macroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

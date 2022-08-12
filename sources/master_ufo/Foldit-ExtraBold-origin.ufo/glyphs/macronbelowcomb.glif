@@ -3,12 +3,7 @@
   <unicode hex="0331"/>
   <anchor x="309" y="0" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="81" y="-122" type="line"/>
-      <point x="507" y="-122" type="line"/>
-      <point x="507" y="-10" type="line"/>
-      <point x="81" y="-10" type="line"/>
-    </contour>
+    <component base="macroncomb" yOffset="-750"/>
   </outline>
   <lib>
     <dict>
