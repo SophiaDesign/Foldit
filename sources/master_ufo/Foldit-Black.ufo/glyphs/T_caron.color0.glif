@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="730" type="line"/>
+      <point x="508" y="730" type="line"/>
+      <point x="306" y="486" type="line"/>
+    </contour>
+  </outline>
+</glyph>

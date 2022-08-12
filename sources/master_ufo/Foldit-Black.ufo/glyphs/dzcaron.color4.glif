@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron.color4" format="2">
+  <advance width="600"/>
+  <unicode hex="01C6"/>
+  <outline>
+    <contour>
+      <point x="609" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="863" y="107" type="line"/>
+      <point x="863" y="286" type="line"/>
+      <point x="609" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+    </dict>
+  </lib>
+</glyph>

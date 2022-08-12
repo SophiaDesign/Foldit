@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde" format="2">
+  <advance width="897"/>
+  <unicode hex="00D1"/>
+  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="456" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="862" y="172" type="line"/>
+      <point x="862" y="730" type="line"/>
+      <point x="608" y="730" type="line"/>
+      <point x="608" y="397" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="289" y="345" type="line"/>
+      <point x="35" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="682" y="-6" type="line"/>
+      <point x="683" y="-6" type="line"/>
+      <point x="862" y="171" type="line"/>
+      <point x="862" y="172" type="line"/>
+      <point x="228" y="736" type="line"/>
+      <point x="227" y="736" type="line"/>
+      <point x="35" y="572" type="line"/>
+      <point x="35" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="772" type="line"/>
+      <point x="358" y="772" type="line"/>
+      <point x="358" y="864" type="line"/>
+      <point x="218" y="853" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="806" type="line"/>
+      <point x="686" y="827" type="line"/>
+      <point x="686" y="915" type="line"/>
+      <point x="547" y="915" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="756" type="line"/>
+      <point x="548" y="756" type="line"/>
+      <point x="686" y="826" type="line"/>
+      <point x="686" y="827" type="line"/>
+      <point x="367" y="923" type="line"/>
+      <point x="356" y="923" type="line"/>
+      <point x="218" y="854" type="line"/>
+      <point x="218" y="853" type="line"/>
+    </contour>
+  </outline>
+</glyph>

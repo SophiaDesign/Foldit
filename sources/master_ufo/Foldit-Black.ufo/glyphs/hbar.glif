@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="897"/>
+  <unicode hex="0127"/>
+  <anchor x="291" y="653" name="_stroke"/>
+  <anchor x="331" y="653" name="stroke"/>
+  <anchor x="548" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="-6" y="561" type="line"/>
+      <point x="588" y="561" type="line"/>
+      <point x="588" y="745" type="line"/>
+      <point x="-6" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="289" y="794" type="line"/>
+      <point x="35" y="794" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="-6" type="line"/>
+      <point x="599" y="-6" type="line"/>
+      <point x="852" y="41" type="line"/>
+      <point x="852" y="286" type="line"/>
+      <point x="598" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="286" type="line"/>
+      <point x="852" y="286" type="line"/>
+      <point x="852" y="287" type="line"/>
+      <point x="745" y="530" type="line"/>
+      <point x="289" y="530" type="line"/>
+    </contour>
+  </outline>
+</glyph>

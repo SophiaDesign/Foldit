@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn.color5" format="2">
+  <advance width="600"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <contour>
+      <point x="147" y="476" type="line"/>
+      <point x="155" y="476" type="line"/>
+      <point x="155" y="500" type="line"/>
+      <point x="124" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

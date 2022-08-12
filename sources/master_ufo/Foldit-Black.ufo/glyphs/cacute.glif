@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute" format="2">
+  <advance width="782"/>
+  <unicode hex="0107"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="412" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="665" y="0" type="line"/>
+      <point x="772" y="243" type="line"/>
+      <point x="772" y="244" type="line"/>
+      <point x="25" y="244" type="line"/>
+      <point x="25" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="244" type="line"/>
+      <point x="279" y="244" type="line"/>
+      <point x="279" y="530" type="line"/>
+      <point x="278" y="530" type="line"/>
+      <point x="25" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="286" type="line"/>
+      <point x="772" y="286" type="line"/>
+      <point x="772" y="287" type="line"/>
+      <point x="665" y="530" type="line"/>
+      <point x="279" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="590" type="line"/>
+      <point x="465" y="590" type="line"/>
+      <point x="570" y="819" type="line"/>
+      <point x="570" y="820" type="line"/>
+      <point x="354" y="820" type="line"/>
+    </contour>
+  </outline>
+</glyph>

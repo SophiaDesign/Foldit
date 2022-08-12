@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.color0" format="2">
+  <advance width="600"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="50" y="476" type="line"/>
+      <point x="51" y="476" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="74" y="670" type="line"/>
+      <point x="50" y="670" type="line"/>
+    </contour>
+  </outline>
+</glyph>

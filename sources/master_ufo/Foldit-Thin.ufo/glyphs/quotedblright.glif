@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="158"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="33" y="665" type="line"/>
+      <point x="74" y="665" type="line"/>
+      <point x="51" y="700" type="line"/>
+      <point x="33" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="586" type="line"/>
+      <point x="40" y="585" type="line"/>
+      <point x="61" y="585" type="line"/>
+      <point x="74" y="665" type="line"/>
+      <point x="50" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="665" type="line"/>
+      <point x="125" y="665" type="line"/>
+      <point x="102" y="700" type="line"/>
+      <point x="84" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="586" type="line"/>
+      <point x="91" y="585" type="line"/>
+      <point x="112" y="585" type="line"/>
+      <point x="125" y="665" type="line"/>
+      <point x="101" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>comma</string>
+    </dict>
+  </lib>
+</glyph>

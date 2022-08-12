@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.lf.color0" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="237" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="244" type="line"/>
+      <point x="35" y="244" type="line"/>
+      <point x="35" y="243" type="line"/>
+    </contour>
+  </outline>
+</glyph>
