@@ -1,49 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcaron" format="2">
   <advance width="947"/>
-  <unicode hex="010E"/>
-  <anchor x="166" y="361" name="stroke"/>
-  <anchor x="476" y="730" name="top"/>
+  <unicode hex="0270"/>
+  <anchor x="0" y="0" name="stroke"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="289" y="486" type="line"/>
-      <point x="922" y="486" type="line"/>
-      <point x="922" y="487" type="line"/>
-      <point x="720" y="730" type="line"/>
-      <point x="289" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="-4" type="line"/>
-      <point x="668" y="-4" type="line"/>
-      <point x="668" y="240" type="line"/>
-      <point x="35" y="240" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="240" type="line"/>
-      <point x="289" y="240" type="line"/>
-      <point x="289" y="730" type="line"/>
-      <point x="35" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="668" y="-4" type="line"/>
-      <point x="669" y="-4" type="line"/>
-      <point x="922" y="193" type="line"/>
-      <point x="922" y="486" type="line"/>
-      <point x="668" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="392" y="760" type="line"/>
-      <point x="545" y="793" type="line"/>
-      <point x="401" y="900" type="line"/>
-      <point x="224" y="900" type="line"/>
-      <point x="224" y="899" type="line"/>
-    </contour>
-    <contour>
-      <point x="392" y="760" type="line"/>
-      <point x="566" y="760" type="line"/>
-      <point x="730" y="899" type="line"/>
-      <point x="730" y="900" type="line"/>
-      <point x="556" y="900" type="line"/>
-    </contour>
   </outline>
 </glyph>

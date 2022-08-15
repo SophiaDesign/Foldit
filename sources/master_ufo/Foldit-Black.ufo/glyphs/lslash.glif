@@ -1,30 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
   <advance width="593"/>
-  <unicode hex="0142"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="276" y="794" name="top"/>
+  <unicode hex="0322"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="91" y="223" type="line"/>
-      <point x="537" y="559" type="line"/>
-      <point x="537" y="560" type="line"/>
-      <point x="441" y="699" type="line"/>
-      <point x="-5" y="363" type="line"/>
-      <point x="-5" y="362" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="0" type="line"/>
-      <point x="396" y="0" type="line"/>
-      <point x="396" y="794" type="line"/>
-      <point x="142" y="794" type="line"/>
-      <point x="142" y="107" type="line"/>
-    </contour>
-    <contour>
-      <point x="396" y="0" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="608" y="244" type="line"/>
-      <point x="396" y="244" type="line"/>
-    </contour>
   </outline>
 </glyph>

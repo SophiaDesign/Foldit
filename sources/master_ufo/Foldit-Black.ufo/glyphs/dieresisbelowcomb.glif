@@ -1,20 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcomb" format="2">
-  <unicode hex="0324"/>
-  <anchor x="294" y="0" name="_bottom"/>
+  <unicode hex="0804"/>
+  <anchor x="0" y="0" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="330" y="-170" type="line"/>
-      <point x="506" y="-170" type="line"/>
-      <point x="506" y="-38" type="line"/>
-      <point x="330" y="-38" type="line"/>
-    </contour>
-    <contour>
-      <point x="82" y="-170" type="line"/>
-      <point x="258" y="-170" type="line"/>
-      <point x="258" y="-38" type="line"/>
-      <point x="82" y="-38" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

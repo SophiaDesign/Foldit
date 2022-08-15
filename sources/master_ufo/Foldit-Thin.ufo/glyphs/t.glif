@@ -1,36 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
   <advance width="167"/>
-  <unicode hex="0074"/>
-  <anchor x="100" y="0" name="bottom"/>
-  <anchor x="94" y="670" name="top"/>
+  <unicode hex="0116"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="50" y="476" type="line"/>
-      <point x="51" y="476" type="line"/>
-      <point x="74" y="500" type="line"/>
-      <point x="74" y="670" type="line"/>
-      <point x="50" y="670" type="line"/>
-    </contour>
-    <contour>
-      <point x="51" y="476" type="line"/>
-      <point x="141" y="476" type="line"/>
-      <point x="141" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="74" y="476" type="line"/>
-      <point x="50" y="476" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="0" type="line"/>
-      <point x="144" y="0" type="line"/>
-      <point x="167" y="23" type="line"/>
-      <point x="167" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-    </contour>
   </outline>
 </glyph>

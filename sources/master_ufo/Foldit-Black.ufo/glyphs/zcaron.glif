@@ -1,42 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zcaron" format="2">
   <advance width="793"/>
-  <unicode hex="017E"/>
-  <anchor x="417" y="530" name="top"/>
+  <unicode hex="0382"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="36" y="311" type="line"/>
-      <point x="647" y="311" type="line"/>
-      <point x="673" y="530" type="line"/>
-      <point x="143" y="530" type="line"/>
-      <point x="36" y="312" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="149" type="line"/>
-      <point x="763" y="325" type="line"/>
-      <point x="673" y="530" type="line"/>
-      <point x="30" y="220" type="line"/>
-      <point x="30" y="219" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="0" type="line"/>
-      <point x="757" y="0" type="line"/>
-      <point x="757" y="219" type="line"/>
-      <point x="30" y="219" type="line"/>
-    </contour>
-    <contour>
-      <point x="316" y="582" type="line"/>
-      <point x="459" y="613" type="line"/>
-      <point x="345" y="750" type="line"/>
-      <point x="168" y="750" type="line"/>
-      <point x="168" y="749" type="line"/>
-    </contour>
-    <contour>
-      <point x="316" y="582" type="line"/>
-      <point x="480" y="582" type="line"/>
-      <point x="634" y="749" type="line"/>
-      <point x="634" y="750" type="line"/>
-      <point x="460" y="750" type="line"/>
-    </contour>
   </outline>
 </glyph>

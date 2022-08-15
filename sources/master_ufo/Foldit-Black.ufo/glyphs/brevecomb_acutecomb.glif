@@ -1,34 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_acutecomb" format="2">
-  <anchor x="319" y="530" name="_top"/>
+  <anchor x="0" y="0" name="_top"/>
   <outline>
-    <contour>
-      <point x="167" y="578" type="line"/>
-      <point x="452" y="578" type="line"/>
-      <point x="513" y="685" type="line"/>
-      <point x="106" y="685" type="line"/>
-    </contour>
-    <contour>
-      <point x="106" y="685" type="line"/>
-      <point x="232" y="685" type="line"/>
-      <point x="185" y="756" type="line"/>
-      <point x="59" y="756" type="line"/>
-      <point x="59" y="754" type="line"/>
-    </contour>
-    <contour>
-      <point x="256" y="720" type="line"/>
-      <point x="352" y="720" type="line"/>
-      <point x="467" y="900" type="line"/>
-      <point x="299" y="900" type="line"/>
-      <point x="299" y="899" type="line"/>
-    </contour>
-    <contour>
-      <point x="387" y="685" type="line"/>
-      <point x="513" y="685" type="line"/>
-      <point x="560" y="755" type="line"/>
-      <point x="560" y="756" type="line"/>
-      <point x="434" y="756" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

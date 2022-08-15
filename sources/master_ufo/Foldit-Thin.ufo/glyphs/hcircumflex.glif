@@ -1,43 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
   <advance width="197"/>
-  <unicode hex="0125"/>
-  <anchor x="88" y="573" name="stroke"/>
-  <anchor x="140" y="500" name="top"/>
+  <unicode hex="0293"/>
+  <anchor x="0" y="0" name="stroke"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="74" y="730" type="line"/>
-      <point x="50" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="-3" type="line"/>
-      <point x="124" y="-3" type="line"/>
-      <point x="147" y="20" type="line"/>
-      <point x="147" y="476" type="line"/>
-      <point x="123" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="74" y="476" type="line"/>
-      <point x="147" y="476" type="line"/>
-      <point x="147" y="477" type="line"/>
-      <point x="124" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="560" type="line"/>
-      <point x="194" y="560" type="line"/>
-      <point x="194" y="561" type="line"/>
-      <point x="150" y="650" type="line"/>
-      <point x="126" y="650" type="line"/>
-    </contour>
-    <contour>
-      <point x="80" y="560" type="line"/>
-      <point x="104" y="560" type="line"/>
-      <point x="149" y="650" type="line"/>
-      <point x="126" y="650" type="line"/>
-      <point x="80" y="561" type="line"/>
-    </contour>
   </outline>
 </glyph>

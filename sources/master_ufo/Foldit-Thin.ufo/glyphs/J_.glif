@@ -1,34 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
   <advance width="254"/>
-  <unicode hex="004A"/>
-  <anchor x="148" y="700" name="top"/>
+  <unicode hex="0074"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="140" y="24" type="line"/>
-      <point x="164" y="24" type="line"/>
-      <point x="164" y="700" type="line"/>
-      <point x="163" y="700" type="line"/>
-      <point x="140" y="676" type="line"/>
-    </contour>
-    <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="164" y="23" type="line"/>
-      <point x="164" y="24" type="line"/>
-      <point x="20" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="39" y="676" type="line"/>
-      <point x="140" y="676" type="line"/>
-      <point x="163" y="700" type="line"/>
-      <point x="39" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="164" y="676" type="line"/>
-      <point x="234" y="676" type="line"/>
-      <point x="234" y="700" type="line"/>
-      <point x="164" y="700" type="line"/>
-    </contour>
   </outline>
 </glyph>

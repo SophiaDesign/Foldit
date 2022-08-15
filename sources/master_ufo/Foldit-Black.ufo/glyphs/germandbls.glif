@@ -1,48 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls" format="2">
   <advance width="967"/>
-  <unicode hex="00DF"/>
+  <unicode hex="0223"/>
   <outline>
-    <contour>
-      <point x="25" y="-200" type="line"/>
-      <point x="279" y="-200" type="line"/>
-      <point x="279" y="800" type="line"/>
-      <point x="278" y="800" type="line"/>
-      <point x="25" y="693" type="line"/>
-    </contour>
-    <contour>
-      <point x="333" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
-      <point x="688" y="244" type="line"/>
-      <point x="415" y="244" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="556" type="line"/>
-      <point x="414" y="556" type="line"/>
-      <point x="414" y="800" type="line"/>
-      <point x="279" y="800" type="line"/>
-    </contour>
-    <contour>
-      <point x="668" y="416" type="line"/>
-      <point x="668" y="603" type="line"/>
-      <point x="415" y="800" type="line"/>
-      <point x="414" y="800" type="line"/>
-      <point x="414" y="507" type="line"/>
-    </contour>
-    <contour>
-      <point x="527" y="263" type="line"/>
-      <point x="688" y="263" type="line"/>
-      <point x="688" y="507" type="line"/>
-      <point x="414" y="507" type="line"/>
-      <point x="414" y="506" type="line"/>
-    </contour>
-    <contour>
-      <point x="688" y="0" type="line"/>
-      <point x="689" y="0" type="line"/>
-      <point x="942" y="193" type="line"/>
-      <point x="942" y="314" type="line"/>
-      <point x="689" y="507" type="line"/>
-      <point x="688" y="507" type="line"/>
-    </contour>
   </outline>
 </glyph>

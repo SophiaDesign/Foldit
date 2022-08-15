@@ -1,51 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ubreve" format="2">
   <advance width="887"/>
-  <unicode hex="016D"/>
-  <anchor x="442" y="0" name="bottom"/>
-  <anchor x="812" y="530" name="horn"/>
-  <anchor x="462" y="530" name="top"/>
+  <unicode hex="0365"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="horn"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="598" y="0" type="line"/>
-      <point x="599" y="0" type="line"/>
-      <point x="852" y="0" type="line"/>
-      <point x="852" y="530" type="line"/>
-      <point x="598" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="598" y="0" type="line"/>
-      <point x="598" y="244" type="line"/>
-      <point x="35" y="244" type="line"/>
-      <point x="35" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="244" type="line"/>
-      <point x="289" y="244" type="line"/>
-      <point x="289" y="536" type="line"/>
-      <point x="288" y="536" type="line"/>
-      <point x="35" y="489" type="line"/>
-    </contour>
-    <contour>
-      <point x="500" y="720" type="line"/>
-      <point x="636" y="720" type="line"/>
-      <point x="673" y="779" type="line"/>
-      <point x="673" y="780" type="line"/>
-      <point x="537" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="239" y="720" type="line"/>
-      <point x="385" y="720" type="line"/>
-      <point x="348" y="780" type="line"/>
-      <point x="202" y="780" type="line"/>
-      <point x="202" y="778" type="line"/>
-    </contour>
-    <contour>
-      <point x="310" y="598" type="line"/>
-      <point x="565" y="598" type="line"/>
-      <point x="636" y="720" type="line"/>
-      <point x="239" y="720" type="line"/>
-    </contour>
   </outline>
 </glyph>

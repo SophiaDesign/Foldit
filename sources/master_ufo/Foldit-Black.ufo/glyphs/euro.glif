@@ -1,47 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="euro" format="2">
   <advance width="952"/>
-  <unicode hex="20AC"/>
-  <anchor x="547" y="0" name="bottom"/>
-  <anchor x="541" y="730" name="top"/>
+  <unicode hex="8364"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="48" y="398" type="line"/>
-      <point x="847" y="399" type="line"/>
-      <point x="847" y="400" type="line"/>
-      <point x="824" y="423" type="line"/>
-      <point x="25" y="422" type="line"/>
-      <point x="25" y="421" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="309" type="line"/>
-      <point x="847" y="310" type="line"/>
-      <point x="847" y="311" type="line"/>
-      <point x="824" y="334" type="line"/>
-      <point x="25" y="333" type="line"/>
-      <point x="25" y="332" type="line"/>
-    </contour>
-    <contour>
-      <point x="292" y="0" type="line"/>
-      <point x="725" y="0" type="line"/>
-      <point x="927" y="243" type="line"/>
-      <point x="927" y="244" type="line"/>
-      <point x="90" y="244" type="line"/>
-      <point x="90" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="244" type="line"/>
-      <point x="344" y="244" type="line"/>
-      <point x="344" y="730" type="line"/>
-      <point x="343" y="730" type="line"/>
-      <point x="90" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="344" y="486" type="line"/>
-      <point x="927" y="486" type="line"/>
-      <point x="927" y="487" type="line"/>
-      <point x="725" y="730" type="line"/>
-      <point x="344" y="730" type="line"/>
-    </contour>
   </outline>
 </glyph>

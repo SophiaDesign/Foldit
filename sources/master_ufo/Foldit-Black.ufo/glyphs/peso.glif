@@ -1,50 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peso" format="2">
   <advance width="1007"/>
-  <unicode hex="20B1"/>
+  <unicode hex="8369"/>
   <outline>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="329" y="0" type="line"/>
-      <point x="329" y="730" type="line"/>
-      <point x="328" y="730" type="line"/>
-      <point x="75" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="133" type="line"/>
-      <point x="678" y="133" type="line"/>
-      <point x="678" y="377" type="line"/>
-      <point x="329" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="3" y="397" type="line"/>
-      <point x="1032" y="398" type="line"/>
-      <point x="1032" y="399" type="line"/>
-      <point x="1009" y="422" type="line"/>
-      <point x="-20" y="421" type="line"/>
-      <point x="-20" y="420" type="line"/>
-    </contour>
-    <contour>
-      <point x="3" y="441" type="line"/>
-      <point x="1032" y="442" type="line"/>
-      <point x="1032" y="443" type="line"/>
-      <point x="1009" y="466" type="line"/>
-      <point x="-20" y="465" type="line"/>
-      <point x="-20" y="464" type="line"/>
-    </contour>
-    <contour>
-      <point x="678" y="133" type="line"/>
-      <point x="679" y="133" type="line"/>
-      <point x="932" y="330" type="line"/>
-      <point x="932" y="486" type="line"/>
-      <point x="678" y="486" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="486" type="line"/>
-      <point x="932" y="486" type="line"/>
-      <point x="932" y="487" type="line"/>
-      <point x="730" y="730" type="line"/>
-      <point x="329" y="730" type="line"/>
-    </contour>
   </outline>
 </glyph>

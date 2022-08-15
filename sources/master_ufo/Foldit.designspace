@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="5.0">
+<designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="437.500000">
       <map input="100" output="24"/>
       <map input="200" output="35"/>
       <map input="300" output="56"/>
@@ -20,20 +20,22 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="24"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
     <source filename="Foldit-Black.ufo" name="Foldit Black" familyname="Foldit" stylename="Black">
       <location>
-        <dimension name="Weight" xvalue="254"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Foldit Thin" familyname="Foldit" stylename="Thin" filename="../instance_ufo/Foldit-Thin.ufo" stylemapfamilyname="Foldit Thin" stylemapstylename="regular">
+    <instance name="Foldit Thin" familyname="Foldit" stylename="Thin" filename="instance_ufo/Foldit-Thin.ufo" stylemapfamilyname="Foldit Thin" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="24"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -62,10 +64,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit ExtraLight" familyname="Foldit" stylename="ExtraLight" filename="../instance_ufo/Foldit-ExtraLight.ufo" stylemapfamilyname="Foldit ExtraLight" stylemapstylename="regular">
+    <instance name="Foldit ExtraLight" familyname="Foldit" stylename="ExtraLight" filename="instance_ufo/Foldit-ExtraLight.ufo" stylemapfamilyname="Foldit ExtraLight" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="35"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -94,10 +98,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Light" familyname="Foldit" stylename="Light" filename="../instance_ufo/Foldit-Light.ufo" stylemapfamilyname="Foldit Light" stylemapstylename="regular">
+    <instance name="Foldit Light" familyname="Foldit" stylename="Light" filename="instance_ufo/Foldit-Light.ufo" stylemapfamilyname="Foldit Light" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="56"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -126,10 +132,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Regular" familyname="Foldit" stylename="Regular" filename="../instance_ufo/Foldit-Regular.ufo" stylemapfamilyname="Foldit" stylemapstylename="regular">
+    <instance name="Foldit Regular" familyname="Foldit" stylename="Regular" filename="instance_ufo/Foldit-Regular.ufo" stylemapfamilyname="Foldit" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="88"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -158,10 +166,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Medium" familyname="Foldit" stylename="Medium" filename="../instance_ufo/Foldit-Medium.ufo" stylemapfamilyname="Foldit Medium" stylemapstylename="regular">
+    <instance name="Foldit Medium" familyname="Foldit" stylename="Medium" filename="instance_ufo/Foldit-Medium.ufo" stylemapfamilyname="Foldit Medium" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="120"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -190,10 +200,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit SemiBold" familyname="Foldit" stylename="SemiBold" filename="../instance_ufo/Foldit-SemiBold.ufo" stylemapfamilyname="Foldit SemiBold" stylemapstylename="regular">
+    <instance name="Foldit SemiBold" familyname="Foldit" stylename="SemiBold" filename="instance_ufo/Foldit-SemiBold.ufo" stylemapfamilyname="Foldit SemiBold" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="134"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -222,10 +234,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Bold" familyname="Foldit" stylename="Bold" filename="../instance_ufo/Foldit-Bold.ufo" stylemapfamilyname="Foldit Bold" stylemapstylename="regular">
+    <instance name="Foldit Bold" familyname="Foldit" stylename="Bold" filename="instance_ufo/Foldit-Bold.ufo" stylemapfamilyname="Foldit Bold" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="166"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -254,10 +268,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit ExtraBold" familyname="Foldit" stylename="ExtraBold" filename="../instance_ufo/Foldit-ExtraBold.ufo" stylemapfamilyname="Foldit ExtraBold" stylemapstylename="regular">
+    <instance name="Foldit ExtraBold" familyname="Foldit" stylename="ExtraBold" filename="instance_ufo/Foldit-ExtraBold.ufo" stylemapfamilyname="Foldit ExtraBold" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="214"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
@@ -286,10 +302,12 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Foldit Black" familyname="Foldit" stylename="Black" filename="../instance_ufo/Foldit-Black.ufo" stylemapfamilyname="Foldit Black" stylemapstylename="regular">
+    <instance name="Foldit Black" familyname="Foldit" stylename="Black" filename="instance_ufo/Foldit-Black.ufo" stylemapfamilyname="Foldit Black" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="254"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
+      <kerning/>
+      <info/>
       <lib>
         <dict>
           <key>com.schriftgestaltung.customParameters</key>

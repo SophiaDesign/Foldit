@@ -2,25 +2,5 @@
 <glyph name="four.lf" format="2">
   <advance width="800"/>
   <outline>
-    <contour>
-      <point x="125" y="173" type="line"/>
-      <point x="521" y="173" type="line"/>
-      <point x="521" y="417" type="line"/>
-      <point x="201" y="417" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="173" type="line"/>
-      <point x="637" y="729" type="line"/>
-      <point x="637" y="730" type="line"/>
-      <point x="377" y="730" type="line"/>
-      <point x="5" y="368" type="line"/>
-    </contour>
-    <contour>
-      <point x="521" y="0" type="line"/>
-      <point x="775" y="0" type="line"/>
-      <point x="775" y="210" type="line"/>
-      <point x="522" y="417" type="line"/>
-      <point x="521" y="417" type="line"/>
-    </contour>
   </outline>
 </glyph>

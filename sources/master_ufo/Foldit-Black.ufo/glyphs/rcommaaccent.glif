@@ -1,30 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcommaaccent" format="2">
   <advance width="642"/>
-  <unicode hex="0157"/>
-  <anchor x="155" y="0" name="bottom"/>
-  <anchor x="362" y="530" name="top"/>
+  <unicode hex="0343"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="289" y="0" type="line"/>
-      <point x="289" y="530" type="line"/>
-      <point x="288" y="530" type="line"/>
-      <point x="35" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="286" type="line"/>
-      <point x="642" y="286" type="line"/>
-      <point x="642" y="287" type="line"/>
-      <point x="535" y="530" type="line"/>
-      <point x="289" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="-260" type="line"/>
-      <point x="251" y="-260" type="line"/>
-      <point x="251" y="-50" type="line"/>
-      <point x="59" y="-50" type="line"/>
-      <point x="59" y="-158" type="line"/>
-    </contour>
   </outline>
 </glyph>

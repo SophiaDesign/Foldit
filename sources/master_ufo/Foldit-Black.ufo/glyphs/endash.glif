@@ -1,19 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="endash" format="2">
   <advance width="630"/>
-  <unicode hex="2013"/>
+  <unicode hex="8211"/>
   <outline>
-    <contour>
-      <point x="35" y="183" type="line"/>
-      <point x="595" y="183" type="line"/>
-      <point x="595" y="367" type="line"/>
-      <point x="35" y="367" type="line"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
-    </dict>
-  </lib>
 </glyph>

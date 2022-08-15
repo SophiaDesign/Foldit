@@ -1,35 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb.case" format="2">
-  <anchor x="318" y="700" name="_top"/>
+  <anchor x="0" y="0" name="_top"/>
   <outline>
-    <contour>
-      <point x="330" y="753" type="line"/>
-      <point x="331" y="753" type="line"/>
-      <point x="352" y="771" type="line"/>
-      <point x="352" y="835" type="line"/>
-      <point x="330" y="835" type="line"/>
-    </contour>
-    <contour>
-      <point x="293" y="753" type="line"/>
-      <point x="330" y="753" type="line"/>
-      <point x="330" y="775" type="line"/>
-      <point x="275" y="775" type="line"/>
-      <point x="275" y="774" type="line"/>
-    </contour>
-    <contour>
-      <point x="275" y="775" type="line"/>
-      <point x="296" y="775" type="line"/>
-      <point x="296" y="857" type="line"/>
-      <point x="295" y="857" type="line"/>
-      <point x="275" y="839" type="line"/>
-    </contour>
-    <contour>
-      <point x="296" y="835" type="line"/>
-      <point x="352" y="835" type="line"/>
-      <point x="352" y="836" type="line"/>
-      <point x="334" y="857" type="line"/>
-      <point x="296" y="857" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

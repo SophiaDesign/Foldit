@@ -1,51 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
   <advance width="253"/>
-  <unicode hex="0024"/>
+  <unicode hex="0036"/>
   <outline>
-    <contour>
-      <point x="77" y="676" type="line"/>
-      <point x="200" y="676" type="line"/>
-      <point x="200" y="677" type="line"/>
-      <point x="177" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="114" y="-54" type="line"/>
-      <point x="115" y="-54" type="line"/>
-      <point x="138" y="-31" type="line"/>
-      <point x="137" y="756" type="line"/>
-      <point x="136" y="756" type="line"/>
-      <point x="113" y="733" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="353" type="line"/>
-      <point x="176" y="353" type="line"/>
-      <point x="176" y="377" type="line"/>
-      <point x="53" y="377" type="line"/>
-      <point x="53" y="376" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="377" type="line"/>
-      <point x="77" y="377" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="76" y="700" type="line"/>
-      <point x="53" y="677" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="0" type="line"/>
-      <point x="177" y="0" type="line"/>
-      <point x="200" y="24" type="line"/>
-      <point x="200" y="353" type="line"/>
-      <point x="177" y="377" type="line"/>
-      <point x="176" y="377" type="line"/>
-    </contour>
   </outline>
 </glyph>

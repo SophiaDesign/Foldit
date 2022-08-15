@@ -1,37 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
   <advance width="600"/>
-  <unicode hex="02DA"/>
-  <anchor x="300" y="530" name="_top"/>
-  <anchor x="294" y="770" name="top"/>
+  <unicode hex="0730"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="228" y="736" type="line"/>
-      <point x="458" y="736" type="line"/>
-      <point x="458" y="737" type="line"/>
-      <point x="398" y="820" type="line"/>
-      <point x="228" y="820" type="line"/>
-    </contour>
-    <contour>
-      <point x="192" y="602" type="line"/>
-      <point x="362" y="602" type="line"/>
-      <point x="362" y="684" type="line"/>
-      <point x="132" y="684" type="line"/>
-      <point x="132" y="683" type="line"/>
-    </contour>
-    <contour>
-      <point x="132" y="684" type="line"/>
-      <point x="228" y="684" type="line"/>
-      <point x="228" y="820" type="line"/>
-      <point x="227" y="820" type="line"/>
-      <point x="132" y="758" type="line"/>
-    </contour>
-    <contour>
-      <point x="362" y="602" type="line"/>
-      <point x="363" y="602" type="line"/>
-      <point x="458" y="658" type="line"/>
-      <point x="458" y="736" type="line"/>
-      <point x="362" y="736" type="line"/>
-    </contour>
   </outline>
 </glyph>

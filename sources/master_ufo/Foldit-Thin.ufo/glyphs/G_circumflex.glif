@@ -1,58 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcircumflex" format="2">
   <advance width="263"/>
-  <unicode hex="011C"/>
-  <anchor x="146" y="0" name="bottom"/>
-  <anchor x="138" y="700" name="top"/>
+  <unicode hex="0284"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="77" y="676" type="line"/>
-      <point x="220" y="676" type="line"/>
-      <point x="220" y="677" type="line"/>
-      <point x="197" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="196" y="0" type="line"/>
-      <point x="196" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="24" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="76" y="700" type="line"/>
-      <point x="53" y="677" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="353" type="line"/>
-      <point x="196" y="353" type="line"/>
-      <point x="196" y="377" type="line"/>
-      <point x="123" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="220" y="24" type="line"/>
-      <point x="220" y="353" type="line"/>
-      <point x="197" y="377" type="line"/>
-      <point x="196" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="168" y="760" type="line"/>
-      <point x="192" y="760" type="line"/>
-      <point x="192" y="761" type="line"/>
-      <point x="148" y="850" type="line"/>
-      <point x="124" y="850" type="line"/>
-    </contour>
-    <contour>
-      <point x="78" y="760" type="line"/>
-      <point x="102" y="760" type="line"/>
-      <point x="147" y="850" type="line"/>
-      <point x="124" y="850" type="line"/>
-      <point x="78" y="761" type="line"/>
-    </contour>
   </outline>
 </glyph>

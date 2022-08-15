@@ -5,9 +5,7 @@
     <key>ascender</key>
     <integer>800</integer>
     <key>capHeight</key>
-    <integer>730</integer>
-    <key>copyright</key>
-    <string>Copyright 2021-2022 The Foldit Font Project Authors (https://www.github.com/sophiadesign/GF-Foldit)</string>
+    <integer>700</integer>
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
@@ -22,18 +20,6 @@
     <integer>-300</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameDesigner</key>
-    <string>Sophia Tai</string>
-    <key>openTypeNameDesignerURL</key>
-    <string>www.sophiatai.com</string>
-    <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>https://scripts.sil.org/OFL</string>
-    <key>openTypeNameManufacturer</key>
-    <string>Sophia Tai</string>
-    <key>openTypeNameManufacturerURL</key>
-    <string>www.sophiatai.com</string>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
@@ -46,6 +32,8 @@
     <integer>-300</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>STAI</string>
     <key>openTypeOS2WinAscent</key>
     <integer>1070</integer>
     <key>openTypeOS2WinDescent</key>
@@ -67,6 +55,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>530</integer>
+    <integer>500</integer>
   </dict>
 </plist>

@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
-  <unicode hex="0302"/>
-  <anchor x="309" y="500" name="_top"/>
-  <anchor x="316" y="602" name="top"/>
+  <unicode hex="0770"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="343" y="590" type="line"/>
-      <point x="367" y="590" type="line"/>
-      <point x="367" y="591" type="line"/>
-      <point x="323" y="680" type="line"/>
-      <point x="299" y="680" type="line"/>
-    </contour>
-    <contour>
-      <point x="253" y="590" type="line"/>
-      <point x="277" y="590" type="line"/>
-      <point x="322" y="680" type="line"/>
-      <point x="299" y="680" type="line"/>
-      <point x="253" y="591" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="258" y="730" name="_top"/>
+  <anchor x="0" y="0" name="_top"/>
   <outline>
-    <contour>
-      <point x="211" y="760" type="line"/>
-      <point x="337" y="760" type="line"/>
-      <point x="302" y="900" type="line"/>
-      <point x="96" y="900" type="line"/>
-      <point x="96" y="899" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

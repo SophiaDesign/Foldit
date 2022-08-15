@@ -1,40 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five" format="2">
   <advance width="800"/>
-  <unicode hex="0035"/>
+  <unicode hex="0053"/>
   <outline>
-    <contour>
-      <point x="217" y="0" type="line"/>
-      <point x="511" y="0" type="line"/>
-      <point x="511" y="244" type="line"/>
-      <point x="15" y="244" type="line"/>
-      <point x="15" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="75" y="262" type="line"/>
-      <point x="511" y="262" type="line"/>
-      <point x="511" y="502" type="line"/>
-      <point x="75" y="502" type="line"/>
-    </contour>
-    <contour>
-      <point x="75" y="502" type="line"/>
-      <point x="329" y="502" type="line"/>
-      <point x="329" y="700" type="line"/>
-      <point x="75" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="0" type="line"/>
-      <point x="512" y="0" type="line"/>
-      <point x="765" y="187" type="line"/>
-      <point x="765" y="325" type="line"/>
-      <point x="512" y="502" type="line"/>
-      <point x="511" y="502" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="522" type="line"/>
-      <point x="715" y="522" type="line"/>
-      <point x="715" y="700" type="line"/>
-      <point x="329" y="700" type="line"/>
-    </contour>
   </outline>
 </glyph>

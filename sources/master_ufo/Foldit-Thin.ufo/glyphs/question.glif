@@ -1,41 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
   <advance width="213"/>
-  <unicode hex="003F"/>
+  <unicode hex="0063"/>
   <outline>
-    <contour>
-      <point x="13" y="676" type="line"/>
-      <point x="136" y="676" type="line"/>
-      <point x="136" y="700" type="line"/>
-      <point x="36" y="700" type="line"/>
-      <point x="13" y="677" type="line"/>
-    </contour>
-    <contour>
-      <point x="136" y="337" type="line"/>
-      <point x="160" y="337" type="line"/>
-      <point x="160" y="677" type="line"/>
-      <point x="137" y="700" type="line"/>
-      <point x="136" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="94" y="0" type="line"/>
-      <point x="94" y="24" type="line"/>
-      <point x="63" y="24" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="313" type="line"/>
-      <point x="137" y="313" type="line"/>
-      <point x="160" y="336" type="line"/>
-      <point x="160" y="337" type="line"/>
-      <point x="90" y="337" type="line"/>
-    </contour>
-    <contour>
-      <point x="66" y="104" type="line"/>
-      <point x="90" y="104" type="line"/>
-      <point x="90" y="337" type="line"/>
-      <point x="89" y="337" type="line"/>
-      <point x="66" y="313" type="line"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,37 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_hookabovecomb" format="2">
-  <anchor x="309" y="500" name="_top"/>
+  <anchor x="0" y="0" name="_top"/>
   <outline>
-    <contour>
-      <point x="343" y="540" type="line"/>
-      <point x="367" y="540" type="line"/>
-      <point x="367" y="541" type="line"/>
-      <point x="323" y="630" type="line"/>
-      <point x="322" y="630" type="line"/>
-      <point x="299" y="630" type="line"/>
-    </contour>
-    <contour>
-      <point x="253" y="540" type="line"/>
-      <point x="277" y="540" type="line"/>
-      <point x="322" y="630" type="line"/>
-      <point x="299" y="630" type="line"/>
-      <point x="253" y="541" type="line"/>
-    </contour>
-    <contour>
-      <point x="281" y="746" type="line"/>
-      <point x="358" y="746" type="line"/>
-      <point x="358" y="747" type="line"/>
-      <point x="340" y="770" type="line"/>
-      <point x="281" y="770" type="line"/>
-    </contour>
-    <contour>
-      <point x="302" y="675" type="line"/>
-      <point x="325" y="675" type="line"/>
-      <point x="358" y="746" type="line"/>
-      <point x="358" y="747" type="line"/>
-      <point x="340" y="770" type="line"/>
-      <point x="302" y="676" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

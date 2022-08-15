@@ -1,28 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevebelowcomb" format="2">
-  <unicode hex="032E"/>
-  <anchor x="329" y="0" name="_bottom"/>
+  <unicode hex="0814"/>
+  <anchor x="0" y="0" name="_bottom"/>
   <outline>
-    <contour>
-      <point x="341" y="-78" type="line"/>
-      <point x="367" y="-78" type="line"/>
-      <point x="396" y="-29" type="line"/>
-      <point x="396" y="-28" type="line"/>
-      <point x="370" y="-28" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="-78" type="line"/>
-      <point x="315" y="-78" type="line"/>
-      <point x="286" y="-28" type="line"/>
-      <point x="260" y="-28" type="line"/>
-      <point x="260" y="-29" type="line"/>
-    </contour>
-    <contour>
-      <point x="302" y="-100" type="line"/>
-      <point x="354" y="-100" type="line"/>
-      <point x="367" y="-78" type="line"/>
-      <point x="289" y="-78" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,49 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_tildecomb.case" format="2">
-  <anchor x="309" y="700" name="_top"/>
+  <anchor x="0" y="0" name="_top"/>
   <outline>
-    <contour>
-      <point x="345" y="870" type="line"/>
-      <point x="369" y="870" type="line"/>
-      <point x="369" y="922" type="line"/>
-      <point x="345" y="922" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="861" type="line"/>
-      <point x="273" y="861" type="line"/>
-      <point x="273" y="913" type="line"/>
-      <point x="249" y="912" type="line"/>
-    </contour>
-    <contour>
-      <point x="345" y="860" type="line"/>
-      <point x="346" y="860" type="line"/>
-      <point x="368" y="869" type="line"/>
-      <point x="368" y="870" type="line"/>
-      <point x="272" y="922" type="line"/>
-      <point x="271" y="922" type="line"/>
-      <point x="249" y="913" type="line"/>
-      <point x="249" y="912" type="line"/>
-    </contour>
-    <contour>
-      <point x="262" y="783" type="line"/>
-      <point x="294" y="783" type="line"/>
-      <point x="263" y="820" type="line"/>
-      <point x="231" y="820" type="line"/>
-      <point x="231" y="819" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="783" type="line"/>
-      <point x="356" y="783" type="line"/>
-      <point x="387" y="819" type="line"/>
-      <point x="387" y="820" type="line"/>
-      <point x="355" y="820" type="line"/>
-    </contour>
-    <contour>
-      <point x="281" y="761" type="line"/>
-      <point x="337" y="761" type="line"/>
-      <point x="356" y="783" type="line"/>
-      <point x="262" y="783" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>

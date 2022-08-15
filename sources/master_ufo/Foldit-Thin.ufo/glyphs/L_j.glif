@@ -1,43 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lj" format="2">
   <advance width="439"/>
-  <unicode hex="01C8"/>
-  <anchor x="152" y="0" name="bottom"/>
-  <anchor x="73" y="700" name="top"/>
+  <unicode hex="0456"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="256" y="0" type="line"/>
-      <point x="256" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="24" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="53" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="-200" type="line"/>
-      <point x="330" y="-200" type="line"/>
-      <point x="353" y="-177" type="line"/>
-      <point x="353" y="503" type="line"/>
-      <point x="352" y="503" type="line"/>
-      <point x="329" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="267" y="-200" type="line"/>
-      <point x="329" y="-200" type="line"/>
-      <point x="329" y="-176" type="line"/>
-      <point x="267" y="-176" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="542" type="line"/>
-      <point x="330" y="542" type="line"/>
-      <point x="353" y="565" type="line"/>
-      <point x="353" y="615" type="line"/>
-      <point x="329" y="615" type="line"/>
-    </contour>
   </outline>
 </glyph>

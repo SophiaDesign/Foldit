@@ -1,57 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcircumflex" format="2">
   <advance width="910"/>
-  <unicode hex="011D"/>
-  <anchor x="544" y="750" name="top"/>
+  <unicode hex="0285"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="289" y="286" type="line"/>
-      <point x="824" y="286" type="line"/>
-      <point x="910" y="529" type="line"/>
-      <point x="910" y="530" type="line"/>
-      <point x="289" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="-206" type="line"/>
-      <point x="570" y="-206" type="line"/>
-      <point x="570" y="-20" type="line"/>
-      <point x="35" y="-20" type="line"/>
-      <point x="35" y="-21" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="22" type="line"/>
-      <point x="570" y="22" type="line"/>
-      <point x="570" y="266" type="line"/>
-      <point x="35" y="266" type="line"/>
-      <point x="35" y="265" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="266" type="line"/>
-      <point x="289" y="266" type="line"/>
-      <point x="289" y="530" type="line"/>
-      <point x="288" y="530" type="line"/>
-      <point x="35" y="423" type="line"/>
-    </contour>
-    <contour>
-      <point x="570" y="-206" type="line"/>
-      <point x="571" y="-206" type="line"/>
-      <point x="824" y="-104" type="line"/>
-      <point x="824" y="286" type="line"/>
-      <point x="570" y="286" type="line"/>
-    </contour>
-    <contour>
-      <point x="585" y="592" type="line"/>
-      <point x="762" y="592" type="line"/>
-      <point x="762" y="593" type="line"/>
-      <point x="617" y="770" type="line"/>
-      <point x="474" y="739" type="line"/>
-    </contour>
-    <contour>
-      <point x="296" y="592" type="line"/>
-      <point x="470" y="592" type="line"/>
-      <point x="617" y="770" type="line"/>
-      <point x="443" y="770" type="line"/>
-      <point x="296" y="593" type="line"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,50 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odotaccentmacron" format="2">
   <advance width="198"/>
-  <unicode hex="0231"/>
-  <anchor x="99" y="0" name="bottom"/>
-  <anchor x="124" y="500" name="horn"/>
-  <anchor x="99" y="590" name="top"/>
+  <unicode hex="0561"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="horn"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="74" y="476" type="line"/>
-      <point x="148" y="476" type="line"/>
-      <point x="148" y="477" type="line"/>
-      <point x="125" y="500" type="line"/>
-      <point x="74" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="24" type="line"/>
-      <point x="50" y="24" type="line"/>
-      <point x="50" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="24" type="line"/>
-      <point x="74" y="24" type="line"/>
-      <point x="74" y="500" type="line"/>
-      <point x="73" y="500" type="line"/>
-      <point x="50" y="477" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="148" y="23" type="line"/>
-      <point x="148" y="476" type="line"/>
-      <point x="124" y="476" type="line"/>
-    </contour>
-    <contour>
-      <point x="84" y="601" type="line"/>
-      <point x="114" y="601" type="line"/>
-      <point x="114" y="635" type="line"/>
-      <point x="84" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="44" y="701" type="line"/>
-      <point x="154" y="701" type="line"/>
-      <point x="154" y="725" type="line"/>
-      <point x="44" y="725" type="line"/>
-    </contour>
   </outline>
 </glyph>

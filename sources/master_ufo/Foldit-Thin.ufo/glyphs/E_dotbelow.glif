@@ -1,41 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edotbelow" format="2">
   <advance width="240"/>
-  <unicode hex="1EB8"/>
-  <anchor x="135" y="0" name="bottom"/>
-  <anchor x="138" y="700" name="top"/>
+  <unicode hex="7864"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="top"/>
   <outline>
-    <contour>
-      <point x="77" y="0" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="220" y="24" type="line"/>
-      <point x="53" y="24" type="line"/>
-      <point x="53" y="23" type="line"/>
-    </contour>
-    <contour>
-      <point x="53" y="24" type="line"/>
-      <point x="77" y="24" type="line"/>
-      <point x="77" y="700" type="line"/>
-      <point x="53" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="353" type="line"/>
-      <point x="196" y="353" type="line"/>
-      <point x="196" y="377" type="line"/>
-      <point x="77" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="676" type="line"/>
-      <point x="197" y="676" type="line"/>
-      <point x="220" y="699" type="line"/>
-      <point x="220" y="700" type="line"/>
-      <point x="77" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="121" y="-119" type="line"/>
-      <point x="151" y="-119" type="line"/>
-      <point x="151" y="-85" type="line"/>
-      <point x="121" y="-85" type="line"/>
-    </contour>
   </outline>
 </glyph>
