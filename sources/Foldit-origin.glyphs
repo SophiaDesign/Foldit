@@ -1027,6 +1027,21 @@ width = 927;
 unicode = 7860;
 },
 {
+glyphname = Acaron;
+lastChange = "2022-08-16 13:31:45 +0000";
+layers = (
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 461;
+},
+{
 glyphname = Acircumflex;
 kernLeft = A;
 kernRight = A;
@@ -6311,6 +6326,21 @@ width = 697;
 );
 metricRight = "=|";
 unicode = 73;
+},
+{
+glyphname = IJ;
+lastChange = "2022-08-16 13:31:57 +0000";
+layers = (
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 306;
 },
 {
 glyphname = Iacute;
@@ -16851,6 +16881,21 @@ width = 907;
 unicode = 7861;
 },
 {
+glyphname = acaron;
+lastChange = "2022-08-16 13:31:52 +0000";
+layers = (
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 462;
+},
+{
 glyphname = acircumflex;
 kernLeft = o;
 kernRight = n;
@@ -23557,6 +23602,21 @@ width = 367;
 }
 );
 unicode = 523;
+},
+{
+glyphname = ij;
+lastChange = "2022-08-16 13:32:01 +0000";
+layers = (
+{
+layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 307;
 },
 {
 glyphname = imacron;
@@ -72570,6 +72630,10 @@ value = www.sophiatai.com;
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = vendorID;
+value = STAI;
 }
 );
 stems = (
