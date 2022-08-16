@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="acute" format="2">
-  <advance width="600"/>
-  <unicode hex="0180"/>
-  <anchor x="0" y="0" name="_top"/>
-  <outline>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dzcaron" format="2">
-  <advance width="1658"/>
-  <unicode hex="0454"/>
-  <anchor x="0" y="0" name="stroke"/>
-  <anchor x="0" y="0" name="top"/>
-  <outline>
-  </outline>
-</glyph>
