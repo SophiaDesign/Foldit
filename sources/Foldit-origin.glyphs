@@ -39618,8 +39618,8 @@ width = 490;
 unicode = 8308;
 },
 {
-glyphname = nonmarkingreturn;
-lastChange = "2022-08-12 14:35:41 +0000";
+glyphname = CR;
+lastChange = "2022-08-17 13:36:50 +0000";
 layers = (
 {
 attr = {
