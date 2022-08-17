@@ -7,7 +7,6 @@ DisplayStrings = (
 "£",
 "VWXY₩089xBN",
 ">",
-"",
 M,
 ALPHABETTES,
 "™/circumflexcomb_hookabovecomb",
@@ -188267,6 +188266,7 @@ instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.38261;
 m003 = 0.61739;
 };
+isBold = 1;
 name = Bold;
 weightClass = 700;
 },
