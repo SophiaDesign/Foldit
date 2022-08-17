@@ -34880,9 +34880,15 @@ metricRight = j;
 glyphname = f_f;
 kernLeft = f;
 kernRight = f;
-lastChange = "2022-08-17 11:26:16 +0000";
+lastChange = "2022-08-17 13:32:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (157,0);
+}
+);
 attr = {
 color = "1";
 };
@@ -34899,6 +34905,12 @@ ref = f;
 width = 314;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (658,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -34922,9 +34934,19 @@ metricRight = f;
 glyphname = f_f_i;
 kernLeft = f;
 kernRight = i;
-lastChange = "2022-08-17 11:26:16 +0000";
+lastChange = "2022-08-17 13:32:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (146,0);
+},
+{
+name = caret_2;
+pos = (292,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -34941,6 +34963,16 @@ ref = i;
 width = 438;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (553.333,0);
+},
+{
+name = caret_2;
+pos = (1106.667,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -34964,9 +34996,19 @@ metricRight = i;
 glyphname = f_f_l;
 kernLeft = f;
 kernRight = l;
-lastChange = "2022-08-17 11:26:16 +0000";
+lastChange = "2022-08-17 13:32:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (160,0);
+},
+{
+name = caret_2;
+pos = (320,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -34983,6 +35025,16 @@ ref = l;
 width = 480;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (617.333,0);
+},
+{
+name = caret_2;
+pos = (1234.667,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -35006,9 +35058,15 @@ metricRight = l;
 glyphname = fi;
 kernLeft = f;
 kernRight = i;
-lastChange = "2022-08-17 11:26:16 +0000";
+lastChange = "2022-08-17 13:32:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (140.5,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -35025,6 +35083,12 @@ ref = i;
 width = 281;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (501,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -35049,9 +35113,15 @@ unicode = 64257;
 glyphname = fl;
 kernLeft = f;
 kernRight = l;
-lastChange = "2022-08-17 11:26:16 +0000";
+lastChange = "2022-08-17 13:32:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (161.5,0);
+}
+);
 attr = {
 color = 1;
 };
@@ -35068,6 +35138,12 @@ ref = l;
 width = 323;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (597,0);
+}
+);
 attr = {
 color = 1;
 };
