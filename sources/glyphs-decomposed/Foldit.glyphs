@@ -150861,8 +150861,8 @@ width = 490;
 unicode = 8308;
 },
 {
-glyphname = nonmarkingreturn;
-lastChange = "2022-08-12 14:38:57 +0000";
+glyphname = CR;
+lastChange = "2022-08-17 02:40:40 +0000";
 layers = (
 {
 attr = {
@@ -151852,7 +151852,7 @@ metricRight = "=|/2";
 },
 {
 glyphname = .null;
-lastChange = "2022-08-12 14:38:57 +0000";
+lastChange = "2022-08-17 02:40:48 +0000";
 layers = (
 {
 attr = {
@@ -151869,7 +151869,6 @@ layerId = m003;
 width = 200;
 }
 );
-unicode = 0;
 },
 {
 glyphname = space;
