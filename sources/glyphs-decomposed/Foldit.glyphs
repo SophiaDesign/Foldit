@@ -2,6 +2,7 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
+<<<<<<< HEAD:sources/Foldit-decomposed.glyphs
 "ǍĲǎĳ
 /Iacute_J.loclNLD/iacute_j.loclNLD 
 
@@ -19,6 +20,24 @@ vrijdag
 
  ij
 "
+=======
+"AǺÆBCDEƏFGHĦIJKLŁMNŊOØȬŒPÞQRSẞTUVWXYZaǻæbcdðđeəfghħiıĭȉïỉȋīĩjȷkĸlłmnŋoøȭœpþqrsßtŧuvwxyzf/f_f/f_f_i/f_f_l ﬁﬂªº0123456789¹²³⁴⁄/.notdef ⟨⟩.,!¡?¿*#///backslash -–—_(){}[]‘’«‹›ƒ@&¶§©®™°′|¦†‡№₵¢₡¤S$₫€₣₲₭₤₺₼₦₧₱₽₹£¥∙⁒∕+−×÷=≠><≥≤±≈~¬^µ%‰/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ̈̇̀́̋/caroncomb.alt ̵̧̨̛̣̤̦̂̌̆̊̃̄̉̏̑̒/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/caroncomb.alt.case/circumflexcomb.case/circumflexcomb_gravecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_tildecomb.case/circumflexcomb_hookabovecomb.case/caroncomb.case/brevecomb.case/brevecomb_gravecomb.case/brevecomb_acutecomb.case/brevecomb_tildecomb.case/brevecomb_hookabovecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/horncomb.case ʹ",
+"₽",
+"£",
+"VWXY₩089xBN",
+">",
+M,
+ALPHABETTES,
+"™/circumflexcomb_hookabovecomb",
+"«»₩",
+"₩",
+"Ħ",
+"̵TŦ",
+"Ŀ",
+"Ŋ",
+"ł",
+"̵̵HÐð"
+>>>>>>> 63a91e5b8ffbdd575c989804be38078911a198d9:sources/glyphs-decomposed/Foldit.glyphs
 );
 axes = (
 {
@@ -153373,8 +153392,13 @@ width = 490;
 unicode = 8308;
 },
 {
+<<<<<<< HEAD:sources/Foldit-decomposed.glyphs
 glyphname = nonmarkingreturn;
 lastChange = "2022-08-17 11:42:34 +0000";
+=======
+glyphname = CR;
+lastChange = "2022-08-17 02:40:40 +0000";
+>>>>>>> 63a91e5b8ffbdd575c989804be38078911a198d9:sources/glyphs-decomposed/Foldit.glyphs
 layers = (
 {
 attr = {
@@ -154364,7 +154388,11 @@ metricRight = "=|/2";
 },
 {
 glyphname = .null;
+<<<<<<< HEAD:sources/Foldit-decomposed.glyphs
 lastChange = "2022-08-17 11:42:34 +0000";
+=======
+lastChange = "2022-08-17 02:40:48 +0000";
+>>>>>>> 63a91e5b8ffbdd575c989804be38078911a198d9:sources/glyphs-decomposed/Foldit.glyphs
 layers = (
 {
 attr = {
@@ -154381,7 +154409,6 @@ layerId = m003;
 width = 200;
 }
 );
-unicode = 0;
 },
 {
 glyphname = space;
@@ -190778,6 +190805,7 @@ instanceInterpolations = {
 "33AE93C6-B8B3-427A-A53B-F24970E840CE" = 0.38261;
 m003 = 0.61739;
 };
+isBold = 1;
 name = Bold;
 weightClass = 700;
 },
