@@ -1,9 +1,9 @@
 # Foldit Font Project (coming soon)
 
-[![][Fontbakery]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
-[![][Universal]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
-[![][GF Profile]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
-[![][Outline Correctness]](https://SophiaDesign.github.io/Foldit/fontbakery-report.html)
+[![][Fontbakery]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
+[![][Universal]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
 [![][Shaping]](https://SophiaDesign.github.io/GF-Foldit/fontbakery-report.html)
 
 [Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSophiaDesign%2FGF-Foldit%2Fgh-pages%2Fbadges%2Foverall.json
@@ -36,7 +36,7 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 ## Changelog
 
 When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
+[Font Versioning](https://googlefonts.github.io/gf-guide/upstream) is based on semver. 
 Changelog example:
 
 **26 September 2022. Version 1.00**
