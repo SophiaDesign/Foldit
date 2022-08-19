@@ -28,7 +28,7 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 - Khaled Kosny (COLRv1 dev support) | [github](https://github.com/khaledhosny)
 - Cosimo Lupo ([FontTools](https://github.com/fonttools/fonttools)) | [github](https://github.com/anthrotype)
 - Simon Cozens (dev support) | [github](https://github.com/simoncozens)
-- Linh Nguyen (Vietnamese diacritics advice)
+- Linh Nguyen (Vietnamese diacritics advice) | [github](https://github.com/Rei-Nguyen)
 - Just van Rossum ([FontGoggles](https://fontgoggles.org/)) | [github](https://github.com/justvanrossum)
 - Laurence Penney ([Samsa](https://lorp.github.io/samsa)) | [github](https://github.com/Lorp)
 - Yanone (general support) | [github](https://github.com/yanone)
