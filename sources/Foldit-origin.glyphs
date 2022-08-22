@@ -71065,7 +71065,7 @@ axesValues = (
 customParameters = (
 {
 name = "Color Layers to SVG";
-value = 0;
+value = 1;
 },
 {
 disabled = 1;
@@ -71079,11 +71079,11 @@ value = 0;
 },
 {
 name = "Export COLR Table";
-value = 0;
+value = 1;
 },
 {
 name = "Export SVG Table";
-value = 0;
+value = 1;
 }
 );
 instanceInterpolations = {
