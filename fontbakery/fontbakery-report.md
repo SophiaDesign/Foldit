@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EA4.color1
+	- uni1EDB.color0
 
-	- ucircumflex.color4
+	- uni1EEB.color3
 
-	- uni0162.color1
+	- uni0208.color6
 
-	- uni020E.color4
+	- otilde.color1
 
-	- uni1EE6.color2
+	- uhorn.color4
 
-	- uni1EB5.color2
+	- A.color0
 
-	- atilde.color1
+	- Omacron.color4
 
-	- tbar.color3
+	- lira.color4
 
-	- uni00B3.color2
+	- uring.color0
 
-	- F.color0 
+	- three.lf.color2 
 
 	- And 3012 more.
 
