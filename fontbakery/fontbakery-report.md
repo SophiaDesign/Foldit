@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ccaron.color0
+	- uni1EA4.color1
 
-	- ordfeminine.color0
+	- ucircumflex.color4
 
-	- colonmonetary.color4
+	- uni0162.color1
 
-	- registered.color7
+	- uni020E.color4
 
-	- Ccedilla.color0
+	- uni1EE6.color2
 
-	- uni020D.color1
+	- uni1EB5.color2
 
-	- uni1EE4.color0
+	- atilde.color1
 
-	- uni032E.color0
+	- tbar.color3
 
-	- ampersand.color4
+	- uni00B3.color2
 
-	- Edieresis.color1 
+	- F.color0 
 
 	- And 3012 more.
 
