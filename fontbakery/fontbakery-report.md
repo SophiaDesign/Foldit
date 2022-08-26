@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- semicolon.color0
+	- uni1EC4.color2
 
-	- uni1EBC.color2
+	- uni1EDC.color3
 
-	- uni03020301.color2
+	- uni03060309.case.color4
 
-	- C.color2
+	- uni1EB4.color3
 
-	- uni01EA.color5
+	- uni0122.color5
 
-	- gdotaccent.color1
+	- uni020D.color1
 
-	- Ubreve.color1
+	- uni1EE3.color0
 
-	- uni1EB3.color8
+	- Abreve.color2
 
-	- uacute.color1
+	- Aringacute.color6
 
-	- wcircumflex.color4 
+	- uni1EAE.color2 
 
 	- And 3012 more.
 
