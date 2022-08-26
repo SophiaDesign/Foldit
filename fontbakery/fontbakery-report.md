@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni1EC4.color2
+	- uni1EB2.color4
 
-	- uni1EDC.color3
+	- uni0202.color2
 
-	- uni03060309.case.color4
+	- uni03060303.color3
 
-	- uni1EB4.color3
+	- B.color5
 
-	- uni0122.color5
+	- Egrave.color3
 
-	- uni020D.color1
+	- edieresis.color0
 
-	- uni1EE3.color0
+	- onequarter.color6
 
-	- Abreve.color2
+	- uni020F.color2
 
-	- Aringacute.color6
+	- nine.color4
 
-	- uni1EAE.color2 
+	- Amacron.color3 
 
 	- And 3012 more.
 
