@@ -4,7 +4,7 @@
 DisplayStrings = (
 B,
 "ǄǅKMNŊØǾRẞVWYZǆĸøǿsz0247⁄½¼¾¹²³⁴⟨⟩#///backslash ()«»‹›&§®№₡₲₺₦₹₩¥⁒∕%‰",
-"!¡?¿"
+"A;BC:d:c;!¡?¿"
 );
 axes = (
 {
@@ -41215,7 +41215,7 @@ unicode = 44;
 },
 {
 glyphname = colon;
-lastChange = "2022-08-12 14:35:41 +0000";
+lastChange = "2022-08-26 14:44:47 +0000";
 layers = (
 {
 attr = {
@@ -41224,11 +41224,11 @@ color = "1";
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
 shapes = (
 {
-pos = (20,160);
+pos = (20,0);
 ref = period;
 },
 {
-pos = (20,416);
+pos = (20,353);
 ref = period;
 }
 );
@@ -41255,7 +41255,7 @@ unicode = 58;
 },
 {
 glyphname = semicolon;
-lastChange = "2022-08-12 14:35:41 +0000";
+lastChange = "2022-08-26 14:44:43 +0000";
 layers = (
 {
 attr = {
@@ -41264,7 +41264,7 @@ color = "1";
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
 shapes = (
 {
-pos = (0,306);
+pos = (0,353);
 ref = period;
 },
 {
