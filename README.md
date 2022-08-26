@@ -1,5 +1,4 @@
-# Foldit Font Project (coming soon)
-
+# Foldit Font Project
 [![][Fontbakery]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
 [![][Universal]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
 [![][GF Profile]](https://sophiadesign.github.io/Foldit/fontbakery/fontbakery-report.html)
@@ -24,7 +23,7 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 
 ## Project Contributors
 
-- Viviana Monsalve (dev support) | [github](https://github.com/vv-monsalve)
+- Viviana Monsalve (PM & dev support) | [github](https://github.com/vv-monsalve)
 - Khaled Kosny (COLRv1 dev support) | [github](https://github.com/khaledhosny)
 - Cosimo Lupo ([FontTools](https://github.com/fonttools/fonttools)) | [github](https://github.com/anthrotype)
 - Simon Cozens (dev support) | [github](https://github.com/simoncozens)
@@ -35,15 +34,12 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://googlefonts.github.io/gf-guide/upstream) is based on semver. 
-Changelog example:
+When you update your font (new version or new release), please report all notable changes here, with a date. [Font Versioning](https://googlefonts.github.io/gf-guide/upstream) is based on semver. 
 
-**26 September 2022. Version 1.00**
+**26 August 2022. Version 1.000**
 
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
-- First release. Latin Plus character set. COLRv1 variable-gradient.
+- First release. Only the variable font is working correctly.
+
 
 ## Make a contribution
 
@@ -53,9 +49,10 @@ Guide for making your contribution to this project:
 
 1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in `Foldit-origin.glyphs` source file to keep an editable version.
 2. For COLRv1 feature make sure you only have [native Color layer type](https://glyphsapp.com/learn/creating-an-svg-color-font) selected and no others. 
-2. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
-3. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters and clear background on all masters (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
-4. Generate font files locally using [fontmake](https://github.com/googlefonts/fontmake)
+3. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
+4. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters and clear background on all masters (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
+5. Generate font files locally using [gftools](https://github.com/googlefonts/gftools) – install python and other dependencies from `requirements.txt`, create a virtual environment (venv) and enter command
+`gftools builder config.yaml`
 
 ## License
 
