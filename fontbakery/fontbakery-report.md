@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Wgrave.color4
+	- question.color3
 
-	- two.lf.color1
+	- Hcircumflex.color3
 
-	- icircumflex.color1
+	- Iogonek.color6
 
-	- uni1ECB.color1
+	- M.color0
 
-	- Aringacute.color2
+	- uni1EB7.color2
 
-	- uni03060309.color4
+	- obreve.color0
 
-	- e.color3
+	- wgrave.color3
 
-	- Jcircumflex.color0
+	- Edieresis.color3
 
-	- hbar.color1
+	- Eng.color0
 
-	- uni1EAE.color0 
+	- umacron.color2 
 
 	- And 3012 more.
 
