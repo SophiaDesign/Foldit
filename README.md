@@ -31,6 +31,7 @@ Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaD
 - Just van Rossum ([FontGoggles](https://fontgoggles.org/)) | [github](https://github.com/justvanrossum)
 - Laurence Penney ([Samsa](https://lorp.github.io/samsa)) | [github](https://github.com/Lorp)
 - Yanone (general support) | [github](https://github.com/yanone)
+- Marc Foley (dev) | [github](https://github.com/m4rc1e)
 
 ## Changelog
 
@@ -43,23 +44,36 @@ When you update your font (new version or new release), please report all notabl
 
 ## Make a contribution
 
-(Last updated: 08 August 2022)
+(Last updated: 26 August 2022)
 
 Guide for making your contribution to this project:
 
-1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in `Foldit-origin.glyphs` source file to keep an editable version.
+1. If you use Glyphs font editing software, **use Glyphs3 or above**. These are the only versions which support COLRv1 gradients. Add your contribution in **Foldit-origin.glyphs** source file to keep an editable version.
 2. For COLRv1 feature make sure you only have [native Color layer type](https://glyphsapp.com/learn/creating-an-svg-color-font) selected and no others. 
-3. Make a copy of the source file and name this `Foldit-decomposed.glyphs` 
-4. In `Foldit-decomposed.glyphs` file, decompose all elements on all masters and clear background on all masters (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
-5. Generate font files locally using [gftools](https://github.com/googlefonts/gftools) – install python and other dependencies from `requirements.txt`, create a virtual environment (venv) and enter command
+3. Make a copy of the origin source file and name this **Foldit.glyphs** – place file in **glyphs-decomposed** folder, replace any existing file.
+4. In **Foldit.glyphs** file, decompose all elements on all masters and clear background on all layers (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
+5. Generate font files locally using [gftools](https://github.com/googlefonts/gftools) – install python and other dependencies from **requirements.txt**, create a virtual environment (venv) and enter command
 `gftools builder config.yaml`
+
+## Building
+(This was copied from Unified Font Repository template.) 
+
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+
+If you want to build fonts manually on your own computer:
+
+- `make build` will produce font files.
+- `make test` will run FontBakery's quality assurance tests.
+- `make proof` will generate HTML proof files.
+The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
+
+
+## Repository Layout
+
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
 
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at
 [https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
-
-## Repository Layout
-
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
