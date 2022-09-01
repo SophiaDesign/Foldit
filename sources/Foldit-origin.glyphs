@@ -1,11 +1,11 @@
 {
-.appVersion = "3134";
+.appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
 B,
 "ǄǅKMNŊØǾRẞVWYZǆĸøǿsz0247⁄½¼¾¹²³⁴⟨⟩#///backslash ()«»‹›&§®№₡₲₺₦₹₩¥⁒∕%‰",
-"A.no:,;BC:d:c;!¡?¿
-
+"A.no.:,;BC:d:c;!¡?¿Question goes here?
+Make a list; with a comma, this, that, and last.
 Let's say:
 are you sure?"
 );
@@ -41091,7 +41091,7 @@ unicode = 46;
 },
 {
 glyphname = comma;
-lastChange = "2022-09-01 01:20:45 +0000";
+lastChange = "2022-09-01 22:53:16 +0000";
 layers = (
 {
 attr = {
@@ -41118,10 +41118,10 @@ start = (0.7701,0.1233);
 };
 closed = 1;
 nodes = (
-(64,7,l),
-(41,31,l),
-(33,31,l),
-(33,7,l)
+(68,33,l),
+(45,61,l),
+(33,61,l),
+(33,33,l)
 );
 },
 {
@@ -41143,15 +41143,15 @@ start = (0.2389,0.9481);
 };
 closed = 1;
 nodes = (
-(41,-84,l),
-(64,-61,l),
-(64,7,l),
-(40,7,l),
-(40,-84,l)
+(45,-74,l),
+(68,-51,l),
+(68,33,l),
+(44,33,l),
+(44,-74,l)
 );
 }
 );
-width = 97;
+width = 101;
 },
 {
 attr = {
@@ -41218,7 +41218,7 @@ unicode = 44;
 },
 {
 glyphname = colon;
-lastChange = "2022-09-01 01:22:17 +0000";
+lastChange = "2022-09-01 22:53:11 +0000";
 layers = (
 {
 attr = {
@@ -41227,15 +41227,14 @@ color = "1";
 layerId = "33AE93C6-B8B3-427A-A53B-F24970E840CE";
 shapes = (
 {
-pos = (20,0);
 ref = period;
 },
 {
-pos = (20,353);
+pos = (0,353);
 ref = period;
 }
 );
-width = 157;
+width = 97;
 },
 {
 attr = {
@@ -41258,7 +41257,7 @@ unicode = 58;
 },
 {
 glyphname = semicolon;
-lastChange = "2022-09-01 01:22:26 +0000";
+lastChange = "2022-09-01 22:53:21 +0000";
 layers = (
 {
 attr = {
@@ -41271,10 +41270,11 @@ pos = (0,353);
 ref = period;
 },
 {
+pos = (2,0);
 ref = comma;
 }
 );
-width = 97;
+width = 103;
 },
 {
 attr = {
@@ -41807,7 +41807,7 @@ unicode = 63;
 },
 {
 glyphname = questiondown;
-lastChange = "2022-08-24 18:21:21 +0000";
+lastChange = "2022-09-01 22:56:40 +0000";
 layers = (
 {
 attr = {
