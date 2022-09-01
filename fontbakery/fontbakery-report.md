@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Abreve.color5
+	- ccedilla.color3
 
-	- uni0207.color6
+	- Ycircumflex.color1
 
-	- Ldot.color0
+	- ecaron.color0
 
-	- onequarter.color5
+	- c.color2
 
-	- obreve.color0
+	- uni01CB.color5
 
-	- uni0206.color6
+	- uni1EC0.color0
 
-	- uni030A.case.color3
+	- Racute.color3
 
-	- uni1EAD.color4
+	- Hbar.color0
 
-	- l.color0
+	- f_f_l.color9
 
-	- uni01C4.color7 
+	- one.color3 
 
 	- And 3012 more.
 
