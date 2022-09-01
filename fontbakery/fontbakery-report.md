@@ -31,25 +31,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -154,25 +154,25 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -307,25 +307,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -424,25 +424,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -547,25 +547,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -668,25 +668,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -791,25 +791,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -928,25 +928,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
@@ -1045,25 +1045,25 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- one.color3
+	- Abreve.color5
 
-	- C.color1
+	- uni0207.color6
 
-	- zero.color0
+	- Ldot.color0
 
-	- Uacute.color0
+	- onequarter.color5
 
-	- Sacute.color4
+	- obreve.color0
 
-	- uni1EBB.color1
+	- uni0206.color6
 
-	- uni032E.color2
+	- uni030A.case.color3
 
-	- r.color1
+	- uni1EAD.color4
 
-	- Obreve.color1
+	- l.color0
 
-	- scaron.color4 
+	- uni01C4.color7 
 
 	- And 3012 more.
 
