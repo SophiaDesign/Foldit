@@ -52,7 +52,8 @@ Guide for making your contribution to this project:
 2. For COLRv1 feature make sure you only have [native Color layer type](https://glyphsapp.com/learn/creating-an-svg-color-font) selected and no others. 
 3. Make a copy of the origin source file and name this **Foldit.glyphs** – place file in **glyphs-decomposed** folder, replace any existing file.
 4. In **Foldit.glyphs** file, decompose all elements on all masters and clear background on all layers (for which you can use [Toshi Omagari's script](https://github.com/Tosche/Glyphs-Scripts)). 
-5. Generate font files locally using [gftools](https://github.com/googlefonts/gftools) – install python and other dependencies from **requirements.txt**, create a virtual environment (venv) and enter command
+5. Follow instructions for automatically building font files in the "Building"section below.
+6. You can also generate font files locally using [gftools](https://github.com/googlefonts/gftools) – install python and other dependencies from **requirements.txt**, create a virtual environment (venv) and enter command
 `gftools builder config.yaml`
 
 ## Building
