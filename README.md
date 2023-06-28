@@ -66,7 +66,7 @@ If you want to build fonts manually on your own computer:
 - `make build` will produce font files.
 - `make test` will run FontBakery's quality assurance tests.
 - `make proof` will generate HTML proof files.
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://m4rc1e.github.io/Foldit.
 
 
 ## Repository Layout
