@@ -19,7 +19,9 @@ Foldit is a variable-gradient COLRv1 font which uses gradients to play with dime
 
 Sophia Tai ([@SophiaTypeLove](http://instagram.com/sophiatypelove)) is an independent typeface designer. She is an alumna of the MA Typeface Design course at University of Reading and was featured on the Malee 2021 Women of Typographic Excellence list.
 
-Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaDesign) | [instagram](http://instagram.com/sophiatypelove) | [twitter](http://twitter.com/sophiatypelove) | [twitch](http://twitch.tv/sophiatypelove)
+Links: [website](http://www.sophiatai.com) | [github](https://github.com/SophiaDesign) | [instagram](http://instagram.com/sophiatypelove) | [mastodon](http://typo.social/@sophiatypelove) | [twitch](http://twitch.tv/sophiatypelove) | [twitter](http://twitter.com/sophiatypelove)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0ADJNT)
 
 ## Project Contributors
 
